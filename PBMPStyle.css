@@ -1,0 +1,151 @@
+body {
+	background-color: black;
+	
+}
+p { /* default writing font 
+	it is quite beautiful*/
+	font-family: Linux;
+	font-size: 1em;
+	font-weight: normal;
+	color: white;
+	line-height:142%;
+} @font-face {
+		font-family: Linux;
+		src: url(fonts/LinBiolinum_Rah.ttf);
+}
+p2 { /* page link titles */
+	font-family: ImpLink;
+	font-size: 1em;
+	font-weight: normal;
+	color: white;
+} @font-face {
+		font-family: ImpLink;
+		src: url(fonts/OpenSans-CondBold.ttf);
+}
+p3 { /* computer science and main title */
+	font-family: Mono;
+	font-size: 1em;
+	font-weight: normal;
+	color: white;
+} @font-face {
+		font-family: Mono;
+		src: url(fonts/Monospace.ttf);
+}
+p4 { /* verdana for alternative 
+    cz verdana is always good */
+	font-family: AltFont;
+	font-size: 15px;
+	font-weight: normal;
+	color: white;
+	line-height:166%;
+} @font-face {
+		font-family: AltFont;
+		src: url(fonts/verdana.ttf);
+}
+p5 { /* computer science alternative font */
+	font-family: Lucon;
+	font-size: 1em;
+	font-weight: normal;
+	color: white;
+} @font-face {
+		font-family: Lucon;
+		src: url(fonts/lucon.ttf);
+}
+
+
+.Header {
+	background-color: rgb(11,11,11);
+	height: 150px;
+	background-image: url(  );
+}
+.TitleTopHeader {
+	height: 120px;
+	width: 1250px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.MenuBottomHeader {
+	width: 1250px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.MidBody {
+	background-color: rgb(11,11,11);
+	background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-position: center; 
+	display: block;
+}
+.MainSurrounder {
+	background-color: rgba(0,0,0,0.7);
+	width: 1250px;
+	height: 1500px;
+	margin-left: auto;
+	margin-right: auto;
+	background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-position: center; 
+}
+.LeftFrame {
+	text-align: left;
+	width: 350px;
+	margin-left: 20px;
+	float: left;
+	display: block;
+}
+.MainZone {
+	/* border: 1px solid white; */
+	width: 840px;
+	margin-left: 20px;
+	float: left;
+	display: block;
+	background-color: rgba(0,0,0,0.95);;
+}
+.MainWritingZone {
+	margin-left: 20px;
+	margin-right: 20px;
+	border: 1 px solid white;
+	display: block;
+}
+
+a.MenuPage:link {
+	color: rgb(240,240,240); 
+	text-decoration: none;
+}
+a.MenuPage:hover {
+	color: rgb(240,240,240); 
+	text-decoration: underline;
+}
+a.MenuPage:active {
+	color: red; 
+	text-decoration: none;
+}
+a.MenuPage:visited {
+	color: rgb(240,240,240); 
+	text-decoration: none;
+}
+
+a.LeftFramePage:link {
+	color: gray; 
+	text-decoration: none;
+}
+a.LeftFramePage:hover {
+	color: gray; 
+	text-decoration: underline;
+}
+a.LeftFramePage:active {
+	color: red; 
+	text-decoration: none;
+}
+a.LeftFramePage:visited {
+	color: gray;
+	text-decoration: none;
+}
+
+code {
+	font-size: 1em;
+	line-height: 122%;
+}
+
+
