@@ -20,7 +20,7 @@ p2 { /* page link titles */
 	color: white;
 } @font-face {
 		font-family: ImpLink;
-		src: url(fonts/OpenSans-CondBold.ttf);
+		src: url(OpenSans-CondBold.ttf);
 }
 p3 { /* computer science and main title */
 	font-family: Mono;
