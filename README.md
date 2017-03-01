@@ -5,6 +5,6 @@
 		<title>Ana Sayfa</title>
 	</head>
 	<body>
-		
+		<p2><a href="page2" class="MenuPage">BİLGİSAYAR BİLİMLERİ</a></p2>
 	</body>
 </html>
