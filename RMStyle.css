@@ -6,7 +6,6 @@ h1 {
 }
 h2 {
   color: rgb(190,190,222);
-  float: right;
   text-align: right;
 }
 h3 {
@@ -17,7 +16,6 @@ p {
 }
 p2 { 
   color: rgb(166,166,166);
-  float: right;
   text-align: right;
 }
 p3 { /* hello world */
