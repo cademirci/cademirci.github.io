@@ -5,10 +5,10 @@
 		<title>Ana Sayfa</title>
 	</head>
 </html>
-
-
-
-
+  
+  
+  
+  
 ## ÇAĞLAYAN DEMİRCİ
 *A Personal Blog For Life, Universe And Everything*
 
