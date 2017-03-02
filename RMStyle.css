@@ -5,7 +5,9 @@ h1 {
   color: rgb(111,111,111);
 }
 h2 {
-  color: rgb(222,222,222);
+  color: rgb(190,190,222);
+  float: right;
+  text-align: right;
 }
 h3 {
   color: white;
@@ -15,6 +17,8 @@ p {
 }
 p2 { 
   color: rgb(166,166,166);
+  float: right;
+  text-align: right;
 }
 p3 { /* hello world */
 	font-family: Lucon;
