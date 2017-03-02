@@ -11,7 +11,10 @@
 ## ÇAĞLAYAN DEMİRCİ
 <p2>"Hayat, Evren ve Her Şey"e dair nihai kişisel blog.</p2>
 ---
-[BİLGİSAYAR BİLİMLERİ](https://caglayandemirci.github.io/page2)	&nbsp;&emsp; [BLOG](https://caglayandemirci.github.io/page2)
+[BİLGİSAYAR BİLİMLERİ](https://caglayandemirci.github.io/page2)	&nbsp;&emsp;
+[BLOG](https://caglayandemirci.github.io/page2)	&nbsp;&emsp;
+[HAKKIMDA VE İLETİŞİM](https://caglayandemirci.github.io/page2)	&nbsp;&emsp;
+[ARŞİV](https://caglayandemirci.github.io/page2)	&nbsp;&emsp;
 <br><br><br>
 ### GITHUB'DA WEB SAYFASI YAYIMLAMAK
 <br>
