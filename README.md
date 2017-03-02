@@ -13,7 +13,7 @@
 <p2>"Hayat, Evren ve Her Şey"e dair nihai kişisel blog.</p2>
 ---
 <br><br><br>
-### BİLGİSAYAR BİLİMLERİ
+### GITHUB'DA WEB SAYFASI YAYIMLAMAK
 <br>
 Şu blog meselesinin alabildiğine suyu çıkmıştı. Bilgilerimi ve düşüncelerimi bir web sitesi ortamında depolayarak
 kişisel elektronik hafıza haline getirme düşüncem yaklaşık on seneden beri vardı. Ancak bunu ne şekilde yapacağıma
@@ -50,10 +50,15 @@ yapıyordum:
 Markdown'da ise aynı işi yapan syntax şu:
 
 	```javascript
-	```javascript
+	```
 	
-	```
-	```
+Evet, komiklik derecesinde rahat.
+
+Github'ın tabiki en çok takdir ettiğim yanı, benim gereksiz sayfa görünümü takıntılarımı rahatlatmış olması ya da bana PHP'siz server sağlamış olması değil. Open Source denen ve bilimimizin (CS) en önemli ve saygıdeğer meselerinden birinin en büyük mercii olarak, çok güzel işler yapıyor olması. Free Software kavramı bu işle uğraşan herkesçe anlaşılmalı.
+
+---
+
+Bu blogda, kimi ben ve gezegendeki birkaç diğer kişi dışında kimseyi ilgilendirmeyen yazılar da, bilgisayar bilimleri alanında ufak açıklamalar eşliğinde sunulmuş kodlar ve programlar da bulabilirsiniz. İkincisine ağırlık vereceğim gibi görünüyor. 
 
 
 
