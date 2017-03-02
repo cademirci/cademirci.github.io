@@ -1,4 +1,4 @@
-body {
+ body {
   background-color: rgb(20,20,20);
 }
 h1 {
@@ -11,7 +11,7 @@ h3 {
   color: white;
 }
 p {
-  color: rgb(200,200,200);
+  color: rgb(222,222,222);
 }
 p2 { 
   color: rgb(166,166,166);
@@ -23,7 +23,7 @@ p3 { /* hello world */
 		font-family: Lucon;
 		src: url(fonts/lucon.ttf);
 }
-hr1 {
+hr1 { /* a red cursor  o.O */
    color: red;
    border: 1px solid red;
    background-color: red;
