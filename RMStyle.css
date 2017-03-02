@@ -23,6 +23,8 @@ p3 { /* hello world */
 		font-family: Lucon;
 		src: url(fonts/lucon.ttf);
 }
-hr {
+hr1 {
    color: red;
+   border: 1px solid red;
+   background-color: red;
 }
