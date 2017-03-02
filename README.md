@@ -16,13 +16,9 @@
 ---
 <br><br><br>
 ### BİLGİSAYAR BİLİMLERİ
-
-
-
-ASD
-SAD
-
-SS
+<br>
+şimdi line break test ediyorum. bakalım buradan  
+entera bastığımda alt satıra geçecek mi.
 
 
 
