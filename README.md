@@ -5,15 +5,15 @@
 		<title>Ana Sayfa</title>
 	</head>
 	<br><br><br><br><br>
-
+</html>
   
   
   
   
 ## ÇAĞLAYAN DEMİRCİ
-<p style=color:"rgb(66,66,66);">A Personal Blog For Life, Universe And Everything</p>
+A Personal Blog For Life, Universe And Everything	
 
 
 	
 This is my personal web page.
-</html>
+
