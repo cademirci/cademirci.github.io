@@ -1,7 +1,13 @@
 body {
   background-color: rgb(20,20,20);
 }
-h {
+h1 {
+  color: rgb(111,111,111);
+}
+h2 {
+  color: rgb(111,111,111);
+}
+h3 {
   color: rgb(111,111,111);
 }
 p {
