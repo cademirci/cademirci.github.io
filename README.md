@@ -11,7 +11,7 @@
   
   
 ## ÇAĞLAYAN DEMİRCİ
-*A Personal Blog For Life, Universe And Everything*
+<p style=color:"rgb(66,66,66);">A Personal Blog For Life, Universe And Everything</p>
 
 
 	
