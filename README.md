@@ -13,7 +13,7 @@
   
 ## ÇAĞLAYAN DEMİRCİ
 <p2>A Personal Blog For Life, Universe And Everything</p2>
----
+<hr1>
 <br><br>	
 This is my personal web page.
 
