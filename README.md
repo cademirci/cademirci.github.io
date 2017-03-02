@@ -1,4 +1,4 @@
-asd<br><p3>hello world.</p3>
+<br><p3>hello world.</p3>
 <html>
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
@@ -14,6 +14,7 @@ asd<br><p3>hello world.</p3>
 ## ÇAĞLAYAN DEMİRCİ
 <p2>A Personal Blog For Life, Universe And Everything</p2>	
 <hr1></hr1>
+---
 <br><br>	
 This is my personal web page.
 
