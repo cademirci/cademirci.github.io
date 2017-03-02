@@ -1,6 +1,9 @@
 body {
   background-color: rgb(20,20,20);
 }
+h {
+  color: rgb(111,111,111);
+}
 p {
   color: rgb(200,200,200);
 }
