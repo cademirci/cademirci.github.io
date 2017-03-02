@@ -17,3 +17,8 @@
 <br><br>	
 This is my personal web page.
 
+```javascript
+var s = "JavaScript syntax highlighting";
+alert(s);
+```
+
