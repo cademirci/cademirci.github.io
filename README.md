@@ -1,4 +1,4 @@
-r><br><p3>hello world.</p3>
+<br><p3>hello world.</p3>
 <html>
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
@@ -16,6 +16,8 @@ r><br><p3>hello world.</p3>
 ---
 <br><br><br>
 ### BİLGİSAYAR BİLİMLERİ
+
+
 
 ASD
 SAD
