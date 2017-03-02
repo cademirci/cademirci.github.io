@@ -1,4 +1,4 @@
- body {
+body {
   background-color: rgb(20,20,20);
 }
 h1 {
@@ -13,6 +13,7 @@ h3 {
 }
 p {
   color: rgb(222,222,222);
+  font-size: 1em;
 }
 p2 { 
   color: rgb(166,166,166);
