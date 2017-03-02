@@ -40,19 +40,19 @@ tatlı ve iyi bildiğim bir dildi ve o, Markdown sayfalarını da şekillendireb
 Markdown'ın bir diğer inanılmaz özelliği de (aslında Github'da olduğundan ve StackOverFlow gibi siteler de onu kullandığından
 düşününce elzem bir özelliği) kodlama örneklerinin gösteriminde aşırı kolaylık sağlaması. Bir örnek vermek gerekirse, eski 
 HTML sayfalarımda, bir yazının kod olduğunu ifade edebilmek ve onu syntax renklendirmesiyle sunabilmek için tam olarak şunu
-yapıyordum:
+yapıyordum:<br>
 
-	<code style="font-size:14px;"><link rel="stylesheet" href="highlight/styles/atelier-sulphurpool-dark.css">
-	<script src="highlight/highlight.pack.js"></script><script>hljs.initHighlightingOnLoad();</script>
-	<code><pre>
-	</pre></code>
+		<code style="font-size:14px;"><link rel="stylesheet" href="highlight/styles/atelier-sulphurpool-dark.css">
+		<script src="highlight/highlight.pack.js"></script><script>hljs.initHighlightingOnLoad();</script>
+		<code><pre>
+		</pre></code>
 	
-Markdown'da ise aynı işi yapan syntax şu:
+<br>Markdown'da ise aynı işi yapan syntax şu:<br>
 
-	```javascript
-	```
+		```javascript
+		```
 	
-Evet, komiklik derecesinde rahat.
+<br>Evet, komiklik derecesinde rahat.
 
 Github'ın tabiki en çok takdir ettiğim yanı, benim gereksiz sayfa görünümü takıntılarımı rahatlatmış olması ya da bana PHP'siz server sağlamış olması değil. Open Source denen ve bilimimizin (CS) en önemli ve saygıdeğer meselerinden birinin en büyük mercii olarak, çok güzel işler yapıyor olması. Free Software kavramı bu işle uğraşan herkesçe anlaşılmalı.
 
