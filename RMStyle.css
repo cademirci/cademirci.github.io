@@ -21,6 +21,7 @@ p2 {
 }
 p3 { /* hello world */
 	font-family: Lucon;
+	font-size: 14px;
 	color: lime;
 } @font-face {
 		font-family: Lucon;
