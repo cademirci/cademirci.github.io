@@ -43,26 +43,9 @@ Markdown'ın sağladığı syntaxlar, her birini öğrendikçe bana bir sevgi ve
 sayısız taglerle uğraşmadan, yazı editörüne yazı yazar gibi web sayfası oluşturabiliyordun. Diğer yandan CSS zaten basit, 
 tatlı ve iyi bildiğim bir dildi ve o, Markdown sayfalarını da şekillendirebiliyor.
 
-Markdown'ın bir diğer inanılmaz özelliği de (aslında Github'da olduğundan ve StackOverFlow gibi siteler de onu kullandığından
-düşününce elzem bir özelliği) kodlama örneklerinin gösteriminde aşırı kolaylık sağlaması. Bir örnek vermek gerekirse, eski 
-HTML sayfalarımda, bir yazının kod olduğunu ifade edebilmek ve onu syntax renklendirmesiyle sunabilmek için tam olarak şunu
-yapıyordum:<br><br>
-
-		<code style="font-size:14px;"><link rel="stylesheet" href="highlight/styles/atelier-sulphurpool-dark.css">
-		<script src="highlight/highlight.pack.js"></script><script>hljs.initHighlightingOnLoad();</script><pre>
-		
-		</pre></code>
-	
-<br>Markdown'da ise aynı işi yapan syntax şu (javascript'i örnek olarak yazdım, syntax'ını renklendirmek istediğiniz dili yazıyorsunuz oraya):<br>
-
-		```javascript
-		```
-	
-<br>Evet, komiklik derecesinde rahat.
+<br>---<br>
 
 Github'ın tabiki en çok takdir ettiğim yanı, benim gereksiz sayfa görünümü takıntılarımı rahatlatmış olması ya da bana PHP'siz server sağlamış olması değil. Open Source denen ve bilimimizin (CS) en önemli ve saygıdeğer meselerinden birinin en büyük mercii olarak, çok güzel işler yapıyor olması. Free Software kavramı bu işle uğraşan herkesçe anlaşılmalı.
-
----
 
 Bu blogda, ben ve gezegendeki birkaç diğer kişi dışında kimseyi ilgilendirmeyen yazılar da, bilgisayar bilimleri alanında ufak açıklamalar eşliğinde sunulmuş kodlar ve programlar da bulabileceksiniz. İkincisine ağırlık vereceğim gibi görünüyor. 
 <br><br>
