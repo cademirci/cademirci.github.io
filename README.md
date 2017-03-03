@@ -66,9 +66,6 @@ Github'ın tabiki en çok takdir ettiğim yanı, benim gereksiz sayfa görünüm
 
 Bu blogda, ben ve gezegendeki birkaç diğer kişi dışında kimseyi ilgilendirmeyen yazılar da, bilgisayar bilimleri alanında ufak açıklamalar eşliğinde sunulmuş kodlar ve programlar da bulabileceksiniz. İkincisine ağırlık vereceğim gibi görünüyor. 
 <br><br><br>
-<div class="footer">
-	2017 Çağlayan Demirci. Telif hakları yoktur, fütursuzca kullanılabilir.<br><br>
-	Proudly hosted by GitHub
-</div>
-
+<br><br>
+<br>
 
