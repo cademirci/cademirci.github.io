@@ -36,7 +36,7 @@ hr1 { /* a red cursor  o.O */
 	height: 77px;
 	background-color: black;
 	font-family: verdana;
-	font-size: 15px;
-	color: gray;
+	font-size: 12px;
+	color: rgb(100,100,100);
 	padding: 10px 10px;
 }
