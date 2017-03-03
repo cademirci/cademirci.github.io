@@ -2,7 +2,7 @@
 <html>
 	<head>
 		<link rel="stylesheet" type="text/css" href="RMStyle.css">
-		<link rel="icon" href="">
+		<link rel="icon" href="icon.png">
 		<title>Ana Sayfa</title>
 	</head>
 	<br><br><br>
