@@ -65,7 +65,5 @@ Github'ın tabiki en çok takdir ettiğim yanı, benim gereksiz sayfa görünüm
 ---
 
 Bu blogda, ben ve gezegendeki birkaç diğer kişi dışında kimseyi ilgilendirmeyen yazılar da, bilgisayar bilimleri alanında ufak açıklamalar eşliğinde sunulmuş kodlar ve programlar da bulabileceksiniz. İkincisine ağırlık vereceğim gibi görünüyor. 
-<br><br><br>
 <br><br>
 <br>
-
