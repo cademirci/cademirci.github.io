@@ -18,3 +18,7 @@
 [HAKKIMDA VE İLETİŞİM](https://caglayandemirci.github.io/page2) &nbsp;&emsp;
 [ARŞİV](https://caglayandemirci.github.io/page2)&nbsp;&emsp;
 <br><br><br>
+
+Yazılarımın altına yorum kutusu koymadım. Belki ileriki tarihlerde düşünülebilir. Herhangi bir yazı için herhangi bir yorum, kodlar ya da başka bir şey hakkında soru, ne kadar mükemmel olduğuma dair övgüler, her türlü eleştiri için benimle mail yoluyla iletişime geçebilirsiniz:
+
+**demircicaglayan13 [at] gmail [dot] com**
