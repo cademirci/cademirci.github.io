@@ -5,7 +5,7 @@
 		<link rel="icon" href="icon.png">
 		<title>Ana Sayfa</title>
 	</head>
-	<code style="font-size:14px;"><link rel="stylesheet" href="atom-one-dark.css">
+	<code style="font-size:14px;"><link rel="stylesheet" href="sunburst.css">
 	<script src="highlight.pack.js"></script><script>hljs.initHighlightingOnLoad();</script></code>
 	<br><br><br>
 </html>
