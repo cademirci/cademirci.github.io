@@ -32,3 +32,11 @@ hr1 { /* a red cursor  o.O */
    border: 1px solid red;
    background-color: red;
 }
+.footer {
+	height: 77px;
+	background-color: black;
+	font-family: verdana;
+	font-size: 15px;
+	color: gray;
+	padding: 10px 10px;
+}
