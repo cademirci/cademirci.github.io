@@ -49,11 +49,11 @@ HTML sayfalarımda, bir yazının kod olduğunu ifade edebilmek ve onu syntax re
 yapıyordum:<br><br>
 
 		<code style="font-size:14px;"><link rel="stylesheet" href="highlight/styles/atelier-sulphurpool-dark.css">
-		<script src="highlight/highlight.pack.js"></script><script>hljs.initHighlightingOnLoad();</script>
-		<code><pre>
+		<script src="highlight/highlight.pack.js"></script><script>hljs.initHighlightingOnLoad();</script><pre>
+		
 		</pre></code>
 	
-<br>Markdown'da ise aynı işi yapan syntax şu:<br>
+<br>Markdown'da ise aynı işi yapan syntax şu (javascript'i örnek olarak yazdım, syntax'ını renklendirmek istediğiniz dili yazıyorsunuz oraya):<br>
 
 		```javascript
 		```
