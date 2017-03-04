@@ -24,6 +24,8 @@ I have change it. caglayandemirci.github.io
   font-style: normal;
   font-family: verdana;
   font-size: 12px;
+  line-height: 150%;
+  letter-spacing: 2px;
 }
 
 .hljs-keyword,
