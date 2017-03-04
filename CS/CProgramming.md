@@ -123,7 +123,7 @@ Böylece kodumuz şu şekilde çalışıyor: <br>
 		[A] [B] [C] [ ] 
 		I D //insert D into the queue 
 		I E //insert D into the queue
-		Error: No place left in the queue! 
+		Error: No place left in the queue. 
 		P  
 		[A] [B] [C] [D] 
 		R 
@@ -139,7 +139,7 @@ Böylece kodumuz şu şekilde çalışıyor: <br>
 		P 
 		[] [] [] [] 
 		R 
-		Error: No element to remove!
+		Error: No element to remove.
 	*/
 
 <br><br><br>
