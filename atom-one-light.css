@@ -28,7 +28,7 @@ hue-6-2: #c18401
 
 .hljs-comment,
 .hljs-quote {
-  color: Aquamarine;
+  color: rgb(200,0,0);
   font-style: italic;
 }
 
