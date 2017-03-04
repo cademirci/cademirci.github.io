@@ -11,7 +11,7 @@
 </html>
   
 
-### BİLGİSAYAR BİLİMLERİ
+## BİLGİSAYAR BİLİMLERİ
 [<<- ANA SAYFA](https://caglayandemirci.github.io) &nbsp;&emsp;
 [<- Bilgisayar Bilimleri Ana Sayfası](https://caglayandemirci.github.io/CS/MainPage)	&nbsp;&emsp;
 ---
