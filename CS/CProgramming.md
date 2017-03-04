@@ -1,21 +1,17 @@
-<br><p3>hello world.</p3>
 <html>
 	<head>
-		<title>Ana Sayfa</title>
-		<link rel="stylesheet" type="text/css" href="../RMStyle.css">
+		<link rel="stylesheet" type="text/css" href="CSStyle.css">
 		<link rel="icon" href="../coloricon.png">
 		<link rel="stylesheet" href="../sunburst.css">
 		<script src="../highlight.pack.js"></script><script>hljs.initHighlightingOnLoad();</script>
 	</head>
-	<br><br><br>
+	<br><br>
 </html>
   
-
-## BİLGİSAYAR BİLİMLERİ
+<img class="sci" src="SCİ.png">
+## BİLGİSAYAR BİLİMLERİ<br><br><br><br><br><br><br>
 [<- ANA SAYFA](https://caglayandemirci.github.io) &nbsp;&emsp;
 [<<- Bilgisayar Bilimleri Ana Sayfası](https://caglayandemirci.github.io/CS/MainPage)	&nbsp;&emsp;
----
-
 
 <br><br><br>
 ### Temel C İle Queue Programlama <br><br>
