@@ -23,12 +23,12 @@ hue-6-2: #c18401
   overflow-x: auto;
   padding: 0.5em;
   color: #383a42;
-  background: rgb(222,222,222);
+  background: rgb(200,200,200);
 }
 
 .hljs-comment,
 .hljs-quote {
-  color: #a0a1a7;
+  color: green;
   font-style: italic;
 }
 
