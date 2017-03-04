@@ -17,8 +17,8 @@ Sunburst-like style (c) Vasily Polovnyov <vast@whiteants.net>
 
 .hljs-comment,
 .hljs-quote {
-  color: #aeaeae;
-  font-style: italic;
+  color: red;
+  font-style: normal;
 }
 
 .hljs-keyword,
@@ -101,5 +101,5 @@ Sunburst-like style (c) Vasily Polovnyov <vast@whiteants.net>
 }
 
 .hljs-strong {
-  font-weight: bold;
+  font-weight: normal;
 }
