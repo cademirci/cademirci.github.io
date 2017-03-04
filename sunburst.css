@@ -17,8 +17,9 @@ Sunburst-like style (c) Vasily Polovnyov <vast@whiteants.net>
 
 .hljs-comment,
 .hljs-quote {
-  color: red;
+  color: white;
   font-style: normal;
+  font-family: verdana;
 }
 
 .hljs-keyword,
