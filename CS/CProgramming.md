@@ -8,10 +8,12 @@
 		
 	</head>
 	<body>
-		<script src="../scripts/shCore.js"></script>
-		<script>window.onload = function () {    
-		dp.SyntaxHighlighter.ClipboardSwf = '/scripts/clipboard.swf';    
-		dp.SyntaxHighlighter.HighlightAll('code');}</script>
+		<link type="text/css" rel="stylesheet" href="styles/SyntaxHighlighter.css">
+<script language="javascript" src="scripts/shCore.js"></script>
+<script language="javascript" src="scripts/shBrushVb.js"></script>
+<script language="javascript">window.onload = function () 
+{    dp.SyntaxHighlighter.ClipboardSwf = '/scripts/clipboard.swf';    
+dp.SyntaxHighlighter.HighlightAll('code');}</script>
 	</body>
 	<br><br><br>
 </html>
