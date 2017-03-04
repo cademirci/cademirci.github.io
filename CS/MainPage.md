@@ -2,7 +2,7 @@
 <html>
 	<head>
 		<title>Ana Sayfa</title>
-		<link rel="stylesheet" type="text/css" href="../RMStyle.css">
+		<link rel="stylesheet" type="text/css" href="CSStyle.css">
 		<link rel="icon" href="../coloricon.png">
 		<link rel="stylesheet" href="../sunburst.css">
 		<script src="../highlight.pack.js"></script><script>hljs.initHighlightingOnLoad();</script>
@@ -10,7 +10,7 @@
 	<br><br><br>
 </html>
   
-
+![focus on science][SCİ.png]
 ## BİLGİSAYAR BİLİMLERİ
 [<- ANA SAYFA](https://caglayandemirci.github.io) &nbsp;&emsp;
 [<<- Bilgisayar Bilimleri Ana Sayfası](https://caglayandemirci.github.io/CS/MainPage)	&nbsp;&emsp;
