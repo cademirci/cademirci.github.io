@@ -4,7 +4,7 @@ asd<br><p3>hello world.</p3>
 		<title>Ana Sayfa</title>
 		<link rel="stylesheet" type="text/css" href="../RMStyle.css">
 		<link rel="icon" href="../coloricon.png">
-		<link rel="stylesheet" href="../sunburst.css">
+		<link rel="stylesheet" href="../qtcreator_dark.css">
 		<script src="../highlight.pack.js"></script><script>hljs.initHighlightingOnLoad();</script>
 	</head>
 	<br><br><br>
