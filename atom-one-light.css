@@ -23,7 +23,7 @@ hue-6-2: #c18401
   overflow-x: auto;
   padding: 0.5em;
   color: #383a42;
-  background: #92afb5;
+  background: rgb(222,222,222);
 }
 
 .hljs-comment,
