@@ -8,6 +8,9 @@
   color: #898ea4;
 }
 
+code {
+  color: white;
+}
 /* Atelier-Sulphurpool Red */
 .hljs-variable,
 .hljs-template-variable,
