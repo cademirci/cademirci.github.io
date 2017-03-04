@@ -1,4 +1,4 @@
-asd<br><p3>hello world.</p3>
+<br><p3>hello world.</p3>
 <html>
 	<head>
 		<title>Ana Sayfa</title>
@@ -29,6 +29,10 @@ dp.SyntaxHighlighter.HighlightAll('code');}</script>
 [ARŞİV](https://caglayandemirci.github.io/page2)	&nbsp;&emsp;
 <br><br><br>
 ### Temel C İle Queue Programlama
+<pre name="code" class="vb.net">
+Dim x as string
+</pre>
+
 ```c
 #include <stdio.h>
 
