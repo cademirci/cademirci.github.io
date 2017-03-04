@@ -7,6 +7,7 @@ base:    #fafafa
 mono-1:  #383a42
 mono-2:  #686b77
 mono-3:  #a0a1a7
+
 hue-1:   #0184bb
 hue-2:   #4078f2
 hue-3:   #a626a4
@@ -29,6 +30,7 @@ hue-6-2: #c18401
 .hljs-comment,
 .hljs-quote {
   color: rgb(200,0,0);
+  font-style: normal;
 }
 
 .hljs-doctag,
