@@ -8,7 +8,7 @@
 		<script src="../highlight.pack.js"></script><script>hljs.initHighlightingOnLoad();</script>
 	</head>
 	<br><br><br>
-</html>
+`</html>
   
 
 ## ÇAĞLAYAN DEMİRCİ
@@ -22,8 +22,14 @@
 <br><br><br>
 ### Temel C İle Queue Programlama
 
+
 Pointer, struct ya da diğer c-spesifik yöntemler kullanmaksızın, basitçe bir queue veri yapısı oluşturalım. Yalnız burada queue arkaplanda çalışan bir yapı olup, arayüzdeki listemiz, listeden çıkanların oluşturduğu boşlukların, girenler tarafından doldurulduğu bir liste olacak. 
 
+
+
+```c	
+
+/*
 	Initial capacity? : 4 
 	I A //insert A into the queue 
 	I B //insert B into the queue 
@@ -49,8 +55,8 @@ Pointer, struct ya da diğer c-spesifik yöntemler kullanmaksızın, basitçe bi
 	[] [] [] [] 
 	R 
 	Error: No element to remove!
+*/
 
-```c
 #include <stdio.h>
 
 int main(void) {
