@@ -13,7 +13,7 @@ h1 {
 h2 {
 
   color: rgb(190,190,222);
-
+  float: right;
   text-align: right;
 
 }
