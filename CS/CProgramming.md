@@ -8,17 +8,15 @@
 		<script src="../highlight.pack.js"></script><script>hljs.initHighlightingOnLoad();</script>
 	</head>
 	<br><br><br>
-`</html>
+</html>
   
 
-## ÇAĞLAYAN DEMİRCİ
-<p2>"Hayat, Evren ve Her Şey"e dair nihai kişisel blog.</p2>
+### BİLGİSAYAR BİLİMLERİ
+[<<- ANA SAYFA](https://caglayandemirci.github.io) &nbsp;&emsp;
+[<- Bilgisayar Bilimleri Ana Sayfası](https://caglayandemirci.github.io/CS/MainPage)	&nbsp;&emsp;
 ---
-[ANA SAYFA](https://caglayandemirci.github.io) &nbsp;&emsp;
-[BİLGİSAYAR BİLİMLERİ](https://caglayandemirci.github.io/page2)	&nbsp;&emsp;
-[BLOG](https://caglayandemirci.github.io/page2)	&nbsp;&emsp;
-[HAKKIMDA VE İLETİŞİM](https://caglayandemirci.github.io/iletisim)	&nbsp;&emsp;
-[ARŞİV](https://caglayandemirci.github.io/page2)	&nbsp;&emsp;
+
+
 <br><br><br>
 ### Temel C İle Queue Programlama <br><br>
 
