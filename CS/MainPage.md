@@ -1,7 +1,6 @@
-a<br>a
+<br>
 <html>
 	<head>
-		<title>Ana Sayfa</title>
 		<link rel="stylesheet" type="text/css" href="CSStyle.css">
 		<link rel="icon" href="../coloricon.png">
 		<link rel="stylesheet" href="../sunburst.css">
