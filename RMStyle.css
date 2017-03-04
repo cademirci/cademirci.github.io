@@ -40,3 +40,6 @@ hr1 { /* a red cursor  o.O */
 	color: rgb(100,100,100);
 	padding: 10px 10px;
 }
+code {
+	color: gray;
+}
