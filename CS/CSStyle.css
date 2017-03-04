@@ -83,9 +83,9 @@ hr1 { /* a red cursor  o.O */
 }
 
 code {
-
 	font-size: 14px;
-
 	font-family: Courier New;
-
 } 
+.sci {
+	float: left;
+}
