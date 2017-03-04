@@ -22,6 +22,33 @@
 <br><br><br>
 ### Temel C İle Queue Programlama
 
+Pointer, struct ya da diğer c-spesifik yöntemler kullanmaksızın, basitçe bir queue veri yapısı oluşturalım. Yalnız burada queue arkaplanda çalışan bir yapı olup, arayüzdeki listemiz, listeden çıkanların oluşturduğu boşlukların, girenler tarafından doldurulduğu bir liste olacak. 
+
+	Initial capacity? : 4 
+	I A //insert A into the queue 
+	I B //insert B into the queue 
+	I C //insert C into the queue 
+	P //print the list 
+	[A] [B] [C] [ ] 
+	I D //insert D into the queue 
+	I E //insert D into the queue
+	Error: No place left in the queue! 
+	P  
+	[A] [B] [C] [D] 
+	R 
+	P [] [B] [C] [D] 
+	I X 
+	P [X] [B] [C] [D] 
+	R 
+	R 
+	P 
+	[X] [] [] [D] 
+	R 
+	R 
+	P 
+	[] [] [] [] 
+	R 
+	Error: No element to remove!
 
 ```c
 #include <stdio.h>
