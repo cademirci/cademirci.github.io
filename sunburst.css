@@ -1,8 +1,11 @@
-/*
+ /*
 
 Sunburst-like style (c) Vasily Polovnyov <vast@whiteants.net>
 
 */
+.highlight .o { /* for operators */
+  color: GhostWhite;
+}
 
 .hljs {
   display: block;
