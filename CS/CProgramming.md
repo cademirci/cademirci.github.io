@@ -20,10 +20,10 @@
 [HAKKIMDA VE İLETİŞİM](https://caglayandemirci.github.io/iletisim)	&nbsp;&emsp;
 [ARŞİV](https://caglayandemirci.github.io/page2)	&nbsp;&emsp;
 <br><br><br>
-### Temel C İle Queue Programlama <br>
+### Temel C İle Queue Programlama <br><br>
 
 
-Pointer, struct ya da diğer c-spesifik yöntemler kullanmaksızın, basitçe bir queue veri yapısı oluşturalım. Yalnız burada queue arkaplanda çalışan bir yapı olup, arayüzdeki listemiz, listeden çıkanların oluşturduğu boşlukların, girenler tarafından doldurulduğu bir liste olacak. <br>
+Pointer, struct ya da diğer c-spesifik yöntemler kullanmaksızın, basitçe bir queue veri yapısı oluşturalım. Yalnız burada queue arkaplanda çalışan bir yapı olup, arayüzdeki listemiz, listeden çıkanların oluşturduğu boşlukların, girenler tarafından doldurulduğu bir liste olacak. <br><br>
 
 
 
@@ -142,3 +142,5 @@ Böylece kodumuz şu şekilde çalışıyor: <br>
 		Error: No element to remove!
 	*/
 
+<br><br><br>
+<br><br>
