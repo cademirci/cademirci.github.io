@@ -55,7 +55,7 @@ Dark style from softwaremaniacs.org (c) Ivan Sagalaev <Maniac@SoftwareManiacs.Or
 .hljs-type,
 .hljs-name,
 .hljs-strong {
-  font-weight: bold;
+  font-weight: normal;
 }
 
 .hljs-emphasis {
