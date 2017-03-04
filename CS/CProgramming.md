@@ -5,11 +5,14 @@ asd<br><p3>hello world.</p3>
 		<link rel="stylesheet" type="text/css" href="../RMStyle.css">
 		<link rel="icon" href="../coloricon.png">
 		<link type="text/css" rel="stylesheet" href="../styles/shThemeEmacs.css">
+		
+	</head>
+	<body>
 		<script src="../scripts/shCore.js"></script>
 		<script>window.onload = function () {    
 		dp.SyntaxHighlighter.ClipboardSwf = '/scripts/clipboard.swf';    
 		dp.SyntaxHighlighter.HighlightAll('code');}</script>
-	</head>
+	</body>
 	<br><br><br>
 </html>
   
