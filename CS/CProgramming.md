@@ -4,7 +4,7 @@
 		<title>Ana Sayfa</title>
 		<link rel="stylesheet" type="text/css" href="../RMStyle.css">
 		<link rel="icon" href="../coloricon.png">
-		<link rel="stylesheet" href="../dracula.css">
+		<link rel="stylesheet" href="../dracul.css">
 		<script src="../highlight.pack.js"></script><script>hljs.initHighlightingOnLoad();</script>
 	</head>
 	<br><br><br>
