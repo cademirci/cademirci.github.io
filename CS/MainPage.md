@@ -1,4 +1,4 @@
-<html>
+<<html>
 	<head>
 		<link rel="stylesheet" type="text/css" href="CSStyle.css">
 		<link rel="icon" href="../coloricon.png">
@@ -9,7 +9,7 @@
 </html>
   
 <img class="sci" src="SCİ.png">
-## BİLGİSAYAR BİLİMLERİ
+## BİLGİSAYAR BİLİMLERİ<br><br><br><br><br><br><br>
 [<- ANA SAYFA](https://caglayandemirci.github.io) &nbsp;&emsp;
 [<<- Bilgisayar Bilimleri Ana Sayfası](https://caglayandemirci.github.io/CS/MainPage)	&nbsp;&emsp;
 ---
