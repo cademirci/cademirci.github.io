@@ -4,9 +4,8 @@
 		<title>Ana Sayfa</title>
 		<link rel="stylesheet" type="text/css" href="../RMStyle.css">
 		<link rel="icon" href="../coloricon.png">
-		<link type="text/css" rel="stylesheet" href="styles/shThemeEmacs.css">
-		<script src="scripts/shCore.js"></script>
-		<script src="scripts/shBrushVb.js"></script>
+		<link type="text/css" rel="stylesheet" href="../styles/shThemeEmacs.css">
+		<script src="../scripts/shCore.js"></script>
 		<script>window.onload = function () {    
 		dp.SyntaxHighlighter.ClipboardSwf = '/scripts/clipboard.swf';    
 		dp.SyntaxHighlighter.HighlightAll('code');}</script>
