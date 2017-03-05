@@ -11,7 +11,7 @@
 <img class="sci" src="SCİ.png">
 ## BİLGİSAYAR BİLİMLERİ<br><br><br><br><br><br><br>
 [<- Ana Sayfa](https://caglayandemirci.github.io) &nbsp;&emsp;
-[<<- Bilgisayar Bilimleri Ana Sayfası](https://caglayandemirci.github.io/CS/MainPage)	&nbsp;&emsp;
+
 
 <br><br><br>
 ### SON YAZILAR<BR><BR>
