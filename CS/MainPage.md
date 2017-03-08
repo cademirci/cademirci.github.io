@@ -8,8 +8,8 @@
 	<br><br>
 </html>
   
-<img class="sci" src="rick.png">
-<br><br><br><br>## BİLGİSAYAR sBİLİMLERİ<br><br><br><br><br><br>
+<img class="sci" src="rick.png"><br><br><br><br>
+## BİLGİSAYAR sBİLİMLERİ<br><br><br><br><br><br>
 [<- Ana Sayfa](https://caglayandemirci.github.io) &nbsp;&emsp;
 
 
