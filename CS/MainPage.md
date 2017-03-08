@@ -10,7 +10,8 @@
   
 <img class="sci" src="rick.png">
 ## BİLGİSAYAR BİLİMLERİ<br><br><br><br><br><br>
-<a class="topLink" href="https://caglayandemirci.github.io/CS/MainPge">&lt;&lt;- Bilgisayar Bixlimleri Ana Sayfası<a>  &nbsp;&emsp; <a class="topLink" href="https://caglayandemirci.github.io">&lt;- Ana Sayfa<a> 
+[<- Ana Sayfa](https://caglayandemirci.github.io) &nbsp;&emsp;
+[<<- Bilgisayar Bilimleri Ana Sayfası](https://caglayandemirci.github.io/CS/MainPage)	&nbsp;&emsp;
 
 
 
