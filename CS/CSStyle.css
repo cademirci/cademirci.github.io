@@ -58,5 +58,6 @@ code {
 }
 .topLink {
 	text-align: right;
+	float: left;
 	color: red;
 }
