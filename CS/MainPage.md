@@ -1,4 +1,4 @@
- DD<html>
+ <html>
 	<head>
 		<link rel="stylesheet" type="text/css" href="CSStyle.css">
 		<link rel="icon" href="../coloricon.png">
