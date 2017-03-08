@@ -13,7 +13,7 @@
 [<- Ana Sayfa](https://caglayandemirci.github.io) &nbsp;&emsp;
 [<<- Bilgisayar Bilimleri Ana Sayfası](https://caglayandemirci.github.io/CS/MainPage)	&nbsp;&emsp;
 
-<br><br><br>s
+<br><br><br>
 ### Temel C İle Queue Programlama <br><br>
 
 
