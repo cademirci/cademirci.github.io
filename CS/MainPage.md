@@ -1,4 +1,4 @@
-ASD<html>
+<html>
 	<head>
 		<link rel="stylesheet" type="text/css" href="CSStyle.css">
 		<link rel="icon" href="../coloricon.png">
@@ -16,5 +16,5 @@ ASD<html>
 <br><br><br>
 ### SON YAZILAR<BR><BR>
 
-[Temel C ile Queue Programlama - 4.3.2017](https://caglayandemirci.github.io/CS/CProgramming)
+[Temel C ile Queue Programlama ASD- 4.3.2017](https://caglayandemirci.github.io/CS/CProgramming)
 
