@@ -9,7 +9,7 @@
 </html>
   
 <img class="sci" src="sci.PNG">
-## BİLGİSAYAR BİLİMLERİ<br><br><br><br><br><br><br>
+## BİLGİSAYAR BİLİMLERİ<br><br><br><br><br><br>
 [<- Ana Sayfa](https://caglayandemirci.github.io) &nbsp;&emsp;
 [<<- Bilgisayar Bilimleri Ana Sayfası](https://caglayandemirci.github.io/CS/MainPage)	&nbsp;&emsp;
 
