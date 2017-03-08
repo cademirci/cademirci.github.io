@@ -7,7 +7,7 @@ h1 {
 }
 h2 {
   color: rgb(222,244,222);  
-  text-align: right;
+  text-align: left;
 }
 h3 {
   color: white;
@@ -54,7 +54,7 @@ code {
 } 
 
 .sci {
-	float: left;
+	float: right;
 }
 .topLink {
 	text-align: right;
