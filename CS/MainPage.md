@@ -10,6 +10,7 @@
   
 <img class="sci" src="rick.png">
 <br><br><br><br><br><br>
+## BİLGİSAYAR BİLİMLERİ
 [<- Ana Sayfa](https://caglayandemirci.github.io) &nbsp;&emsp;
 
 <br><br><br>
