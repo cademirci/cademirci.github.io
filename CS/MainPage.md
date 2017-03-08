@@ -9,7 +9,7 @@
 </html>
   
 <img class="sci" src="rick.png">
-## BİLGİSAYAR BİLİMLERİ<br><br><br><br><br><br>
+<br><br><br><br>## BİLGİSAYAR BİLİMLERİ<br><br><br><br><br><br>
 [<- Ana Sayfa](https://caglayandemirci.github.io) &nbsp;&emsp;
 
 
