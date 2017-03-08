@@ -8,7 +8,7 @@
 	<br><br>
 </html>
   
-<img class="sci" src="sci.jpg">
+<img class="sci" src="../sci.jpg">
 ## BİLGİSAYAR BİLİMLERİ<br><br><br><br><br><br><br>
 [<- Ana Sayfa](https://caglayandemirci.github.io) &nbsp;&emsp;
 
