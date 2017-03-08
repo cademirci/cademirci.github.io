@@ -17,5 +17,3 @@
 ### SON YAZILAR<BR><BR>
 
 [Temel C ile Queue Programlama - 4.3.2017](https://caglayandemirci.github.io/CS/CProgramming)
-
-SAD SADSDASD ASDSA DAS
