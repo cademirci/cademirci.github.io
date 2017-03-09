@@ -44,3 +44,7 @@ code {
 	font-size: 14px;
 	font-family: Courier New;
 } 
+
+.currentLink {
+	color: red;
+}
