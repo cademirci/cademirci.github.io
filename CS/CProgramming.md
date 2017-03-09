@@ -1,6 +1,9 @@
 <html>
 	<head>
-		
+		<link rel="stylesheet" type="text/css" href="CSStyle.css">
+		<link rel="icon" href="../coloricon.png">
+		<link rel="stylesheet" href="../sunburst.css">
+		<script src="../highlight.pack.js"></script><script>hljs.initHighlightingOnLoad();</script>
 	</head>
 	<br><br>
 </html>
