@@ -53,10 +53,6 @@ code {
 	font-family: Courier New;
 } 
 
-.sci {
-	float: right;
-}
-.topLink {
-	text-align: right;
-	float: right;
+.currentLink {
+	color: GhostWhite;
 }
