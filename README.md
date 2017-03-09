@@ -7,7 +7,7 @@
 		<link rel="stylesheet" href="sunburst.css">
 		<script src="highlight.pack.js"></script><script>hljs.initHighlightingOnLoad();</script>
 	</head>
-	<br><br><br>
+	<br>
 </html>
   
 
