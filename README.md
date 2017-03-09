@@ -14,7 +14,7 @@
 ## ÇAĞLAYAN DEMİRCİ
 <p2>"Hayat, Evren ve Her Şey"e dair nihai kişisel blog.</p2>
 ---
-[ANA SAYFA](https://caglayandemirci.github.io) &nbsp;&emsp;
+<a class="currentLink" href=url(https://caglayandemirci.github.io)>ANA SAYFA<a> &nbsp;&emsp;
 [BİLGİSAYAR BİLİMLERİ](https://caglayandemirci.github.io/CS/MainPage)	&nbsp;&emsp;
 [BLOG](https://caglayandemirci.github.io/page2)	&nbsp;&emsp;
 [HAKKIMDA VE İLETİŞİM](https://caglayandemirci.github.io/iletisim)	&nbsp;&emsp;
