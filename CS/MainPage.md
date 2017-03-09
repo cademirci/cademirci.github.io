@@ -1,18 +1,24 @@
- <html>
+<br><p3>hello world.</p3>
+<html>
 	<head>
-		<link rel="stylesheet" type="text/css" href="CSStyle.css">
-		<link rel="icon" href="../coloricon.png">
-		<link rel="stylesheet" href="../sunburst.css">
-		<script src="../highlight.pack.js"></script><script>hljs.initHighlightingOnLoad();</script>
+		<title>Ana Sayfa</title>
+		<link rel="stylesheet" type="text/css" href="RMStyle.css">
+		<link rel="icon" href="coloricon.png">
+		<link rel="stylesheet" href="sunburst.css">
+		<script src="highlight.pack.js"></script><script>hljs.initHighlightingOnLoad();</script>
 	</head>
-	<br><br>
+	<br>
 </html>
   
-<img class="sci" src="rick.png">
-<br><br><br><br><br><br>
-## BİLGİSAYAR BİLİMLERİ
-[<- Ana Sayfa](https://caglayandemirci.github.io) &nbsp;&emsp;
 
+## ÇAĞLAYAN DEMİRCİ
+<p2>"Hayat, Evren ve Her Şey"e dair nihai kişisel blog.</p2>
+---
+[ANA SAYFA](https://caglayandemirci.github.io) &nbsp;&emsp;
+<a class="currentLink" href="https://caglayandemirci.github.io/CS/MainPage">BİLGİSAYAR BİLİMLERİ<a> &nbsp;&emsp;
+[BLOG](https://caglayandemirci.github.io/page2)	&nbsp;&emsp;
+[HAKKIMDA VE İLETİŞİM](https://caglayandemirci.github.io/iletisim)	&nbsp;&emsp;
+[ARŞİV](https://caglayandemirci.github.io/page2)	&nbsp;&emsp;
 <br><br><br>
 ### SON YAZILAR<BR><BR>
 
