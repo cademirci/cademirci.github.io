@@ -21,5 +21,4 @@
 [ARŞİV](https://caglayandemirci.github.io/page2)	&nbsp;&emsp;
 <br><br><br>
 ### SON YAZILAR<BR><BR>
-
-[Temel C ile Queue Programlama - 4.3.2017](https://caglayandemirci.github.io/CS/CProgramming)
+http://include-media.com/ing)
