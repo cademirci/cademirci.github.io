@@ -22,11 +22,11 @@
 <br><br><br>
 
 ### C İle Linked List Programlama
-
+<br>
 C dili kullanarak, temel veri yapılarından biri olan [Singly Linked List](https://en.wikipedia.org/wiki/Linked_list)'in bir örneğini 
 kodladım. Bu program şehirleri, bölge ve numaralarıyla beraber tutuyor. Ekleme, silme ve ekrana yazdırma ve arama özellikleri sunuyor.
 Parçalı arama da buna dahil; örneğin kullanıcı "An" yazdığında listede Ankara ve Antalya'nın her ikisi de varsa ikisini de basıyor.
-
+<br>
 ```c
 	#include <stdio.h>
 	#include <stdlib.h>
@@ -272,5 +272,5 @@ Parçalı arama da buna dahil; örneğin kullanıcı "An" yazdığında listede 
 
 
 ```
-
+<br>
 Bu program Doç. Dr. Fatih Demirci'nin hocalığında TOBB ETÜ System Programming dersi kapsamında verilen bir ödevdir.
