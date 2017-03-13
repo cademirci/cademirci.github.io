@@ -31,7 +31,11 @@ Bu kodda, her kodda az çok olabileceği gibi, yazdıktan bir süre sonra incele
 
 Bir de, şehrin ismini veya bölgesini girerken boşluk bırakmamanız gerekiyor. C, boşlukla beraber girilen bir stringi iki ayrı string olarak aldığından, boşluk sonrasını, olaydan bir sonraki scanf'in içine dahil ediyor. Bu da bütün bir programın o andan sonra yanlış çalışmasına, hatta çökmesine sebep oluyor. Bunun için şu an aklıma gelen çözümlerden biri `getchar()` kullanmak. 
 
-Böyle durumlarda olduğu gibi, yazılan bir süre sonra taze bir beyinle tekrar bakıp geliştirmeleri yapmak iyi bir hareket. Ama şu an için program bu haliyle de tatmin edici şekilde çalışıyor. 
+Programlama açısından örnek bir iş yaptıysam eğer, ilk göze çarpan şey burada main'in gözle görülür biçimde sade tutulmuş olması. Yapısallık, yani yazılan kodda bütün işin, kendi işlerini yapan ayrı ayrı fonksiyonlar tarafından yapılıyor olması önemli bir şeydir. Main'i gereksiz ölçüde şişirmek acemice bir davranıştır.
+
+Böyle durumlarda olduğu gibi, yazılan bir koda bir süre sonra taze bir beyinle tekrar bakıp hataları ayıklamak, daha iyi yapılabilecek yerleri geliştirmek iyi bir hareket. `Update` denen şey de bu değil midir zaten, yeni bir teknik çıkmadığı sürece. 
+
+Program şu an için bu haliyle de tatmin edici şekilde çalışıyor. Bırakağım.
 <br><br>
 ```c
 #include <stdio.h>
@@ -275,4 +279,4 @@ void removeNode() {
 
 ```
 <br>
-Bu program Doç. Dr. Fatih Demirci'nin hocalığında TOBB ETÜ System Programming dersi kapsamında verilen bir ödevdir.
+
