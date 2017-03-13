@@ -1,4 +1,4 @@
-title: lkm
+[%title](C Programlama)
 <br><p3>hello world.</p3>
 <html>
 	<head>
