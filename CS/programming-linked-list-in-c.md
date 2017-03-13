@@ -23,8 +23,7 @@
 
 ### C İle Linked List Programlama
 <br>
-C dili kullanarak, temel veri yapılarından biri olan [Singly Linked List](https://en.wikipedia.org/wiki/Linked_list)'in bir örneğini 
-kodladım. Bu program şehirleri, bölge ve numaralarıyla beraber tutuyor. Ekleme, silme ve ekrana yazdırma ve arama özellikleri sunuyor.
+C dili kullanarak, temel veri yapılarından biri olan [Singly Linked List](https://en.wikipedia.org/wiki/Linked_list)'in bir örneğini kodladım. Bu program şehirleri, bölge ve numaralarıyla beraber tutuyor. Ekleme, silme ve ekrana yazdırma ve arama özellikleri sunuyor.
 Parçalı arama da buna dahil; örneğin kullanıcı "An" yazdığında listede Ankara ve Antalya'nın her ikisi de varsa ikisini de basıyor.
 <br><br>
 ```c
@@ -59,18 +58,14 @@ int main() {
 	scanf("%d", &choice);
 
 	while(choice != 5) {
-		if (choice == 1) {
+		if (choice == 1)
 			add();
-		}
-		else if (choice == 2) {
+		else if (choice == 2)
 			removeNode();
-		}
-		else if (choice == 3) {
+		else if (choice == 3)
 			search();
-		}
-		else if (choice == 4) {
+		else if (choice == 4)
 			print();
-		}
 		printf(" 1 - Add \n 2 - Remove \n 3 - Search \n 4 - Print \n 5 - Exit");
 		scanf("%d", &choice);
 	}
@@ -81,7 +76,7 @@ int main() {
 
 void implement() { 
 	head = (Node *) malloc(sizeof(Node)); 
-		tail = (Node *) malloc(sizeof(Node));
+	tail = (Node *) malloc(sizeof(Node));
 	head->next = tail;
 	head->next2 = head->next->next;
 	tail->next = NULL;
