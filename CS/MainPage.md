@@ -21,4 +21,4 @@
 [ARŞİV](https://caglayandemirci.github.io/page2)	&nbsp;&emsp;
 <br><br><br>
 ### SON YAZILAR<BR><BR>
-http://include-media.com/ing)
+[C İle Linked List Programlama](https://caglayandemirci.github.io/CS/programming-linked-list-in-c)
