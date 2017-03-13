@@ -24,7 +24,14 @@
 ### C İle Linked List Programlama
 <br>
 C dili kullanarak, temel veri yapılarından biri olan [Singly Linked List](https://en.wikipedia.org/wiki/Linked_list)'in bir örneğini kodladım. Bu program şehirleri, bölge ve numaralarıyla beraber tutuyor. Ekleme, silme ve ekrana yazdırma ve arama özellikleri sunuyor.
-Parçalı arama da buna dahil; örneğin kullanıcı "An" yazdığında listede Ankara ve Antalya'nın her ikisi de varsa ikisini de basıyor.
+
+Bu kodda, her kodda az çok olabileceği gibi, yazdıktan bir süre sonra incelerken gözüme çarpan bazı şeyler var. Örneğin, head ve tail node'larını halihazırda implement etmiş olmama rağmen tail'i hiç kullanmamışım. Bir linked list programlama alışkanlığı olarak, linked list'in sonuna gelip gelmediğimi kontrol etmek için her seferinde if current->next == NULL şeklini tercih etmişim. 
+
+İkinci bir next pointer'ı olarak next2'yi oluşturdum, buradaki amaç next'in next'ine ulaşmaktı. Mesela silme işlemi yaparken bu durum kolaylık sağlayabilir. Silinecek elemandan bir önceki elemanı silinecek elemandan bir sonraki elemana kolaylıkla bağlarsınız. Ama ben bunu da oluşturduktan sonra bir kenara bırakarak current->next->next yapısına başvurmuşum.
+
+Bir de, şehrin ismini veya bölgesini girerken boşluk bırakmamanız gerekiyor. C, boşlukla beraber girilen bir stringi iki ayrı string olarak aldığından, boşluk sonrasını, olaydan bir sonraki scanf'in içine dahil ediyor. Bu da bütün bir programın o andan sonra yanlış çalışmasına, hatta çökmesine sebep oluyor. Bunun için şu an aklıma gelen çözümlerden biri `getchar()` kullanmak. 
+
+Böyle durumlarda olduğu gibi, yazılan bir süre sonra taze bir beyinle tekrar bakıp geliştirmeleri yapmak iyi bir hareket. Ama şu an için program bu haliyle de tatmin edici şekilde çalışıyor. 
 <br><br>
 ```c
 #include <stdio.h>
