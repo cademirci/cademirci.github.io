@@ -1,14 +1,9 @@
-#main_content {
-  margin-top: 20px;
-  padding: 0 20px 90px;
-  background-color: #fff;
-}
 .container {
-	background-color: black;
+	background-color: rgb(20,20,20);
 	padding : 10px 10px 10px 10px; 
 }
 body {
-  background-color: rgb(20,20,20);
+  background-color: rgb(10,10,10);
 }
 h1 {
   color: rgb(111,111,111);
