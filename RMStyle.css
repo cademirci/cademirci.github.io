@@ -4,8 +4,8 @@
   background-color: #fff;
 }
 .container {
-	background-color: red;
-	color: black;
+	background-color: black;
+	padding : 10px 10px 10px 10px; 
 }
 body {
   background-color: rgb(20,20,20);
