@@ -22,4 +22,4 @@
 <br><br><br>
 Kodlar veya herhangi bir şey hakkında herhangi bir soru, yorum, eleştiri gibi aklınıza gelebilecek her türlü iletişim:
 
-*demircicaglayan13[at]gmail[dot]com* 
+**demircicaglayan13[at]gmail[dot]com**
