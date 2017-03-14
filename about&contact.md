@@ -14,9 +14,12 @@
 #### ÇAĞLAYAN DEMİRCİ
 <p2>"Hayat, Evren ve Her Şey"e dair nihai kişisel platform.</p2>
 ---
-<a class="currentLink" href="https://caglayandemirci.github.io">ANA SAYFA<a> &nbsp;&emsp;
+[ANA SAYFA](https://caglayandemirci.github.io) &nbsp;&emsp;
 [BİLGİSAYAR BİLİMLERİ](https://caglayandemirci.github.io/CS/MainPage)	&nbsp;&emsp;
 [BLOG](https://caglayandemirci.github.io/page2)	&nbsp;&emsp;
-[HAKKIMDA VE İLETİŞİM](https://caglayandemirci.github.io/about&contact)	&nbsp;&emsp;
+<a class="currentLink" href="https://caglayandemirci.github.io/about&contact">HAKKIMDA VE İLETİŞİM</a>	&nbsp;&emsp;
 [ARŞİV](https://caglayandemirci.github.io/archive)	&nbsp;&emsp;
 <br><br><br>
+Kodlar veya herhangi bir şey hakkında herhangi bir soru, yorum, eleştiri gibi aklınıza gelebilecek her türlü iletişim:
+
+*demircicaglayan13[at]gmail[dot]com* 
