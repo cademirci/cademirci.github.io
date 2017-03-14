@@ -16,7 +16,7 @@
 [BİLGİSAYAR BİLİMLERİ](https://caglayandemirci.github.io/CS/MainPage)   &nbsp;&emsp;
 [BLOG](https://caglayandemirci.github.io/page2) &nbsp;&emsp;
 [HAKKIMDA VE İLETİŞİM](https://caglayandemirci.github.io/iletisim)      &nbsp;&emsp;
-<a class="currentLink" href="https://caglayandemirci.github.io/Archive.md">ARŞİV<a>   &nbsp;&emsp;
+<a class="currentLink" href="https://caglayandemirci.github.io/archive.md">ARŞİV<a>   &nbsp;&emsp;
 
 <br><br><br>![logo](caglayandemirci.github.io/Archive/save.png) Gönül istediğince indirilebilecek kodlar:<br><br>
 [CQueueExample.c](caglayandemirci.github.io/Archive/CQueueExample.c) 
