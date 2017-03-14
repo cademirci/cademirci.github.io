@@ -47,7 +47,9 @@ hr1 { /* a red cursor  o.O */
 code {
 	font-size: 13px;
 	font-family: Courier New;
-	background-color: rgb(25,25,12);
+	background-color: rgb(25,25,42);
+	padding: 1px 1px 1px 1px;
+	border: 1px solid gray;
 } 
 
 .currentLink {
