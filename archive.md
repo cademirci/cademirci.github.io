@@ -18,7 +18,7 @@
 [HAKKIMDA VE İLETİŞİM](https://caglayandemirci.github.io/about&contact)      &nbsp;&emsp;
 <a class="currentLink" href="https://caglayandemirci.github.io/archive.md">ARŞİV<a>   &nbsp;&emsp;
 
-<br><br><br>![logo](caglayandemirci.github.io/Archive/save.png) &emsp;Gönül istediğince indirilebilecek kodlar:<br><br>
+<br><br><br>![logo](caglayandemirci.github.io/Archive/save.png) &nbsp;Gönül istediğince indirilebilecek kodlar:<br><br>
 [CQueueExample.c](caglayandemirci.github.io/Archive/CQueueExample.c) 
-<br><br>`https://`&emsp;Faydalı bulduğum, hoşuma giden ya da takip ettiğim linkler:<br><br>
+<br><br><br>`https://`&nbsp;Faydalı bulduğum, hoşuma giden ya da takip ettiğim linkler:<br><br>
 https://fularsizentellik.com/ // Ekşi'deki immanuel tolstoyevski'nin kişisel blogu
