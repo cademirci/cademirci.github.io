@@ -55,7 +55,7 @@ code {
 a {
 	color: #339966;
 }
-tt {
+blockquote {
 	background-color: red;
 	color: blue;
 	font-size: 23px;
