@@ -45,8 +45,9 @@ hr1 { /* a red cursor  o.O */
 	padding: 10px 10px;
 }
 code {
-	font-size: 17px;
+	font-size: 13px;
 	font-family: Courier New;
+	background-color: rgb(25,25,12);
 } 
 
 .currentLink {
@@ -54,9 +55,4 @@ code {
 }
 a {
 	color: #339966;
-}
-samp {
-	background-color: red;
-	color: blue;
-	font-size: 23px;
 }
