@@ -18,7 +18,7 @@
 <a class="currentLink" href="https://caglayandemirci.github.io/CS/MainPage">BİLGİSAYAR BİLİMLERİ<a> &nbsp;&emsp;
 [BLOG](https://caglayandemirci.github.io/page2)	&nbsp;&emsp;
 [HAKKIMDA VE İLETİŞİM](https://caglayandemirci.github.io/about&contact) 	&nbsp;&emsp;
-[ARŞİV](https://caglayandemirci.github.io/archive.md)	&nbsp;&emsp;
+[ARŞİV](https://caglayandemirci.github.io/archive)	&nbsp;&emsp;
 <br><br><br>
 ### SON YAZILAR<BR><BR>
 [C İle Linked List Programlama - 13.03.2017](https://caglayandemirci.github.io/CS/programming-linked-list-in-c)
