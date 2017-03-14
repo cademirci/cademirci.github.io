@@ -56,5 +56,7 @@ a {
 	color: #339966;
 }
 tt {
-	background-color: rgb(20,20,12);
+	background-color: red;
+	color: blue;
+	font-size: 23px;
 }
