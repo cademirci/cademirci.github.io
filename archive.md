@@ -1,4 +1,4 @@
-<br><p3>hello world.</p3>
+]<br><p3>hello world.</p3>
 <html>
         <head>
                 <title>Ana Sayfa</title>
@@ -21,4 +21,4 @@
 <br><br><br>![logo](caglayandemirci.github.io/Archive/save.png) &nbsp;Gönül istediğince indirilebilecek kodlar:<br><br>
 [CQueueExample.c](caglayandemirci.github.io/Archive/CQueueExample.c) 
 <br><br><br>`https://`&nbsp;Faydalı bulduğum, hoşuma giden ya da takip ettiğim linkler:<br><br>
-https://fularsizentellik.com/ // Ekşi'deki immanuel tolstoyevski'nin kişisel blogu
+[https://fularsizentellik.com/](https://fularsizentellik.com/) // Ekşi'deki immanuel tolstoyevski'nin kişisel blogu
