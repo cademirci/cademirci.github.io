@@ -21,4 +21,4 @@
 [ARŞİV](https://caglayandemirci.github.io/archive)	&nbsp;&emsp;
 <br><br><br>
 
-![logo](https://caglayandemirci.github.io/CS/sinandcos.PNG)
+![img](https://caglayandemirci.github.io/CS/sinandcos.PNG)
