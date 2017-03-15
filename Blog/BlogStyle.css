@@ -1,7 +1,8 @@
 .container {
 	width: 666px;
-	background-color: rgb(20,20,20);
-	padding : 25px 25px 25px 25px; 
+	background-color: black;
+	padding : 25px 25px 25px 25px;
+	border: 1px solid red;
 }
 body {
   background-color: rgb(10,10,10);
@@ -19,6 +20,7 @@ h3 {
 p {
   color: rgb(222,222,222);
   font-size: 16px;
+  font-family: verdana;
 }
 p2 { 
   color: rgb(166,166,166);
