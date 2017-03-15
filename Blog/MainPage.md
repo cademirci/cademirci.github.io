@@ -1,9 +1,22 @@
-<title>Ana Sayfa</title>
-<link rel="stylesheet" type="text/css" href="BlogStyle.css">
-<link rel="icon" href="../coloricon.png">
+<br><p3>hello world.</p3>
+<html>
+	<head>
+		<title>Ana Sayfa</title>
+		<link rel="stylesheet" type="text/css" href="../RMStyle.css">
+		<link rel="icon" href="../coloricon.png">
+		<link rel="stylesheet" href="../sunburst.css">
+		<script src="../highlight.pack.js"></script><script>hljs.initHighlightingOnLoad();</script>
+	</head>
+	<br>
+</html>
+  
 
-Bertrand Arthur William Russell, 3. Earl Russell (18 Mayıs 1872 - 2 Şubat 1970), Britanyalı filozof, matematikçi, tarihçi, toplumsal eleştirmen.
-Hayatının çeşitli dönemlerinde kendisini liberal, sosyalist ve barışsever olarak tanıtmış ayrıca hiçbirine derinden bağlı olmadığını itiraf etmiştir. Monmouthshire'de İngiltere’nin önde gelen aristokrat ailelerinden birinin ferdi olarak dünyaya gelmiştir.
-Russell 1900'lerin başında İngilizlerin “idealizme karşı isyanı”na öncülük etmiştir. Gottlob Frege ve Ludwig Wittgenstein ile birlikte analitik felsefenin kurucusu kabul edilir. A. N. Whitehead ile birlikte Principia Mathematica adlı kitabı yayınlamıştır. Felsefi denemesi ''On Denoting''(İfade Üzerine) adlı eseri felsefinin paradigması olarak kabul görür. Aynı zamanda geniş bir çevrece 20. Yüzyılın önde gelen mantıkçılarından biri olarak kabul görür. Çalışmaları mantık, matematik, dilbilim, bilgisayar teknolojisi ve filozofiyi, özelliklede dil felsefesi, epistemoloji ve metafiziği önemli ölçüde etkilemiştir.
-Russell önde gelen savaş karşıtlarındandır. Serbest ticareti ve emperyalizm karşıtlığını desteklemiştir ve barışsever tutumundan dolayı Birinci Dünya Savaşı sırasında hapishanede yatmıştır. Daha sonra Adolf Hitler’e karşı kampanyalar düzenlemiş, Stalinci totalitarizmi eleştirmiş, Vietnam Savaşı’ndaki tutumu nedeniyle Amerikan hükümetini suçlamıştır. Aynı zamanda nükleer silahsızlanmanın dobra savunucularındandır. Son eylemlerinden bir tanesi İsrail’in Orta Doğu’daki ülkelere karşı izlediği tutumu eleştirdiği bir bildiri yayınlamasıdır.
-İnsan Haklarını ve düşünce özgürlüğünü savunduğu yazıları dolayısıyla 1950 yılında Nobel Edebiyat Ödülü'ne layık görülmüştür.
+#### ÇAĞLAYAN DEMİRCİ
+<p2>"Hayat, Evren ve Her Şey"e dair nihai kişisel platform.</p2>
+---
+[ANA SAYFA](https://caglayandemirci.github.io) &nbsp;&emsp;
+[BİLGİSAYAR BİLİMLERİ](https://caglayandemirci.github.io/CS/MainPage)	&nbsp;&emsp;
+<a class="currentLink" href="https://caglayandemirci.github.io/Blog/MainPage">BLOG<a>	&nbsp;&emsp;
+[HAKKIMDA VE İLETİŞİM](https://caglayandemirci.github.io/about&contact)	&nbsp;&emsp;
+[ARŞİV](https://caglayandemirci.github.io/archive)	&nbsp;&emsp;
+<br><br><br>
