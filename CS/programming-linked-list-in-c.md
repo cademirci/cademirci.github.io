@@ -53,7 +53,6 @@ typedef struct node {
 Node *head;
 Node *tail;
 
-//prototypes of the functions
 void implement(); 
 void add(); // 1
 void removeNode(); // 2
@@ -119,9 +118,20 @@ void add() {
 
 	n->next = head->next;
 	head->next = n;
+	
+	/*
+		Bu LL'in farkli bir ozelligi olarak, olusturulan
+		bir node'u listenin sonuna degil, basina ekliyor.
+	*/
 }
 
 void search() {
+	/*
+		Arama ozelligine parcali arama da dahil. Yani 
+		kullanici "An" girdiginde listede Ankara ve
+		Antalya varsa, her ikisini de ekrana basiyor.
+	*/
+	
 	printf("  1 - Search by license number \n  2 - Search by name \n  3 - Search by region \n");
 	int choiceSrch;
 	scanf("%d", &choiceSrch);
