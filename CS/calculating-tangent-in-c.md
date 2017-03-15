@@ -21,6 +21,4 @@
 [ARŞİV](https://caglayandemirci.github.io/archive)	&nbsp;&emsp;
 <br><br><br>
 
-```latex
-  \sum_{n=0}^{\infinity} (-1)^n \frac{x^2n+1}{(2n+1)!}
-```
+
