@@ -23,3 +23,4 @@
 <br><br><br>`https://`&nbsp;Faydalı bulduğum, hoşuma giden ya da takip ettiğim linkler:<br><br>
 [https://fularsizentellik.com/](https://fularsizentellik.com/) // Ekşi'deki immanuel tolstoyevski'nin kişisel blogu<br>
 [https://www.youtube.com/watch?v=-6Wu0Q7x5D0](https://www.youtube.com/watch?v=-6Wu0Q7x5D0) // Dünya haritasında insanoğlunun her bir yılı<br>
+[https://bilimkazani.org/](https://bilimkazani.org/) // Harvard'dan yayın yapan türkçe bir podcast<br>
