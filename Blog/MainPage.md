@@ -19,4 +19,4 @@
 <a class="currentLink" href="https://caglayandemirci.github.io/Blog/MainPage">BLOG<a>	&nbsp;&emsp;
 [HAKKIMDA VE İLETİŞİM](https://caglayandemirci.github.io/about&contact)	&nbsp;&emsp;
 [ARŞİV](https://caglayandemirci.github.io/archive)	&nbsp;&emsp;
-<br><br><br>
+<br><br><br>212
