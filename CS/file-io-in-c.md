@@ -22,7 +22,7 @@
 **DOSYAYA YAZMA İŞLEMİ**
 <br><br>
 C ile yazılmış, bir `.txt` dosyasına 1000'den 10000'e kadar, 10 000 tane random sayı yazan kod parçası aşağıdaki gibi.
-<br> 
+<br> <br>
 ```c
 	srand(time(NULL));
 	FILE *fPointer; /*
@@ -57,7 +57,7 @@ C ile yazılmış, bir `.txt` dosyasına 1000'den 10000'e kadar, 10 000 tane ran
 ```
 <br>
 Yukarıdaki kodun içindeki comment line'larda hafıza kıtlığından bahsetmişken; o gibi C kullanılan platformlarda bazen text dosyasının büyüklüğünden şikayet edip binary file kullanmak isteyebilirsiniz. İşlemi hiç değiştirmeden, yani 1000'den 10000'e random integerlar tutan bir binary file da aşağıdaki gibi yazılabilir:
-<br>
+<br><br>
 ```c
         FILE *bPointer; 
 	bPointer = fopen("RandomIntegers.bin","wb");
@@ -74,11 +74,11 @@ Yukarıdaki kodun içindeki comment line'larda hafıza kıtlığından bahsetmi�
 ```
 <br>
 Benim bilgisayarımda text dosyası 97KB iken, binary file (.bin) 40KB. Evet, günümüzde hafıza konusunda endişe için son derece komik rakamlar. 
-<br>
+<br><br>
 **DOSYADAN OKUMA İŞLEMİ**
 <br><br>
 Şimdi de yukarıda oluşturduğumuz dosyadan öğeleri okuyarak en büyük ve en küçük sayıları bulalım bulunan tüm sayıların ortalamasını alalım.
-<br>
+<br><br>
 ```c
 	int temp;
 	int max = 0;
@@ -123,7 +123,7 @@ Benim bilgisayarımda text dosyası 97KB iken, binary file (.bin) 40KB. Evet, g�
 ```
 <br>
 Bunun disinda yine okurken, kac tane karakter veya sözcük yazılmış olduğu, hangi karakterden kaç tane basıldığını ya da satır sayısı gibi akla gelebilecek birçok veri kolayca alınabilir. Örneğin alttaki kod parçasında count satır sayısını veriyor.
-<br>
+<br><br>
 ```c
 	while (!feof(fPointer)) { // eof, end of file anlamina gelir
 		char c = fgetc(fPointer);
@@ -134,7 +134,7 @@ Bunun disinda yine okurken, kac tane karakter veya sözcük yazılmış olduğu,
 ```
 <br>
 Ya da aşağıdaki gibi, whitespace karakterlerini (aşağıda wsCount) sayarak kelime sayısını bulabilir ya da whitespace olmayan karakterleri sayarak kaç karakter basıldığını bulabilirsiniz (gerçi şimdi aklıma geldi de TAB da ayrı bir whitespace karakter, kod geliştirilebilir).
-<br>
+<br><br>
 ```c
 	while (!feof(fPointer)) {
 		char c = fgetc(fPointer);
