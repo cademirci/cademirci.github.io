@@ -73,6 +73,8 @@ Yukarıdaki kodun içindeki comment line'larda hafıza kıtlığından bahsetmi�
         fclose(fPointer);
 ```
 <br>
+Benim bilgisayarımda text dosyası 97KB iken, binary file (.bin) 40KB. Evet, günümüzde hafıza konusunda endişe için son derece komik rakamlar. 
+<br>
 **DOSYADAN OKUMA İŞLEMİ**
 <br><br>
 Şimdi de yukarıda oluşturduğumuz dosyadan öğeleri okuyarak en büyük ve en küçük sayıları bulalım bulunan tüm sayıların ortalamasını alalım.
