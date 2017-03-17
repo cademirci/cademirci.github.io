@@ -1,4 +1,4 @@
-<br><p3>hello world.</p3>
+<p3>hello world.</p3>
 <html>
 	<head>
 		<title>Ana Sayfa</title>
@@ -7,10 +7,7 @@
 		<link rel="stylesheet" href="../sunburst.css">
 		<script src="../highlight.pack.js"></script><script>hljs.initHighlightingOnLoad();</script>
 	</head>
-	<br>
 </html>
-  
-
 #### ÇAĞLAYAN DEMİRCİ
 <p2>"Hayat, Evren ve Her Şey"e dair nihai kişisel platform.</p2>
 ---
