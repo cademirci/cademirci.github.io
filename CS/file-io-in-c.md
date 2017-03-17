@@ -19,7 +19,7 @@
 
 ### C'de File I/O
 <br>
-DOSYAYA YAZMA İŞLEMİ
+**DOSYAYA YAZMA İŞLEMİ**
 <br><br>
 C ile yazılmış, bir `.txt` dosyasına 1000'den 10000'e kadar, 10 000 tane random sayı yazan kod parçası aşağıdaki gibi.
 <br> 
@@ -73,7 +73,7 @@ Yukarıdaki kodun içindeki comment line'larda hafıza kıtlığından bahsetmi�
         fclose(fPointer);
 ```
 <br>
-DOSYADAN OKUMA İŞLEMİ
+**DOSYADAN OKUMA İŞLEMİ**
 <br><br>
 Şimdi de yukarıda oluşturduğumuz dosyadan öğeleri okuyarak en büyük ve en küçük sayıları bulalım bulunan tüm sayıların ortalamasını alalım.
 <br>
