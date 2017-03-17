@@ -131,17 +131,16 @@ Bunun disinda yine okurken, kac tane karakter veya sözcük yazılmış olduğu,
 	printf("Number of lines is %d\n", count);
 ```
 <br>
-Ya da asagidaki gibi, whitespace karakterlerini (aşağıda wsCount) sayarak kelime sayısını bulabilir ya da whitespace olmayan karakterleri sayarak kaç karakter basıldığını bulabilirsiniz (gerçi şimdi aklıma geldi de TAB da ayrı bir whitespace karakter, kod geliştirilebilir).
+Ya da aşağıdaki gibi, whitespace karakterlerini (aşağıda wsCount) sayarak kelime sayısını bulabilir ya da whitespace olmayan karakterleri sayarak kaç karakter basıldığını bulabilirsiniz (gerçi şimdi aklıma geldi de TAB da ayrı bir whitespace karakter, kod geliştirilebilir).
 <br>
 ```c
-
 	while (!feof(fPointer)) {
 		char c = fgetc(fPointer);
 		if (c == ' ') 
 			wsCount++;
 		else if (c != ' ' && c != '\n')
 			cCount++;
-	}	
+	}
 ```
 <br>
 Bu kodların float'lu versiyonlarını Arşiv'den bulabilirsiniz.
