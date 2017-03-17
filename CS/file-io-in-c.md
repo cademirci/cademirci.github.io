@@ -141,6 +141,8 @@ Ya da aşağıdaki gibi, whitespace karakterlerini (aşağıda wsCount) sayarak 
 		else if (c != ' ' && c != '\n')
 			cCount++;
 	}
+	printf("Number of white spaces is %d\n", wsCount);
+	printf("Number of characters without white spaces is %d\n", cCount);
 ```
 <br>
 Bu kodların float'lu versiyonlarını Arşiv'den bulabilirsiniz.
