@@ -18,5 +18,6 @@
 [ARŞİV](https://caglayandemirci.github.io/archive)	&nbsp;&emsp;
 <br><br><br>
 ### SON YAZILAR<BR><BR>
+[C'de File I/O - 17.03.2017](https://caglayandemirci.github.io/CS/file-io-in-c)
 [C İle Linked List Programlama - 13.03.2017](https://caglayandemirci.github.io/CS/programming-linked-list-in-c)
 
