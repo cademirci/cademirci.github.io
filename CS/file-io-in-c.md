@@ -19,7 +19,7 @@
 
 ### C'de File I/O
 <br>
-##### Dosyaya Yazdıma İşlemi
+DOSYAYA YAZMA İŞLEMİ
 <br>
 C ile yazılmış, bir `.txt` dosyasına 1000'den 10000'e kadar, 10 000 tane random sayı yazan kod parçası aşağıdaki gibi.
 <br> 
@@ -71,10 +71,9 @@ Yukarıdaki kodun içindeki comment line'larda hafıza kıtlığından bahsetmi�
 		fwrite(&number, 1, sizeof(int), bPointer);
 	}
         fclose(fPointer);
-}
 ```
 <br>
-##### Dosyadan Okuma İşlemi
+DOSYADAN OKUMA İŞLEMİ
 <br>
 Şimdi de yukarıda oluşturduğumuz dosyadan öğeleri okuyarak en büyük ve en küçük sayıları bulalım bulunan tüm sayıların ortalamasını alalım.
 <br>
@@ -97,7 +96,7 @@ Yukarıdaki kodun içindeki comment line'larda hafıza kıtlığından bahsetmi�
 		printf("Could not open the file.\n");
 
 	int i;
-	for(i = 0; i<10000; i++) {
+	for(i = 0; i < 10000; i++) {
 		fscanf(fPointer, "%f", &temp);
                 // fscanf'le aliyoruz sayilari
 
@@ -124,7 +123,7 @@ Yukarıdaki kodun içindeki comment line'larda hafıza kıtlığından bahsetmi�
 Bunun disinda yine okurken, kac tane karakter veya sözcük yazılmış olduğu, hangi karakterden kaç tane basıldığını ya da satır sayısı gibi akla gelebilecek birçok veri kolayca alınabilir. Örneğin alttaki kod parçasında count satır sayısını veriyor.
 <br>
 ```c
-while (!feof(fPointer)) { // eof, end of file anlamina gelir
+	while (!feof(fPointer)) { // eof, end of file anlamina gelir
 		char c = fgetc(fPointer);
 		if (c == '\n') 
 			count++;
@@ -135,11 +134,11 @@ while (!feof(fPointer)) { // eof, end of file anlamina gelir
 Ya da asagidaki gibi, whitespace karakterlerini (aşağıda wsCount) sayarak kelime sayısını bulabilir ya da whitespace olmayan karakterleri sayarak kaç karakter basıldığını bulabilirsiniz (gerçi şimdi aklıma geldi de TAB da ayrı bir whitespace karakter, kod geliştirilebilir).
 ```c
 
-while (!feof(fPointer)) {
-	char c = fgetc(fPointer);
-	if (c == ' ') 
-		wsCount++;
-	else if (c != ' ' && c != '\n')
-		cCount++;
-}	
+	while (!feof(fPointer)) {
+		char c = fgetc(fPointer);
+		if (c == ' ') 
+			wsCount++;
+		else if (c != ' ' && c != '\n')
+			cCount++;
+	}	
 ```
