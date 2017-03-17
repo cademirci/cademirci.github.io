@@ -19,7 +19,7 @@
 
 ### C'de File I/O
 <br>
-#### Dosyaya Yazdıma İşlemi
+##### Dosyaya Yazdıma İşlemi
 <br>
 C ile yazılmış, bir `.txt` dosyasına 1000'den 10000'e kadar, 10 000 tane random sayı yazan kod parçası aşağıdaki gibi.
 <br> 
@@ -74,7 +74,7 @@ Yukarıdaki kodun içindeki comment line'larda hafıza kıtlığından bahsetmi�
 }
 ```
 <br>
-#### Dosyadan Okuma İşlemi
+##### Dosyadan Okuma İşlemi
 <br>
 Şimdi de yukarıda oluşturduğumuz dosyadan öğeleri okuyarak en büyük ve en küçük sayıları bulalım bulunan tüm sayıların ortalamasını alalım.
 <br>
@@ -134,6 +134,7 @@ while (!feof(fPointer)) { // eof, end of file anlamina gelir
 <br>
 Ya da asagidaki gibi, whitespace karakterlerini (aşağıda wsCount) sayarak kelime sayısını bulabilir ya da whitespace olmayan karakterleri sayarak kaç karakter basıldığını bulabilirsiniz (gerçi şimdi aklıma geldi de TAB da ayrı bir whitespace karakter, kod geliştirilebilir).
 ```c
+
 while (!feof(fPointer)) {
 	char c = fgetc(fPointer);
 	if (c == ' ') 
