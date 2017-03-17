@@ -53,7 +53,7 @@ C ile yazılmış, bir `.txt` dosyasına 1000'den 10000'e kadar, 10 000 tane ran
 		fprintf(fPointer, "\n");
                 // Syntax bu sekilde: printf değil fprintf
 	}
-    fclose(fPointer); // Dosyayi kapatmak önemli.
+        fclose(fPointer); // Dosyayi kapatmak önemli.
 ```
 <br>
 Yukarıdaki kodun içindeki comment line'larda hafıza kıtlığından bahsetmişken; o gibi C kullanılan platformlarda bazen text dosyasının büyüklüğünden şikayet edip binary file kullanmak isteyebilirsiniz. İşlemi hiç değiştirmeden, yani 1000'den 10000'e random integerlar tutan bir binary file da aşağıdaki gibi yazılabilir:
@@ -142,3 +142,5 @@ Ya da asagidaki gibi, whitespace karakterlerini (aşağıda wsCount) sayarak kel
 			cCount++;
 	}	
 ```
+<br>
+Bu kodların float'lu versiyonlarını Arşiv'den bulabilirsiniz.
