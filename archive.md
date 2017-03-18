@@ -27,3 +27,4 @@
 [https://fularsizentellik.com/](https://fularsizentellik.com/) // Ekşi'deki immanuel tolstoyevski'nin kişisel blogu<br>
 [https://www.youtube.com/watch?v=-6Wu0Q7x5D0](https://www.youtube.com/watch?v=-6Wu0Q7x5D0) // Dünya haritasında insanoğlunun her bir yılı<br>
 [https://bilimkazani.org/](https://bilimkazani.org/) // Harvard'dan yayın yapan türkçe bir podcast<br>
+[https://www.pcsteps.com/2628-install-steam-linux-mint-ubuntu-play/](https://www.pcsteps.com/2628-install-steam-linux-mint-ubuntu-play/) // "Linux kullanmak istiyorum ama oyun oynanmıyor"cular için
