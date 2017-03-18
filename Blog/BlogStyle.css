@@ -1,8 +1,10 @@
 .container {
-	width: 666px;
+	width: 1000px;
 	background-color: black;
 	padding : 25px 25px 25px 25px;
 	border: 1px solid rgb(55,11,11);
+	margin-top: 25px;
+	margin-bottom: 25px;
 }
 body {
   background-color: rgb(10,10,10);
