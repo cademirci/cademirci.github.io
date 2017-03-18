@@ -67,7 +67,7 @@ Yukarıdaki kodun içindeki comment line'larda hafıza kıtlığından bahsetmi�
 	}
 	int number;
 	for (i = 0; i < 10000; i++) {
-		number = (float)(10000 + rand() % 499000);
+		number = 1000 + rand() % 9000);
 		fwrite(&number, 1, sizeof(int), bPointer);
 	}
         fclose(fPointer);
@@ -99,7 +99,7 @@ Benim bilgisayarımda text dosyası 97KB iken, binary file (.bin) 40KB. Evet, g�
 
 	int i;
 	for(i = 0; i < 10000; i++) {
-		fscanf(fPointer, "%f", &temp);
+		fscanf(fPointer, "%d", &temp);
                 // fscanf'le aliyoruz sayilari
 
 		if (temp > max) 
@@ -110,7 +110,7 @@ Benim bilgisayarımda text dosyası 97KB iken, binary file (.bin) 40KB. Evet, g�
 	rewind(fPointer);
 	
 	for(i = 0; i<10000; i++) {
-		fscanf(fPointer, "%f", &temp);
+		fscanf(fPointer, "%d", &temp);
 		if (temp < min) 
 			min = temp;
 	}
