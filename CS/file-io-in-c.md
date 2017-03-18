@@ -70,7 +70,7 @@ Yukarıdaki kodun içindeki comment line'larda hafıza kıtlığından bahsetmi�
 		number = 1000 + rand() % 9000);
 		fwrite(&number, 1, sizeof(int), bPointer);
 	}
-        fclose(fPointer);
+        fclose(bPointer);
 ```
 <br>
 Benim bilgisayarımda text dosyası 97KB iken, binary file (.bin) 40KB. Evet, günümüzde hafıza konusunda endişe için son derece komik rakamlar. 
