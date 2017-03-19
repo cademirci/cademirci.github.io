@@ -1,11 +1,11 @@
 .container {
 	width: 800px;
-	background-color: rgb(42,42,55);
+	background-color: rgb(7,7,20);
 	margin-top: 100px;
 	margin-bottom: 100px;
 }
 body {
-  background-color: rgb(42,42,55);
+  background-color: rgb(7,7,20);
 }
 h1 {
   text-align: center;
@@ -19,9 +19,9 @@ h3 {
   color: white;
 }
 p {
-  color: rgb(200,200,200);
+  color: rgb(255,255,242);
   font-style: normal;
-  font-size: 14px;
+  font-size: 1em;
   line-height: 150%;
 }
 p2 { 
