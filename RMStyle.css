@@ -4,13 +4,13 @@
 	margin-top: 20px;
 }
 body {
-  background-color: rgb(10,10,10);
+  background-color: rgb(25,25,25);
 }
 h1 {
   color: rgb(111,111,111);
 }
 h4 {
-  color: #666999;
+  color: #999666;
   text-align: right;
 }
 h3 {
@@ -57,5 +57,5 @@ code {
 	color: GhostWhite;
 }
 a {
-	color: #66ff99;
+	color: rgb(243,196,105);
 }
