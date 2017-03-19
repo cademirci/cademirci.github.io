@@ -1,5 +1,5 @@
 .container {
-	background-color: rgb(102,105,123);
+	background: linear-gradient(right, rgb(35,35,35), rgb(25,25,25));
 	padding : 10px 10px 10px 10px; 
 	margin-top: 20px;
 }
@@ -10,14 +10,14 @@ h1 {
   color: rgb(111,111,111);
 }
 h4 {
-  color: #999666;
+  color: #666999;
   text-align: right;
 }
 h3 {
   color: white;
 }
 p {
-  color: white;
+  color: rgb(200,200,200);
   font-size: 15px;
 }
 p2 { 
@@ -57,5 +57,5 @@ code {
 	color: GhostWhite;
 }
 a {
-	color: #330066;
+	color: gray;
 }
