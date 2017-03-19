@@ -1,5 +1,5 @@
 .container {
-	background-color: linear-gradient(right, rgb(35,35,35), rgb(25,25,25));
+	background: -webkit-linear-gradient(rgb(35,35,35), rgb(25,25,25));
 	padding : 10px 10px 10px 10px; 
 	margin-top: 20px;
 }
@@ -48,7 +48,7 @@ hr1 { /* a red cursor  o.O */
 code {
 	font-size: 13px;
 	font-family: Courier New;
-	background-color: rgb(42,42,69);
+	background-color: rgb(35,35,52);
 	padding: 2px 2px 2px 2px;
 	border: 1px solid rgb(42,42,84);
 } 
