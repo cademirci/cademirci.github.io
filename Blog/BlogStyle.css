@@ -20,12 +20,11 @@ h3 {
   color: white;
 }
 p {
-  color: rgb(222,222,222);
+  color: rgb(200,180,180);
   font-style: normal;
   font-family: verdana;
-  font-size: 13px;
+  font-size: 15px;
   line-height: 150%;
-  letter-spacing: 1px;
 }
 p2 { 
   color: rgb(166,166,166);
