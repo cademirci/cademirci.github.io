@@ -1,22 +1,13 @@
-<p3>hello world.</p3>
 <html>
 	<head>
 		<title>Ana Sayfa</title>
 		<link rel="stylesheet" type="text/css" href="BlogStyle.css">
 		<link rel="icon" href="../coloricon.png">
-		<link rel="stylesheet" href="../sunburst.css">
-		<script src="../highlight.pack.js"></script><script>hljs.initHighlightingOnLoad();</script>
 	</head>
 </html>
-#### ÇAĞLAYAN DEMİRCİ
-<p2>"Hayat, Evren ve Her Şey"e dair nihai kişisel platform.</p2>
----
-[ANA SAYFA](https://caglayandemirci.github.io) &nbsp;&emsp;
-[BİLGİSAYAR BİLİMLERİ](https://caglayandemirci.github.io/CS/MainPage)	&nbsp;&emsp;
 <a class="currentLink" href="https://caglayandemirci.github.io/Blog/MainPage">BLOG<a>	&nbsp;&emsp;
-[HAKKIMDA VE İLETİŞİM](https://caglayandemirci.github.io/about&contact)	&nbsp;&emsp;
-[ARŞİV](https://caglayandemirci.github.io/archive)	&nbsp;&emsp;
 <br><br><br>
+# İNSANLAR OLARAK MUTSUZUZ
 
 İnsanlar olarak mutsuzuz. Depresyon ve stres, her geçen gün daha da büyüyen kara bir heyula gibi karşımızda yükseliyor. Bilincimizin her gün tekrar ve tekrar bu bunalımları mazeret göstererek gerçekleştiremediği hayallerin çöp yığınları altında eziliyoruz. Bütün bu zayiata iyi gelecekmiş gibi dört elle sarıldığımız dokunmatik ekranlardan da, beyaz yakalı yaşamın ne kadar güzel bir şey olduğuna ya da sizin kendi kişiliğinizin başka insanların değer yargıları süzgecinden geçirilmesinin ne kadar önemli olduğuna dair pompalanan safsatalardan başka bir şey yansımıyor. 
 
