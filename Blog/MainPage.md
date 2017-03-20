@@ -17,6 +17,6 @@
 [HAKKIMDA VE İLETİŞİM](https://caglayandemirci.github.io/about&contact)	&nbsp;&emsp;
 [ARŞİV](https://caglayandemirci.github.io/archive)	&nbsp;&emsp;
 <br><br><br>
-## SON YAZILAR
+### SON YAZILAR
 <br>
 [20.03.2017 - Alternatif Dünya Özlemi](https://caglayandemirci.github.io/Blog/20032017alternatif-dunya-ozlemi)
