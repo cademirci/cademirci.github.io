@@ -1,5 +1,5 @@
 .container {
-	background: -webkit-linear-gradient(rgb(15,15,15), rgb(42,42,42));
+	background-color: rgb(28,28,28);
 	padding : 10px 10px 10px 10px; 
 	margin-top: 20px;
 }
