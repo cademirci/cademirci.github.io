@@ -1,7 +1,7 @@
 <p3>hello world.</p3>
 <html>
 	<head>
-		<title>Ana Sayfa</title>
+		<Title>Ana Sayfa</Title>
 		<link rel="stylesheet" type="text/css" href="RMStyle.css">
 		<link rel="icon" href="coloricon.png">
 		<link rel="stylesheet" href="sunburst.css">
