@@ -1,10 +1,11 @@
 .container {
-	background-color: rgb(35,42,35); 
+	background-color: rgb(35,35,35); 
 	padding : 10px 10px 10px 10px; 
 	margin-top: 20px;
 }
 body {
-  background-color: rgb(10,10,10);
+  background-color: rgb(33,33,42);
+	opacity: 0.9;
 }
 h1 {
   color: rgb(111,111,111);
