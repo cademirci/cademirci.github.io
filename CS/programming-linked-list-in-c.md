@@ -10,7 +10,7 @@
 <p2>"Hayat, Evren ve Her Şey"e dair nihai kişisel platform.</p2>
 ---
 [ANA SAYFA](https://caglayandemirci.github.io) &nbsp;&emsp;
-<a class="currentLink" href="https://caglayandemirci.github.io/CS/MainPage">BİLGİSAYAR BİLİMLERİ<a> &nbsp;&emsp;
+<a class="currentLink" href="https://caglayandemirci.github.io/CS/MainPage">BİLGİSAYAR BİLİMLERİ</a> &nbsp;&emsp;
 [BLOG](https://caglayandemirci.github.io/Blog/MainPage)	&nbsp;&emsp;
 [HAKKIMDA VE İLETİŞİM](https://caglayandemirci.github.io/about&contact)	&nbsp;&emsp;[ARŞİV](https://caglayandemirci.github.io/archive)	&nbsp;&emsp;
 <br><br><br>
