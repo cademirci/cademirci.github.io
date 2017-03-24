@@ -45,3 +45,7 @@ hr1 { /* a red cursor  o.O */
 a {
 	color: green;
 }
+code {
+	background-color: green;
+	color: lime;
+}
