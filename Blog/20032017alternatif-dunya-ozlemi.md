@@ -5,7 +5,7 @@
 		<link rel="icon" href="../coloricon.png">
 	</head>
 </html>
-[< BLOG](https://caglayandemirci.github.io/Blog/MainPage)
+[`< BLOG`](https://caglayandemirci.github.io/Blog/MainPage)
 <br><br><br>
 # ALTERNATİF DÜNYA ÖZLEMİ
 <br><br>
