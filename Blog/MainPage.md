@@ -19,5 +19,5 @@
 <br><br><br>
 ### SON YAZILAR
 <br>
-[26.03.2017 - Film: Oslo 31. August](https://caglayandemirci.github.io/Blog/26032017oslo-31-august)<br>
+[26.03.2017 - `kısa yazı` Film: Oslo 31. August](https://caglayandemirci.github.io/Blog/26032017oslo-31-august)<br>
 [20.03.2017 - Alternatif Dünya Özlemi](https://caglayandemirci.github.io/Blog/20032017alternatif-dunya-ozlemi)
