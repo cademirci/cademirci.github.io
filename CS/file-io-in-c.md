@@ -2,9 +2,9 @@
 <html>
 	<head>
 		<title>Ana Sayfa</title>
-		<link rel="stylesheet" type="text/css" href="../RMStyle.css">
+		<link rel="stylesheet" type="text/css" href="../RMStyleNN.css">
 		<link rel="icon" href="../coloricon.png">
-		<link rel="stylesheet" href="../sunburst.css">
+		<link rel="stylesheet" href="../sunburstNN.css">
 		<script src="../highlight.pack.js"></script><script>hljs.initHighlightingOnLoad();</script>
 	</head>
 </html>
