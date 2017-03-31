@@ -10,11 +10,15 @@ I have change it. caglayandemirci.github.io
   color: red;
 }
 
+.highlight {
+  background: black;
+}
+
 .hljs {
   display: block;
   overflow-x: auto;
   padding: 0.5em;
-  background: #000;
+  background: black;
   color: lime;
 }
 
