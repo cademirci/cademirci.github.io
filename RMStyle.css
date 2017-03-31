@@ -50,7 +50,7 @@ hr1 { /* a red cursor  o.O */
 code {
 	font-size: 13px;
 	font-family: Courier New;
-	background-color: rgb(66,66,66);
+	background-color: black;
 	padding: 2px 2px 2px 2px;
 	/*border: 1px solid rgb(42,42,84);*/
 } 
