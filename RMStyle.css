@@ -12,7 +12,7 @@ body {
 	/* border: 1px solid red;  */
 	height: 100px;
 	width: 1080px;
-	 margin-left: 300px; 
+	/* margin-left: 300px; */
 	/* margin-right: auto; */
 	/* margin-right: auto; */
 	/* padding: 0px 200px 0px 200px; */
@@ -54,7 +54,7 @@ p3 {
 	color: lime;
 } @font-face {
 		font-family: Lucon;
-		src: url(lucon.ttf);
+		src: url(fonts/lucon.ttf);
 	}	
 hr1 { /* a red cursor  o.O */
    color: red;
