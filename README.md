@@ -1,22 +1,16 @@
-<p3>hello world.</p3>
-<html>
-	<head>
-		<title>Ana Sayfa</title>
-		<link rel="stylesheet" type="text/css" href="RMStyle.css">
-		<link rel="icon" href="coloricon.png">
-		<link rel="stylesheet" href="sunburst.css">
-		<script src="highlight.pack.js"></script><script>hljs.initHighlightingOnLoad();</script>
-	</head>
-</html>
-<div style="height: 100px; width: 2800px; background-color: orange">asd</div>
-<p2>"Hayat, Evren ve Her Şey"e dair nihai kişisel platform.</p2>
-
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-<a class="currentLink" href="https://caglayandemirci.github.io">ANA SAYFA<a> &nbsp;&emsp;
-[BİLGİSAYAR BİLİMLERİ](https://caglayandemirci.github.io/CS/MainPage)	&nbsp;&emsp;
-[BLOG](https://caglayandemirci.github.io/Blog/MainPage)	&nbsp;&emsp;
-[HAKKIMDA VE İLETİŞİM](https://caglayandemirci.github.io/about&contact)	&nbsp;&emsp;
-[ARŞİV](https://caglayandemirci.github.io/archive)	&nbsp;&emsp;
+<div class="header">
+				<p3>hello world.</p3><br>
+				<div class="plane">
+					<p style="float:right">caglayandemirci / hayat, evren ve her şeye dair nihai kişisel platform</p>
+					<div class="menu">
+						<a href="https://caglayandemirci.github.io" class="menuLink" style="color:black; background-color: lime;">ANA SAYFA</a> &emsp;&emsp;
+						<a href="https://caglayandemirci.github.io/CS/MainPage" class="menuLink" >BİLGİSAYAR BİLİMLERİ</a> &emsp;&emsp;
+						<a href="https://caglayandemirci.github.io/Blog/MainPage" class="menuLink" >BLOG</a> &emsp;&emsp;
+						<a href="https://caglayandemirci.github.io/about&contact" class="menuLink" >HAKKIMDA VE İLETİŞİM</a> &emsp;&emsp;
+						<a href="https://caglayandemirci.github.io/archive" class="menuLink" >ARŞİV</a> &emsp;&emsp;
+					</div>
+				</div>
+			</div>
 <br><br><br>
 ### GITHUB'DA WEB SAYFASI YAYIMLAMAK
 <br>
