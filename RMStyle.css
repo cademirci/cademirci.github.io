@@ -24,6 +24,7 @@ p2 {
   font-size: 12px;
   font-family: Lucon;
   text-align: right;
+	float: right;
 }
 p3 { /* hello world */
 	font-family: Lucon;
