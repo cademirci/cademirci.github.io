@@ -22,19 +22,23 @@ p {
   font-size: 15px;
 }
 p2 { 
-  color: rgb(166,166,166);
-  font-size: 12px;
-  text-align: right;
-	float: right;
-}
-p3 { /* hello world */
+	font-family: PageLink;
+	font-size: 16px;
+	font-weight: normal;
+	color: white;
+} @font-face {
+		font-family: PageLink;
+		src: url(fonts/OpenSans-CondBold.ttf);
+	}
+p3 { 
 	font-family: Lucon;
-	font-size: 14px;
+	font-size: 13px;
+	font-weight: normal;
 	color: lime;
 } @font-face {
 		font-family: Lucon;
-		src: url(fonts/lucon.ttf);
-}
+		src: url(lucon.ttf);
+	}	
 hr1 { /* a red cursor  o.O */
    color: red;
    border: 1px solid red;
@@ -64,4 +68,36 @@ a {
 }
 .markdown-body .highlight pre, .markdown-body pre {
     background-color: black;
+}
+.menu {
+	float: right;
+	text-align: right;
+	width: 560px;
+	/* border: 1px solid green; */
+	height: 20px;
+	
+}
+.menuLink {
+	color: white;
+	text-decoration: none;
+	background-color: black;
+	padding: 3px 3px 3px 3px;
+	font-size: 13px;
+	font-family: PageLink;
+}
+a.menuLink:link {
+	color: white; 
+	text-decoration: none;
+}
+a.menuLink:hover {
+	color: rgb(240,240,240); 
+	text-decoration: underline;
+}
+a.menuLink:active {
+	color: red; 
+	text-decoration: none;
+}
+a.menuLink:visited {
+	color: white; 
+	text-decoration: none;
 }
