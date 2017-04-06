@@ -1,5 +1,7 @@
 .container { 
 	margin-top: 20px;
+	float: left;
+	margin-left: 250px;
 	width: 1080px;
 }
 body {
