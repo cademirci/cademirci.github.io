@@ -20,7 +20,7 @@
 		</div>
 	</div>
 </html>
-<br><br><br>
+<br><br>
 ### GITHUB'DA WEB SAYFASI YAYIMLAMAK
 <br>
 Şu blog meselesinin alabildiğine suyu çıkmıştı. Bilgilerimi ve düşüncelerimi bir web sitesi ortamında depolayarak
