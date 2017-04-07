@@ -82,7 +82,7 @@ Benim bilgisayarımda text dosyası 97KB iken, binary file (.bin) 40KB. Evet, g�
 <br><br>
 **DOSYADAN OKUMA İŞLEMİ**
 <br><br>
-Şimdi de yukarıda oluşturduğumuz dosyadan öğeleri okuyarak en büyük ve en küçük sayıları bulalım bulunan tüm sayıların ortalamasını alalım.
+Şimdi de yukarıda oluşturduğumuz dosyadan öğeleri okuyarak en büyük ve en küçük sayıları bulalım ve bulunan tüm sayıların ortalamasını alalım.
 <br><br>
 ```c
 	int temp;
