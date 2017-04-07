@@ -11,10 +11,10 @@
 		<div class="plane">
 		<p style="float:right; font-size: 13px;">caglayandemirci <hr1></hr1>&emsp;hayat, evren ve her şeye dair nihai kişisel platform</p>
 <div class="menu">
-<a href="https://caglayandemirci.github.io" class="menuLink" style="color:black; background-color: lime;">ANA SAYFA</a> &emsp;&emsp;
+<a href="https://caglayandemirci.github.io" class="menuLink" >ANA SAYFA</a> &emsp;&emsp;
 <a href="https://caglayandemirci.github.io/CS/MainPage" class="menuLink" >BİLGİSAYAR BİLİMLERİ</a> &emsp;&emsp;
 <a href="https://caglayandemirci.github.io/Blog/MainPage" class="menuLink" >BLOG</a> &emsp;&emsp;
-<a href="https://caglayandemirci.github.io/about&contact" class="menuLink" >HAKKIMDA VE İLETİŞİM</a> &emsp;&emsp;
+<a href="https://caglayandemirci.github.io/about&contact" class="menuLink" style="color:black; background-color: lime;">HAKKIMDA VE İLETİŞİM</a> &emsp;&emsp;
 <a href="https://caglayandemirci.github.io/archive" class="menuLink" >ARŞİV</a> &emsp;&emsp;
 </div>
 		</div>
