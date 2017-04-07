@@ -69,8 +69,8 @@ hr1 { /* a red cursor  o.O */
 	padding: 10px 10px;
 }
 code {
-	font-size: 13px;
-	/*font-family: Courier New; */
+	/* font-size: 13px;  */
+	/* font-family: Courier New; */
 	background-color: black;
 	padding: 2px 2px 2px 2px;
 	/*border: 1px solid rgb(42,42,84);*/
