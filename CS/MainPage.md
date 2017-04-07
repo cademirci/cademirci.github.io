@@ -22,6 +22,6 @@
 </html>
 <br><br>
 ### SON YAZILAR<BR><BR>
-[C'de File I/O - 17.03.2017](https://caglayandemirci.github.io/CS/file-io-in-c)<br>
-[C İle Linked List Programlama - 13.03.2017](https://caglayandemirci.github.io/CS/programming-linked-list-in-c)
+[17.03.2017 - C'de File I/O](https://caglayandemirci.github.io/CS/file-io-in-c)<br>
+[13.03.2017 - C İle Linked List Programlama](https://caglayandemirci.github.io/CS/programming-linked-list-in-c)
 
