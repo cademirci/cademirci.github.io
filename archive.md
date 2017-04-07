@@ -1,4 +1,4 @@
-<html>
+ <html>
 <head>
         <title>Ana Sayfa</title>
         <link rel="stylesheet" type="text/css" href="RMStyle.css">
@@ -15,7 +15,7 @@
 <a href="https://caglayandemirci.github.io/CS/MainPage" class="menuLink" >BİLGİSAYAR BİLİMLERİ</a> &emsp;&emsp;
 <a href="https://caglayandemirci.github.io/Blog/MainPage" class="menuLink" >BLOG</a> &emsp;&emsp;
 <a href="https://caglayandemirci.github.io/about&contact" class="menuLink" >HAKKIMDA VE İLETİŞİM</a> &emsp;&emsp;
-<a href="https://caglayandemirci.github.io/archive" class="menuLink"style="color:black; background-color: lime;">ARŞİV</a> &emsp;&emsp;
+<a href="https://caglayandemirci.github.io/archive" class="menuLink" style="color:black; background-color: lime;">ARŞİV</a> &emsp;&emsp;
 </div>
 		</div>
 	</div>
