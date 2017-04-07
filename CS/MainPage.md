@@ -22,7 +22,6 @@
 </html>
 <br><br>
 ### SON YAZILAR<BR><BR>
-[C File I/O: HTML Sayfası Oluşturmaya Giriş - 31.03.2017](https://caglayandemirci.github.io/CS/txt-page-creator-in-c)<br>
 [C'de File I/O - 17.03.2017](https://caglayandemirci.github.io/CS/file-io-in-c)<br>
 [C İle Linked List Programlama - 13.03.2017](https://caglayandemirci.github.io/CS/programming-linked-list-in-c)
 
