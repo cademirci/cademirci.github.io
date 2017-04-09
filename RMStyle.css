@@ -39,8 +39,8 @@ p {
   font-size: 15px;
 }
 p2 { 
-	font-family: PageLink;
-	font-size: 16px;
+	/*font-family: PageLink;*/
+	font-size: 13px;
 	font-weight: normal;
 	color: white;
 } @font-face {
