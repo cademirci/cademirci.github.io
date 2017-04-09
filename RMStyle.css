@@ -39,7 +39,7 @@ p {
   font-size: 15px;
 }
 p2 { 
-	/*font-family: PageLink;*/
+	font-family: PageLink;
 	font-size: 13px;
 	font-weight: normal;
 	color: white;
@@ -100,7 +100,7 @@ a {
 	background-color: black;
 	padding: 3px 3px 3px 3px;
 	font-size: 13px;
-	font-family: PageLink;
+	/* font-family: PageLink; */
 }
 a.menuLink:link {
 	color: white; 
