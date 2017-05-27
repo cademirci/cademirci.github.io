@@ -9,7 +9,7 @@ body {
 }
 
 .header {
-	/* border: 1px solid red;  */
+	 border: 1px solid red;  
 	height: 100px;
 	width: 1000px;
 	/* margin-left: 300px; */
@@ -18,7 +18,7 @@ body {
 	/* padding: 0px 200px 0px 200px; */
 }
 .plane {
-	 /* border: 1px solid yellow;  */
+	  border: 1px solid yellow;  
 	height: 95px;
 	width: 600px;
 	float: right;
