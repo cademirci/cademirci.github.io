@@ -97,10 +97,10 @@ a {
 	
 }
 .menuLink {
-	color: white;
+	color: blue;
 	text-decoration: none;
-	background-color: black;
-	padding: 3px 3px 3px 3px;
+	/* background-color: black; */
+	/* padding: 3px 3px 3px 3px; */
 	font-size: 12px;
 	/* font-family: PageLink; */
 }
