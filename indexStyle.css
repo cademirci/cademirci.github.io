@@ -1,5 +1,63 @@
 body {
+body {
 	background-color: rgb(6,6,6);
+}
+p {
+	font-family: verdana;
+	color: white;
+	font-size: 13px;
+}
+.mainZone {
+	height: 100px;
+	width: 700px;
+	border: 1px solid red;
+	padding: 20px 20px 20px 20px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 30px;	
+}
+.header {
+	height: 135px;
+	width: 700px;
+	border: 1px solid gray;
+	padding-left: 20px;
+	padding-right: 20px; 
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 30px;	
+}
+.headerLinksZone {
+	/* border: 1px solid green; */
+	height: 30px;
+	text-align: right;
+	
+}
+.headerLink {
+	
+	font-size: 13px;
+	font-family: HLink;
+	color: white;
+	text-decoration: none;
+} @font-face {
+	font-family: HLink;
+	src: url(fonts/OpenSans-CondBold.ttf);
+}
+a.headerLink:link {
+	color: white; 
+	text-decoration: none;
+}
+a.headerLink:hover {
+	color: red; 
+	text-decoration: none;
+}
+a.headerLink:active {
+	color: red; 
+	text-decoration: none;
+}
+a.headerLink:visited {
+	color: white; 
+	text-decoration: none;
+}	background-color: rgb(6,6,6);
 }
 p {
 	font-family: verdana;
