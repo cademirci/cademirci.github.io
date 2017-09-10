@@ -59,4 +59,9 @@ a.headerLink:visited {
   body {
     width: 100%;
   }
+	p {
+	font-family: verdana;
+	color: white;
+	font-size: 17px;
+}
 }
