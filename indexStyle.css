@@ -13,17 +13,17 @@ p {
 	padding: 20px 20px 20px 20px;
 	margin-left: auto;
 	margin-right: auto;
-	margin-top: 30px;	
+	margin-top: 20px;	
 }
 .header {
-	height: 135px;
+	height: 125px;
 	width: 700px;
 	border: 1px solid gray;
 	padding-left: 20px;
 	padding-right: 20px; 
 	margin-left: auto;
 	margin-right: auto;
-	margin-top: 30px;	
+	margin-top: 20px;	
 }
 .headerLinksZone {
 	/* border: 1px solid green; */
