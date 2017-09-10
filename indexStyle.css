@@ -1,5 +1,4 @@
 body {
-body {
 	background-color: rgb(6,6,6);
 }
 p {
@@ -58,7 +57,6 @@ a.headerLink:visited {
 	color: white; 
 	text-decoration: none;
 }	background-color: rgb(6,6,6);
-}
 p {
 	font-family: verdana;
 	color: white;
