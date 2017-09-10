@@ -58,6 +58,7 @@ a.headerLink:visited {
 @media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
  	body {
 	  	width: 100%;
+		background: #990000;
 	}
 	p {
 		font-size: 17px;
