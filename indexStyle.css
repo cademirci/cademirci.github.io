@@ -28,10 +28,9 @@ p {
 .headerLinksZone {
 	/* border: 1px solid green; */
 	height: 50px;
+	text-align: right;
 }
 .headerLink {
-	text-align: right;
-	float: right;
 	font-size: 13px;
 	font-family: HLink;
 	color: white;
