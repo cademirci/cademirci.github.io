@@ -16,7 +16,7 @@ p {
 	margin-top: 20px;	
 }
 .header {
-	height: 125px;
+	height: 135px;
 	width: 700px;
 	border: 1px solid rgb(66,66,66);
 	padding-left: 20px;
@@ -26,10 +26,8 @@ p {
 	margin-top: 20px;	
 }
 .headerLinksZone {
-	/* border: 1px solid green; */
 	height: 30px;
 	text-align: right;
-	
 }
 .headerLink {
 	
@@ -56,42 +54,4 @@ a.headerLink:active {
 a.headerLink:visited {
 	color: white; 
 	text-decoration: none;
-}	
-p {
-	font-family: verdana;
-	color: white;
-	font-size: 13px;
-}
-.mainZone {
-	height: 100px;
-	width: 700px;
-	border: 1px solid red;
-	padding: 20px 20px 20px 20px;
-	margin-left: auto;
-	margin-right: auto;
-	margin-top: 30px;	
-}
-.header {
-	height: 150px;
-	width: 700px;
-	border: 1px solid gray;
-	padding-left: 20px;
-	padding-right: 20px; 
-	margin-left: auto;
-	margin-right: auto;
-	margin-top: 30px;	
-}
-.headerLinksZone {
-	/* border: 1px solid green; */
-	height: 50px;
-	text-align: right;
-}
-.headerLink {
-	font-size: 13px;
-	font-family: HLink;
-	color: white;
-	text-decoration: none;
-} @font-face {
-	font-family: HLink;
-	src: url(fonts/OpenSans-CondBold.ttf);
 }
