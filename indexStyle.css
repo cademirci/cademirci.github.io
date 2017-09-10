@@ -30,11 +30,13 @@ p {
 	height: 50px;
 }
 .headerLink {
+	text-align: right;
 	float: right;
 	font-size: 13px;
 	font-family: HLink;
 	color: white;
+	text-decoration: none;
 } @font-face {
 	font-family: HLink;
 	src: url(fonts/OpenSans-CondBold.ttf);
-	}
+}
