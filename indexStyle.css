@@ -8,7 +8,7 @@ p {
 }
 .mainZone {
 	height: 100px;
-	width: 800px;
+	width: 700px;
 	border: 1px solid red;
 	padding: 20px 20px 20px 20px;
 	margin-left: auto;
@@ -16,11 +16,25 @@ p {
 	margin-top: 30px;	
 }
 .header {
-	height: 100px;
-	width: 800px;
+	height: 150px;
+	width: 700px;
 	border: 1px solid gray;
-	padding: 20px 20px 20px 20px;
+	padding-left: 20px;
+	padding-right: 20px; 
 	margin-left: auto;
 	margin-right: auto;
 	margin-top: 30px;	
 }
+.headerLinksZone {
+	/* border: 1px solid green; */
+	height: 50px;
+}
+.headerLink {
+	float: right;
+	font-size: 13px;
+	font-family: HLink;
+	color: white;
+} @font-face {
+	font-family: HLink;
+	src: url(fonts/OpenSans-CondBold.ttf);
+	}
