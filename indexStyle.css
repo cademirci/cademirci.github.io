@@ -7,7 +7,7 @@ p {
 	font-size: 13px;
 }
 .mainZone {
-	height: 100px;
+	display: block;
 	width: 700px;
 	border: 1px solid #990000;
 	padding: 20px 20px 20px 20px;
