@@ -44,8 +44,8 @@ a.headerLink:link {
 	text-decoration: none;
 }
 a.headerLink:hover {
-	color: red; 
-	text-decoration: none;
+	color: white; 
+	text-decoration: underline;
 }
 a.headerLink:active {
 	color: red; 
