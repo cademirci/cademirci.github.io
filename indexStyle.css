@@ -5,6 +5,7 @@ p {
 	font-family: verdana;
 	color: white;
 	font-size: 13px;
+	line-height:166%;
 }
 .mainZone {
 	display: block;
