@@ -13,7 +13,7 @@ a {
 @media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
  	body {
 	  	width: 100%;
-		background: rgb(66,66,66);
+		background: rgb(66,666,66);
 	}
 	p {
 		font-size: 17px;
