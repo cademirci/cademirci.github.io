@@ -4,7 +4,7 @@ body {
 p {
   color: rgb(220,220,220);
   font-style: normal;
-  font-size: 14px;
+  font-size: 17px;
   line-height: 166%;
 }
 a {
@@ -16,6 +16,6 @@ a {
 		background: rgb(66,66,66);
 	}
 	p {
-		font-size: 24px;
+		font-size: 17px;
 	}
 }
