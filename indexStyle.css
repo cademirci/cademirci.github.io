@@ -56,6 +56,17 @@ a.headerLink:visited {
 	color: white; 
 	text-decoration: none;
 }
+.mailText {
+	background-color: black;
+	border: none;
+	margin-left: auto;
+	margin-right: auto;
+	width: 75%;
+	height: 200px;
+	color: red;
+	font-family: verdana; 
+	padding: 5px 5px 5px 5px;
+}
 @media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
 	p {
 		font-size: 26px;
