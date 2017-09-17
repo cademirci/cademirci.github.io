@@ -20,7 +20,29 @@
 		</div>
 		<div class="mainZone">
 			<p> Her türlü yorum, soru ve görüşleriniz için mesaj atmaktan çekinmeyin:</p>
-			<p><b>demircicaglayan13 [at] gmail [dot] com</b></p>
+			<p><b>demircicaglayan13 [at] gmail [dot] com</b></p><br><br>
+			
+			<p> Dilerseniz hazır gelmişken buradan da yollayabilirsiniz.</p>
+			<form method="post" action="">
+				<input type="text" id="email_address" name="name" 
+				style="background-color: black; color: gray; border: none; width: 33%;" 
+				placeholder="Önce sizin adresinizi alalım..." required>
+			</form>
+			
+			<textarea id="idMailText" class="mailText" placeholder="Mesajınız da buraya lütfen..."></textarea>
+			<button style="background-color: gray; border: 1px solid red; height: 20px;" onclick="sendMail(); return false">Gönder</button>
+
+			<!-- javascript code to send mail -->
+			<script type="text/javascript">
+			function sendMail() {
+				var link = 'mailto:demircicaglayan13@gmail.com?subject=Message from '
+							+ document.getElementById('email_address').value
+							+ '&body='+document.getElementById('idMailText').value;
+				window.location.href = link;
+			}
+			</script>
+			<!-- end -->
+			
 		</div>
 	</body>
 </html>
