@@ -14,7 +14,8 @@ p {
 	padding: 20px 20px 20px 20px;
 	margin-left: auto;
 	margin-right: auto;
-	margin-top: 20px;	
+	margin-top: 20px;
+	background-color: rgb(30,30,30);
 }
 .header {
 	height: 140px;
