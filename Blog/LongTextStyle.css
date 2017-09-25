@@ -1,21 +1,62 @@
 body {
-  background-color: rgb(25,25,25);
+	background-color: rgb(15,15,15);
 }
 p {
-  color: rgb(220,220,220);
-  font-style: normal;
-  font-size: 1em;
-  line-height: 166%;
+	font-family: verdana;
+	color: white;
+	font-size: 1em;
+	line-height:166%;
 }
-a {
-	color: lime;
+.mainZone {
+	display: block;
+	width: 800px;
+	border: 1px solid #990000;
+	padding: 20px 20px 20px 20px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 20px;	
+}
+.header {
+	height: 50px;
+	width: 800px;
+	padding-left: 20px;
+	padding-right: 20px; 
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 40px;	
+}
+.headerLinksZone {
+	height: 30px;
+	text-align: left;
+}
+.headerLink {
+	
+	font-size: 13px;
+	font-family: HLink;
+	color: white;
+	text-decoration: none;
+} @font-face {
+	font-family: HLink;
+	src: url(../fonts/OpenSans-CondBold.ttf);
+}
+a.headerLink:link {
+	color: white; 
+	text-decoration: none;
+}
+a.headerLink:hover {
+	color: white; 
+	text-decoration: underline;
+}
+a.headerLink:active {
+	color: red; 
+	text-decoration: none;
+}
+a.headerLink:visited {
+	color: white; 
+	text-decoration: none;
 }
 @media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
- 	body {
-	  	width: 100%;
-		background: rgb(42,42,42);
-	}
 	p {
-		font-size: 15px;
+		font-size: 26px;
 	}
 }
