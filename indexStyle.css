@@ -2,9 +2,9 @@ body {
 	background-color: rgb(15,15,15);
 }
 p {
-	font-family: verdana;
+	font-family: Calibri;
 	color: white;
-	font-size: 13px;
+	font-size: 1em;
 	line-height:166%;
 }
 .mainZone {
@@ -71,6 +71,6 @@ a.headerLink:visited {
 }
 @media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
 	p {
-		font-size: 26px;
+		font-size: 1em;
 	}
 }
