@@ -1,5 +1,5 @@
 body {
-	background-color: rgb(15,15,15);
+	background-color: rgb(30,30,30);
 }
 p {
 	font-family: verdana;
@@ -15,7 +15,7 @@ p {
 	margin-left: auto;
 	margin-right: auto;
 	margin-top: 20px;
-	background-color: rgb(30,30,30);
+	background-color: rgb(50,50,50);
 }
 .header {
 	height: 100px;
@@ -25,9 +25,9 @@ p {
 	margin-left: auto;
 	margin-right: auto;
 	margin-top: 20px;
-	border-bottom-color: rgb(30,30,30);
+	border-bottom-color: rgb(50,50,50);
 	border-bottom-style: solid;
-	border-left-color: rgb(30,30,30);
+	border-left-color: rgb(50,50,50);
 	border-left-style: solid;
 }
 .headerLinksZone {
@@ -101,16 +101,19 @@ a {
 	font-size: 12px;
 	font-family: verdana;
 }
+a.footerLink:hover {
+	color: rgb(170,100,100); 
+}
 .footerColumn {
 	float:left; 
 	margin-right:100px; 
 }
 pre {
 	white-space: pre-wrap;       /* Since CSS 2.1 */
-    	white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
-    	white-space: -pre-wrap;      /* Opera 4-6 */
-    	white-space: -o-pre-wrap;    /* Opera 7 */
-    	word-wrap: break-word;       /* Internet Explorer 5.5+ */
+    white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
+    white-space: -pre-wrap;      /* Opera 4-6 */
+    white-space: -o-pre-wrap;    /* Opera 7 */
+    word-wrap: break-word;       /* Internet Explorer 5.5+ */
 	font-size: 15px;
 }
 ul {
