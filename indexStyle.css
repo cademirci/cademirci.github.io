@@ -113,6 +113,9 @@ pre {
     	word-wrap: break-word;       /* Internet Explorer 5.5+ */
 	font-size: 15px;
 }
+ul {
+	color: white;
+}
 @media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
 	p {
 		font-size: 26px;
