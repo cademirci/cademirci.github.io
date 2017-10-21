@@ -24,7 +24,7 @@ p {
 	padding-right: 20px; 
 	margin-left: auto;
 	margin-right: auto;
-	margin-top: 5px;
+	margin-top: 20px;
 	border-bottom-color: rgb(30,30,30);
 	border-bottom-style: solid;
 	border-left-color: rgb(30,30,30);
@@ -88,11 +88,6 @@ a {
 	margin-right: -8px;
 	height: 150px;
 }
-p2 {
-	color: rgb(100,50,50);
-	font-size: 12px;
-	font-family: verdana;
-}
 .footerLinksZone {
 	width: 700px;
 	height: 150px;
@@ -101,9 +96,22 @@ p2 {
 	margin-left: auto;
 	margin-right: auto;
 }
+.footerLink {
+	color: rgb(100,50,50);
+	font-size: 12px;
+	font-family: verdana;
+}
 .footerColumn {
 	float:left; 
 	margin-right:100px; 
+}
+pre {
+	white-space: pre-wrap;       /* Since CSS 2.1 */
+    white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
+    white-space: -pre-wrap;      /* Opera 4-6 */
+    white-space: -o-pre-wrap;    /* Opera 7 */
+    word-wrap: break-word;       /* Internet Explorer 5.5+ */
+	font-size: 15px;
 }
 @media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
 	p {
