@@ -1,0 +1,66 @@
+body {
+	background-color: rgb(15,15,15);
+}
+p {
+	font-family: verdana;
+	color: rgb(230,230,230);
+	font-size: 0.8em;
+	line-height:166%;
+}
+.mainZone {
+	display: block;
+	width: 700px;
+	/* border: 1px solid #990000; */
+	padding: 20px 20px 20px 20px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 20px;
+	background-color: rgb(30,30,30);
+}
+.header {
+	height: 70px;
+	width: 740px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 20px;
+	border-bottom-color: rgb(30,30,30);
+	border-bottom-style: solid;
+}
+
+.headerLink {
+	font-size: 14px;
+	font-family: HLink;
+	color: white;
+	text-decoration: none;
+} @font-face {
+	font-family: HLink;
+	src: url(OpenSans-CondBold.ttf);
+}
+a.headerLink:link {
+	color: white; 
+	text-decoration: none;
+}
+a.headerLink:hover {
+	color: white; 
+	text-decoration: underline;
+}
+a.headerLink:active {
+	color: red; 
+	text-decoration: none;
+}
+a.headerLink:visited {
+	color: white; 
+	text-decoration: none;
+}
+a {
+	color: rgb(0,255,0);
+	text-decoration: none;
+}
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+	p {
+		font-size: 26px;
+	}
+	.headerLink {
+		font-size: 1em;
+	}
+}
