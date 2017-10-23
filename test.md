@@ -1,7 +1,7 @@
 <html><head>
 	<link rel="stylesheet" type="text/css" href="markdownStyle.css">
 	<link rel="icon" href="../coloricon.png">
-	<link rel="stylesheet" href="tomorrow-night.css">
+	<link rel="stylesheet" href="github-gist.css">
 	<script src="../highlight.pack.js"></script><script>hljs.initHighlightingOnLoad();</script>
 </head></html>
 asd [GitHub](http://github.com)
