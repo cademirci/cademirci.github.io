@@ -19,3 +19,6 @@ p {
 a {
   color: lime;
 }
+code {
+	border: 1px solid grey;
+}
