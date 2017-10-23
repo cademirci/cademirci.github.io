@@ -7,3 +7,6 @@ h1 {
   font-size: 12px;
   color: white;
 }
+body {
+  background-color: red;
+}
