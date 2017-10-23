@@ -1,6 +1,7 @@
 <html><head>
 	<link rel="stylesheet" type="text/css" href="markdownStyle.css">
 	<link rel="icon" href="../coloricon.png">
+	<link rel="stylesheet" href="github-gist.css">
 </head></html>
 asd [GitHub](http://github.com)
 burada `şöyle` bi fonksiyon
