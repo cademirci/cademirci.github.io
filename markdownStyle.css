@@ -13,9 +13,6 @@ body {
   font-size: 0px;
   border-bottom: 0px;
 }
-.highlight {
-  background: black; 
-}
 p {
   color: rgb(230,230,230);
 }
@@ -24,5 +21,4 @@ a {
 }
 code {
 	border: 1px solid grey;
-	background-color: black;
 }
