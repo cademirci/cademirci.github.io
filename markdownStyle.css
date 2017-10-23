@@ -2,15 +2,19 @@ body {
 	background-color: rgb(30,30,30);
 }
 .container-lg {
-	
-	
-
 	margin-top: 20px;
 	background-color: rgb(50,50,50);
 }
 .markdown-body h1 {
 	font-size: 0px;
 	border-bottom: 0px;
+}
+.markdown-body .highlight pre, .markdown-body pre {
+    background-color: black;
+}
+.highlight .o { 
+	font-weight: bold;
+	color: white;
 }
 p {
 	color: rgb(230,230,230);
