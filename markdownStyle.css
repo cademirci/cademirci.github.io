@@ -10,11 +10,11 @@ body {
 	border-bottom: 0px;
 }
 .markdown-body .highlight pre, .markdown-body pre {
-    background-color: black;
+    background-color: #1d1f21;
 }
 .highlight .o { 
-	font-weight: bold;
-	color: white;
+	font-weight: normal;
+	color: rgb(200,200,200);
 }
 p {
 	color: rgb(230,230,230);
