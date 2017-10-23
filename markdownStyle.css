@@ -13,6 +13,9 @@ body {
   font-size: 0px;
   border-bottom: 0px;
 }
+.highlight {
+  background: #ffffff; 
+}
 p {
   color: rgb(230,230,230);
 }
