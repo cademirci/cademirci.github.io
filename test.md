@@ -5,7 +5,7 @@
 	<script src="../highlight.pack.js"></script><script>hljs.initHighlightingOnLoad();</script>
 </head></html>
 asd [GitHub](http://github.com)
-burada `şöyle` bi fonksiyon :shell:
+burada `şöyle` bi fonksiyon
 ```c
 void add() {
 	char name[20];
