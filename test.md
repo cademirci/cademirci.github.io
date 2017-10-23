@@ -3,6 +3,7 @@
 	<link rel="icon" href="../coloricon.png">
 </head></html>
 asd [GitHub](http://github.com)
+burada `şöyle` bi fonksiyon
 ```c
 void add() {
 	char name[20];
