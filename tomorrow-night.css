@@ -3,6 +3,15 @@
 /* Original theme - https://github.com/chriskempson/tomorrow-theme */
 /* http://jmblog.github.com/color-themes-for-google-code-highlightjs */
 
+.highlight {
+  background: black; 
+}
+
+.highlight .o { /* operators */
+  font-weight: bold; 
+  color: white;
+}
+
 /* Tomorrow Comment */
 .hljs-comment,
 .hljs-quote {
