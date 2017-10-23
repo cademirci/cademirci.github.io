@@ -4,8 +4,13 @@
 	<link rel="stylesheet" href="github-gist.css">
 	<script src="../highlight.pack.js"></script><script>hljs.initHighlightingOnLoad();</script>
 </head></html>
-asd [GitHub](http://github.com)
-burada `şöyle` bi fonksiyon
+
+İnsanlar olarak mutsuzuz. Depresyon ve stres, her geçen gün daha da büyüyen kara bir siluet gibi karşımızda yükseliyor. Bilincimizin her gün tekrar ve tekrar bu bunalımları mazeret göstererek gerçekleştiremediği hayallerin çöp yığınları altında eziliyoruz. Bütün bu zayiata iyi gelecekmiş gibi dört elle sarıldığımız dokunmatik ekranlardan da, beyaz yakalı yaşamın ne kadar güzel bir şey olduğuna ya da sizin kendi kişiliğinizin başka insanların değer yargıları süzgecinden geçirilmesinin ne kadar önemli olduğuna dair pompalanan safsatalardan başka bir şey yansımıyor. 
+
+Sürekli bir veri bombardımanı altında tutulıyoruz. Etrafımızda uçuşan sayısız veri var. Bu olay neredeyse sanayi devriminden beri gerçekleşiyor. Bugün kendini televizyonlar, telefonlarımız ve içindeki onlarca mesajlaşma grubu, her bir görseline birkaç saniye ayırarak sonu gelmez mizah açlığımızı doyurmaya çalıştığımız post siteleri, sosyal medya, bir sene olsun geleceği olmayan popüler bazı sanat öğeleri ve benzerleri şeklinde gösteriyor. Şekli değişse de olmaya devam edecek, içeriği çok önemli değil ama eskiye göre hızı olağanüstü ölçüde arttı. Sonucu olarak şunu söyleyeceğim ki, yanlız kalmayı unuttuk. Kafalarımız sakin değil. Mesleğimiz olmadıktan sonra konsantrasyon ve fedakarlık isteyen bir işe (sanata örneğin) zaman ayırmak istemiyoruz. Twitter gönderileri kadar kısa sürmüyor. Yirmibirinci yüzyıl insanları olarak, hızlı sonuca açız.
+
+Mutsuzluk içinde koşturmacadan daha delice bir şey düşünemiyorum. Bir gün fantastik bir olayın gerçekleşmesi sonucunda bu modern karakterimiz kendini omzunda hiçbir sorumluluğun olmadığı lapa lapa kar yağmış devasa ve sessiz bir ormanın içinde bulacak ve kötü bloglardan okuyup durduğu aptal bir korku hikayesi canavarıyla karşılaşmayacağını anladığı anda bir an olsun sükuneti ve evrenin gücünü hissedip gözyaşlarına boğulacak. 
+
 ```c
 void add() {
 	char name[20];
@@ -26,26 +31,4 @@ void add() {
 	n->next = head->next;
 	head->next = n;
 }
-
-void search() {
-	printf("  1 - Search by license number \n  2 - Search by name \n  3 - Search by region \n");
-	int choiceSrch;
-	scanf("%d", &choiceSrch);
-	if (choiceSrch == 1) {
-		int license;
-		printf("Which license number?\n");
-		scanf("%d", &license);
-		Node *current = head->next;
-		while (current->next != NULL) {
-			if (current->license == license) {
-				printf("%s | %s | %d \n", current->name, current->region, current->license);
-				return;
-			}
-			current = current->next;
-			if (current->next == NULL) {
-				printf("Not found. \n");
-				return;
-			}
-		}
-	}
 ```
