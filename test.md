@@ -1,3 +1,6 @@
+---
+title: Test
+---
 <a href="index.html">&#8592; BLOG</a><br><br>
 <html><head>
 	<link rel="stylesheet" type="text/css" href="markdownStyle.css">
