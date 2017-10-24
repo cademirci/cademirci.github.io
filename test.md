@@ -1,5 +1,4 @@
-<b><a href="index.html">&#8592; BLOG</a></b>
-***
+<a href="index.html">&#8592; BLOG</a><br><br>
 <html><head>
 	<link rel="stylesheet" type="text/css" href="markdownStyle.css">
 	<link rel="icon" href="../coloricon.png">
