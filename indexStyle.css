@@ -119,6 +119,15 @@ ul {
 }
 @media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
 	p {
-		font-size: 26px;
+		font-size: 1em;
+	}
+	.headerLink {
+		font-size: 1em;
+	}
+	.footerLinksZone {
+		width: 100%;
+	}
+	.footerLink {
+		font-size: 0.9em;
 	}
 }
