@@ -118,12 +118,6 @@ ul {
 	color: white;
 }
 @media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
-	p {
-		font-size: 26px;
-	}
-	.headerLink {
-		font-size: 26px;
-	}
 	.footer,
 	.footerLinksZone,
 	.header,
@@ -131,7 +125,14 @@ ul {
 	.mainZone {
 		width: 100%;
 	}
+	p,
+	.headerLink,
 	.footerLink {
-		font-size: 22px;
+		font-size: 1em;
+	}
+	.mainZone,
+	.footer,
+	body {
+		background-color: rgb(42,42,42);
 	}
 }
