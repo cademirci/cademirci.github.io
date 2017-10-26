@@ -126,13 +126,19 @@ ul {
 		width: 100%;
 	}
 	p,
-	.headerLink,
 	.footerLink {
 		font-size: 1em;
 	}
+	.headerLink {
+		font-size: 0.85em;
+	} 
 	.mainZone,
 	.footer,
 	body {
-		background-color: rgb(42,42,42);
+		background-color: black;
+	}
+	.footer {
+		border-top-color: red;
+		border-top-style: solid;
 	}
 }
