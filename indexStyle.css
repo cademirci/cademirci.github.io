@@ -117,7 +117,7 @@ pre {
 ul {
 	color: white;
 }
-@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) { /* for phone screens */
 	.footer,
 	.footerLinksZone,
 	.header,
@@ -136,9 +136,5 @@ ul {
 	.footer,
 	body {
 		background-color: black;
-	}
-	.footer {
-		border-top-color: red;
-		border-top-style: solid;
 	}
 }
