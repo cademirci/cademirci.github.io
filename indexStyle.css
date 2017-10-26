@@ -124,10 +124,14 @@ ul {
 	.headerLink {
 		font-size: 26px;
 	}
-	.footerLinksZone {
+	.footer,
+	.footerLinksZone,
+	.header,
+	.headerLinksZone,
+	.mainZone {
 		width: 100%;
 	}
 	.footerLink {
-		font-size: 18px;
+		font-size: 22px;
 	}
 }
