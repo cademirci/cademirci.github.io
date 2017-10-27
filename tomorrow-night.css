@@ -7,6 +7,8 @@
 .hljs-comment,
 .hljs-quote {
   color: #969896;
+  font-family: verdana;
+  color: rgb(200,100,150);
 }
 
 /* Tomorrow Red */
