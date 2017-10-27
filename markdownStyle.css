@@ -20,8 +20,10 @@ p {
 	color: rgb(230,230,230);
 }
 p2 { /* date of text created, above the page, right */
-	font-size: 0.75em;
+	font-size: 1em;
+	font-weight: bold;
 	align: right;
+	float: right;
 }
 a {
 	color: lime;
