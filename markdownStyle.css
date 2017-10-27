@@ -21,7 +21,7 @@ p {
 }
 p2 { /* date of text created, above the page, right */
 	font-size: 0.75em;
-	text-align: right;
+	align: right;
 }
 a {
 	color: lime;
@@ -31,5 +31,5 @@ code {
 }
 
 h2, h3, h4 {
-	color: rgb(230,230,250);
+	color: rgb(200,200,250);
 }
