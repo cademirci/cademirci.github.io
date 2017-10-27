@@ -1,7 +1,7 @@
 ---
 title: Alternatif Dünya Özlemi
 ---
-<a href="index.html">&#8592; BLOG</a><p2>22.02.2017</p2><br><br>
+<a href="../index.html">&#8592; BLOG</a><p2>22.02.2017</p2><br><br>
 <html><head>
 	<link rel="stylesheet" type="text/css" href="../markdownStyle.css">
 	<link rel="icon" href="../coloricon.png">

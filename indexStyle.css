@@ -62,6 +62,9 @@ a {
 	color: rgb(0,255,0);
 	text-decoration: none;
 }
+a:hover {
+	text-decoration: underline;
+}
 .mailText {
 	background-color: black;
 	border: none;
