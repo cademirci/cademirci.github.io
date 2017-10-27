@@ -1,7 +1,7 @@
 ---
 title: Alternatif Dünya Özlemi
 ---
-<a href="index.html">&#8592; BLOG</a><p align="right" style="font-size: 0.75em;">22.02.2017</p><br><br>
+<a href="index.html">&#8592; BLOG</a><p2>22.02.2017</p2><br><br>
 <html><head>
 	<link rel="stylesheet" type="text/css" href="../markdownStyle.css">
 	<link rel="icon" href="../coloricon.png">
@@ -27,4 +27,4 @@ Kaçışımız sonucunda varabildiğimiz ikinci bir alternatif dünya, fantastik
 
 Her geçen onyılla beraber, para kaynaklı güç, bize dişleri ve pençeleri daha da bilenmiş bir şekilde saldırıyor. Bu gri takım elbiseli, mavi camlarla kaplı mağarada yaşayan canavar, kendisi tarafından yenmememiz durumunda hiçbir değerimizin olmadığını, insanlık standartlarını yaşayamayacağımızı bas bas kükrüyor. Biz ise, ona yakalanmış olsak bile, bazen kulaklıklarımızı takıp yüksek sesi açarak dinlediğimiz müziklerimizle baş başa kalarak onun böğürtülerini duymuyor, bazen tüm o iyilik için kılıcını kabzasından çıkaran karakterlerle bağ kurarak gözlerimiz sulandığından o canavarın çirkin suratını görmüyoruz. Kimileri ise onun düpedüz kucağına atlayıp, onu en pahalı giyim markalarından alınmış kıyafetlerle sevimli hale getirmeye çalışıyorlar. İçlerinden bazıları ondan kaçar gibi yapmanın en iyi yolunun bu olduğu hakkında arkadaşlarına gösterdikleri spor arabalarla övünmeyi seviyor. En azından, kaçış sanatının özünü kavramış olan ilk kısım olduğunu düşündüğüm bizler, canavarın kucağındakilerden yüzümüzü çevirmeye devam etmeli ve en azından samimi olmaya çalışmalıyız. Dışlanma ve çocukçalıkla suçlanma pahasına. 
 
-<br><br>
+<br>

@@ -19,13 +19,17 @@ body {
 p {
 	color: rgb(230,230,230);
 }
+p2 { /* date of text created, above the page, right */
+	font-size: 0.75em;
+	text-align: right;
+}
 a {
 	color: lime;
 }
 code {
 	border: 1px solid grey;
 }
-.date {
-	font-size: 0.75em;
-	text-align: right;
+
+h2, h3, h4 {
+	color: rgb(230,230,250);
 }
