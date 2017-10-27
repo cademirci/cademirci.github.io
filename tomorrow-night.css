@@ -6,9 +6,10 @@
 /* Tomorrow Comment */
 .hljs-comment,
 .hljs-quote {
-  color: #969896;
+  /* color: #969896; previous */ 
   font-family: verdana;
-  color: rgb(200,100,150);
+  font-style: normal;
+  color: rgb(150,150,150);
 }
 
 /* Tomorrow Red */
