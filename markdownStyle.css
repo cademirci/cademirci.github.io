@@ -25,3 +25,7 @@ a {
 code {
 	border: 1px solid grey;
 }
+.date {
+	font-size: 0.75em;
+	text-align: right;
+}

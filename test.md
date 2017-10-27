@@ -1,7 +1,7 @@
 ---
 title: Test
 ---
-<a href="index.html">&#8592; BLOG</a><br><br>
+<a href="index.html">&#8592; BLOG</a><p class="date">15.07.1992</p><br><br>
 <html><head>
 	<link rel="stylesheet" type="text/css" href="markdownStyle.css">
 	<link rel="icon" href="../coloricon.png">
@@ -15,24 +15,3 @@ Sürekli bir veri bombardımanı altında tutulıyoruz. Etrafımızda uçuşan s
 
 Mutsuzluk içinde koşturmacadan daha delice bir şey düşünemiyorum. Bir gün fantastik bir olayın gerçekleşmesi sonucunda bu modern karakterimiz kendini omzunda hiçbir sorumluluğun olmadığı lapa lapa kar yağmış devasa ve sessiz bir ormanın içinde bulacak ve kötü bloglardan okuyup durduğu aptal bir korku hikayesi canavarıyla karşılaşmayacağını anladığı anda bir an olsun sükuneti ve evrenin gücünü hissedip gözyaşlarına boğulacak. 
 
-```c
-void add() {
-	char name[20];
-	char region[20];
-	int license;
-	printf("Name of the city?\n");
-	scanf("%s", name);
-	printf("Region of the city?\n");
-	scanf("%s", region);
-	printf("License number of the city?\n");
-	scanf("%d", &license);
-	
-	Node *n = (Node *) malloc(sizeof(Node));
-	n->license = license;
-	strcpy(n->name, name);
-	strcpy(n->region, region);
-	
-	n->next = head->next;
-	head->next = n;
-}
-```
