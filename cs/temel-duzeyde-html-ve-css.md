@@ -1,7 +1,7 @@
 ---
 title: Temel Düzeyde HTML ve CSS
 ---
-<a href="../csmain.html">&#8592; BİLGİSAYAR BİLİMLERİ</a><p2>27.10.2017</p2><br><br>
+<a href="../CSmain.html">&#8592; BİLGİSAYAR BİLİMLERİ</a><p2>27.10.2017</p2><br><br>
 <html><head>
 	<link rel="stylesheet" type="text/css" href="../markdownStyle.css">
 	<link rel="icon" href="../coloricon.png">
@@ -10,6 +10,22 @@ title: Temel Düzeyde HTML ve CSS
 </head></html>
 
 ### Temel Düzeyde HTML ve CSS
+
+Bir arkadaş aracılığıyla benden eğer uygun olursam bir yerlerde buluşup bir iki saat internet sitesi tasarımı konusunda bilgi vermemin mümkün olup olmayacağı sorulmuştu. Ben de bundan zevk duyacağımı söylediysem de, daha sonra bu buluşma mümkün olmadı. Ben de geçenlerde, yalnız onun için değil, soracak olan herkes için neden bloğuma temel bir site taslağı hazırlayıp onun üzerinden birkaç bilgi vermiyorum diye düşündüm. Faydalı olmak dileğiyle.
+
+**
+
+Şimdi basit şekilde, şu web sayfasını oluşturmanın aşamalarını anlatacağım:
+
+<img src="http://i68.tinypic.com/10wta2p.png" border="0" alt="Image and video hosting by TinyPic">
+
+HTML sayfalarında her bir bölmeye division anlamında *div* denir. Ben de yukarıdaki görselde her bir div'in hangisi olduğunu kırmızı ile sayfa screenshot'ının üzerine yazdım.
+
+Başlarken, Linux veya MacOs işletim sistemi üzerinde çalışıyorsanız zaten sorun yok, ancak Windows'ta iseniz, birazdan sunacağım belgeleri görüntüleyebilmek ve değiştirebilmek için, notepad++ adlı programı yüklemenizi öneririm. Yoksa HTML sayfalarını browser'ınızın simgesinde görüp yalnızca hazır halini görüntüleyebilecek, CSS belgesini ise hiç açamayacaksınız. Notepad++'ı [buradan](https://notepad-plus-plus.org/download/v7.5.1.html) indirebilirsiniz.
+
+Şimdi hazırladığım çok basit bir internet sitesini size sunayım: [draftSite.rar](draftSite.rar)
+
+Girdiğiniz tüm o internet siteleri serverlarda temelde bu şekilde depolanır. HTML, CSS, Javascript, PHP sayfaları, görseller ve klasörleri barındıran bir klasör olarak.
 
 ```html
 <!DOCTYPE html> 
@@ -135,9 +151,4 @@ p, h1, h2, h3 { /* teker teker yazmak yerine virgül, bunların hepsi için geç
 	font-family: "Arial Black", Gadget, sans-serif;
 }
 ```
-
-<a href="http://tinypic.com?ref=wcjs76" target="_blank"><img src="http://i64.tinypic.com/wcjs76.png" border="0" alt="Image and video hosting by TinyPic"></a>
-
-[Site Taslağı](draftSite.rar)
-
 <br>
