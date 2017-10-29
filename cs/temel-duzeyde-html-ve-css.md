@@ -19,13 +19,15 @@ Bir arkadaş aracılığıyla benden eğer uygun olursam bir yerlerde buluşup b
 
 <img src="http://i68.tinypic.com/10wta2p.png" border="0" alt="Image and video hosting by TinyPic">
 
-HTML sayfalarında her bir bölmeye division anlamında *div* denir. Ben de yukarıdaki görselde her bir div'in hangisi olduğunu kırmızı ile sayfa screenshot'ının üzerine yazdım.
+HTML sayfalarında her bir bölmeye division anlamında **div** denir. Ben de yukarıdaki görselde her bir div'in hangisi olduğunu kırmızı ile sayfa screenshot'ının üzerine yazdım.
 
-Başlarken, Linux veya MacOs işletim sistemi üzerinde çalışıyorsanız zaten sorun yok, ancak Windows'ta iseniz, birazdan sunacağım belgeleri görüntüleyebilmek ve değiştirebilmek için, notepad++ adlı programı yüklemenizi öneririm. Yoksa HTML sayfalarını browser'ınızın simgesinde görüp yalnızca hazır halini görüntüleyebilecek, CSS belgesini ise hiç açamayacaksınız. Notepad++'ı [buradan](https://notepad-plus-plus.org/download/v7.5.1.html) indirebilirsiniz.
+Başlarken, Linux veya MacOs işletim sistemi üzerinde çalışıyorsanız zaten sorun yok, ancak Windows'ta iseniz, birazdan sunacağım belgeleri görüntüleyebilmek ve değiştirebilmek için, Notepad++ adlı editörü yüklemenizi öneririm. Yoksa HTML sayfalarını browser'ınızın simgesinde görüp yalnızca hazır halini görüntüleyebilecek, CSS belgesini ise hiç açamayacaksınız. Notepad++'ı [buradan](https://notepad-plus-plus.org/download/v7.5.1.html) indirebilirsiniz.
 
 Şimdi hazırladığım çok basit bir internet sitesini size sunayım: [draftSite.rar](draftSite.rar)
 
 Girdiğiniz tüm o internet siteleri serverlarda temelde bu şekilde depolanır. HTML, CSS, Javascript, PHP sayfaları, görseller ve klasörleri barındıran bir klasör olarak.
+
+Yukarıdaki görseldeki gibi bir sayfayı yapmamızı sağlayan, biri HTML biri CSS olmak üzere iki kod belgesi aşağıda yer alıyor. draftSite'ın içinde de aynen bu şekilde varlar. İngilizceden anlaşılabilecek bazı şeyleri (`background-color` gibi) açıklamadım, çok kısa açıklanabilecek şeyleri de kodların içinde yorum satırı olarak açıkladım. Bunun dışındakileri burada kısaca açıklamaya çalışacağım.
 
 ```html
 <!DOCTYPE html> 
@@ -36,6 +38,8 @@ Girdiğiniz tüm o internet siteleri serverlarda temelde bu şekilde depolanır.
 
 	<head> <!-- Sayfanızın browser ve web dünyası ile konuşacağı yer burasıdır. -->
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+                <!-- Sayfanızda Türkçe karakterler kullanabilmenizi sağlar. -->
+
 		<title>Ana Sayfa (ya da başlığınız neyse o)</title>
 		<link rel="stylesheet" type="text/css" href="draftStyle.css">
 		<link rel="icon" href="iconResim.jpg">
@@ -105,6 +109,23 @@ Girdiğiniz tüm o internet siteleri serverlarda temelde bu şekilde depolanır.
 	</body>
 </html>
 ```
+
+`<link rel="stylesheet" type="text/css" href="draftStyle.css">`: HTML sayfamızın, şekillendirici olan CSS sayfamızla bağlantısını kuracak olan satır bu. Sayfamızın, style komutlarını bil css belgesinden okuyacağını, bu belgenin adının da **draftStyle.css** olacağını ifade ediyor. Ben genelde CSS belgelerimin adını, ana sayfamın adının sonuna **Style** eklenmiş halde koyarım.
+
+`<link rel="icon" href="iconResim.jpg">`: Browser sekmenizin, sayfa başlığının hemen yanında bulunacak küçük ikon bir resim içereceğini, bu resmin de aynı klasörde bulunan **iconResim.jpg** olacağını ifade eder. Benim bloğumun sekmesine baktığınızda gördüğünüz lacivert-siyah font üzerine kar kristali simgesi de bu şekilde yapıldı. Taslak site olan draft'a ise yedi köşeli uyduruk bir yıldız çizip koydum. iconResim odur.
+
+tepedeki açık mavi alanın adını header koyduk ki bu geleneksel bir isimdir. Buraya yazacağımız her şeyi
+
+```
+<div class="header">
+
+</div>
+```
+
+arasına yazmalıyız. Bu durum bütün div'ler için geçerli. HTML'de her şey <> tagiyle açılıp </> tagiyle kapanır. Bu taglerin adı, bir anlamda bunların arasına yazacağınız şeylerin komutudur.
+Örneğin bir sondaki satırda, **h1** büyük başlık anlamına gelir (HTML'de default olarak 1'den 6'ya kadar küçülen başlıklar vardır: h1, h2, ... h6). Böylece <h1>Site Adı</h1>, "Site Adı" sözcüklerinin bir h1 başlık olacağını belirtiyor. Site adımızı bu sayede büyük fontta görüyoruz.
+
+h1'in hemen yanında bulunan `style="..."`, aslında bir CSS kodu. Ayrı belgede yazılacak kadar uzun ve önemli olmayacak birtakım biçimlendirme kodlarını HTML içinde style diye başlayarak da yazabilirsiniz.
 
 ```css
 body {
