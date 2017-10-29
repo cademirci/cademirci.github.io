@@ -101,7 +101,9 @@ Yukarıdaki görseldeki gibi bir sayfayı yapmamızı sağlayan, biri HTML biri 
 				jorah reyiz ak saçlıya boş değil<br>
 				taze dula bu yaptığı hoş değil<br>
 				gönül sevmiş,gizli sevda suç değil<br>
-				winterfellden yola çıktı yiğitler<br>
+				winterfellden yola çıktı yiğitler<br><br>
+				
+				<b>Ekşi Sözlük'ten alıntıdır.</b>
 			</p>
 		</div>
 		<div class="footer">
