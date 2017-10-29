@@ -107,4 +107,4 @@ Bundan sonra istediğimiz yerde `<p2></p2>` diyerek ya da `<p style="font-family
 	<p>Thorns of crimson death is a divine black metal song.</p>
 	<p2>Thorns of crimson death is a divine black metal song.</p2> 
 ```
-<img src="http://i64.tinypic.com/1199ezp.png" border="0" alt="Image and video hosting by TinyPic"></a>
+<img src="http://i67.tinypic.com/2r2xbly.png" border="0" alt="Image and video hosting by TinyPic">
