@@ -128,4 +128,6 @@ Ekleyeceğiniz şey, `<head> </head>` içine yazacağınız şu kodlar olmalı:
 
 Zira bu, sayfanızda paylaşım amaçlı birtakım kodlar bulunacağını, bunları renklendireceğinizi (buna highlighting denir), bunu highlight.pack.js adlı javascript kodu belgesi sayesinde yapacağınızı, bu yüzden de hljs.initHighlightingOnLoad()fonksiyonunu çağırmanız gerektiğini, bir de unutmadan bu iş için de tomorrow-night.css adlı siyah üstüne koyu renkler ihtiva eden seksi temayı seçtiğinizi ifade eder. Javascript kodunu sayfamdaki [şuradan](../highlight.pack.js), tomorrow night temasını da [buradan](../tomorrow-night.css) indirebilirsiniz. Ayrıca, [şu](https://highlightjs.org/) siteye giderek, birçok tema arasından istediğinizi indirebilirsiniz. Hatta temaların hepsinin demolarını da [buradan](https://highlightjs.org/static/demo/) görebilirsiniz.
 
+Ek olarak, eğer sitenizi benim gibi Github ve Jekyll kullanarak oluşturmuşsanız ve içeriklerini markdown sayfalarıyla oluşturuyorsanız, Github size zaten default syntax highlighting hizmeti sunuyor; beyaz üstüne koyu renkerin olduğu Github adlı temayı kullanıyorsunuz (bir üst paragraftaki linkte var). Ama başka bir tema kullanmak isterseniz yine benim bu yazdıklarımı yapmalısınız. Markdown sayfalarına da HTML'miş gibi `<head>` içinde komutlar yazabiliyorsunuz. 
+
 <br>
