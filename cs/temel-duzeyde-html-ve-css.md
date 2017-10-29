@@ -11,7 +11,11 @@ title: Temel Düzeyde HTML ve CSS
 
 ### Temel Düzeyde HTML ve CSS
 
-Bir arkadaş aracılığıyla benden eğer uygun olursam bir yerlerde buluşup bir iki saat internet sitesi tasarımı konusunda bilgi vermemin mümkün olup olmayacağı sorulmuştu. Ben de bundan zevk duyacağımı söylediysem de, daha sonra bu buluşma mümkün olmadı. Ben de geçenlerde, yalnız onun için değil, soracak olan herkes için neden bloğuma temel bir site taslağı hazırlayıp onun üzerinden birkaç bilgi vermiyorum diye düşündüm. Faydalı olmak dileğiyle.
+Bir arkadaş aracılığıyla, benden eğer uygun olursam bir yerlerde buluşup bir iki saat internet sitesi tasarımı konusunda bilgi vermemin mümkün olup olmayacağı sorulmuştu. Ben de bundan zevk duyacağımı söylediysem de, daha sonra bu buluşma mümkün olmadı. Ben de geçenlerde, yalnız onun için değil, soracak olan herkes için neden bloğuma temel bir site taslağı hazırlayıp onun üzerinden birkaç bilgi vermiyorum diye düşündüm. 
+
+Başta şunu belirtmeliyim ki, internette hiç yokmuş gibi sıfırdan bir HTML ve CSS dersi sunmaya çalışmanın tabi ki bir anlamı yok. Yeri gelmişken [w3schools.com](https://www.w3schools.com/html/) bu iki dil için çok iyi, çok tatlı bir yerdir. Zamanında çok kullandığım bir siteydi. Benim amacım ise, internette pek karşıma çıkmayan şekilde, size hazırdan bir internet sitesi taslağı sunacağım (draftSite). Bunu kurcalamanız, değiştirmeniz ve bu doğrultuda sayfada nelerin değiştiğini incelemeniz çok faydalı olabilir. Açıklamalarım ise kısa ve işin mantığını göstermeye çalışır şekilde olacak. 
+
+Faydalı olmak dileğiyle.
 
 **
 
@@ -35,6 +39,7 @@ Yukarıdaki görseldeki gibi bir sayfayı yapmamızı sağlayan, biri HTML biri 
 
 <html>
 <!-- Tüm HTML sayfaları en başta bu tagle açılır, </html> tagiyle kapanır. -->
+<!-- bu arada html: Hyper Text Markup Language. -->
 
 	<head> <!-- Sayfanızın browser ve web dünyası ile konuşacağı yer burasıdır. -->
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
@@ -116,16 +121,23 @@ Yukarıdaki görseldeki gibi bir sayfayı yapmamızı sağlayan, biri HTML biri 
 
 tepedeki açık mavi alanın adını header koyduk ki bu geleneksel bir isimdir. Buraya yazacağımız her şeyi
 
-```
-<div class="header">
+`<div class="header">
 
-</div>
-```
+</div>`
 
-arasına yazmalıyız. Bu durum bütün div'ler için geçerli. HTML'de her şey <> tagiyle açılıp </> tagiyle kapanır. Bu taglerin adı, bir anlamda bunların arasına yazacağınız şeylerin komutudur.
-Örneğin bir sondaki satırda, **h1** büyük başlık anlamına gelir (HTML'de default olarak 1'den 6'ya kadar küçülen başlıklar vardır: h1, h2, ... h6). Böylece <h1>Site Adı</h1>, "Site Adı" sözcüklerinin bir h1 başlık olacağını belirtiyor. Site adımızı bu sayede büyük fontta görüyoruz.
+arasına yazmalıyız. `class` keywordü, bize CSS belgemizde `.header {}` arasına yazacağımız tüm kodların, bu div'i şekillendirebilmemizi sağlayacak. Bu durum bütün div'ler ve onları dahil edeceğiniz class'lar için geçerli. Biraz altında da `<div class="navMenu">` var örneğin. Aşağıdaki CSS belgesine bakarsanız, bunların tümünün nasıl şekillendirildiğini görürsünüz.
+
+HTML'de her şey <> tagiyle açılıp </> tagiyle kapanır. Bu taglerin adı, bir anlamda bunların arasına yazacağınız şeylerin komutudur. Örneğin bir sondaki satırda, **h1** büyük başlık anlamına gelir (HTML'de default olarak 1'den 6'ya kadar küçülen başlıklar vardır: h1, h2, ... h6). Böylece <h1>Site Adı</h1>, "Site Adı" sözcüklerinin bir h1 başlık olacağını belirtiyor. Site adımızı bu sayede büyük fontta görüyoruz. 
 
 h1'in hemen yanında bulunan `style="..."`, aslında bir CSS kodu. Ayrı belgede yazılacak kadar uzun ve önemli olmayacak birtakım biçimlendirme kodlarını HTML içinde style diye başlayarak da yazabilirsiniz.
+
+`margin`: bunu yazdığınız div ile, yakınındaki başka bir öğe arasında boşluk bırakır. Yani, `h1 style="margin-left: 25%"` demek, bu h1 başlığı ile solundaki ilk öğe arasında, ekranın %25'i kadar bir boşluk bırak demektir. Bunu yazmasaydık, başlığımız ekranın en soluna yapışık şekilde çıkardı. `margin-left`, `margin-right`, `margin-top` ve `margin-bottom` şeklinde versiyonları vardır.
+
+`text-align`, bulunduğumuz div'de yazıların nerede bulunacağını belirtir. `text-align: right` yazdığımız bir div'de, yazıların tümü sağa yapışış olarak ortaya çıkacaktır.
+
+`<a href="https://...">link haline gelecek sözcük ya da sözcükler</a>`: kodu link yapabilmemizi sağlayan koddur. Kodun kendisinden de anlaşılabildiği üzere `href=" "` içine yazılanlar gidilecek yer, Türkçeyle yazdığım yer de belirttiğim şey oluyor. 
+
+Bunun gibi, **unordered list** anlamına gelen `<ul>`, **paragraph** anlamına gelen `<p>` (en yaygın HTML taglerinden biri) gibi satırlar görebilirsiniz. Dediğim gibi, bunlar ve çok daha fazlası birçok internet sitesinden öğrenilebilir. Umarım işin özünü az çok anlatabilmişimdir.
 
 ```css
 body {
@@ -172,4 +184,19 @@ p, h1, h2, h3 { /* teker teker yazmak yerine virgül, bunların hepsi için geç
 	font-family: "Arial Black", Gadget, sans-serif;
 }
 ```
+
+Bu da bahsedip durduğum CSS sayfamız. Bu olmasa, tüm web sayfaları beyaz üstüne siyah Times New Roman ile sola yaslı halde yazılmış yazılardan oluşurdu. CSS, kullanmayı çok sevdiğim, basit ve açık, zevkli ve aynı zamanda çok güçlü bir şekillendirici dil (**C**ascade **S**tyle **S**heet). Bu dilin de aynı şekilde birçok ayrıntısı [w3schools'un css tutorial'ı](https://www.w3schools.com/css/default.asp)ndan öğrenilebilir. Çok kısa açıklanabilecek bazı şeyleri de yorum satırı olarak yazdım; margin gibi kimi kısımları da HTML kodunun altında anlatmıştım. Ben burada sadece, HTML sayfamızda en başta kırmızı yazılarla gösterdiğim her bir div'in, nasıl başlarına "." konarak class'ları belirtilip, şekillendirilebildiklerini göstermek istedim. Birçoğu İngilizce karşılıklarından anlaşılabiliyor. Açıklamaya değer buldum birkaç noktayı da aydınlatmaya çalışarak yazımı sonlandıracağım. 
+
+`#3a354a` gibi renk kodları: CSS'te renk belirmenin üç yolu vardır:
+
+1. İsim belirterek bazı renkleri ifade edebilirsiniz. black, red, blue, green, hatta SlateBlue ya da GhostWhite gibi birtakım renkler HTML ve CSS'te default olarak vardır.
+
+2. Hex kodu belirterek: #3a354a bir hex kodudur. #ffffff beyazı, #000000 siyahı ifade eder. Arasında, ezberlemenin tamamen saçma olacağı 24-bit renk hex kodu ile ifade edilebilir.
+
+3. rgb ile belirterek: Kullanmayı en sevdiğim renk kodu şekli ise rgb'dir. Red Green Blue anlamına gelen rgb ile, bu renkleri 0'dan 255'e kadar derecelendirerek, grafik tasarımla azıcık ilgilenmiş ya da benim gibi çocukluğunu microsoft paint başında geçirmiş herkesin bildiği gibi, 24-bit rengin tümünü elde edebilirsiniz. rgb(0,0,0) siyah, rgb(255,255,255) beyaz, rgb(255,0,0) kırmızı... gibi. Not: Neden 255? Çünkü 2^8 - 1. Yani 8 bit: 1 byte.
+
+Tüm bu renklere [şuradan](https://www.w3schools.com/colors/colors_picker.asp) bakabilirsiniz.
+
+`display: block;`: div'inizde bir height belirtirseniz, örneğin `height: 200px` gibi, div'iniz 200 piksel yüksekliğinde sabit duracaktır ve içine ne kadar uzun yazılar yazarsanız yazın bu yazılar 200 pikselden sonra dışarı taşıp aşağı doğru devam edecektir. `display: block;` kodu, divinizin, içeriği kadar yükselmesini sağlayacaktır. Yazdığınız yazılarla birlikte div de genişler. Uyarı: display block yazıyorsanız `height` kodunuzun olmaması gerekir.
+
 <br>
