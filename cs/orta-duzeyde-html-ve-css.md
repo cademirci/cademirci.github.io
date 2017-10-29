@@ -66,7 +66,7 @@ CSS kodunu hiç karıştırmadan HTML'i bu şekilde kodlamak bile bazı şeyleri
 
 CSS, cihaz ekranı belirtilen değerler aralığındaysa, bu blok içinde belirtilen div'ler için yazdığımız bu özellikleri kullanıyor. 
 
-Hatta `@media`nın bir özelliği daha var. `max-device-width` değil de `max-width` yazarsanız, kendi bilgisayarınızda da bu ekran değişimini, browser penceresinin boyutlarıyla oynayarak gözlemleyebilirsiniz. Örneğin, aşağıda yazdığım kod sayesinde, bu sayfayı küçültürseniz şu siyah kutucuğun rengi kırmızı olacak.
+Hatta `@media`nın bir özelliği daha var. `max-device-width` değil de `max-width` yazarsanız, kendi bilgisayarınızda da bu ekran değişimini, browser penceresinin boyutlarıyla oynayarak gözlemleyebilirsiniz. Örneğin, aşağıda yazdığım kod sayesinde, bu sayfayı küçültürseniz şu siyah kutucuğun rengi kırmızı olacak. (Bu sayfaya telefondan girdiyseniz zaten kırmızı olacak.)
 
 <div class="box">
 </div><br>
@@ -86,7 +86,7 @@ Hatta `@media`nın bir özelliği daha var. `max-device-width` değil de `max-wi
 </style>
 ```
 
-*
+<br><br>
 
 #### Default Desteklenmeyen Yazı Fontlarının Kullanımı
 
@@ -113,6 +113,19 @@ Bundan sonra istediğimiz yerde `<p2></p2>` diyerek ya da `<p style="font-family
 
 Aslında yazarken bu kadar eğreti duracağını düşünmemiştim ama anlatmak istediğimi anlattım sanıyorum. Siz siz olun verdana, open sans, helvetica gibi klasik ve profesyonel görünümünü kaybetmeyen fontlardan vazgeçmeyin.
 
-*
+<br><br>
 
 #### İstenilen Şekilde Syntax Hightlighting 
+
+Klasik bir HTML-CSS kombinasyonunda, sayfada paylaşmak istediğiniz kodları `<code><pre> </pre></code>` tagleri içinde yazmalısınız. Ancak bu hiçbir şey eklemediğiniz takdirde, kodlarınızın yalnız CSS kodu olarak `.code{}` ya da `.pre{}` blokları içine yazacağınız iki renkten (yazı ve arkaplan) oluşmasını sağlar.
+
+Ekleyeceğiniz şey, `<head> </head>` içine yazacağınız şu kodlar olmalı:
+
+```html
+<link rel="stylesheet" href="tomorrow-night.css">
+<script src="highlight.pack.js"></script><script>hljs.initHighlightingOnLoad();</script>
+```
+
+Zira bu, sayfanızda paylaşım amaçlı birtakım kodlar bulunacağını, bunları renklendireceğinizi (buna highlighting denir), bunu highlight.pack.js adlı javascript kodu belgesi sayesinde yapacağınızı, bu yüzden de hljs.initHighlightingOnLoad()fonksiyonunu çağırmanız gerektiğini, bir de unutmadan bu iş için de tomorrow-night.css adlı siyah üstüne koyu renkler ihtiva eden seksi temayı seçtiğinizi ifade eder. Javascript kodunu sayfamdaki [şuradan](../highlight.pack.js), tomorrow night temasını da [buradan](../tomorrow-night.css) indirebilirsiniz. Ayrıca, [şu](https://highlightjs.org/) siteye giderek, birçok tema arasından istediğinizi indirebilirsiniz. 
+
+<br>
