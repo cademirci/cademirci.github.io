@@ -69,7 +69,7 @@ CSS, cihaz ekranı belirtilen değerler aralığındaysa, bu blok içinde belirt
 Hatta `@media`nın bir özelliği daha var. `max-device-width` değil de `max-width` yazarsanız, kendi bilgisayarınızda da bu ekran değişimini, browser penceresinin boyutlarıyla oynayarak gözlemleyebilirsiniz. Örneğin, aşağıda yazdığım kod sayesinde, bu sayfayı küçültürseniz şu siyah kutucuğun rengi kırmızı olacak.
 
 <div class="box">
-</div>
+</div><br>
 
 ```css
 <style>
@@ -85,3 +85,26 @@ Hatta `@media`nın bir özelliği daha var. `max-device-width` değil de `max-wi
 	}
 </style>
 ```
+
+#### Default Desteklenmeyen Yazı Fontlarının Kullanımı
+
+Bunun için "download font" google'layıp, beğenilen bir fontu (.otf veya .ttf uzantılı olurlar) seçip site klasörümüze yüklemekle başlamamız gerekiyor. Devamı da son derece kısa ve kolay:
+
+```css
+	p2 { /* Gothic Style Font */
+		font-family: Gothic;
+		font-size: 3em;
+		color: red;
+	} @font-face {
+			font-family: Gothic;
+			src: url(DrawGothic.ttf);
+	}
+```
+
+Bundan sonra istediğimiz yerde `<p2></p2>` diyerek ya da `<p style="font-family: Gothic;"></p>` şeklinde yazımızı kullanabiliriz.
+
+```html
+	<p>Thorns of crimson death is a divine black metal song.</p>
+	<p2>Thorns of crimson death is a divine black metal song.</p2> 
+```
+<img src="http://i64.tinypic.com/1199ezp.png" border="0" alt="Image and video hosting by TinyPic"></a>
