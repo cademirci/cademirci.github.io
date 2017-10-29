@@ -10,6 +10,8 @@ title: Orta Düzeyde HTML ve CSS
 	<style>
 			.box {
 				background-color: black;
+				height: 200px;
+				width: 200px;
 			}
 			@media screen and (max-width: 500px) {
 				.box {
