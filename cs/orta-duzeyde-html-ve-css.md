@@ -8,9 +8,12 @@ title: Orta Düzeyde HTML ve CSS
 	<link rel="stylesheet" href="../tomorrow-night.css">
 	<script src="../highlight.pack.js"></script><script>hljs.initHighlightingOnLoad();</script>
 	<style>
+			.box {
+				background-color: black;
+			}
 			@media screen and (max-width: 500px) {
-				body {
-					background-color: purple;
+				.box {
+					background-color: red;
 				}
 			}
 	</style>
@@ -63,6 +66,8 @@ CSS, cihaz ekranı belirtilen değerler aralığındaysa, bu blok içinde belirt
 
 Hatta `@media`nın bir özelliği daha var. `max-device-width` değil de `max-width` yazarsanız, kendi bilgisayarınızda da bu ekran değişimini, browser penceresinin boyutlarıyla oynayarak gözlemleyebilirsiniz. Örneğin aşağıda yazdığım kod sayesinde, bu sayfayı küçültürseniz arkaplan rengi mor olacak.
 
+<div class="box">
+</div>
 ```css
 @media screen and (max-width: 500px) {
     body {
