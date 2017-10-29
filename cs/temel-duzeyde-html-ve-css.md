@@ -136,7 +136,7 @@ p, h1, h2, h3 { /* teker teker yazmak yerine virgül, bunların hepsi için geç
 }
 ```
 
-<img src="ss1.png" style="width: 100%;">
+<a href="http://tinypic.com?ref=wcjs76" target="_blank"><img src="http://i64.tinypic.com/wcjs76.png" border="0" alt="Image and video hosting by TinyPic"></a>
 
 [Site Taslağı](draftSite.rar)
 
