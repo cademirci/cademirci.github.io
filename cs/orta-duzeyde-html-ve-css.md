@@ -86,6 +86,8 @@ Hatta `@media`nın bir özelliği daha var. `max-device-width` değil de `max-wi
 </style>
 ```
 
+*
+
 #### Default Desteklenmeyen Yazı Fontlarının Kullanımı
 
 Bunun için "download font" google'layıp, beğenilen bir fontu (.otf veya .ttf uzantılı olurlar) seçip site klasörümüze yüklemekle başlamamız gerekiyor. Devamı da son derece kısa ve kolay:
@@ -108,3 +110,9 @@ Bundan sonra istediğimiz yerde `<p2></p2>` diyerek ya da `<p style="font-family
 	<p2>Thorns of crimson death is a divine black metal song.</p2> 
 ```
 <img src="http://i67.tinypic.com/2r2xbly.png" border="0" alt="Image and video hosting by TinyPic">
+
+Aslında yazarken bu kadar eğreti duracağını düşünmemiştim ama anlatmak istediğimi anlattım sanıyorum. Siz siz olun verdana, open sans, helvetica gibi klasik ve profesyonel görünümünü kaybetmeyen fontlardan vazgeçmeyin.
+
+*
+
+#### İstenilen Şekilde Syntax Hightlighting 
