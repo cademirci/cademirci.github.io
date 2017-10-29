@@ -66,14 +66,22 @@ CSS kodunu hiç karıştırmadan HTML'i bu şekilde kodlamak bile bazı şeyleri
 
 CSS, cihaz ekranı belirtilen değerler aralığındaysa, bu blok içinde belirtilen div'ler için yazdığımız bu özellikleri kullanıyor. 
 
-Hatta `@media`nın bir özelliği daha var. `max-device-width` değil de `max-width` yazarsanız, kendi bilgisayarınızda da bu ekran değişimini, browser penceresinin boyutlarıyla oynayarak gözlemleyebilirsiniz. Örneğin aşağıda yazdığım kod sayesinde, bu sayfayı küçültürseniz arkaplan rengi mor olacak.
+Hatta `@media`nın bir özelliği daha var. `max-device-width` değil de `max-width` yazarsanız, kendi bilgisayarınızda da bu ekran değişimini, browser penceresinin boyutlarıyla oynayarak gözlemleyebilirsiniz. Örneğin, aşağıda yazdığım kod sayesinde, bu sayfayı küçültürseniz şu siyah kutucuğun rengi kırmızı olacak.
 
 <div class="box">
 </div>
+
 ```css
-@media screen and (max-width: 500px) {
-    body {
-        background-color: purple;
-    }
-}
+<style>
+	.box {
+		background-color: black;
+		height: 200px;
+		width: 200px;
+	}
+	@media screen and (max-width: 700px) {
+		.box {
+			background-color: red;
+		}
+	}
+</style>
 ```
