@@ -93,21 +93,21 @@ Hatta `@media`nın bir özelliği daha var. `max-device-width` değil de `max-wi
 Bunun için "download font" google'layıp, beğenilen bir fontu (.otf veya .ttf uzantılı olurlar) seçip site klasörümüze yüklemekle başlamamız gerekiyor. Devamı da son derece kısa ve kolay:
 
 ```css
-	p2 { /* Gothic Style Font */
+p2 { /* Gothic Style Font */
+	font-family: Gothic;
+	font-size: 2em;
+	color: red;
+} @font-face {
 		font-family: Gothic;
-		font-size: 2em;
-		color: red;
-	} @font-face {
-			font-family: Gothic;
-			src: url(DrawGothic.ttf);
-	}
+		src: url(DrawGothic.ttf);
+}
 ```
 
 Bundan sonra istediğimiz yerde `<p2></p2>` diyerek ya da `<p style="font-family: Gothic;"></p>` şeklinde yazımızı kullanabiliriz.
 
 ```html
-	<p>Thorns of crimson death is a divine black metal song.</p>
-	<p2>Thorns of crimson death is a divine black metal song.</p2> 
+<p>Thorns of crimson death is a divine black metal song.</p>
+<p2>Thorns of crimson death is a divine black metal song.</p2> 
 ```
 <img src="http://i67.tinypic.com/2r2xbly.png" border="0" alt="Image and video hosting by TinyPic">
 
@@ -122,8 +122,8 @@ Klasik bir HTML-CSS kombinasyonunda, sayfada paylaşmak istediğiniz kodları `<
 Ekleyeceğiniz şey, `<head> </head>` içine yazacağınız şu kodlar olmalı:
 
 ```html
-	<link rel="stylesheet" href="tomorrow-night.css">
-	<script src="highlight.pack.js"></script><script>hljs.initHighlightingOnLoad();</script>
+<link rel="stylesheet" href="tomorrow-night.css">
+<script src="highlight.pack.js"></script><script>hljs.initHighlightingOnLoad();</script>
 ```
 
 Zira bu, sayfanızda paylaşım amaçlı birtakım kodlar bulunacağını, bunları renklendireceğinizi (buna highlighting denir), bunu highlight.pack.js adlı javascript kodu belgesi sayesinde yapacağınızı, bu yüzden de hljs.initHighlightingOnLoad()fonksiyonunu çağırmanız gerektiğini, bir de unutmadan bu iş için de tomorrow-night.css adlı siyah üstüne koyu renkler ihtiva eden seksi temayı seçtiğinizi ifade eder. Javascript kodunu sayfamdaki [şuradan](../highlight.pack.js), tomorrow night temasını da [buradan](../tomorrow-night.css) indirebilirsiniz. Ayrıca, [şu](https://highlightjs.org/) siteye giderek, birçok tema arasından istediğinizi indirebilirsiniz. Hatta temaların hepsinin demolarını da [buradan](https://highlightjs.org/static/demo/) görebilirsiniz.
