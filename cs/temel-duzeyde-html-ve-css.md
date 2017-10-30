@@ -196,9 +196,9 @@ Bu da bahsedip durduğum CSS sayfamız. Bu olmasa, tüm web sayfaları beyaz üs
 
 1. İsim belirterek bazı renkleri ifade edebilirsiniz. black, red, blue, green, hatta SlateBlue ya da GhostWhite gibi birtakım renkler HTML ve CSS'te default olarak vardır.
 
-2. Hex kodu belirterek: #3a354a bir hex kodudur. #ffffff beyazı, #000000 siyahı ifade eder. Arasında, ezberlemenin tamamen saçma olacağı 24-bit renk hex kodu ile ifade edilebilir.
+2. Hex kodu belirterek: #3a354a bir hex kodudur (Latincede 6 anlamına gelen **hexa**'dan gelir). #ffffff beyazı, #000000 siyahı ifade eder. Arasında, ezberlemenin tamamen saçma olacağı 24-bit renk hex kodu ile ifade edilebilir.
 
-3. rgb ile belirterek: Kullanmayı en sevdiğim renk kodu şekli ise rgb'dir. Red Green Blue anlamına gelen rgb ile, bu renkleri 0'dan 255'e kadar derecelendirerek, grafik tasarımla azıcık ilgilenmiş ya da benim gibi çocukluğunu microsoft paint başında geçirmiş herkesin bildiği gibi, 24-bit rengin tümünü elde edebilirsiniz. rgb(0,0,0) siyah, rgb(255,255,255) beyaz, rgb(255,0,0) kırmızı... gibi. Not: Neden 255? Çünkü 2^8 - 1. Yani 8 bit: 1 byte.
+3. rgb ile belirterek: Kullanmayı en sevdiğim renk kodu şekli ise rgb'dir. Red Green Blue anlamına gelen rgb ile, bu renkleri 0'dan 255'e kadar derecelendirerek, grafik tasarımla azıcık ilgilenmiş ya da benim gibi çocukluğunu microsoft paint başında geçirmiş herkesin bildiği gibi, 24-bit rengin tümünü elde edebilirsiniz. rgb(0,0,0) siyah, rgb(255,255,255) beyaz, rgb(255,0,0) kırmızı... gibi. Not: Neden 255? Çünkü 2^8 - 1. Yani 8 bit = 1 byte.
 
 Tüm bu renklere [şuradan](https://www.w3schools.com/colors/colors_picker.asp) bakabilirsiniz.
 
