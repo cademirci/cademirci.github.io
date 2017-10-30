@@ -86,7 +86,7 @@ Hatta `@media`nın bir özelliği daha var. `max-device-width` değil de `max-wi
 </style>
 ```
 
-***
+<br><br><br>
 
 #### Default Desteklenmeyen Yazı Fontlarının Kullanımı
 
@@ -113,7 +113,7 @@ Bundan sonra istediğimiz yerde `<p2></p2>` diyerek ya da `<p style="font-family
 
 Aslında yazarken bu kadar eğreti duracağını düşünmemiştim ama anlatmak istediğimi anlattım sanıyorum. Siz siz olun verdana, open sans, helvetica gibi klasik ve profesyonel görünümünü kaybetmeyen fontlardan vazgeçmeyin.
 
-***
+<br><br><br>
 
 #### İstenilen Şekilde Syntax Hightlighting 
 
