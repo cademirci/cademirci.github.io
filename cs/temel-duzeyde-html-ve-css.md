@@ -192,13 +192,15 @@ p, h1, h2, h3 { /* teker teker yazmak yerine virgül, bunların hepsi için geç
 
 Bu da bahsedip durduğum CSS sayfamız. Bu olmasa, tüm web sayfaları beyaz üstüne siyah Times New Roman ile sola yaslı halde yazılmış yazılardan oluşurdu. CSS, kullanmayı çok sevdiğim, basit ve açık, zevkli ve aynı zamanda çok güçlü bir şekillendirici dil (**C**ascade **S**tyle **S**heet). Bu dilin de aynı şekilde birçok ayrıntısı [w3schools'un css tutorial'ı](https://www.w3schools.com/css/default.asp)ndan öğrenilebilir. Çok kısa açıklanabilecek bazı şeyleri de yorum satırı olarak yazdım; margin gibi kimi kısımları da HTML kodunun altında anlatmıştım. Ben burada sadece, HTML sayfamızda en başta kırmızı yazılarla gösterdiğim her bir div'in, nasıl başlarına "." konarak class'ları belirtilip, şekillendirilebildiklerini göstermek istedim. Birçoğu İngilizce karşılıklarından anlaşılabiliyor. Açıklamaya değer buldum birkaç noktayı da aydınlatmaya çalışarak yazımı sonlandıracağım. 
 
-`#3a354a` gibi renk kodları: CSS'te renk belirmenin üç yolu vardır:
+`#3a354a` gibi renk kodları: CSS'te renk belirmenin temelde üç yolu vardır:
 
 1. İsim belirterek bazı renkleri ifade edebilirsiniz. black, red, blue, green, hatta SlateBlue ya da GhostWhite gibi birtakım renkler HTML ve CSS'te default olarak vardır.
 
 2. Hex kodu belirterek: #3a354a bir hex kodudur (Latincede 6 anlamına gelen **hexa**'dan gelir). #ffffff beyazı, #000000 siyahı ifade eder. Arasında, ezberlemenin tamamen saçma olacağı 24-bit renk hex kodu ile ifade edilebilir.
 
 3. rgb ile belirterek: Kullanmayı en sevdiğim renk kodu şekli ise rgb'dir. Red Green Blue anlamına gelen rgb ile, bu renkleri 0'dan 255'e kadar derecelendirerek, grafik tasarımla azıcık ilgilenmiş ya da benim gibi çocukluğunu microsoft paint başında geçirmiş herkesin bildiği gibi, 24-bit rengin tümünü elde edebilirsiniz. rgb(0,0,0) siyah, rgb(255,255,255) beyaz, rgb(255,0,0) kırmızı... gibi. Not: Neden 255? Çünkü 2^8 - 1. Yani 8 bit = 1 byte.
+
+Not: Bu yazıyı yazdığımın ertesi günü baktım, bunların dışında CSS versiyonuna bağlı olarak **hsl**, **hwb**, **cmyk** ve **Ncol** diye renk belirtme kodları da varmış ama, İngilizcede bir laf vardır: Neither I know, nor I care.
 
 Tüm bu renklere [şuradan](https://www.w3schools.com/colors/colors_picker.asp) bakabilirsiniz.
 
