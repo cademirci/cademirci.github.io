@@ -33,3 +33,7 @@ code {
 h2, h3, h4 {
 	color: rgb(200,200,250);
 }
+ol,
+ul {
+	color: white;
+}

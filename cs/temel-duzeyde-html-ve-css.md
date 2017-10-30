@@ -103,7 +103,6 @@ Yukarıdaki görseldeki gibi bir sayfayı yapmamızı sağlayan, biri HTML biri 
 				gönül sevmiş,gizli sevda suç değil<br>
 				winterfellden yola çıktı yiğitler<br><br>
 				
-				<b>Ekşi Sözlük'ten alıntıdır.</b>
 			</p>
 		</div>
 		<div class="footer">
@@ -117,15 +116,17 @@ Yukarıdaki görseldeki gibi bir sayfayı yapmamızı sağlayan, biri HTML biri 
 </html>
 ```
 
+Bu arada sayfadaki şiir Ekşi Sözlük'ten hieron adlı yazardan bir alıntıdır.
+
 `<link rel="stylesheet" type="text/css" href="draftStyle.css">`: HTML sayfamızın, şekillendirici olan CSS sayfamızla bağlantısını kuracak olan satır bu. Sayfamızın, style komutlarını bil css belgesinden okuyacağını, bu belgenin adının da **draftStyle.css** olacağını ifade ediyor. Ben genelde CSS belgelerimin adını, ana sayfamın adının sonuna **Style** eklenmiş halde koyarım.
 
 `<link rel="icon" href="iconResim.jpg">`: Browser sekmenizin, sayfa başlığının hemen yanında bulunacak küçük ikon bir resim içereceğini, bu resmin de aynı klasörde bulunan **iconResim.jpg** olacağını ifade eder. Benim bloğumun sekmesine baktığınızda gördüğünüz lacivert-siyah font üzerine kar kristali simgesi de bu şekilde yapıldı. Taslak site olan draft'a ise yedi köşeli uyduruk bir yıldız çizip koydum. iconResim odur.
 
 tepedeki açık mavi alanın adını header koyduk ki bu geleneksel bir isimdir. Buraya yazacağımız her şeyi
 
-`<div class="header">
-
-</div>`
+	<div class="header">
+	
+	</div>
 
 arasına yazmalıyız. `class` keywordü, bize CSS belgemizde `.header {}` arasına yazacağımız tüm kodların, bu div'i şekillendirebilmemizi sağlayacak. Bu durum bütün div'ler ve onları dahil edeceğiniz class'lar için geçerli. Biraz altında da `<div class="navMenu">` var örneğin. Aşağıdaki CSS belgesine bakarsanız, bunların tümünün nasıl şekillendirildiğini görürsünüz.
 
@@ -138,6 +139,8 @@ h1'in hemen yanında bulunan `style="..."`, aslında bir CSS kodu. Ayrı belgede
 `text-align`, bulunduğumuz div'de yazıların nerede bulunacağını belirtir. `text-align: right` yazdığımız bir div'de, yazıların tümü sağa yapışış olarak ortaya çıkacaktır.
 
 `<a href="https://...">link haline gelecek sözcük ya da sözcükler</a>`: kodu link yapabilmemizi sağlayan koddur. Kodun kendisinden de anlaşılabildiği üzere `href=" "` içine yazılanlar gidilecek yer, Türkçeyle yazdığım yer de belirttiğim şey oluyor. 
+
+`&emsp;` simgesi sayfada birkaç boşluk bırakmanızı sağlar (4 whitespace kadardı yanlış hatırlamıyorsam). Unutmayın ki HTML'de koyacağınız birden fazla boşluk ya da satır atlamak için bastığınız enter gibi tuşlar bir işe yaramaz (tabi eğer `<pre>` tagi içinde değilseniz). Satır atlamak için de break anlamında `<br>` kullanıyoruz örneğin. Çok kullandığım bir komut.
 
 Bunun gibi, **unordered list** anlamına gelen `<ul>`, **paragraph** anlamına gelen `<p>` (en yaygın HTML taglerinden biri) gibi satırlar görebilirsiniz. Dediğim gibi, bunlar ve çok daha fazlası birçok internet sitesinden öğrenilebilir. Umarım işin özünü az çok anlatabilmişimdir.
 
