@@ -1,5 +1,14 @@
 body {
 	background-color: rgb(30,30,30);
+	
+	/* for background image times. */
+	/*
+	background-image: url(starsAndTree.jpg);
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+	*/
+	
 }
 p {
 	font-family: verdana;
