@@ -86,7 +86,7 @@ Hatta `@media`nın bir özelliği daha var. `max-device-width` değil de `max-wi
 </style>
 ```
 
-<br><br>
+***
 
 #### Default Desteklenmeyen Yazı Fontlarının Kullanımı
 
@@ -94,16 +94,16 @@ Bunun için "download font" google'layıp, beğenilen bir fontu (.otf veya .ttf 
 
 ```css
 p2 { /* Gothic Style Font */
-	font-family: Gothic;
+	font-family: myGothicFont;
 	font-size: 2em;
 	color: red;
 } @font-face {
-		font-family: Gothic;
+		font-family: myGothicFont;
 		src: url(DrawGothic.ttf);
 }
 ```
 
-Bundan sonra istediğimiz yerde `<p2></p2>` diyerek ya da `<p style="font-family: Gothic;"></p>` şeklinde yazımızı kullanabiliriz.
+Bundan sonra istediğimiz yerde `<p2></p2>` diyerek ya da `<p style="font-family: myGothicFont;"></p>` şeklinde yazımızı kullanabiliriz.
 
 ```html
 <p>Thorns of crimson death is a divine black metal song.</p>
@@ -113,7 +113,7 @@ Bundan sonra istediğimiz yerde `<p2></p2>` diyerek ya da `<p style="font-family
 
 Aslında yazarken bu kadar eğreti duracağını düşünmemiştim ama anlatmak istediğimi anlattım sanıyorum. Siz siz olun verdana, open sans, helvetica gibi klasik ve profesyonel görünümünü kaybetmeyen fontlardan vazgeçmeyin.
 
-<br><br>
+***
 
 #### İstenilen Şekilde Syntax Hightlighting 
 
