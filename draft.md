@@ -17,17 +17,10 @@ comments: true
 Kullanıcıların internete girdiği cihazların oranına baktığımızda telefonların bilgisayarları geçtiği bu onyılda, websitesi tasarlarken sayfanın tablet ve telefon gibi cihazlar için de verimli olması ve şık görünmesi, iyi hesaplanması elzem bir olgu haline geldi.
 
 <script id="dsq-count-scr" src="//caglayandemirci-github-io.disqus.com/count.js" async></script>
-
-asd
-
-<a href="http://foo.com/bar.html#disqus_thread">Link</a>
-
-dsa
-
+<a href="http://foo.com/bar.html#disqus_thread"></a>
 {% if page.comments %}
 <div id="disqus_thread"></div>
 <script>
-
 /**
 *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
 *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
@@ -44,6 +37,5 @@ s.setAttribute('data-timestamp', +new Date());
 (d.head || d.body).appendChild(s);
 })();
 </script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-                            
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>                       
 {% endif %} 

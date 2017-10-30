@@ -1,5 +1,6 @@
 ---
 title: Orta Düzeyde HTML ve CSS
+comments: true
 ---
 <a href="../CSmain.html">&#8592; BİLGİSAYAR BİLİMLERİ</a><p2>29.10.2017</p2><br><br>
 <html><head>
@@ -134,4 +135,28 @@ Zira bu, sayfanızda paylaşım amaçlı birtakım kodlar bulunacağını, bunla
 
 Ek olarak, eğer sitenizi benim gibi Github ve Jekyll kullanarak oluşturmuşsanız ve içeriklerini markdown sayfalarıyla oluşturuyorsanız, Github size zaten default syntax highlighting hizmeti sunuyor; beyaz üstüne koyu renkerin olduğu Github adlı temayı kullanıyorsunuz (bir üst paragraftaki linkte var). Ama başka bir tema kullanmak isterseniz yine benim bu yazdıklarımı yapmalısınız. Markdown sayfalarına da HTML'miş gibi `<head>` içinde komutlar yazabiliyorsunuz. 
 
+<br><br><br>
+<script id="dsq-count-scr" src="//caglayandemirci-github-io.disqus.com/count.js" async></script>
+<a href="http://foo.com/bar.html#disqus_thread"></a>
+{% if page.comments %}
+<div id="disqus_thread"></div>
+<script>
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+/*
+var disqus_config = function () {
+this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+*/
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://caglayandemirci-github-io.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>                       
+{% endif %} 
 <br>
