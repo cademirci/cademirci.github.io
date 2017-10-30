@@ -23,6 +23,10 @@ title: Orta Düzeyde HTML ve CSS
 
 ### Orta Düzeyde HTML ve CSS 
 
+1. [CSS ile Sayfanın Smartphone Ekranı İçin Senkronizasyonu](https://caglayandemirci.github.io/cs/orta-duzeyde-html-ve-css#css-ile-sayfan%C4%B1n-smartphone-ekran%C4%B1-i%CC%87%C3%A7in-senkronizasyonu)
+2. [Default Desteklenmeyen Yazı Fontlarının Kullanımı](https://caglayandemirci.github.io/cs/orta-duzeyde-html-ve-css#default-desteklenmeyen-yaz%C4%B1-fontlar%C4%B1n%C4%B1n-kullan%C4%B1m%C4%B1)
+3. [İstenilen Şekilde Syntax Hightlighting](https://caglayandemirci.github.io/cs/orta-duzeyde-html-ve-css#i%CC%87stenilen-%C5%9Fekilde-syntax-hightlighting)
+
 #### CSS ile Sayfanın Smartphone Ekranı İçin Senkronizasyonu
 
 Kullanıcıların internete girdiği cihazların oranına baktığımızda telefonların bilgisayarları geçtiği bu onyılda, websitesi tasarlarken sayfanın tablet ve telefon gibi cihazlar için de verimli olması ve şık görünmesi, iyi hesaplanması elzem bir olgu haline geldi.
