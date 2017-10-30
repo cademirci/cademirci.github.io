@@ -19,4 +19,4 @@ Henüz bir albümleri, üç single'ları var. Pek ünlü değiller, [Encyclopedi
 
 Bunlar da başarılı bulduğum single kapakları. Yüz yıl sonra bir rock tarihçisi bu gruba denk gelirse, "bilgisayar çağının ilk zamanlarını vurgular şekilde donanım çizgilerinden grafikler yapmışlar" yorumunda bulunacak:
 
-<img src="http://i67.tinypic.com/21kdkrq.png" border="0" alt="Image and video hosting by TinyPic"></a>
+<img src="http://i67.tinypic.com/21kdkrq.png" border="0" alt="Image and video hosting by TinyPic">
