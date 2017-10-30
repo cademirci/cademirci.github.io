@@ -14,7 +14,7 @@ p {
 	font-family: verdana;
 	color: rgb(230,230,230);
 	font-size: 0.8em;
-	line-height:166%;
+	line-height: 100%;
 }
 .mainZone {
 	display: block;
@@ -41,6 +41,7 @@ p {
 .headerLinksZone {
 	height: 30px;
 	text-align: right;
+	padding-top: 15px;
 }
 .headerLink {
 	font-size: 14px;
@@ -117,6 +118,11 @@ a.footerLink:hover {
 .footerColumn {
 	float:left; 
 	margin-right:100px; 
+}
+.signatures {
+	color: rgb(75,75,75);
+	text-align: right;
+	line-height: 150%;
 }
 pre {
 	white-space: pre-wrap;       /* Since CSS 2.1 */
