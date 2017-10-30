@@ -100,6 +100,7 @@ a:hover {
 	color: rgb(100,50,50);
 	font-size: 12px;
 	font-family: verdana;
+	line-height:175%;
 }
 a.footerLink:hover {
 	color: rgb(170,100,100); 
