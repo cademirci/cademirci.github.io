@@ -27,46 +27,46 @@ p {
 	background-color: rgb(50,50,50);
 }
 .header {
-	height: 100px;
-	width: 720px;
-	padding-left: 20px; 
-	margin-left: auto;
-	margin-right: auto;
-	margin-top: 20px;
-	border-bottom-color: rgb(50,50,50);
-	border-bottom-style: solid;
-	border-left-color: rgb(50,50,50);
-	border-left-style: solid;
+	background-color: #000;
+	height: 42px;
+	margin: -8px;
+	margin-bottom: 0;
 }
-.headerLinksZone {
-	height: 30px;
-	text-align: right;
-	padding-top: 15px;
+.name,
+.catchphrase,
+.navbar {
+	float: left;
+	font-size: 1em;
+	font-family: navFont;
+	margin-top: 5px;
 }
-.headerLink {
-	font-size: 14px;
-	font-family: HLink;
-	color: white;
+.name {
+	padding-left: 25%;
+	color: #c8c8c8;
+}
+.catchphrase {
+	color: #323232;
+	margin-left: 5px;
+}
+.navbar {
+	padding-left: 10%;
+	color: #fff;
+}
+.navbar a {
+	color: #c8c8c8;
 	text-decoration: none;
-} @font-face {
-	font-family: HLink;
+	font-size: 15px;
+}
+.navbar a:hover {
+	color: white;
+}
+@font-face {
+	font-family: navFont;
 	src: url(fonts/OpenSans-CondBold.ttf);
 }
-a.headerLink:link {
-	color: white; 
-	text-decoration: none;
-}
-a.headerLink:hover {
-	color: white; 
-	text-decoration: underline;
-}
-a.headerLink:active {
-	color: red; 
-	text-decoration: none;
-}
-a.headerLink:visited {
-	color: white; 
-	text-decoration: none;
+@font-face {
+	font-family: defFont;
+	src: url(fonts/Calibri.ttf);
 }
 a {
 	color: rgb(0,255,0);
@@ -140,7 +140,6 @@ ul {
 	.footer,
 	.footerLinksZone,
 	.header,
-	.headerLinksZone,
 	.mainZone {
 		width: 95%;
 		margin-left: 0px;
@@ -160,5 +159,18 @@ ul {
 	}
 	.footer {
 		margin-bottom: 0px;
+	}
+	
+	.header {
+		height: 100px;
+	}
+	.name,
+	.catchphrase,
+	.navbar {
+		margin: 0;
+		margin-left: 5px;
+		padding: 0;
+		font-size: 1em;
+		margin-top: 5px;
 	}
 }
