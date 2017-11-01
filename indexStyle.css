@@ -11,9 +11,8 @@ body {
 	
 }
 p {
-	font-family: verdana;
+	font-family: defFont;
 	color: rgb(230,230,230);
-	font-size: 0.8em;
 	line-height: 100%;
 }
 .mainZone {
