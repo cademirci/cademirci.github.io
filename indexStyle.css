@@ -3,7 +3,7 @@ body {
 	
 	/* for background image times. */
 	/*
-	background-image: url(starsAndTree.jpg);
+	background-image: url(https://images2.alphacoders.com/688/thumb-1920-688947.jpg);
 	background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center; 
@@ -159,7 +159,7 @@ ul {
 		font-size: 1em;
 	}
 	.headerLink {
-		font-size: 0.85em;
+		font-size: 0.75em;
 	} 
 	.mainZone,
 	.footer,
