@@ -7,6 +7,9 @@
 		<link rel="icon" href="coloricon.png">
 		<link rel="stylesheet" href="tomorrow-night.css">
 		<script src="highlight.pack.js"></script><script>hljs.initHighlightingOnLoad();</script>
+		<style>
+			.footer { position: absolute; margin: 0; }
+		</style>
 	</head>
 	<body>
 		<div class="header">
@@ -20,38 +23,13 @@
 				<div class="navbar">
 					<a href="index.html">BLOG</a> &emsp;
 					<a href="CSmain.html">BİLGİSAYAR BİLİMLERİ</a> &emsp;
-					<a href="about.html" style="color: red">HAKKIMDA/İLETİŞİM</a>
+					<a href="about.html" style="color: lime">HAKKIMDA/İLETİŞİM</a>
 				</div>
 			</div>
 		</div>
 		<div class="mainZone">
 			<p> Her türlü yorum, soru ve görüşleriniz için mesaj atmaktan çekinmeyin:</p>
-			<p><b>demircicaglayan13 [at] gmail [dot] com</b></p><br><br>
-			
-			<p> Dilerseniz hazır gelmişken buradan da yollayabilirsiniz.</p>
-			<form method="post" action="">
-				<input type="text" id="email_address" name="name" 
-				style="background-color: black; color: gray; border: none; width: 50%; font-size:13px;" 
-				placeholder="Önce sizin adresinizi alalım..." required>
-			</form>
-			
-			<textarea id="idMailText" class="mailText" placeholder="Mesajınız da buraya lütfen..."></textarea>
-			<button style="background-color: gray; border: height: 25px;" onclick="sendMail(); return false">Gönder</button>
-			<br><br><br><br><br><br><br><br><br><br>
-			<br><br><br><br><br><br><br><br><br><br>
-			<br><br>
-			<!-- javascript code to send mail -->
-			<script type="text/javascript">
-			function sendMail() {
-				var link = 'mailto:demircicaglayan13@gmail.com?subject=Message from '
-							+ document.getElementById('email_address').value
-							+ '&body='+document.getElementById('idMailText').value;
-				window.location.href = link;
-				window.alert("Çıkan e-posta uygulamasından da Gönder'e tıkladıysanız \n mesajınız büyük ihtimalle çok güzel yollandı. \n Ama o kadar da javascript bilmiyorum. Siz  yine de çok emin olmayın.");
-			}
-			</script>
-			<!-- end -->
-			
+			<p><b>demircicaglayan13 [at] gmail [dot] com</b></p>
 		</div>
 		<div class="footer">
 			<div class="footerLinksZone">
