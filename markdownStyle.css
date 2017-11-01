@@ -4,7 +4,7 @@ body {
 .container-lg {
 	margin-top: 20px;
 	background-color: rgb(50,50,50);
-	border: 8px solid black,
+	border: 8px solid black;
 }
 .markdown-body h1 {
 	font-size: 0px;
