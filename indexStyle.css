@@ -158,7 +158,7 @@ ul {
 	.footerLink {
 		font-size: 1em;
 	}
-	.headerLink {
+	.navbar a {
 		font-size: 0.75em;
 	} 
 	.mainZone,
