@@ -2,7 +2,7 @@
 title: Temel Düzeyde HTML ve CSS
 comments: true
 ---
-<a href="../CSmain.html">&#8592; BİLGİSAYAR BİLİMLERİ</a><p2>29.10.2017</p2><br><br>
+<a href="../CSmain.html">&#8592; **BİLGİSAYAR BİLİMLERİ**</a><p2>29.10.2017</p2><br><br>
 <html><head>
 	<link rel="stylesheet" type="text/css" href="../markdownStyle.css">
 	<link rel="icon" href="../coloricon.png">

@@ -2,7 +2,7 @@
 title: Equilibrium Falls
 comments: true
 ---
-<a href="../index.html">&#8592; BLOG</a><p2>30.10.2017</p2><br><br>
+<a href="../index.html">&#8592; **BLOG**</a><p2>30.10.2017</p2><br><br>
 <html><head>
 	<link rel="stylesheet" type="text/css" href="../markdownStyle.css">
 	<link rel="icon" href="../coloricon.png">
