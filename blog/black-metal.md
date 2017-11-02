@@ -20,11 +20,15 @@ Doğru. Bu arkadaş mühendislikte okuyor, Opeth gibi progresif ya da Arch Enemy
 
 Kurgu karakter konuşturmanın zevkli örneklerini çoğaltabiliriz. Ama radyoda ne diyorduk? Şarlatanlığın alemi yok. Gelelim kendi fikrime. Tek bir cümleyle girişimi yapıyorum: Black metal böyle yapılmaz;
 
+<br><br>
 ![](https://consequenceofsound.files.wordpress.com/2013/02/gorgoroth_bandpic.jpg?quality=80&w=600&h=328)
 *Gorgoroth* 
+<br><br>
 
+<br><br>
 Böyle yapılır: ![](http://www.nuclearblast.de/de/data/imagedata/band-header/dissection-bandheader.jpg?x=940)
 *Dissection*
+<br><br>
 
 ### Black Metal
 
@@ -32,8 +36,10 @@ Bu konuyu irdelemeyi seviyorum. Çünkü metalin bu kolu, 80' sonu 90' başı v�
 
 En başta karanlık müziği çok severim; iyi enstrümanla desteklenmiş güçlü bir karanlık, sanırım dinlemeyi en sevdiğim şey. Buna rağmen saf black metali sevmem. Çünkü 80'den beri bu müziği yapanlar ve dinleyenler, karanlığı saf çığırından çıkmışlıkta arıyor, bunu yaparken *müzik sevme* sandıkları *insanları şoka uğratma* zevkini tattıklarından işin özünü kaçırıyor, sonra yine karanlığı saf çığırından çıkmışlıkta aramaya devam ederek bir kısır döngüye giriyorlar. Corpse paint makyaj çekip kafayı eğerek aşaıdan kızgın bakmalarının kaynağının sadece bu olduğunu düşünüyorum. Benim en sevdiğim black metal grubununsa duruşu şudur: 
 
+<br><br>
 ![](https://www.southernlord.com/press/wittrcelestiallineage/images/photo_large.jpg)
-<p class="imgp">*Wolves in the Throne Room*</p>
+*Wolves in the Throne Room*
+<br><br>
 
 devam edecek.
 

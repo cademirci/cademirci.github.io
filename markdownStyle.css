@@ -29,14 +29,6 @@ a {
 }
 code {
 	border: 1px solid grey;
-	margin: 20px;
-}
-img {
-	margin-top: 25px;
-	margin-bottom: 25px;
-}
-.imgp {
-	margin-top: -25px;
 }
 h2, h3, h4 {
 	color: rgb(200,200,250);
