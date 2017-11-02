@@ -33,8 +33,9 @@ Bu konuyu irdelemeyi seviyorum. Çünkü metalin bu kolu, 80' sonu 90' başı v�
 En başta karanlık müziği çok severim; iyi enstrümanla desteklenmiş güçlü bir karanlık, sanırım dinlemeyi en sevdiğim şey. Buna rağmen saf black metali sevmem. Çünkü 80'den beri bu müziği yapanlar ve dinleyenler, karanlığı saf çığırından çıkmışlıkta arıyor, bunu yaparken *müzik sevme* sandıkları *insanları şoka uğratma* zevkini tattıklarından işin özünü kaçırıyor, sonra yine karanlığı saf çığırından çıkmışlıkta aramaya devam ederek bir kısır döngüye giriyorlar. Corpse paint makyaj çekip kafayı eğerek aşaıdan kızgın bakmalarının kaynağının sadece bu olduğunu düşünüyorum. Benim en sevdiğim black metal grubununsa duruşu şudur: 
 
 ![](https://www.southernlord.com/press/wittrcelestiallineage/images/photo_large.jpg)
-*Wolves In The Throne Room*
+<p class="imgp">*Wolves in the Throne Room*</p>
 
+devam edecek.
 
 <br><br><br>
 <script id="dsq-count-scr" src="//caglayandemirci-github-io.disqus.com/count.js" async></script>
