@@ -2,12 +2,12 @@ body {
 	background-color: rgb(30,30,30);
 	
 	/* for background image times. */
-	/*
-	background-image: url(https://images2.alphacoders.com/688/thumb-1920-688947.jpg);
+	
+	background-image: url(bgi.jpg);
 	background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center; 
-	*/
+	
 	
 }
 p {
@@ -23,7 +23,7 @@ p {
 	margin-left: auto;
 	margin-right: auto;
 	margin-top: 20px;
-	background-color: rgba(50,50,50, 0.9);
+	background-color: rgba(50,50,50, 0.7);
 }
 .header {
 	background-color: #000;
