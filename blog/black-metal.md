@@ -36,7 +36,9 @@ Böyle yapılır: ![](http://www.nuclearblast.de/de/data/imagedata/band-header/d
 
 Bu konuyu irdelemeyi seviyorum. Çünkü metalin bu kolu, 80' sonu 90' başı vücut deformasyonu böğüren klasik death metal koluyla birlikte bu müziğin en uçarı (extreme) kolu. Bir müzik akımının en fazla nerelere gidebileceğini, insanların duygulanım yaşayabilecekleri en ilginç sanatlardan birinin nasıl olabileceği konusunu araştırmak hoşuma gidiyor. Ayrıca, nadiren de olsa bulabildiğim çok güzel gruplar da elde etmiyor değilim.
 
-En başta karanlık müziği çok severim; iyi enstrümanla desteklenmiş güçlü bir karanlık, sanırım dinlemeyi en sevdiğim şey. Buna rağmen saf black metali sevmem. Çünkü 80'den beri bu müziği yapanlar ve dinleyenler, karanlığı saf çığırından çıkmışlıkta arıyor, bunu yaparken *müzik sevme* sandıkları *insanları şoka uğratma* zevkini tattıklarından işin özünü kaçırıyor, sonra yine karanlığı saf çığırından çıkmışlıkta aramaya devam ederek bir kısır döngüye giriyorlar. Corpse paint makyaj çekip kafayı eğerek aşaıdan kızgın bakmalarının kaynağının sadece bu olduğunu düşünüyorum. Benim en sevdiğim black metal grubununsa duruşu şudur: 
+En başta karanlık müziği çok severim; iyi enstrümanla desteklenmiş güçlü bir karanlık, sanırım dinlemeyi en sevdiğim şey. *Ormanlara geceleri kar yağdığını söyleyen* diye bir cümleyle dramatize edebileceğim müzik türünden her zaman etkilenmişimdir. Gel gelelim adından görüntüsüne, yoğun şekilde yapıldığı ülkelerden temel melodi yürüyüşlerine, tam bu iş için biçilmiş kaftan olmasını beklediğimiz klasik/pure black metalin bunu hiç başaramamış olması gerçekten çok ilginç.
+
+Klasik/pure black metal dediğim şeyi hiç sevmem. Çünkü 80'den beri bu müziği yapanlar ve dinleyenler, karanlığı saf çığırından çıkmışlıkta arıyor, bunu yaparken *müzik sevme* sandıkları *insanları şoka uğratma* zevkini tattıklarından işin özünü kaçırıyor, sonra yine karanlığı saf çığırından çıkmışlıkta aramaya devam ederek bir kısır döngüye giriyorlar. Corpse paint makyaj çekip kafayı eğerek aşaıdan kızgın bakmalarının kaynağının sadece bu olduğunu düşünüyorum. Benim en sevdiğim black metal grubununsa duruşu şudur: 
 
 <br>
 ![](https://www.southernlord.com/press/wittrcelestiallineage/images/photo_large.jpg)
@@ -52,7 +54,7 @@ Bu saydığım üç grubun da saf black metal yapmadığını, balackened death,
 Dissection ve WITTR konusunda ayrı kritikler yazacağım. Şimdilik bu yazıyı, "genel bakış" sıfatıyla sunmama uygun olarak bırakıyorum. Daha nice ayrıntılı ve keyifli şekillerde konuşulabilir. Size belli bir bakış açısı veya nostalji/hatırlatma yaşattıysam amacıma ulaşmışımdır.
 
 Metalle kalın.  
-<iframe width="420" height="315" src="https://www.youtube.com/watch?v=XFwQd6XYhgk"></iframe> 
+[![ALT](https://img.youtube.com/vi/XFwQd6XYhgk/0.jpg)](https://www.youtube.com/watch?v=XFwQd6XYhgk) 
 
 <br><br><br>
 <script id="dsq-count-scr" src="//caglayandemirci-github-io.disqus.com/count.js" async></script>
