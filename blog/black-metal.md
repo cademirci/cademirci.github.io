@@ -18,17 +18,19 @@ Doğru. Bu arkadaş mühendislikte okuyor, Opeth gibi progresif ya da Arch Enemy
 
 "Kedi kesenler bunlar mıydı?": Bu da her sosyal ortamdan az çok bir şeyler duyan, kafası çalışır ama bilmez bir kız arkadaşımız. Kimsenin kedi kesmediğini söyleyerek kendisini rahatlatıyoruz.
 
-Kurgu karakter konuşturmanın zevkli örneklerini çoğaltabiliriz. Ama radyoda ne diyorduk? Şarlatanlığın alemi yok. Gelelim kendi fikrime. Tek bir cümleyle girişimi yapıyorum: Black metal böyle yapılmaz;
+"Alcest dinlerken ağlıyorum.": Kimsenin kendisini anlamadığını düşünen, derinlemesine ve kaliteli dinledği metal diskografilerinin yanında çok yanlış yerlerden de gelebilen siyah rujlu güzel arkadaşımız bu da. Onu doğrusuna yönlendirmeye çalışıyoruz.
 
-<br><br>
+Gelelim kendi fikrime (çünkü herkes yanlışını biliyor, ben mükemmelim). Tek bir cümleyle girişimi yapıyorum: Black metal böyle yapılmaz;
+
+<br>
 ![](https://consequenceofsound.files.wordpress.com/2013/02/gorgoroth_bandpic.jpg?quality=80&w=600&h=328)
 *Gorgoroth* 
-<br><br>
+<br>
 
-<br><br>
+<br>
 Böyle yapılır: ![](http://www.nuclearblast.de/de/data/imagedata/band-header/dissection-bandheader.jpg?x=940)
 *Dissection*
-<br><br>
+<br>
 
 ### Black Metal
 
@@ -36,12 +38,21 @@ Bu konuyu irdelemeyi seviyorum. Çünkü metalin bu kolu, 80' sonu 90' başı v�
 
 En başta karanlık müziği çok severim; iyi enstrümanla desteklenmiş güçlü bir karanlık, sanırım dinlemeyi en sevdiğim şey. Buna rağmen saf black metali sevmem. Çünkü 80'den beri bu müziği yapanlar ve dinleyenler, karanlığı saf çığırından çıkmışlıkta arıyor, bunu yaparken *müzik sevme* sandıkları *insanları şoka uğratma* zevkini tattıklarından işin özünü kaçırıyor, sonra yine karanlığı saf çığırından çıkmışlıkta aramaya devam ederek bir kısır döngüye giriyorlar. Corpse paint makyaj çekip kafayı eğerek aşaıdan kızgın bakmalarının kaynağının sadece bu olduğunu düşünüyorum. Benim en sevdiğim black metal grubununsa duruşu şudur: 
 
-<br><br>
+<br>
 ![](https://www.southernlord.com/press/wittrcelestiallineage/images/photo_large.jpg)
 *Wolves in the Throne Room*
-<br><br>
+<br>
 
-devam edecek.
+Norveç'ten tek nefeste sayabileceğimiz **Burzum**, **Mayhem**, **Immortal**, **Dimmu Borgir**, **Emperor** gibi grupların hiçbirinden tat alamadım. Norveç bu konuda garip bir ülke. Black metal ihracatıyla bilinir, sayısız black grubu barındırır, metalin çok yoğun şekilde dinlenip yapıldığı, dahası dünyanın en güzel ülkelerinden de biridir. Buna rağmen, en azından kendi açımdan, şöyle dişe dokunur bir şey çıkmamış olmaması meselesine üzülüyorum. Şu gezegende sevdiğim belli başlı üç black metal grubundan hiçbiri black metalin başkenti olan Norveç'ten çıkmıyor: Biri İsveç'den **Dissection**, biri İsviçre'den **Celtic Frost**; bu işin nasıl yapılması gerektiği konusunda en başarılı bulduğum grupsa Avrupalı bile değil: Washington ABD'li **Wolves in the Throne Room**.
+
+Yeri gelmişken ülke-metal ayrımı konusunda konuşmayı çok severim, insan metale ülke bazında baktığında birçok konuda aydınlanıyor. Şuraya geleceğim ki, İskandinavya'nın metalde patladığı 80' sonu 90' başı zamanlarda, İsveç müthiş bir sanat devrimiyle sert müziğin en iyi türü olduğunu düşündüğüm **Melodik Death Metal** akımını beynimize beynimize vururken, çoğu yönden kendisine benzeyen kardeşi, komşusu Norveç'in de sert müziğin en berbat türlerinden biri konusunda bu denli uzmanlaşmış olması son derecek ilginç bir konu. 
+
+Bu saydığım üç grubun da saf black metal yapmadığını, balackened death, folk-black, ambient, atmospheric gibi türlere kaydığını söyleyenler olabilecektir. Evet, ama yine de bunları black metal dahilinde saymak bence yanlış değil.
+
+Dissection ve WITTR konusunda ayrı kritikler yazacağım. Şimdilik bu yazıyı, "genel bakış" sıfatıyla sunmama uygun olarak bırakıyorum. Daha nice ayrıntılı ve keyifli şekillerde konuşulabilir. Size belli bir bakış açısı veya nostalji/hatırlatma yaşattıysam amacıma ulaşmışımdır.
+
+Metalle kalın.  
+<iframe width="420" height="315" src="https://www.youtube.com/watch?v=XFwQd6XYhgk"></iframe> 
 
 <br><br><br>
 <script id="dsq-count-scr" src="//caglayandemirci-github-io.disqus.com/count.js" async></script>
