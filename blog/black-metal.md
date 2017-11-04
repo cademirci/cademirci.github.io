@@ -8,6 +8,7 @@ comments: true
 	<link rel="icon" href="../coloricon.png">
 	<link rel="stylesheet" href="../tomorrow-night.css">
 	<script src="../highlight.pack.js"></script><script>hljs.initHighlightingOnLoad();</script>
+	<style>background-image:url(http://cdn.wonderfulengineering.com/wp-content/uploads/2013/12/metal-wallpaper-4.jpg);</style>
 </head></html>
 
 İnsan gibi müzik dinleyen bir insanın **black metal** hakkındaki ilk yorumu şudur: "Saçma sapan bir müzik türü. Metalin yüz karası. Satanizm yaftası yememizin tek sebebi. Ne müzikleri iyi ne de kendilerini anlayabiliyorum. Kilise yakma gibi olaylar da keza. Böylesi bir şiddeti ve ruh hastalığını aklım almıyor."
