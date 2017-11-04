@@ -54,7 +54,7 @@ Bu saydığım üç grubun da saf black metal yapmadığını, balackened death,
 Dissection ve WITTR konusunda ayrı kritikler yazacağım. Şimdilik bu yazıyı, "genel bakış" sıfatıyla sunmama uygun olarak bırakıyorum. Daha nice ayrıntılı ve keyifli şekillerde konuşulabilir. Size belli bir bakış açısı veya nostalji/hatırlatma yaşattıysam amacıma ulaşmışımdır.
 
 Metalle kalın.  
-[![ALT](https://img.youtube.com/vi/XFwQd6XYhgk/0.jpg)](https://www.youtube.com/watch?v=XFwQd6XYhgk) 
+[![ALT](https://img.youtube.com/vi/yTnfzWehaGg/0.jpg)](https://www.youtube.com/watch?v=yTnfzWehaGg) 
 
 <br><br><br>
 <script id="dsq-count-scr" src="//caglayandemirci-github-io.disqus.com/count.js" async></script>
