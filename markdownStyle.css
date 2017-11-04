@@ -31,8 +31,11 @@ a {
 code {
 	border: 1px solid grey;
 }
-h2, h3, h4 {
-	color: rgb(200,200,250);
+h2 {
+	font-family: Impact;
+}
+h3, h4 {
+	color: rgb(190,190,255);
 }
 ol,
 ul {
