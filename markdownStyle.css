@@ -1,10 +1,13 @@
 body {
 	background-color: rgb(30,30,30);
-	background-image:url(http://cdn.wonderfulengineering.com/wp-content/uploads/2013/12/metal-wallpaper-4.jpg)
+	background-image:url(http://cdn.wonderfulengineering.com/wp-content/uploads/2013/12/metal-wallpaper-4.jpg);
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
 }
 .container-lg {
 	margin-top: 20px;
-	background-color: rgb(50,50,50);
+	background-color: rgba(50,50,50,0.95);
 	border: 8px solid black;
 }
 .markdown-body h1 {
