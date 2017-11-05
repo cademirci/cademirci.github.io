@@ -38,7 +38,7 @@ Aslında bunun için yazmamız gereken kodlar oldukça basit. Öncelikle, HTML s
 
 CSS kodunu hiç karıştırmadan HTML'i bu şekilde kodlamak bile bazı şeyleri hallediyor. Örneğin bir background renginin üstüne düz yazıdan oluşan, div'siz ya da tek div'li bir sayfamız olsa, bu kod, o sayfanın tüm cihazlar için senkronizasyonunu sağlardı. Ancak doğal olarak böyle bir sayfa düşünmek anlamlı olmaz. Bu noktada birkaç CSS kodu yardımımıza koşuyor. Bunun için:
 
-`@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {}` syntaxında bir blok kullanılıyor. Örneğin bu site için eklediğim kod şu:
+`@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {}` syntaxında bir blok kullanılıyor. Örneğin bu site için eklediğim kod şu (edit: bu eski versiyon ama mantık aynı):
 
 ```css
 @media only screen and (min-device-width: 320px) and (max-device-width: 480px) { /* for phone screens */
@@ -110,10 +110,9 @@ p2 { /* Gothic Style Font */
 
 Bundan sonra istediğimiz yerde `<p2></p2>` diyerek ya da `<p style="font-family: myGothicFont;"></p>` şeklinde yazımızı kullanabiliriz.
 
-```html
-<p>Thorns of crimson death is a divine black metal song.</p>
-<p2>Thorns of crimson death is a divine black metal song.</p2> 
-```
+	<p>Thorns of crimson death is a divine black metal song.</p>
+	<p2>Thorns of crimson death is a divine black metal song.</p2> 
+
 <img src="http://i67.tinypic.com/2r2xbly.png" border="0" alt="Image and video hosting by TinyPic">
 
 Aslında yazarken bu kadar eğreti duracağını düşünmemiştim ama anlatmak istediğimi anlattım sanıyorum. Siz siz olun verdana, open sans, helvetica gibi klasik ve profesyonel görünümünü kaybetmeyen fontlardan vazgeçmeyin.
@@ -126,10 +125,8 @@ Klasik bir HTML-CSS kombinasyonunda, sayfada paylaşmak istediğiniz kodları `<
 
 Ekleyeceğiniz şey, `<head> </head>` içine yazacağınız şu kodlar olmalı:
 
-```html
-<link rel="stylesheet" href="tomorrow-night.css">
-<script src="highlight.pack.js"></script><script>hljs.initHighlightingOnLoad();</script>
-```
+	<link rel="stylesheet" href="tomorrow-night.css">
+	<script src="highlight.pack.js"></script><script>hljs.initHighlightingOnLoad();</script>
 
 Zira bu, sayfanızda paylaşım amaçlı birtakım kodlar bulunacağını, bunları renklendireceğinizi (buna highlighting denir), bunu highlight.pack.js adlı javascript kodu belgesi sayesinde yapacağınızı, bu yüzden de hljs.initHighlightingOnLoad() fonksiyonunu çağırmanız gerektiğini, bir de unutmadan bu iş için de tomorrow-night.css adlı siyah üstüne koyu renkler ihtiva eden seksi temayı seçtiğinizi ifade eder. Javascript kodunu sayfamdaki [şuradan](../highlight.pack.js), tomorrow night temasını da [buradan](../tomorrow-night.css) indirebilirsiniz. Ayrıca, [şu](https://highlightjs.org/) siteye giderek, birçok tema arasından istediğinizi indirebilirsiniz. Hatta temaların hepsinin demolarını da [buradan](https://highlightjs.org/static/demo/) görebilirsiniz.
 

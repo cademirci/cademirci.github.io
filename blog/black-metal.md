@@ -32,7 +32,7 @@ Böyle yapılır: ![](http://www.nuclearblast.de/de/data/imagedata/band-header/d
 *Dissection*
 <br>
 
-### Black Metal
+## Black Metal
 
 Bu konuyu irdelemeyi seviyorum. Çünkü metalin bu kolu, 80' sonu 90' başı vücut deformasyonu böğüren klasik death metal koluyla birlikte bu müziğin en uçarı (extreme) kolu. Bir müzik akımının en fazla nerelere gidebileceğini, insanların duygulanım yaşayabilecekleri en ilginç sanatlardan birinin nasıl olabileceği konusunu araştırmak hoşuma gidiyor. Ayrıca, nadiren de olsa bulabildiğim çok güzel gruplar da elde etmiyor değilim.
 

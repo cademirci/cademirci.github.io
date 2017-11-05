@@ -21,7 +21,7 @@ body {
 p {
 	color: rgb(230,230,230);
 }
-p2 { /* date of text created, above the page, right */
+p2 { /* date of text written, top-right of the page */
 	font-size: 0.8em;
 	float: right;
 }
@@ -34,10 +34,9 @@ code {
 h2 {
 	font-family: Impact;
 }
-h3, h4 {
-	color: rgb(190,190,255);
+h2, h3, h4 {
+	color: rgb(190,255,190);
 }
-ol,
-ul {
+ol, ul {
 	color: white;
 }
