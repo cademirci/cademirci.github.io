@@ -32,7 +32,7 @@ Problemimizde 1'lerin sayısı isteniyor. Bu problem brute force ile kolaylıkla
 ```python
 num_of_1s = 0
 loop_count = 0
-for i in plane:
+for i in matrix:
     for j in i:
         loop_count += 1
         if (j == '1'):
@@ -51,12 +51,12 @@ Bunun ikinci çözümü şudur:
 ```python
 num_of_1s = 0
 loop_count = 0
-col = len(plane[0]) # number of columns
-row = len(plane) # number of rows
-for i in range (0,row):
+col = len(matrix[0]) # number of columns
+row = len(matrix) # number of rows
+for i in range (0, row):
     for j in range (0, col):
         loop_count+= 1
-        if (plane[i][(col - j - 1)] == '1'):
+        if (matrix[i][(col - j - 1)] == '1'):
             num_of_1s += (col - j)
             col -= (j-1)
             break
