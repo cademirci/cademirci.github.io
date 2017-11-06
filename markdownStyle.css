@@ -31,11 +31,8 @@ a {
 code {
 	border: 1px solid grey;
 }
-h2 {
-	font-family: Impact;
-}
 h2, h3, h4 {
-	color: rgb(190,255,190);
+	color: #91ee91;
 }
 ol, ul {
 	color: white;
