@@ -12,9 +12,9 @@ comments: true
 
 ## Dissection 
 
-Black metal hakkında [https://caglayandemirci.github.io/blog/black-metal](https://caglayandemirci.github.io/blog/black-metal "şöyle") bir yazı yazmış ve **Dissection** ile **Wolves in the Throne Room** hakkında ayrı yazılar yazacağımdan bahsetmiştim.
+Black metal hakkında [şöyle](https://caglayandemirci.github.io/blog/black-metal) bir yazı yazmış ve **Dissection** ile **Wolves in the Throne Room** hakkında ayrı yazılar yazacağımdan bahsetmiştim.
 
-![](https://imgur.com/a/3tYNV)
+![](https://imgur.com/HhLp6hN)
 
 
 <br><br><br>
