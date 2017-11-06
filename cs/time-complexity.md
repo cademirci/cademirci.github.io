@@ -1,5 +1,5 @@
 ---
-title:
+title: Zaman Karmaşıklığı
 comments: true
 ---
 <a href="../CSmain.html">&#8592; **BİLGİSAYAR BİLİMLERİ**</a><p2>06.11.2017</p2><br><br>
@@ -68,6 +68,8 @@ print("Loop", loop_count, "times turned.")
 	Loop 23 times turned.
 
 *Time Complexity: O(nlogn)*
+
+Edit: Bu kodda ufak bir hata var ama ilk bakışta anlayamadım. Yine de işlem sayısı brute forceunkinden çok daha az ve 1'lerin sayısı doğru. Yalnızca, beklediğim kadar az değil.
 
 84 ile 23 sayıları arasındaki fark bilgisayar açısından yok denecek kadar az olabilir. Ancak bunun sebebi inputumuzun çok küçük olması. milyarXmilyar'lık bir matristeki farkı düşünmekte yarar var.
 

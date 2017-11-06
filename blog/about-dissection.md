@@ -14,7 +14,8 @@ comments: true
 
 Black metal hakkında [şöyle](https://caglayandemirci.github.io/blog/black-metal) bir yazı yazmış ve **Dissection** ile **Wolves in the Throne Room** hakkında ayrı yazılar yazacağımdan bahsetmiştim.
 
-![](https://i.imgur.com/UJ4XnYI.jpg)
+<br>![](https://wiebkerost.files.wordpress.com/2013/05/dissection_promopic_03.jpg)<br>
+
 
 
 <br><br><br>

@@ -1,5 +1,5 @@
 ---
-title:
+title: Black Metal
 comments: true
 ---
 <a href="../index.html">&#8592; **BLOG**</a><p2>03.11.2017</p2><br><br>
