@@ -65,7 +65,7 @@ print("Loop", loop_count, "times turned.")
 
 	number of 1s: 38
 	Loop 23 times turned.
-*Time Complexity: O(n)*
+*Time Complexity: O(nlogn)*
 
 84 ile 23 sayıları arasındaki fark bilgisayar açısından yok denecek kadar az olabilir. Ancak bunun sebebi inputumuzun çok küçük olması. milyarXmilyar'lık bir matristeki farkı düşünmekte yarar var.
 
