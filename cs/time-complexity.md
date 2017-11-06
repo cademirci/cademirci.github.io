@@ -43,7 +43,7 @@ print("Loop", loop_count, "times turned.")
 
 	number of 1s: 38
 	Loop 84 times turned.
-*Time Complexity: O(n^2)*
+<br>*Time Complexity: O(n^2)*
 
 Bunun ikinci çözümü şudur:
 
@@ -65,7 +65,7 @@ print("Loop", loop_count, "times turned.")
 
 	number of 1s: 38
 	Loop 23 times turned.
-*Time Complexity: O(nlogn)*
+<br>*Time Complexity: O(nlogn)*
 
 84 ile 23 sayıları arasındaki fark bilgisayar açısından yok denecek kadar az olabilir. Ancak bunun sebebi inputumuzun çok küçük olması. milyarXmilyar'lık bir matristeki farkı düşünmekte yarar var.
 
@@ -109,7 +109,7 @@ public static int pow(int base, int p) {
 Üçüncü örneğimizde iki adet aynı boyutlu array olsun. arr2'nin her bir elemanı, arr1'de 0'dan eleman numarasına kadar olan sayıların ortalamasıdır. yani:
 
 arr1: 0 4 2 6 ... i ... N
-arr2: 0 2 3 3 ... Sigma(0'dan i'ye) / i ... Sigma(0'dan N'ye) / N
+<br>arr2: 0 2 3 3 ... Sigma(0'dan i'ye) / i ... Sigma(0'dan N'ye) / N
 
 ```java
 int a = 0;
