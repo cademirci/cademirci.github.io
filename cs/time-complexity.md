@@ -2,7 +2,7 @@
 title:
 comments: true
 ---
-<a href="../CSmain.html">&#8592; BİLGİSAYAR BİLİMLERİ</a><p2>06.11.2017</p2><br><br>
+<a href="../CSmain.html">&#8592; **BİLGİSAYAR BİLİMLERİ**</a><p2>06.11.2017</p2><br><br>
 <html><head>
 	<link rel="stylesheet" type="text/css" href="../markdownStyle.css">
 	<link rel="icon" href="../coloricon.png">
@@ -43,7 +43,8 @@ print("Loop", loop_count, "times turned.")
 
 	number of 1s: 38
 	Loop 84 times turned.
-<br>*Time Complexity: O(n^2)*
+
+*Time Complexity: O(n^2)*
 
 Bunun ikinci çözümü şudur:
 
@@ -65,7 +66,8 @@ print("Loop", loop_count, "times turned.")
 
 	number of 1s: 38
 	Loop 23 times turned.
-<br>*Time Complexity: O(nlogn)*
+
+*Time Complexity: O(nlogn)*
 
 84 ile 23 sayıları arasındaki fark bilgisayar açısından yok denecek kadar az olabilir. Ancak bunun sebebi inputumuzun çok küçük olması. milyarXmilyar'lık bir matristeki farkı düşünmekte yarar var.
 
