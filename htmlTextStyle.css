@@ -1,0 +1,28 @@
+body {
+	background-color: rgb(20,20,20);
+}
+.mainZone {
+	margin: auto;
+	padding: 10px;
+	width: 50%;
+	margin-top: 20px;
+	background-color: rgba(50,50,50,0.95);
+	border: 8px solid black;
+}
+p {
+	font-family: defFont;
+	color: rgb(230,230,230);
+	line-height: 100%;
+}
+h2, h3, h4 {
+	color: #91ee91;
+}
+iframe {
+	border: none;
+	margin-left: 10%;
+}
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) { /* for phone screens */
+	.mainZone {
+		width: 95%;
+	}
+}
