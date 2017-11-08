@@ -13,6 +13,9 @@ p {
 	font-family: defFont;
 	color: rgb(230,230,230);
 	line-height: 100%;
+} @font-face {
+	font-family: defFont;
+	src: url(fonts/Calibri.ttf);
 }
 h2, h3, h4 {
 	color: #91ee91;
