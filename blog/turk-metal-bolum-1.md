@@ -37,7 +37,7 @@ Türk metali dendiğinde herkesin dilinde olan ve bunda çok da haksız olmadık
 
 <iframe src="https://open.spotify.com/embed/album/3xbXA8MGqWDgvu5CdbLqnr" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
 
-Bu Spotify listesi ile size sunduğum **Carpe Mortem**, Türk metal tarihinin en sevdiğim albümü sanırım. İnsan bunu dinleyince "olmuş" lafını etmekten rahatlıkla edebiliyor, bir İsveç death metal grubu dinliyormuş gibi hissediyorsunuz kendinizi. Bu grup Türkiye'de yalnızca metalciler arasında bilinirken, Avrupa'ya gittiği turnelerde (evet gidiyorlar) "RESPECT" afişleriyle karşılanıyorlar.   
+Bu Spotify listesi ile size sunduğum **Carpe Mortem**, Türk metal tarihinin en sevdiğim albümü sanırım. İnsan bunu dinleyince "olmuş" lafını rahatlıkla edebiliyor, bir İsveç death metal grubu dinliyormuş gibi hissediyorsunuz kendinizi. Bu grup Türkiye'de yalnızca metalciler arasında bilinirken, Avrupa'ya gittiği turnelerde (evet gidiyorlar) "RESPECT" afişleriyle karşılanıyorlar.   
 
 **Comatose**, **Keşke**, **Torture My Soul**, **Exile** bu albümden favori şarkılarım. Pentagram coverı **Fly Forever** da ayrı bir tat. 
 
