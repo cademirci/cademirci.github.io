@@ -151,7 +151,7 @@ ul {
 		width: 95%;
 		margin-left: 0px;
 		margin-right: 0px;
-		position: relative;
+		position: static;
 	}
 	p,
 	.footerLink {
