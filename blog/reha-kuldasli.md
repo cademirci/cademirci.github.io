@@ -14,7 +14,7 @@ comments: true
 
 Arada bir hayal ederim: şöyle ambient, karanlık, elektronikle karışık, insanı karanlık ormanlara götüren tek kişilik bir post-black-metal projesi yapsam. Meğer yapan varmış, hem de aynı şehirde oturuyormuşuz.
 
-Dinleyin: [Burası](https://soundcloud.com/reha-kulda-l) onun SoundCloud hesabı. Oturup hepsini ardı ardına dinledim. Bir başlangıç tavsiyesi isteyenler için Where Nothing Begins diyebilirim. 
+Dinleyin: [Burası](https://soundcloud.com/reha-kulda-l) onun SoundCloud hesabı. Oturup hepsini ardı ardına dinledim. Bir başlangıç tavsiyesi isteyenler için **Where Nothing Begins** diyebilirim. 
 
 Kendisini ilk kez [şu](https://www.youtube.com/watch?v=PmbfaDA48Lc) videoyu izlerken 2:40'ıncı saniyede gördüm. İsveç Death Metali ve Norveç Black Metali gibi ülke-sound eşleştirmelerinde kendimize bir yer bulamadığımızdan bahsediyordu. Videonun, Türkiye'de metalin parlayıp sönmesinden bahseden yapısına oturan bir konuşmaydı. Geleneksel enstrüman katılmış metalin de tutarlılığının olmadığı konusunda kendisine ayrıca katılıyorum.
 
