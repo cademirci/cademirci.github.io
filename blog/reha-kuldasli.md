@@ -20,9 +20,11 @@ Kendisini ilk kez [şu](https://www.youtube.com/watch?v=PmbfaDA48Lc) videoyu izl
 
 Kendisini kısaca araştırdım, yanlış anlamadıysam ODTÜ Felsefe Bölümü'nde bir şeyler yapıyor. Açık bir CV'sini çok da bulmaya çalışmadım.
 
-**Shivers by the Abyss** projesini olağanüstü buldum. İşte böyle işleri çok seviyorum. Karanlık müzik. Ve ancak ve ancak katıksız sevgiden ortaya çıkmış karanlık müzik. Popülerite ya da para arzusuyla değil ama, insanın kendi karakterine duyduğu saygı ve onun donanımına katkıda bulunma arzusundan doğmuş bir kalite. 
+**Shivers by the Abyss** projesini olağanüstü buldum. Böyle işleri gerçekten çok seviyorum. Karanlık müzik; ve ancak ve ancak katıksız sevgiden ortaya çıkmış karanlık müzik. Popülerite ya da para arzusuyla değil ama, insanın kendi karakterinde bulduğu bu müziği icra etme güdüsünden doğmuş ve o karaktere katkıda bulunan bir kalite. 
 
 Black metal nedir, nasıl ypaılmalıdır, elektronik müzikle yan yana düşünülebilir mi, karanlık elektronik nedir gibi konularda ders niteliğinde bir yapıta imza atmış Reha Kuldaşlı. 
+
+Kendisi aynı zamanda **Forgotten**'da gitar pozisyonunda yer alıyor.
 
 [Şuradaki](https://twitter.com/rehakuldasli/status/899364122952957952) tweet'inde Ankara'dan bahsedişi ve bunu bir **Ulver** parçasıyla destekleyişi de dikkatimi çekti. Ulver de kendisininkine benzer işler yapan bir Norveçli grup.
 
