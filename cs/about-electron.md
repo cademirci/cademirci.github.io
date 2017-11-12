@@ -16,7 +16,7 @@ Aslında bu başlığı "Electron ile Masaüstü Uygulaması Yapımı" şeklinde
 
 Electron diye bir framework var ki, size HTML, CSS ve Javascript kullanarak masaüstü uygulamaları yapabilme imkanı sunuyor. Kendilerinin siteleri [burada](https://electron.atom.io/). Biraz aşağıdaki "watch the video"yu tıklarsanız, amaçlarını gayet güzel açıklamışlar. 
 
-Burada asıl mesele, iyi bir Jvascript bilgisi. HTML ve CSS biraz cebimde var ama, uzun zamandır şu JS'yı adam gibi öğrenme planları yapıyorum. Bir gün oturup w3schools'tan teker teker tutoriallarını bitirip Electron kullanarak eli yüzü düzgün bir uygulama geliştireceğim. Hayırlısı.
+Burada asıl mesele, iyi bir Javascript bilgisi. HTML ve CSS biraz cebimde var ama, uzun zamandır şu JS'yı adam gibi öğrenme planları yapıyorum. Bir gün oturup w3schools'tan teker teker tutoriallarını bitirip Electron kullanarak eli yüzü düzgün bir uygulama geliştireceğim. Hayırlısı.
 
 Bu yazılım, temelde her browser penceresinin bir desktop app (yukarıda duyarlılık yaparak Türkçe yazdığım kimi şeyleri tekrar ederken İngilizce'ye dönmek bu blogda sıkça yaptığım bir şey. Şimdi aklıma gelmiş olsa da ilerdeki örnekler için bu parantezleri burada bırakıyorum) şekline sokulabileceği teorisinden yola çıkıyor. Örneğin kendi sitemi Electron platformundan çalıştırdığımda şöyle bir pencereyle karşılaşıyorum: 
 
@@ -99,7 +99,7 @@ app.on('ready', function() {
 
 Bu fonksiyon, blogda da bir zamana kadar kullandığım mail atılabilen küçük bir yazı alanıydı. Tıpkı bu uygulamayı çalıştırdığımızda karşımıza çıkan şu uygulama gibi:
 
-![](http://i67.tinypic.com/soa5oi.png)
+![](http://i63.tinypic.com/2m3qx6q.png)
 
 Şimdi denediğimde çalışmadı, bu muhtemelen Electron'un internet bağlantısı kullanmaması ile ilgili, ya da bunu yapmak için birkaç satır birşey daha gerekiyordur. Emin değilim. 
 
