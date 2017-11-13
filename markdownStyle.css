@@ -4,7 +4,7 @@ body {
 }
 .container-lg {
 	margin-top: 20px;
-	background-color: rgba(50,50,50,0.95);
+	background-color: rgba(40,40,42,0.95);
 	border: 8px solid black;
 }
 .markdown-body h1 {
