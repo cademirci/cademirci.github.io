@@ -105,7 +105,12 @@ Bu fonksiyon, blogda da bir zamana kadar kullandığım mail atılabilen küçü
 
 *
 
-Electron'u Windows üzerinde çalıştırmak için kendi sitelerinden onu ve **Node.js** gibi gereklilikleri indirdikten sonra; uygulama klasörü oluşturma ve çalıştırma için Youtube gibi çeşitli yerlerdeki tutoriallara bakmanızı önerimim. Bash ve javascript bilmeyen biri için altından kalkması bir saat gibi bir zaman alabilir.   
+Electron'u Windows üzerinde çalıştırmak için kendi sitelerinden onu ve **Node.js** gibi gereklilikleri indirdikten sonra; uygulama klasörü oluşturma ve çalıştırma için Youtube gibi çeşitli yerlerdeki tutoriallara bakmanızı önerimim. Bash ve javascript bilmeyen biri için altından kalkması bir saat gibi bir zaman alabilir.  
+
+#### Peki Neden Electron Kullanalım?
+
+Sayfa tasarımı bilenler için, programlamayla uğraşanların haberdar olduğu GUI'den çok daha pratik bir çözüm olarak karşımıza çıkıyor. Öğrenmenin bu dönemde bir kazanç olacağı Javascript ile uygulama geliştirebilmeyi sağlıyor. Bir sayfayı şekillendirmek konusunda açık ara en basit ve güçlü çözüm olarak bildiğim **CSS** ile uygulamanızın her pikseline hakim olmanıza olanak tanıyor. Önceden biraz kullanmışlığım olan **Python Tkinter** ya da **Java GUI** gibi yazılımlarda, genelde programcı karşısında bir grafik olarak görünen ve doğru çalışan bir programdan daha fazlasına uğraşmak istemiyor ya da elinde öyle bir araç bulamıyor; Java GUI'de bir butonun yazı fontunu, kenarlık rengini, sayfada pikseli pikseline tam olarak nerede duracağını vs nasıl ayarlayacağız mesela ben bilmiyorum. Her şey bir yana, böyle güzel tasarlanmış **Open Source** projelere olan güvenim gün geçtikçe artıyor.
+
 <br><br><br>
 <script id="dsq-count-scr" src="//caglayandemirci-github-io.disqus.com/count.js" async></script>
 <a href="http://foo.com/bar.html#disqus_thread"></a>
