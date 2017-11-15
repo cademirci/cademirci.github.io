@@ -26,7 +26,8 @@ p {
 	margin-left: auto;
 	margin-right: auto;
 	margin-top: 20px;
-	background-color: rgba(40,40,42, 0.7);
+	background-color: rgba(12,12,12, 0.7);
+	text-align: center;
 }
 .header {
 	background-color: #000;
@@ -106,18 +107,19 @@ a:hover {
 	height: 205px;
 }
 .footerLinksZone {
-	width: 70%;
 	height: 200px;
 	margin-left: auto;
 	margin-right: auto;
+	float: left;
+	margin-left: 15%;
 }
-.footerLink {
+.footer a {
 	color: rgb(90,90,90);
 	font-size: 15px;
 	font-family: defFont;
 	line-height:175%;
 }
-a.footerLink:hover {
+.footer a:hover {
 	color: rgb(166,166,166); 
 	text-decoration: none;
 }
@@ -131,6 +133,8 @@ a.footerLink:hover {
 	color: #323232;
 	text-align: right;
 	line-height: 150%;
+	float: right;
+	margin-right: 15%;
 }
 pre {
 	white-space: pre-wrap;       /* Since CSS 2.1 */
