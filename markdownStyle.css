@@ -11,9 +11,11 @@ body {
 	font-size: 0px;
 	border-bottom: 0px;
 }
+/*
 .markdown-body .highlight pre, .markdown-body pre {
     background-color: #1d1f21;
 }
+*/
 .highlight .o { 
 	font-weight: normal;
 	color: rgb(200,200,200);
@@ -27,9 +29,6 @@ p2 { /* date of text written, top-right of the page */
 }
 a {
 	color: lime;
-}
-code {
-	border: 1px solid grey;
 }
 h2, h3, h4 {
 	color: #91ee91;
