@@ -16,9 +16,9 @@ body {
 }
 code {
 	border: 1px solid gray;
-	background-color: ghostwhite;
-	color: #ff0066;
+	color: ghostwhite;
 	font-size: 0.8em;
+	size: 0.8em;
 }
 .highlight .o { 
 	font-weight: normal;
