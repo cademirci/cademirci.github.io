@@ -13,7 +13,7 @@ comments: true
 `Create_Page` diye bir python programı yazdım. Siteme yazı eklerken kullandığım ufak ve tatlı bir program oldu. Jekyll kullanmayan, normal php-kontrollü serverlarda `php` ile yapılan işi ben kendi bilgisayarımda python çalıştırarak yapıyorum diye düşünülebilir. Ben Markdown editörden, word dosyasına yazı yazar gibi yazımı tamamlıyorum. Ardından Programın yaptıkları şöyle: 
 
 
-1) O Word'e yazı yazar gibi yazıyorum dediğim belgenin adını her zaman için `empty_md_page.md` koydum. Program bu belgeyi okunmak açıyor. 
+1) O Word'e yazı yazar gibi yazıyorum dediğim belgenin adını her zaman için `empty_md_page.md` koydum. Program bu belgeyi okunmak üzere açıyor. 
 
 
 2) Markdown sayfalarında kullandığım en büyük başlık `##` ile başladığından, program bu işaret ile başlayan satırı bulup bunun markdown belgesinin ismi olacağını varsayıyor ve bana soruyor: `belge ismin baslik gibi olsun mu? (y/n)`
@@ -62,9 +62,9 @@ sayesinde, bu sayfanın başında gördüğünüz, uygun olan ana sayfaya (cs ya
 ```
 
 
-9) empy_md_page'de yazdığım içeriği ekliyor.
+9) empty_md_page'de yazdığım içeriği ekliyor.
 
-10) Disqus yazılım markası taşıyan yorum kutularının sayfa yerleşim kodunu ekliyor:
+10) Disqus imzası taşıyan yorum kutularının sayfa yerleşim kodunu ekliyor:
 
 ```html
 <br><br><br>
@@ -85,7 +85,7 @@ s.setAttribute('data-timestamp', +new Date());
 <br>
 ```
 
-11) Program, sitede `index.html` (blog) veya `csmain.html` için bir html tagi sunuyor. Ana sayfalarımdaki "SON YAZILAR" başlığı altındaki linklerin şekli şemali tam olarak bu. Program bana `ufak bi description?` sorusu yönelterek "Bu siteden örneklerle kısaca:" gibi şeyler yazmama olanak tanıyor. Boş kalmasını tercih edersem de souyla birlikte enter'a basıyorum. 
+11) Program, sitede `index.html` (blog) veya `csmain.html` için bir html tagi sunuyor. Ana sayfalarımdaki "SON YAZILAR" başlığı altındaki linklerin şekli şemali tam olarak bu. Program bana `ufak bi description?` sorusu yönelterek "Bu siteden örneklerle kısaca:" gibi şeyler yazmama olanak tanıyor. Boş kalmasını tercih edersem de soruyla birlikte enter'a basıyorum. 
 
 `<p>19.11.2017 - Bu siteden örneklerle kısaca: <a href="https://caglayandemirci.github.io/cs/191117python_ile_sayfa_belgesi_yonetimi.md">Python İle Sayfa Belgesi Yönetimi</a></p>`
 
