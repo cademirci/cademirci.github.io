@@ -10,20 +10,24 @@ comments: true
 </head></html>
 ## Python İle Sayfa Belgesi Yönetimi
 
-1. Zaman Yazdırma ve Şekillendirme
-
 `Create_Page` diye bir python programı yazdım. Siteme yazı eklerken kullandığım ufak ve tatlı bir program oldu. Jekyll kullanmayan, normal php-kontrollü serverlarda `php` ile yapılan işi ben kendi bilgisayarımda python çalıştırarak yapıyorum diye düşünülebilir. Ben Markdown editörden, word dosyasına yazı yazar gibi yazımı tamamlıyorum. Ardından Programın yaptıkları şöyle: 
+
 
 1) O Word'e yazı yazar gibi yazıyorum dediğim belgenin adını her zaman için `empty_md_page.md` koydum. Program bu belgeyi okunmak açıyor. 
 
+
 2) Markdown sayfalarında kullandığım en büyük başlık `##` ile başladığından, program bu işaret ile başlayan satırı bulup bunun markdown belgesinin ismi olacağını varsayıyor ve bana soruyor: `belge ismin baslik gibi olsun mu? (y/n)`
 
+
 3) "y" cevabını verdiğim anda, örneğin bu sayfada, "Python İle Sayfa Belgesi Yönetimi" stringini alıp büyük harfleri küçültüyor, Türkçe karakterleri latin versiyonlarıyla değiştiriyor, boşlukların yerine de alttire koyuyor: `python_ile_sayfa_belgesi_yonetimi`
+
 
 4) Program çalıştığı anda bigisayardan aldığı zaman ile sayfaya bir yazılma/oluşturulma zamanı atıyor. Bunun belge adının başına koyulacak kısmı da "19.11.2017" bilgisinden aldığı, aralarda noktasız bir şekliyle şöyle: `191117`. Bunu da belge adının başına ekliyor Ardından markdown sayfalarının uzantısı olan  `.md`'yi de eklediğinde belge adımız hazır: `191117python_ile_sayfa_belgesi_yonetimi.md`
 	- 2. maddede "n" cevabını verseydim ikinci soruyla karşılaşacaktım: `peki ne olsun?`. Ardından girdimi isim olarak alacaktı (_ gibi şeyleri koyup koymamak bana kalmış) ve kendisi başına tarihi, sonuna da .md'yi ekleyecekti.
 
+
 5) Daha sonra bana sorduğu soru: `directory?` (Windows'ta klasör isimleri "folder"dır ama Linux dili kullanmayı hep daha çok sevmişimdir). Klasör adını `cs` (computer science) ya da `blog` şeklinde giriyorum. Bu belge adını kullanarak daha sonra bir *link adı*, bir de *yol adı* oluşturuyor. Örneğin oluşturduğu link şu: `https://caglayandemirci.github.io/cs/191117python_ile_sayfa_belgesi_yonetimi.md`. Öte yandan path_name'de tuttuğum isim ise, bu siteyi offline şekilde barındırdığım klasörümün yolunu ifade ediyor. Orada cs ve blog adında iki klasör var, program belgeyi oluşturup onu bu klasörlerden uygun olanın içine koyuyor.  
+
 
 6) Markdownda, browser sekmesi ismi koymak şu şakilde yapılır:
 
@@ -34,6 +38,7 @@ title:
 ```
 html'de `<header>` içindeki `<title>` yani bu. 3. maddede ## önünde görerek aldığı başlık adını buraya olduğu gibi koyuyor. Türkçesiyle falan.
 
+
 7) 
 ```python
 if cs:
@@ -43,6 +48,7 @@ else:
 ```
 
 sayesinde, bu sayfanın başında gördüğünüz, uygun olan ana sayfaya (cs ya da blog, burada cs) link veren "**BİLGİSAYAR BİLİMLERİ**" ve sağa yapışık (`markdownStyle.css` belgesinde `float: right;`) tarihler bu şekilde oluşturuluyor.
+
 
 8) Markdown da html taglerini kabul ettiğinden, ben şu ana kadar css, kod renklendirme, browser sekmesi ikonu gibi belgeleri burada atadım. **Kramdown** gibi yapılarda daha basit şekilde yapılıyor ama ihtiyaç duymadım. Başından beri böyle yaptım. Böylece program belgeye şunu da doğruca ekliyor:
 
@@ -55,7 +61,9 @@ sayesinde, bu sayfanın başında gördüğünüz, uygun olan ana sayfaya (cs ya
 </head></html>
 ```
 
+
 9) empy_md_page'de yazdığım içeriği ekliyor.
+
 10) Disqus yazılım markası taşıyan yorum kutularının sayfa yerleşim kodunu ekliyor:
 
 ```html
@@ -89,6 +97,8 @@ Programı çalıştırdığımda ve yazacaklarımı yazdığımda, terminal ekra
 Böylece birazcık daha profesyonel bir site yönetimine sahip olmuş oluyoruz. Ama her zamanki gibi çokça eksik var. Bunlar zamanla giderilebilir. Adamların bir yazılıma neden sürekli update getirdiklerini, insan yazılımla uğraşınca anlıyor.
 
 Kodun tamamı, kendi bilgisayarımın içindeki yolları gösteren yerlerde " _path_ " olacak şekilde en aşağıda.
+
+*
 
 ### Zaman Yazdırma ve Şekillendirme
 
