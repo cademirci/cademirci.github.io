@@ -6,8 +6,6 @@ comments: true
 <html><head>
 	<link rel="stylesheet" type="text/css" href="../markdownStyle.css">
 	<link rel="icon" href="../coloricon.png">
-	<link rel="stylesheet" href="../tomorrow-night.css">
-	<script src="../highlight.pack.js"></script><script>hljs.initHighlightingOnLoad();</script>
 </head></html>
 ## Python İle Sayfa Belgesi Yönetimi
 
