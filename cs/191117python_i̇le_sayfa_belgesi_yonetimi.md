@@ -4,8 +4,10 @@ comments: true
 ---
 <a href="../CSmain.html">&#8592; **BİLGİSAYAR BİLİMLERİ**</a><p2>19.11.2017 Paz 22:40:58</p2><br><br>
 <html><head>
-	<link rel="stylesheet" type="text/css" href="../markdownStyle.css">
-	<link rel="icon" href="../coloricon.png">
+<link rel="stylesheet" type="text/css" href="../markdownStyle.css">
+<link rel="icon" href="../coloricon.png">
+<link rel="stylesheet" href="../tomorrow-night.css">
+<script src="../highlight.pack.js"></script><script>hljs.initHighlightingOnLoad();</script>
 </head></html>
 ## Python İle Sayfa Belgesi Yönetimi
 
