@@ -31,12 +31,16 @@
 			</div>
 		</div>
 		<div class="mainZone">
-			<p><b>SON YAZILAR</b></p>
+			<p><b>SON YAZILAR (5)</b></p>
 			<p>19.11.2017 - Bu siteden örneklerle kısaca:  <a href="https://caglayandemirci.github.io/cs/191117python_i̇le_sayfa_belgesi_yonetimi">Python İle Sayfa Belgesi Yönetimi</a></p>
 			<p>13.11.2017 - Javascript meraklıları için, masaüstü uygulamaları yapmaya yarayan bir platform:<br><a href="https://caglayandemirci.github.io/cs/about-electron">Electron Hakkında</a></p>
 			<p>06.11.2017 - Birkaç örnek: <a href="https://caglayandemirci.github.io/cs/time-complexity">Zaman Karmaşıklığı</a></p>
 			<p>29.10.2017 - <a href="https://caglayandemirci.github.io/cs/orta-duzeyde-html-ve-css"> Orta Düzeyde HTML ve CSS</a></p>
 			<p>29.10.2017 - <a href="https://caglayandemirci.github.io/cs/temel-duzeyde-html-ve-css"> Temel Düzeyde HTML ve CSS</a></p>
+			<p>Hepsini göreyim. <span><button class="downToRestButton" onclick="myFunction()">&dArr;</button></span> (yeniden eskiye)</p>
+			<div id="hiddenLinks" style="display: none">
+				<p>Başka yazı yok ki.</p>
+			</div>
 			<br><p><b>İNDİRİLEBİLECEK KODLAR</b></p>
 			<p>Buraya spesifik bir yazı konusu olarak sunmadığım, doğrudan rar arşivlerimi indirerek inceleyebileceğiniz birkaç kod koyuyorum.</p>
 			<p><a href="cs/code_src/C_ds_example1.rar">&darr; C örneği 1</a></p>
@@ -63,5 +67,15 @@
 				Comment boxes by <b>Disqus</b>. Proudly hosted by <b>GitHub</b>
 			</div>
 		</div>
+		<script>
+			function myFunction() {
+				var x = document.getElementById("hiddenLinks");
+				if (x.style.display === "block") {
+					x.style.display = "none";
+				} else {
+					x.style.display = "block";
+				}
+			}
+		</script>
 	</body>
 </html>

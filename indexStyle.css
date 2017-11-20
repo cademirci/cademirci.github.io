@@ -147,6 +147,17 @@ pre {
 ul {
 	color: white;
 }
+.downToRestButton {
+    background-color: black;
+    border: 1px solid lime;
+    color: white;
+	padding: 2px 7px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 0.75em;
+    margin: 4px 2px;
+    cursor: pointer;
+}
 @media only screen and (min-device-width : 320px) and (max-device-width : 480px) { /* for phone screens */
 	.footer,
 	.footerLinksZone,

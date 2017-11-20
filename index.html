@@ -31,8 +31,8 @@
 			</div>
 		</div>
 		<div class="mainZone">
-			<p><b>SON YAZILAR</b></p>
-			<!--sign_c137_for CP.py-->
+			<p><b>SON YAZILAR (5)</b></p>
+			<!--sign_c137_for CP.py--> 
 			<p>12.11.2017 - Kısa bir övgü: <a href="https://caglayandemirci.github.io/blog/reha-kuldasli">Reha Kuldaşlı</a></p>
 			<p>
 				09.11.2017 - <a href="https://caglayandemirci.github.io/blog/turk-metal-bolum-1"> Türk Metal, Bölüm 1</a><br>
@@ -41,6 +41,10 @@
 			<p>03.11.2017 - Genel bakış: <a href="https://caglayandemirci.github.io/blog/black-metal"> Black Metal</a></p>
 			<p>30.10.2017 - Kısa bir grup analizi: <a href="https://caglayandemirci.github.io/blog/equilibrium-falls"> <i></i> Equilibrium Falls</a></p>
 			<p>22.02.2017 - <a href="https://caglayandemirci.github.io/blog/alternatif-dunya-ozlemi"> Alternatif Dünya Özlemi</a></p>
+			<p>Hepsini göreyim. <span><button class="downToRestButton" onclick="myFunction()">&dArr;</button></span> (yeniden eskiye)</p>
+			<div id="hiddenLinks" style="display: none">
+				<p>Başka yazı yok ki.</p>
+			</div>
 		</div>
 		<div class="footer">
 			<div class="footerLinksZone">
@@ -63,5 +67,15 @@
 				Comment boxes by <b>Disqus</b>. Proudly hosted by <b>GitHub</b>
 			</div>
 		</div>
+		<script>
+			function myFunction() {
+				var x = document.getElementById("hiddenLinks");
+				if (x.style.display === "block") {
+					x.style.display = "none";
+				} else {
+					x.style.display = "block";
+				}
+			}
+		</script>
 	</body>
 </html>
