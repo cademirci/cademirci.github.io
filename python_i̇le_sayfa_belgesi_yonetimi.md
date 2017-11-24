@@ -4,7 +4,7 @@ comments: true
 layout: default
 ---
 <p2>22.02.2017</p2><br><br>
-<link rel="stylesheet" type="text/css" href="githubSH-Dark.css">
+
 
 ## Python İle Sayfa Belgesi Yönetimi
 
