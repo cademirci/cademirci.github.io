@@ -1,4 +1,5 @@
 ---
+layout: csmain
 title: Orta Düzeyde HTML ve CSS
 comments: true
 ---
