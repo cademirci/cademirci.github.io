@@ -1,4 +1,5 @@
 ---
+layout: csmain
 title: Python İle Sayfa Belgesi Yönetimi
 comments: true
 ---
