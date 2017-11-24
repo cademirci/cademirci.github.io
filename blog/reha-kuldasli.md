@@ -2,14 +2,13 @@
 title: Reha Kuldaşlı
 comments: true
 ---
-<a href="../index.html">&#8592; **BLOG**</a><p2>12.1122017</p2><br><br>
+<p2>12.1122017</p2><br><br>
 <html><head>
 	<link rel="stylesheet" type="text/css" href="../markdownStyle.css">
 	<link rel="icon" href="../coloricon.png">
 	<link rel="stylesheet" href="../tomorrow-night.css">
 	<script src="../highlight.pack.js"></script><script>hljs.initHighlightingOnLoad();</script>
 </head></html>
-
 ## Reha Kuldaşlı (Shivers by the Abyss)
 
 Arada bir hayal ederim: şöyle ambient, karanlık, elektronikle karışık, insanı karanlık ormanlara götüren tek kişilik bir post-black-metal projesi yapsam. Meğer yapan varmış, hem de aynı şehirde oturuyormuşuz.

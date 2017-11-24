@@ -2,14 +2,7 @@
 title: Equilibrium Falls
 comments: true
 ---
-<a href="../index.html">&#8592; **BLOG**</a><p2>30.10.2017</p2><br><br>
-<html><head>
-	<link rel="stylesheet" type="text/css" href="../markdownStyle.css">
-	<link rel="icon" href="../coloricon.png">
-	<link rel="stylesheet" href="../tomorrow-night.css">
-	<script src="../highlight.pack.js"></script><script>hljs.initHighlightingOnLoad();</script>
-</head></html>
-
+<p2>30.10.2017</p2><br><br>
 ## Equilibrium Falls
 
 Kendileri Rusya St. Petersburg çıkışlı bir melodic death metal grubu. Spotify'da underrated grupların şarkılarından oluşturduğum Canavar Gibi Adamlar listemin ilk şarkısının sahipleri. Tarzlarında açık şekilde In Flames, Soilwork, Trivium esintileri gözleniyor. Death metalden çok fazla kaçmadan ufak biraz Lamb Of God ya da daha Metalcore diyebileceğimiz bir ses de aldım. Ben beğendim, fena değiller. Başlarken System Resistance'ı dinlemenizi öneririm. 
