@@ -170,8 +170,8 @@ ul {
 
 .markdown-body pre {
   padding: 10px 70px 10px 0;
-  margin-left: -20px;
-  margin-right: -20px;
+  /* margin-left: -20px; */
+  /* margin-right: -20px; */
   font-family: 'Monaco', 'Lucida Console', monospace;
   font-size: 13px;
   line-height: 20px;
@@ -183,7 +183,7 @@ ul {
 
 .markdown-body pre.lines {
   font-size: 12px;
-  margin:0 10px 0 -20px;
+  margin:0 10px 0 -5px;
   padding: 10px;
   float:  left;
   display: block;
