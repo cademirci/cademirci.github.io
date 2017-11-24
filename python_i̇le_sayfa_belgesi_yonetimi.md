@@ -1,14 +1,10 @@
 ---
-title: Python İle Sayfa Belgesi Yönetimi
+title: Piton
 comments: true
-layout: default	
+layout: default
 ---
-<a href="../CSmain.html">&#8592; **BİLGİSAYAR BİLİMLERİ**</a><p2>19.11.2017 Paz 22:40:58</p2><br><br>
-<html><head>
-<link rel="stylesheet" type="text/css" href="../markdownStyle.css">
-<link rel="icon" href="../coloricon.png">
-<link rel="stylesheet" href="../githubSH-Dark.css">
-</head></html>
+<p2>22.02.2017</p2><br><br>
+
 ## Python İle Sayfa Belgesi Yönetimi
 
 `Create_Page` diye bir python programı yazdım. Siteme yazı eklerken kullandığım ufak ve tatlı bir program oldu. Jekyll kullanmayan, normal php-kontrollü serverlarda `php` ile yapılan işi ben kendi bilgisayarımda python çalıştırarak yapıyorum diye düşünülebilir. Ben Markdown editörden, word dosyasına yazı yazar gibi yazımı tamamlıyorum. Ardından Programın yaptıkları şöyle: 
