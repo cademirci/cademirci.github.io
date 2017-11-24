@@ -196,6 +196,28 @@ pre, code {
 	font-size: 12px;
 }
 
+.markdown-body h1,
+.markdown-body h2,
+.markdown-body h3,
+.markdown-body h4,
+.markdown-body h5,
+.markdown-body h6,
+.markdown-body pre,
+.markdown-body ul,
+.markdown-body ol,
+.markdown-body dl,
+.markdown-body table,
+.markdown-body blockquote {
+  margin-bottom: 20px;
+  margin-top: 20px;
+  color: #91ee91;
+  font-family: defFont;
+}
+.markdown-body p {
+	font-size: 1em;
+	line-height: 1.5;
+}
+
 @media only screen and (min-device-width : 320px) and (max-device-width : 480px) { /* for phone screens */
 	.footer,
 	.footerLinksZone,
