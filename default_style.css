@@ -224,6 +224,12 @@ pre, code {
 	margin-bottom: 20px;
 	margin-top: 20px;
 }
+.markdown-body img {
+	max-width: 100%;
+	margin-bottom: 20px;
+	margin-top: 20px;
+	text-align: center;
+}
 .markdown-body p {
 	font-size: 1em;
 	line-height: 1.5;
