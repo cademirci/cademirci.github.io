@@ -224,7 +224,7 @@ pre, code {
 	margin-bottom: 20px;
 	margin-top: 20px;
 }
-.markdown-body img {
+.markdown-body img, image, img {
 	max-width: 100%;
 	margin-bottom: 20px;
 	margin-top: 20px;
