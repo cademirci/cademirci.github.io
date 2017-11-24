@@ -2,14 +2,13 @@
 title: Alternatif Dünya Özlemi
 comments: true
 ---
-<a href="../index.html">&#8592; **BLOG**</a><p2>22.02.2017</p2><br><br>
+<p2>22.02.2017</p2><br><br>
 <html><head>
 	<link rel="stylesheet" type="text/css" href="../markdownStyle.css">
 	<link rel="icon" href="../coloricon.png">
 	<link rel="stylesheet" href="../tomorrow-night.css">
 	<script src="../highlight.pack.js"></script><script>hljs.initHighlightingOnLoad();</script>
 </head></html>
-
 ## Alternatif Dünya Özlemi
 
 İnsanlar olarak mutsuzuz. Depresyon ve stres, her geçen gün daha da büyüyen kara bir siluet gibi karşımızda yükseliyor. Bilincimizin her gün tekrar ve tekrar bu bunalımları mazeret göstererek gerçekleştiremediği hayallerin çöp yığınları altında eziliyoruz. Bütün bu zayiata iyi gelecekmiş gibi dört elle sarıldığımız dokunmatik ekranlardan da, beyaz yakalı yaşamın ne kadar güzel bir şey olduğuna ya da sizin kendi kişiliğinizin başka insanların değer yargıları süzgecinden geçirilmesinin ne kadar önemli olduğuna dair pompalanan safsatalardan başka bir şey yansımıyor. 
