@@ -196,6 +196,10 @@ ul {
   background-color:#2a2a2a;
   color: #d6d6d6;
 }
+code, .markdown-body code {
+	border: 1px solid grey;
+	background-color: #660000;
+}
 pre, code {
 	font-family: Consolas;
 	font-size: 12px;
