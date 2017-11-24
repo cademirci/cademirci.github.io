@@ -149,6 +149,7 @@ p2 {
 	color: rgb(142,142,142);
 	font-family: Arial;
 	font-size: 12px;
+	float: right;
 }
 pre {
 	white-space: pre-wrap;       /* Since CSS 2.1 */
