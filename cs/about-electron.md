@@ -1,6 +1,7 @@
 ---
 title: Elektron Hakkında
 comments: true
+layout: csmain
 ---
 <a href="../CSmain.html">&#8592; **BİLGİSAYAR BİLİMLERİ**</a><p2>13.11.2017</p2><br><br>
 <html><head>

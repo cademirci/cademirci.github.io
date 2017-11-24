@@ -1,4 +1,5 @@
 ---
+layout: csmain
 title: Zaman Karmaşıklığı
 comments: true
 ---
