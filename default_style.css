@@ -180,7 +180,6 @@ ul {
   background-color:#3b3b3b;
   color: #d6d6d6;
 }
-
 .markdown-body pre.lines {
   font-size: 12px;
   margin:0 10px 0 -5px;
@@ -191,6 +190,10 @@ ul {
   box-shadow: none;
   background-color:#2a2a2a;
   color: #d6d6d6;
+}
+pre, code {
+	font-family: Consolas;
+	font-size: 11px;
 }
 
 @media only screen and (min-device-width : 320px) and (max-device-width : 480px) { /* for phone screens */
