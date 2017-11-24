@@ -167,6 +167,32 @@ ul {
     margin: 4px 2px;
     cursor: pointer;
 }
+
+.markdown-body pre {
+  padding: 10px 70px 10px 0;
+  margin-left: -20px;
+  margin-right: -20px;
+  font-family: 'Monaco', 'Lucida Console', monospace;
+  font-size: 13px;
+  line-height: 20px;
+  box-shadow: inset 0 0 5px #000;
+  word-wrap: break-word;
+  background-color:#3b3b3b;
+  color: #d6d6d6;
+}
+
+.markdown-body pre.lines {
+  font-size: 12px;
+  margin:0 10px 0 -20px;
+  padding: 10px;
+  float:  left;
+  display: block;
+  text-align: right;
+  box-shadow: none;
+  background-color:#2a2a2a;
+  color: #d6d6d6;
+}
+
 @media only screen and (min-device-width : 320px) and (max-device-width : 480px) { /* for phone screens */
 	.footer,
 	.footerLinksZone,
