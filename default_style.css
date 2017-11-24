@@ -145,6 +145,11 @@ a:hover {
 	float: right;
 	margin-right: 15%;
 }
+p2 {
+	color: rgb(142,142,142);
+	font-family: Arial;
+	font-size: 12px;
+}
 pre {
 	white-space: pre-wrap;       /* Since CSS 2.1 */
     white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
