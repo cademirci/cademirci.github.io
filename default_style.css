@@ -218,6 +218,11 @@ pre, code {
   color: #91ee91;
   font-family: defFont;
 }
+.markdown-body image {
+	width: 100%;
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
 .markdown-body p {
 	font-size: 1em;
 	line-height: 1.5;
