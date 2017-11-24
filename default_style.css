@@ -1,0 +1,210 @@
+body {
+	background-color: rgb(30,30,30);
+	
+	/* for background image times. */
+	
+	background-image: url(bgi.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center; 
+	
+}
+p {
+	font-family: defFont;
+	color: rgb(230,230,230);
+	line-height: 100%;
+} @font-face {
+	font-family: defFont;
+	src: url(fonts/Calibri.ttf);
+}
+.mainZone {
+	width: 60%;
+	display: block;
+	margin: auto;
+}
+.textZone {
+	display: inline-block;
+	width: 65%;
+	/* border: 1px solid #990000; */
+	padding: 20px 20px 20px 20px;
+	margin-top: 20px;
+	background-color: rgba(12,12,12, 0.85);
+	text-align: center;
+}
+.right_frame {
+	float: right;
+	width: 25%;
+	display: inline-block;
+	padding: 20px 20px 20px 20px;
+	margin-top: 20px;
+	background-color: rgba(12,12,12, 0.55);
+}
+.header {
+	background-color: #000;
+	height: 42px;
+	margin: -8px;
+	margin-bottom: 0;
+}
+.name {
+	float: left;
+	padding-left: 15%;
+	color: #c8c8c8;
+	font-family: navFont;
+	margin-top: 5px;
+}
+.catchphrase {
+	float: left;
+	color: #323232;
+	padding-left: 5px;
+	font-family: navFont;
+	margin-top: 5px;
+}
+.navbar {
+	float: right;
+	padding-right: 15%;
+	color: #fff;
+	font-family: navFont;
+	margin-top: 5px;
+}
+.navbar a {
+	color: #c8c8c8;
+	text-decoration: none;
+	font-size: 15px;
+}
+.navbar a:hover {
+	color: white;
+	text-decoration: none;
+}
+.navbar .active {
+	text-decoration: underline;
+	text-decoration-style: double;
+	text-decoration-color: lime;
+}
+@font-face {
+	font-family: navFont;
+	src: url(fonts/OpenSans-CondBold.ttf);
+}
+a {
+	color: rgb(0,255,0);
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+}
+.mailText {
+	background-color: black;
+	border: none;
+	margin-left: auto;
+	margin-right: auto;
+	width: 75%;
+	height: 200px;
+	color: red;
+	font-family: verdana; 
+	padding: 5px 5px 5px 5px;
+	font-size: 13px;
+}
+.footer {
+	/* position: absolute; */ 
+	right: 0;
+	bottom: 0;
+	left: 0;
+	padding-top: 20px;
+	background-color: black;
+	margin-top: 20px;
+	margin-left: -8px;
+	margin-right: -8px;
+	margin-bottom: -8px;
+	height: 205px;
+}
+.footerLinksZone {
+	height: 200px;
+	margin-left: auto;
+	margin-right: auto;
+	float: left;
+	margin-left: 15%;
+}
+.footer a {
+	color: rgb(90,90,90);
+	font-size: 15px;
+	font-family: defFont;
+	line-height:175%;
+}
+.footer a:hover {
+	color: rgb(166,166,166); 
+	text-decoration: none;
+}
+.footerColumn {
+	float:left; 
+	margin-right:100px; 
+}
+.signatures {
+	font-size: 15px;
+	font-family: defFont;
+	color: #323232;
+	text-align: right;
+	line-height: 150%;
+	float: right;
+	margin-right: 15%;
+}
+pre {
+	white-space: pre-wrap;       /* Since CSS 2.1 */
+    white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
+    white-space: -pre-wrap;      /* Opera 4-6 */
+    white-space: -o-pre-wrap;    /* Opera 7 */
+    word-wrap: break-word;       /* Internet Explorer 5.5+ */
+	font-size: 15px;
+}
+ul {
+	color: white;
+}
+.downToRestButton {
+    background-color: black;
+    border: 1px solid lime;
+    color: white;
+	padding: 2px 7px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 0.75em;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) { /* for phone screens */
+	.footer,
+	.footerLinksZone,
+	.header,
+	.mainZone {
+		width: 95%;
+		margin-left: 0px;
+		margin-right: 0px;
+		position: static;
+	}
+	p,
+	.footerLink {
+		font-size: 1em;
+	}
+	.navbar a {
+		font-size: 0.75em;
+	} 
+	.mainZone,
+	.footer,
+	body {
+		background-color: rgb(15,15,15);
+		background-image: none;
+	}
+	.footer {
+		margin-bottom: 0px;
+	}
+	
+	.header {
+		height: 100px;
+	}
+	.name,
+	.catchphrase,
+	.navbar {
+		margin: 0;
+		margin-left: 5px;
+		padding: 0;
+		font-size: 1em;
+		margin-top: 5px;
+	}
+}
