@@ -212,7 +212,6 @@ pre, code {
 .markdown-body h4,
 .markdown-body h5,
 .markdown-body h6,
-.markdown-body pre,
 .markdown-body ul,
 .markdown-body ol,
 .markdown-body dl,
@@ -243,6 +242,14 @@ pre, code {
 		margin-left: 0px;
 		margin-right: 0px;
 		position: static;
+	}
+	.textZone {
+		float: left;
+		width: 95%;
+	}
+	.right_frame {
+		float: left;
+		width: 95%;
 	}
 	p,
 	.footerLink {
