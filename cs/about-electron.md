@@ -1,15 +1,9 @@
 ---
+layout: csmain
 title: Elektron Hakkında
 comments: true
-layout: csmain
 ---
-<a href="../CSmain.html">&#8592; **BİLGİSAYAR BİLİMLERİ**</a><p2>13.11.2017</p2><br><br>
-<html><head>
-<link rel="stylesheet" type="text/css" href="../markdownStyle.css">
-<link rel="icon" href="../coloricon.png">
-<link rel="stylesheet" href="../githubSH-Dark.css">
-</head></html>
-
+<p2>13.11.2017</p2><br><br>
 ## Electron Hakkında
 
 Aslında bu başlığı "Electron ile Masaüstü Uygulaması Yapımı" şeklinde koyacaktım ama bunu adım adım anlatmayacağıma, sadece uygulamanın ne işe yaradığı, nasıl bir şey olduğuna dair HTML-CSS-JS meraklıları için bir haber niteliğinde yazmaya karar verdiğim için onu bu şekilde değiştirdim.

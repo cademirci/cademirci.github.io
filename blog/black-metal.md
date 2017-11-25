@@ -3,12 +3,6 @@ title: Black Metal
 comments: true
 ---
 <p2>03.11.2017</p2><br><br>
-<html><head>
-	<link rel="stylesheet" type="text/css" href="../markdownStyle.css">
-	<link rel="icon" href="../coloricon.png">
-	<link rel="stylesheet" href="../tomorrow-night.css">
-	<script src="../highlight.pack.js"></script><script>hljs.initHighlightingOnLoad();</script>
-</head></html>
 İnsan gibi müzik dinleyen bir insanın **black metal** hakkındaki ilk yorumu şudur: "Saçma sapan bir müzik türü. Metalin yüz karası. Satanizm yaftası yememizin tek sebebi. Ne müzikleri iyi ne de kendilerini anlayabiliyorum. Kilise yakma gibi olaylar da keza. Böylesi bir şiddeti ve ruh hastalığını aklım almıyor."
 
 Doğru. Bu arkadaş mühendislikte okuyor, Opeth gibi progresif ya da Arch Enemy gibi melodik dinliyor. Kısa saçın ve gözlüğün de metalcilere yakışabileceğini kanıtlayan arslan parçası bir arkadaş bu. Alkışlıyoruz.

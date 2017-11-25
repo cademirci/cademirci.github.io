@@ -3,13 +3,7 @@ layout: csmain
 title: Zaman Karmaşıklığı
 comments: true
 ---
-<a href="../CSmain.html">&#8592; **BİLGİSAYAR BİLİMLERİ**</a><p2>06.11.2017</p2><br><br>
-<html><head>
-<link rel="stylesheet" type="text/css" href="../markdownStyle.css">
-<link rel="icon" href="../coloricon.png">
-<link rel="stylesheet" href="../githubSH-Dark.css">
-</head></html>
-
+<p2>06.11.2017</p2><br><br>
 ## Zaman Karmaşıklığı
 
 Büyük inputlarla uğraşıldığı zaman, Dynamic Programming kavramının büyük önemi oluyor. Halihazırda doğru çalışan bir kodun zaman karmaşıklığını (Time Complexity) azaltabilmek, yazılım mühendisliğde çok önemli çalışma alanlarından biri. Bu başlık altında bu işlerin nasıl yapıldığına dair birkaç çok temel örnek göstereceğim.

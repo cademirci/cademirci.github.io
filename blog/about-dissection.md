@@ -2,14 +2,7 @@
 title:
 comments: true
 ---
-<a href="../index.html">&#8592; **BLOG**</a><p2>**date**</p2><br><br>
-<html><head>
-	<link rel="stylesheet" type="text/css" href="../markdownStyle.css">
-	<link rel="icon" href="../coloricon.png">
-	<link rel="stylesheet" href="../tomorrow-night.css">
-	<script src="../highlight.pack.js"></script><script>hljs.initHighlightingOnLoad();</script>
-</head></html>
-
+<p2>**date**</p2><br><br>
 ## Dissection 
 
 Black metal hakkında [şöyle](https://caglayandemirci.github.io/blog/black-metal) bir yazı yazmış ve **Dissection** ile **Wolves in the Throne Room** hakkında ayrı yazılar yazacağımdan bahsetmiştim.

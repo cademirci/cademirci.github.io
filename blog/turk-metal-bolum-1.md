@@ -2,14 +2,7 @@
 title: Türk Metal
 comments: true
 ---
-<a href="../index.html">&#8592; **BLOG**</a><p2>09.11.2017</p2><br><br>
-<html><head>
-	<link rel="stylesheet" type="text/css" href="../markdownStyle.css">
-	<link rel="icon" href="../coloricon.png">
-	<link rel="stylesheet" href="../tomorrow-night.css">
-	<script src="../highlight.pack.js"></script><script>hljs.initHighlightingOnLoad();</script>
-</head></html>
-
+<p2>09.11.2017</p2><br><br>
 ## Türk Metal, Bölüm 1
 
 2009'da ODTÜ'de rock şenliği kapsamında **Soul Sacrifice**'ı ve **Carnophage**'ı izlediğimde 17 yaşındaydım, Children of Bodom, Dark Tranquillity gibi gruplardan başını kaldırmayan bir gençtim. O gün ilk kez, Türkiye'de de metal adına bir şeyler yapıldığını ve bunların incelenip destek olunması gereken şeyler olduğunu anlamıştım. Bu iş, laf olsun diye yapılan bir şey değildi. Bir Ankaralı olarak Carnophage'la gurur duymuştum, Türk metalinin dünyaya açılan yüzlerinden ve en iyilerinden biri olduğunu düşündüğüm İstanbullu Soul Sacrifice'ı ise hala çok severim.
