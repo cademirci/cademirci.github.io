@@ -1,5 +1,5 @@
 body {
-	background-color: rgb(12,13,12);
+	background-color: rgb(30,30,33);
 	
 	/* for background image times. */
 	
@@ -28,7 +28,7 @@ p {
 	/* border: 1px solid #990000; */
 	padding: 20px 20px 20px 20px;
 	margin-top: 20px;
-	background-color: rgb(38,38,38);
+	background-color: rgba(60,60,60, 0.9);
 }
 .right_frame {
 	float: right;
@@ -36,7 +36,7 @@ p {
 	display: inline-block;
 	padding: 20px 20px 20px 20px;
 	margin-top: 20px;
-	background-color: rgb(30,30,30);
+	background-color: rgba(60,60,60, 0.9);
 }
 .header {
 	background-color: #000;
