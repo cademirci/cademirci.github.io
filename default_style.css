@@ -9,6 +9,8 @@ body {
 	background-position: center; 
 	
 }
+
+.highlight .lineno {}
 p {
 	font-family: defFont;
 	color: rgb(230,230,230);
