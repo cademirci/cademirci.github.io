@@ -4,6 +4,7 @@ title: Elektron Hakkında
 comments: true
 ---
 <p2>13.11.2017</p2><br><br>
+<link rel="stylesheet" href="../syntax.css">
 ## Electron Hakkında
 
 Aslında bu başlığı "Electron ile Masaüstü Uygulaması Yapımı" şeklinde koyacaktım ama bunu adım adım anlatmayacağıma, sadece uygulamanın ne işe yaradığı, nasıl bir şey olduğuna dair HTML-CSS-JS meraklıları için bir haber niteliğinde yazmaya karar verdiğim için onu bu şekilde değiştirdim.
