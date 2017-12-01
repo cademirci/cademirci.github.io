@@ -1,1 +1,2 @@
-I am Çağlayan Demirci and this is my personal blog page, which contains my texts about music, everything and some programming codes.
+# forgotten-pages
+A very small support repo for caglayandemirci.github.io, which includes some texts.

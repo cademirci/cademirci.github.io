@@ -1,9 +1,9 @@
 ---
+layout: default
 title: Alternatif Dünya Özlemi
-comments: true
 ---
-<p2>22.02.2017</p2><br><br>
-## Alternatif Dünya Özlemi
+<p class="date">22.02.2017</p>
+# Alternatif Dünya Özlemi
 
 İnsanlar olarak mutsuzuz. Depresyon ve stres, her geçen gün daha da büyüyen kara bir siluet gibi karşımızda yükseliyor. Bilincimizin her gün tekrar ve tekrar bu bunalımları mazeret göstererek gerçekleştiremediği hayallerin çöp yığınları altında eziliyoruz. Bütün bu zayiata iyi gelecekmiş gibi dört elle sarıldığımız dokunmatik ekranlardan da, beyaz yakalı yaşamın ne kadar güzel bir şey olduğuna ya da sizin kendi kişiliğinizin başka insanların değer yargıları süzgecinden geçirilmesinin ne kadar önemli olduğuna dair pompalanan safsatalardan başka bir şey yansımıyor. 
 
@@ -21,28 +21,8 @@ Kaçışımız sonucunda varabildiğimiz ikinci bir alternatif dünya, fantastik
 
 Her geçen onyılla beraber, para kaynaklı güç, bize dişleri ve pençeleri daha da bilenmiş bir şekilde saldırıyor. Bu gri takım elbiseli, mavi camlarla kaplı mağarada yaşayan canavar, kendisi tarafından yenmememiz durumunda hiçbir değerimizin olmadığını, insanlık standartlarını yaşayamayacağımızı bas bas kükrüyor. Biz ise, ona yakalanmış olsak bile, bazen kulaklıklarımızı takıp yüksek sesi açarak dinlediğimiz müziklerimizle baş başa kalarak onun böğürtülerini duymuyor, bazen tüm o iyilik için kılıcını kabzasından çıkaran karakterlerle bağ kurarak gözlerimiz sulandığından o canavarın çirkin suratını görmüyoruz. Kimileri ise onun düpedüz kucağına atlayıp, onu en pahalı giyim markalarından alınmış kıyafetlerle sevimli hale getirmeye çalışıyorlar. İçlerinden bazıları ondan kaçar gibi yapmanın en iyi yolunun bu olduğu hakkında arkadaşlarına gösterdikleri spor arabalarla övünmeyi seviyor. En azından, kaçış sanatının özünü kavramış olan ilk kısım olduğunu düşündüğüm bizler, canavarın kucağındakilerden yüzümüzü çevirmeye devam etmeli ve en azından samimi olmaya çalışmalıyız. Dışlanma ve çocukçalıkla suçlanma pahasına. 
 
-<br><br><br>
-<script id="dsq-count-scr" src="//caglayandemirci-github-io.disqus.com/count.js" async></script>
-<a href="http://foo.com/bar.html#disqus_thread"></a>
-{% if page.comments %}
-<div id="disqus_thread"></div>
-<script>
-/**
-*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
-/*
-var disqus_config = function () {
-this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
-this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-};
-*/
-(function() { // DON'T EDIT BELOW THIS LINE
-var d = document, s = d.createElement('script');
-s.src = 'https://caglayandemirci-github-io.disqus.com/embed.js';
-s.setAttribute('data-timestamp', +new Date());
-(d.head || d.body).appendChild(s);
-})();
-</script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>                       
-{% endif %} 
-<br>
+<div class="share_box">Bu yazıyı paylaşayım.<br>
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style" id="share_buttons">
+<a class="a2a_button_facebook"></a><a class="a2a_button_twitter"></a>
+<a class="a2a_button_whatsapp"></a><a class="a2a_dd" href="https://www.addtoany.com/share"></a>
+</div><script async src="https://static.addtoany.com/menu/page.js"></script></div>
