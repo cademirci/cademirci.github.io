@@ -89,15 +89,14 @@ body {
 }
 
 /* markdown */
-.markdown-body h1 { font-size: 2.2em; color: slateblue } 
-.markdown-body h2 { font-size: 2em; color: slateblue }
-.markdown-body h3 { font-size: 1.8em; color: slateblue }
-.markdown-body h4 { font-size: 1.6em; color: slateblue }
-.markdown-body h5 { font-size: 1.4em; color: slateblue }
-.markdown-body h6 { font-size: 1.2em; color: slateblue }
-}
+.markdown-body h1 { font-size: 2.2em; color: #0099ff } 
+.markdown-body h2 { font-size: 2em;   color: #0099ff }
+.markdown-body h3 { font-size: 1.8em; color: #0099ff }
+.markdown-body h4 { font-size: 1.6em; color: #0099ff }
+.markdown-body h5 { font-size: 1.4em; color: #0099ff }
+.markdown-body h6 { font-size: 1.2em; color: #0099ff }
 .markdown-body a {
-	color: slateblue;
+	color: #0099ff;
 }
 .markdown-body a {
 	text-decoration: none;
