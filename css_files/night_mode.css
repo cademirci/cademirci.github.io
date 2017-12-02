@@ -31,7 +31,7 @@ body {
 }
 
 #night {
-	background: #000080;
+	background: #fff;
 	border: none;
 	border-radius: 50%;
 	height: 15px;
@@ -53,14 +53,14 @@ body {
 
 /* middle (content zone)*/
 .markdown_zone {
-	background: #f2f2f2;
+	background: #000;
 	width: 100%;
 	display: inline-block;
 	border-bottom: 1px solid #000;
 	border-top: 1px solid #000;
 }
 .markdown-body {
-	color: #0d0d0d;
+	color: #fff;
 	opacity: 0.9;	
 	max-width: 864px; /* 45% of 17.3'' screens */
 	margin: auto;
@@ -89,15 +89,15 @@ body {
 }
 
 /* markdown */
-.markdown-body h1 { font-size: 2.2em; color: #428a8a } 
-.markdown-body h2 { font-size: 2em; color: #428a8a }
-.markdown-body h3 { font-size: 1.8em; color: #428a8a }
-.markdown-body h4 { font-size: 1.6em; color: #428a8a }
-.markdown-body h5 { font-size: 1.4em; color: #428a8a }
-.markdown-body h6 { font-size: 1.2em; color: #428a8a }
+.markdown-body h1 { font-size: 2.2em; color: slateblue } 
+.markdown-body h2 { font-size: 2em; color: slateblue }
+.markdown-body h3 { font-size: 1.8em; color: slateblue }
+.markdown-body h4 { font-size: 1.6em; color: slateblue }
+.markdown-body h5 { font-size: 1.4em; color: slateblue }
+.markdown-body h6 { font-size: 1.2em; color: slateblue }
 }
 .markdown-body a {
-	color: #428a8a;
+	color: slateblue;
 }
 .markdown-body a {
 	text-decoration: none;
