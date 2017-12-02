@@ -4,7 +4,7 @@ title: Alternatif Dünya Özlemi
 ---
 <button id="night"></button>
 <p class="Gece">Gece modunda okuyayım.</p>
-<p class="date">22.02.2017</p>
+<p class="date">22.02.2017</p><br>
 # Alternatif Dünya Özlemi
 
 İnsanlar olarak mutsuzuz. Depresyon ve stres, her geçen gün daha da büyüyen kara bir siluet gibi karşımızda yükseliyor. Bilincimizin her gün tekrar ve tekrar bu bunalımları mazeret göstererek gerçekleştiremediği hayallerin çöp yığınları altında eziliyoruz. Bütün bu zayiata iyi gelecekmiş gibi dört elle sarıldığımız dokunmatik ekranlardan da, beyaz yakalı yaşamın ne kadar güzel bir şey olduğuna ya da sizin kendi kişiliğinizin başka insanların değer yargıları süzgecinden geçirilmesinin ne kadar önemli olduğuna dair pompalanan safsatalardan başka bir şey yansımıyor. 
