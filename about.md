@@ -2,7 +2,7 @@
 layout: default
 ---
 ### Ben Kimim?
-not done.
+
 Çağlayan Demirci. Rock müzikten ve diğer fantastik sanatlardan hoşlanan, yakında biteceği umuduyla bulunduğu üniversitede bilgisayar mühendisliği bölümü öğrencisi. 
 
 Çocukluğumdan beri, becerebildiğim çapta yazı yazmaktan hoşlanıyorum. Uzun süre Ekşi Sözlük'te yazdım, ancak orası, asırlık "Ekşi bozdu" muhabbetinden değil ama gerçekten ağız tadıyla yazı yazılacak durumdan çıktığı için, bir süredir kendime ait bir platformda kendi küçük dünyamı kurma planları yapıyordum. Öyle çok da sosyal medyacı bir tarafım olmadığından ve eskiden beri web sayfaları tasarlamayı sevdiğimden, bunu kendime ait ama son derece sade, okumaya hizmet eden bir blog sitesinde gerçekleştirmeye karar verdim.
