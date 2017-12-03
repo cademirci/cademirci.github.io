@@ -15,7 +15,7 @@ Her türlü soru, yorum, görüş, sırf konuşma isteği... Mesaj atmanızı ge
 
 Herkes gibi ben de yanlış bir şeyler düşünüyorum. Bunları görüp anlayabilmem ve düzeltebilmem için bana yapacağınız geri dönüşler çok önemli. 
 
-<form class="mail_sender_box" action="https://formspree.io/demircicaglayan13@gmail.com"  method="POST">
+<form class="mail_sender_box" style="text-align: center;" action="https://formspree.io/demircicaglayan13@gmail.com"  method="POST">
 <input class="mail_email_req" type="email" name="_replyto" placeholder="Önce sizin mail adresiniz">
 <textarea class="mail_text" name="message" placeholder="Mesajınız da buraya lütfen">
 </textarea><br>
