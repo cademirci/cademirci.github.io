@@ -9,11 +9,18 @@ layout: default
 
 Programlamalarımı da şık olduğunu düşündüğüm bir görüntü ve biraz açıklama eşliğinde GitHub'a koymuş olacağım. Aslında "yazılımı GitHub'a koymak" işi tam da bu şekilde olmuyor ama çaktırmayacağım. 
 
+<form class="mail_sender" action="https://formspree.io/demircicaglayan13@gmail.com"  method="POST">
+<input type="text" name="name">
+<input type="email" name="_replyto">
+<input type="submit" value="Send">
+<textarea name="mt">write here...</textarea>
+</form> 
+
 ### Burası Neresi?
 
 "Kişisel blog sitesi" diyerek son derece açık olan kısmı geçtikten sonra diyebilirim ki, buranın bir adı yok. *"Hayat, Evren ve Her Şey"'e dair nihai kişisel blog* şeklindeki slogan, Douglas Adams'ın yazdığı Otostopçu'nun Galaksi Rehberi (The Hitchhiker's Guide to the Galaxy) kitabında yer alan "The answer to the ultimate question of life, the universe and everything is 42." kültüne göndermede bulunarak yazdığım bir ifade. Biraz şundan, biraz bundan canımın yazmak istediği her konuda yazacağımı, sevdiğim bir sanatın diliyle ifade etmeye çalıştım (fakat tabi görebileceğiniz gibi bilgisayar bilimleri, rock müzik gibi çok sayıda yazmayı planladığım konuların ayrı sayfaları da var). Sitenin ismi bu değildir.
 
-İşin gerçeği kişisel sitelerin adı olmak zorunda da değil, hatta birçoğunun olmaz; başlık olarak ad ve soyadlarını koyarlar. Ama ben, site URL'sinin kendisinde, burada hakkımda sayfasında, sosyal medya hesaplarımda ve başka orada burada görebileceğiniz "Çağlayan Demirci" ismini, siteyi ziyaret ettikten sonra hala öğrenememişsiniz gibi bir de büyük başlık olarak yapıştırmak istemedim. Biraz içeriğe odaklanmak iyidir, sitemin amacı kendimi övmek değil. 
+İşin gerçeği kişisel sitelerin adı olmak zorunda da değil, hatta birçoğunun olmaz; başlık olarak ad ve soyadlarını koyarlar. Ama ben, site URL'sinin kendisinde, burada hakkımda sayfasında, sosyal medya hesaplarımda ve başka orada burada görebileceğiniz "Çağlayan Demirci" ismini, sayfayı ziyaret ettikten sonra hala öğrenememişsiniz gibi bir de büyük başlık olarak yapıştırmak istemedim. Biraz içeriğe odaklanmak iyidir, sitemin amacı durmadan kendim hakkında konuşmak değil. 
 
 ### GitHub Nedir? Neden ".github.io"?
 
