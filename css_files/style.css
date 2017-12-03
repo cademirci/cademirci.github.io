@@ -97,7 +97,8 @@ body {
 .markdown-body h5 { font-size: 1.4em; color: #428a8a }
 .markdown-body h6 { font-size: 1.2em; color: #428a8a }
 }
-.markdown-body a {
+.markdown-body a,
+.markdown-body a:visited {
 	color: #428a8a;
 	text-decoration: none;
 }
