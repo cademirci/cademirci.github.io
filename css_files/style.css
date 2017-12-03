@@ -197,7 +197,7 @@ pre {
 }
 
 /* mail sender */
-.mail_sender_box {
+.mail_sender {
 	background: #f2f2f2;
 	display: block;
 	width: 864px;
@@ -206,18 +206,21 @@ pre {
 }
 .mail_email_req,
 .mail_text {
-	font-family: verdana;
-	font-size: 0.8em;
+	font-family: Calibri;
+	font-size: 1em;
+	color: #000066;
 	width: 75%;
 	padding: 10px;
 	border: none;
 }
 .mail_text {
-	height: 100px;
+	height: 200px;
 	margin-top: 10px;
 }
 .mail_send_button {
 	background: #428a8a;
+	font-family: Calibri;
+	font-size: 1em;
 	color: #fff;
 	margin: auto;
 	height: 50px;

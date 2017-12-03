@@ -10,7 +10,7 @@ not done.
 Programlamalarımı da şık olduğunu düşündüğüm bir görüntü ve biraz açıklama eşliğinde GitHub'a koymuş olacağım. Aslında "yazılımı GitHub'a koymak" işi tam da bu şekilde olmuyor ama çaktırmayacağım. 
 
 <form class="mail_sender_box" action="https://formspree.io/demircicaglayan13@gmail.com"  method="POST">
-<input class="mail_email_req" type="email" name="_replyto" placeholder="Önce sizin adresinizi alalım">
+<input class="mail_email_req" type="email" name="_replyto" placeholder="Önce sizin mail adresiniz">
 <textarea class="mail_text" name="message" placeholder="Mesajınız da buraya lütfen">
 </textarea><br>
 <input class="mail_send_button" type="submit" value="Göndereyim bakalım">
