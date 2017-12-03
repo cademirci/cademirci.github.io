@@ -99,8 +99,6 @@ body {
 }
 .markdown-body a {
 	color: #428a8a;
-}
-.markdown-body a {
 	text-decoration: none;
 }
 .markdown-body a:hover {
