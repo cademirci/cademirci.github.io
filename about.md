@@ -9,9 +9,9 @@ not done.
 
 Programlamalarımı da şık olduğunu düşündüğüm bir görüntü ve biraz açıklama eşliğinde GitHub'a koymuş olacağım. Aslında "yazılımı GitHub'a koymak" işi tam da bu şekilde olmuyor ama çaktırmayacağım. 
 
-##### İletişim
+### İletişim
 
-Her türlü soru, yorum, görüş, sırf konuşma isteği, mesaj atmanızı gerektirecek herhangi bir şey.
+Her türlü soru, yorum, görüş, sırf konuşma isteği... Mesaj atmanızı gerektirecek herhangi bir şey.
 
 <form class="mail_sender_box" action="https://formspree.io/demircicaglayan13@gmail.com"  method="POST">
 <input class="mail_email_req" type="email" name="_replyto" placeholder="Önce sizin mail adresiniz">
