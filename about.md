@@ -11,7 +11,8 @@ Programlamalarımı da şık olduğunu düşündüğüm bir görüntü ve biraz 
 
 <form class="mail_sender_box" action="https://formspree.io/demircicaglayan13@gmail.com"  method="POST">
 <input class="mail_email_req" type="email" name="_replyto" placeholder="Önce sizin adresinizi alalım">
-<textarea class="mail_text" name="message" placeholder="Mesajınız da buraya lütfen"><textarea><br>
+<textarea class="mail_text" name="message" placeholder="Mesajınız da buraya lütfen">
+<textarea><br>
 <input class="mail_send_button" type="submit" value="Göndereyim bakalım">
 </form> 
 
