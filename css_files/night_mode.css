@@ -96,10 +96,9 @@ body {
 .markdown-body h4 { font-size: 1.6em; color: #0099ff }
 .markdown-body h5 { font-size: 1.4em; color: #0099ff }
 .markdown-body h6 { font-size: 1.2em; color: #0099ff }
-.markdown-body a {
+.markdown-body a,
+.markdown-body a:visited {
 	color: #0099ff;
-}
-.markdown-body a {
 	text-decoration: none;
 }
 .markdown-body a:hover {
