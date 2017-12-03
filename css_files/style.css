@@ -200,7 +200,7 @@ pre {
 .mail_sender {
 	background: #f2f2f2;
 	display: block;
-	width: 864px;
+	width: 100%;
 	margin: auto;
 	text-align: center;
 }
@@ -218,7 +218,7 @@ pre {
 	margin-top: 10px;
 }
 .mail_send_button {
-	background: #428a8a;
+	background: #000066;
 	font-family: Calibri;
 	font-size: 1em;
 	color: #fff;
