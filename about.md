@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Hakkımda ve İletişim
 ---
 ### Ben Kimim?
 
