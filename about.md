@@ -28,8 +28,8 @@ Her türlü soru, yorum, görüş, sırf konuşma isteği... Mesaj atmanızı ge
 Herkes gibi ben de yanlış bir şeyler düşünüyorum. Bunları görüp anlayabilmem ve düzeltebilmem için bana yapacağınız geri dönüşler çok önemli. 
 
 <form class="mail_sender_box" style="text-align: center;" action="https://formspree.io/demircicaglayan13@gmail.com"  method="POST">
-<input class="mail_email_req" type="email" name="_replyto" placeholder="Önce sizin mail adresiniz">
-<textarea class="mail_text" name="message" placeholder="Mesajınız">
+<input class="mail_email_req" type="email" name="_replyto" placeholder="Önce sizin mail adresiniz" required>
+<textarea class="mail_text" name="message" placeholder="Mesajınız" required>
 </textarea><br>
 <input class="mail_send_button" type="submit" value="Göndereyim bakalım">
 </form> 
