@@ -22,14 +22,6 @@ Herkes gibi ben de yanlış bir şeyler düşünüyorum. Bunları görüp anlaya
 <input class="mail_send_button" type="submit" value="Göndereyim bakalım">
 </form> 
 
-
-
-### Burası Neresi?
-
-"Kişisel blog sitesi" diyerek son derece açık olan kısmı geçtikten sonra diyebilirim ki, buranın bir adı yok. *"Hayat, Evren ve Her Şey"'e dair nihai kişisel blog* şeklindeki slogan, Douglas Adams'ın yazdığı Otostopçu'nun Galaksi Rehberi (The Hitchhiker's Guide to the Galaxy) kitabında yer alan "The answer to the ultimate question of life, the universe and everything is 42." kültüne göndermede bulunarak yazdığım bir ifade. Biraz şundan, biraz bundan canımın yazmak istediği her konuda yazacağımı, sevdiğim bir sanatın diliyle ifade etmeye çalıştım (fakat tabi görebileceğiniz gibi bilgisayar bilimleri, rock müzik gibi çok sayıda yazmayı planladığım konuların ayrı sayfaları da var). Sitenin ismi bu değildir.
-
-İşin gerçeği kişisel sitelerin adı olmak zorunda da değil, hatta birçoğunun olmaz; başlık olarak ad ve soyadlarını koyarlar. Ama ben, site URL'sinin kendisinde, burada hakkımda sayfasında, sosyal medya hesaplarımda ve başka orada burada görebileceğiniz "Çağlayan Demirci" ismini, sayfayı ziyaret ettikten sonra hala öğrenememişsiniz gibi bir de büyük başlık olarak yapıştırmak istemedim. Biraz içeriğe odaklanmak iyidir, sitemin amacı durmadan kendim hakkında konuşmak değil. 
-
 ### GitHub Nedir? Neden ".github.io"?
 
 GitHub yazılımcılar için dünyanın en büyük açık-kaynaklı-yazılım depolama platformudur. Yazılı kodlar ve dosyalar, herkesin kullanımına açık bir şekilde Repository denen kullanıcı depolarında bekler. 
