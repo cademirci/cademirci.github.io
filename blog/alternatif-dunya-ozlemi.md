@@ -6,8 +6,6 @@ comments: true;
 <p class="date">22.02.2017</p><br>
 # Alternatif Dünya Özlemi
 
-Amon Amarth
-
 İnsanlar olarak mutsuzuz. Depresyon ve stres, her geçen gün daha da büyüyen kara bir siluet gibi karşımızda yükseliyor. Bilincimizin her gün tekrar ve tekrar bu bunalımları mazeret göstererek gerçekleştiremediği hayallerin çöp yığınları altında eziliyoruz. Bütün bu zayiata iyi gelecekmiş gibi dört elle sarıldığımız dokunmatik ekranlardan da, beyaz yakalı yaşamın ne kadar güzel bir şey olduğuna ya da sizin kendi kişiliğinizin başka insanların değer yargıları süzgecinden geçirilmesinin ne kadar önemli olduğuna dair pompalanan safsatalardan başka bir şey yansımıyor. 
 
 Sürekli bir veri bombardımanı altında tutulıyoruz. Etrafımızda uçuşan sayısız veri var. Bu olay neredeyse sanayi devriminden beri gerçekleşiyor. Bugün kendini televizyonlar, telefonlarımız ve içindeki onlarca mesajlaşma grubu, her bir görseline birkaç saniye ayırarak sonu gelmez mizah açlığımızı doyurmaya çalıştığımız post siteleri, sosyal medya, bir sene olsun geleceği olmayan popüler bazı sanat öğeleri ve benzerleri şeklinde gösteriyor. Şekli değişse de olmaya devam edecek, içeriği çok önemli değil ama eskiye göre hızı olağanüstü ölçüde arttı. Sonucu olarak şunu söyleyeceğim ki, yanlız kalmayı unuttuk. Kafalarımız sakin değil. Mesleğimiz olmadıktan sonra konsantrasyon ve fedakarlık isteyen bir işe (sanata örneğin) zaman ayırmak istemiyoruz. Twitter gönderileri kadar kısa sürmüyor. Yirmibirinci yüzyıl insanları olarak, hızlı sonuca açız.

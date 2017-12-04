@@ -3,6 +3,7 @@ layout: default
 title: Ana Sayfa
 ---
 
-Ana Sayfa
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+### Son Yazılar
+
+22.02.2017 - [Alternatif Dünya Özlemi](https://caglayandemirci.github.io/blog/alternatif-dunya-ozlemi)
 
