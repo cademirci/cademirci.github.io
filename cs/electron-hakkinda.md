@@ -1,7 +1,7 @@
 ---
 layout: post
 ---
-<p class="date">5 Aralık 2017 01:32</p>
+<p class="date">13 Kasım 2017 01:32</p>
 ![](https://i.ytimg.com/vi/ojX5yz35v4M/maxresdefault.jpg)
 
 #### Electron Hakkında
