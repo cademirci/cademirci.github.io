@@ -1,10 +1,10 @@
 ---
 layout: post
 ---
-
+<p class="date">5 Aralık 2017 01:32</p>
 ![](https://i.ytimg.com/vi/ojX5yz35v4M/maxresdefault.jpg)
 
-###### Electron Hakkında
+#### Electron Hakkında
 
 Electron diye bir framework var ki, size HTML, CSS ve Javascript kullanarak masaüstü uygulamaları yapabilme imkanı sunuyor. Kendilerinin siteleri [burada](https://electron.atom.io/). Biraz aşağıdaki "watch the video"yu tıklarsanız, amaçlarını gayet güzel açıklamışlar. Burada asıl mesele, iyi bir Javascript bilgisi. Bu yazılım, temelde her browser penceresinin bir desktop app şekline sokulabileceği teorisinden yola çıkıyor.
 
