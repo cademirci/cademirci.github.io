@@ -7,11 +7,11 @@ title: Ana Sayfa
 
 <div class="lasts">
 <div class="lastone">
-<img src="1.jpg">
-<p>konungeriket norge</p>
+![](1.jpg)
+kongeriket norge
 </div>
 <div class="lastone">
-<img src="3.jpg">
+![](3.jpg)
 ashbringer is a divine black metal band.
 </div>
 <div class="lastone">
