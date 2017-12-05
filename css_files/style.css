@@ -229,6 +229,24 @@ pre {
 	margin-top: 10px;
 }
 
-
+/* last posts */
+.lasts {
+	display: flex;
+	justify-content: space-around;
+}
+.lastone {
+	width: 30%;
+	float: left;
+	margin-right: 5px;
+	
+}
+.lastone img {
+	width: 100%;
+	margin-bottom: 5px;
+}
+.lasts p {
+	font-size: 0.95em;
+	color: #428a8a;
+}
 
 
