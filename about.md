@@ -12,9 +12,11 @@ Programlamalarımı da şık olduğunu düşündüğüm bir görüntü ve biraz 
 
 ### Burası Neresi?
 
-Kişisel site. Kişisel blog sitesi, blog, Çağlayan Demirci'nin web sayfası, sitesi, bloğu... Ben de tam emin değilim. Belli bir ismi yok. Çoğunlukla kişisel sitelerin bir adı da olmaz zaten; ad ve soyadlarını site başlığı olarak yazarlar. Ben böyle bir şeyi gerek görmedim; adım site url'sinde ve çeşitli yerlerde yeteri kadar yazıyor. Lafın kısası bu siteye dair bilmeniz gereken, arzuladığım ve planladığım şey: yazacağım.
+Kişisel site. Kişisel blog sitesi, blog, Çağlayan Demirci'nin web sayfası, sitesi, bloğu... Ben de tam emin değilim. Belli bir ismi yok. Çoğunlukla kişisel sitelerin bir ismi de olmaz zaten; insanlar ad ve soyadlarını site başlığı olarak yazarlar. Ben böyle bir şeyi gerek görmedim; adım site url'sinde ve çeşitli yerlerde yeteri kadar yazıyor. 
 
 "Hayat, evren ve her şeye dair nihai kişisel blog" şeklindeki slogan, Douglas Adams'ın yazdığı çok sevdiğim Otostopçu'nun Galaksi Rehberi (*The Hitchhiker's Guide to the Galaxy*) adlı kitapta yer alan "Hayat, evren ve her şeye dair nihai sorunun cevabı 42'dir" kültüne göndermede bulunuyor. 
+
+İşin özü bu siteye dair bilmeniz gereken, arzuladığım ve planladığım şey: yazacağım. 
 
 ### GitHub Nedir? Neden ".github.io"?
 
