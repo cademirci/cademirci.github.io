@@ -10,6 +10,12 @@ title: Hakkımda ve İletişim
 
 Programlamalarımı da şık olduğunu düşündüğüm bir görüntü ve biraz açıklama eşliğinde GitHub'a koymuş olacağım. Aslında "yazılımı GitHub'a koymak" işi tam da bu şekilde olmuyor ama çaktırmayacağım. 
 
+### Burası Neresi?
+
+Kişisel site. Kişisel blog sitesi, blog, Çağlayan Demirci'nin web sayfası, sitesi, bloğu... Ben de tam emin değilim. Belli bir ismi yok. Çoğunlukla kişisel sitelerin bir adı da olmaz zaten; ad ve soyadlarını site başlığı olarak yazarlar. Ben böyle bir şeyi gerek görmedim; adım site url'sinde ve çeşitli yerlerde yeteri kadar yazıyor. Lafın kısası bu siteye dair bilmeniz gereken, arzuladığım ve planladığım şey: yazacağım.
+
+"Hayat, evren ve her şeye dair nihai kişisel blog" şeklindeki slogan, Douglas Adams'ın yazdığı çok sevdiğim Otostopçu'nun Galaksi Rehberi (*The Hitchhiker's Guide to the Galaxy*) adlı kitapta yer alan "Hayat, evren ve her şeye dair nihai sorunun cevabı 42'dir" kültüne göndermede bulunuyor. 
+
 ### GitHub Nedir? Neden ".github.io"?
 
 GitHub yazılımcılar için dünyanın en büyük açık-kaynaklı-yazılım depolama platformudur. Yazılı kodlar ve dosyalar, herkesin kullanımına açık bir şekilde Repository denen kullanıcı depolarında bekler. 
