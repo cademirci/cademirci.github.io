@@ -238,15 +238,15 @@ pre {
 	width: 30%;
 	float: left;
 	margin-right: 5px;
-	
+	text-align: center;
 }
 .lastone img {
 	width: 100%;
 	margin-bottom: 5px;
 }
 .lasts p {
-	font-size: 0.95em;
-	color: #428a8a;
+	font-size: 0.9em;
+	color: #666;
 }
 
 
