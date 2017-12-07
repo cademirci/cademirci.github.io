@@ -26,7 +26,7 @@ GitHub yazılımcılar için dünyanın en büyük açık-kaynaklı-yazılım de
 
 Bütün site yapısını HTML ve CSS ile oluşturdum. Kodlama, tasarım, fikir, sayfaları işaret eden minik ikon resimler (tabi ki sosyal medya logoları hariç) ve ufak Javascript programlama destekleri de dahil olmak üzere her şey benim tarafımdan yazılmış/yapılmış ve bana aittir. Ancak işin güzel tarafı bunların *hepsini* fütursuzca kullanabilirsiniz. Sitenin **teknik kısmının** en ufak bir telif hakkı ya da ona benzer bir şeyi yoktur. Ayrıca sitede hiçbir zaman reklam görmeyeceksiniz. 
 
-Anlayacağınız öyle "blogspot" gibi, "wordpress" gibi bir uzantı olmadığı, aynı zamanda sıfırdan kodlamayla yazdığım bir siteye ev sahipliği yapan GitHub adlı güzel bir işin işareti de olduğu için alan adı (caglayandemirci.com gibi) alarak .github.io'yu değiştirmeye gerek duymadım. Ve yaptığım işleri, sayfanın en altında (footerda) görebileceğiniz şekilde GitHub Repository'mde "kullanıma sundum". Bu arada siz blog kuracakken böyle bir şey yazmak zorunda da değilsiniz. 
+Anlayacağınız öyle "blogspot" gibi, "wordpress" gibi bir uzantı olmadığı, aynı zamanda sıfırdan kodlamayla yazdığım bir siteye ev sahipliği yapan GitHub adlı güzel bir işin işareti de olduğu için alan adı (caglayandemirci.com gibi) alarak .github.io'yu değiştirmeye gerek duymadım. Ve yaptığım işleri, sayfanın en altında (footerda) görebileceğiniz şekilde GitHub Repository'mde kullanıma sundum. Bu arada siz blog kuracakken böyle bir şey yazmak zorunda da değilsiniz. 
 
 Geçin sayfamı, sizin mutlu olmanız dileğiyle.
 
