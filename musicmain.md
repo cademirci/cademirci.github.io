@@ -4,4 +4,6 @@ title: Sert Müzik
 ---
 
 Henüz pek bir şey yok.
-<iframe src="intavids.html></iframe>
+
+<iframe src="intavids.html>
+</iframe>
