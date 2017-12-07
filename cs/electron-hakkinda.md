@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Electron Hakkında
 ---
 <p class="date">13 Kasım 2017 01:32</p>
 ![](https://i.ytimg.com/vi/ojX5yz35v4M/maxresdefault.jpg)
