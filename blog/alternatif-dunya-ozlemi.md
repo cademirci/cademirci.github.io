@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Alternatif Dünya Özlemi
-comments: true;
 ---
 <p class="date">22.02.2017</p><br>
 # Alternatif Dünya Özlemi

@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Dissection Hakkında
 ---
 <p class="date"> 6.12.2017 Çar 14:35</p>
 
