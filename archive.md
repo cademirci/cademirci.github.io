@@ -3,9 +3,13 @@ layout: default
 title: Arşiv
 ---
 
+**Aralık 2017**
+
+[10 Aralık 2017 İstanbul](https://caglayandemirci.github.io/blog/10-aralik-2017-istanbul)
+
 **Kasım 2017**
 
-[Electron Hakkında #cs](https://caglayandemirci.github.io/cs/electron-hakkinda)
+[Electron Hakkında](https://caglayandemirci.github.io/cs/electron-hakkinda)
 
 **Şubat 2017**
 
