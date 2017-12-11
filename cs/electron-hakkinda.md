@@ -12,7 +12,7 @@ Electron diye bir framework var ki, size HTML, CSS ve Javascript kullanarak masa
 Bu yazılım, temelde her web sayfasının bir desktop app şekline sokulabileceği teorisinden yola çıkıyor. Örneğin Electron'u biraz araştırıp şu js kodunu yazarsanız, benim web sayfamın olduğu yere istediğiniz URL'i verdiğiniz zaman o sayfanın bir masaüstü uygulaması şeklinde çalıştığını görürsünüz.
 
 ```javascript
-cons electron = require('electron');
+const electron = require('electron');
 const app = electron.app;
 const BrowserWindow = electron.BrowserWindow;
 
