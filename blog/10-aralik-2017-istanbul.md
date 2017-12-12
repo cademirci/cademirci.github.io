@@ -8,10 +8,12 @@ layout: post
 
 Dün İstanbul Garaj'da **Rotting Christ** konseri vardı. Sakis Tolis ve saz ekibi beklendiği gibi muazzamdı. Son albümler ağırlıklı, ritüellerle dolu, ibadetimsi siyah bir konser yaşadık. Sonlara doğru In Yumen Xibalba da benim için pastanın kreması oldu.
 
-Benim için bu organizasyonun en önemli kısımlarından biri de, tanışma ve Rock programımda muhabbete dahil etme fırsatı bulduğum **Forgotten**n alt grup olarak sahneye çıkacak olmasıydı: Bundan bir iki hafta önce, 97 yılında kurulmuş olmasına rağmen, yıllardan sonra iyi bir sahne kadrosu kuran bu organizasyonda sahne alan Forgotten ile Radyo Etü'de görüşmüştüm. Valhalla adlı Rock programına Tolga Otabatmaz (gitar) ve Harun Altun'u (vokal) davet etmiştik, 2,5 - 3 saatlik çok iyi bir sohbet oldu. Müthiş ve hoşsohbet adamlar gerçekten.
+Benim için bu organizasyonun en önemli kısımlarından biri de, tanışma ve Rock programımda muhabbete dahil etme fırsatı bulduğum **Forgotten**'ın alt grup olarak sahneye çıkacak olmasıydı: Bundan bir iki hafta önce, 97 yılında kurulmuş olmasına rağmen, yıllardan sonra iyi bir sahne kadrosu kuran bu organizasyonda sahne alan Forgotten ile Radyo Etü'de görüşmüştüm. Valhalla adlı Rock programına Tolga Otabatmaz (gitar) ve Harun Altun'u (vokal) davet etmiştik, 2,5 - 3 saatlik çok iyi bir sohbet oldu. Müthiş ve hoşsohbet adamlar gerçekten.
 
 ![](https://caglayandemirci.github.io/forgotten-pages/images/photo/fogotten.jfif)
-<p class="imgdesc">Forgotten</p>
+<p class="imgdesc">Forgotten.</p>
+
+Rotting Christ'ı beklerken, fotoğrafta etrafına nur inmiş olan solist Harun Altun'la mekanda karşılaşıp dışarıda, bir kilisenin dibinde (mekan: İstiklal'e yakın bir konumda [Garaj](https://www.google.com.tr/search?q=Garaj+istanbul&ie=utf-8&oe=utf-8&gws_rd=cr&dcr=0&ei=12IwWtU30pGwB-v9rJAO)) tekrar muhabbet etme fırsatım oldu. Etrafımızdaki insanlar grup hakkında bayağı pozitif şeyler düşünmekteydiler.
 
 Bu söyleşinin en başlarından birkaç paragrafı buraya demo olarak koyuyorum. Yakın zamanda Radyo Etü'de yayının tamamının podcast'i yayımlanacak olursa -ki muhtemeldir-, onu buraya koyacağım. 
  
