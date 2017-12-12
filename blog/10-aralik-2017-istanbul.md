@@ -24,3 +24,5 @@ Bu söyleşinin en başlarından birkaç paragrafı buraya demo olarak koyuyorum
 ![](https://caglayandemirci.github.io/forgotten-pages/images/photo/rc.jfif)
 <p class="imgdesc">Rotting Christ</p>
 
+... Bu arada, konserin ertesi günü burada bu yazıyı yazdığım yer Boğaziçi'nde, kuzey kampüste, EEE bölümünün içiydi. Buraya sekiz yıl önce gelmiştim, şimdi bakıyorum da hatırladığımdan daha hoşmuş. Keyifli birkaç saatti benim için. [Kadri Özçaldıran](https://www.google.com.tr/search?dcr=0&ei=h14wWt6LFcONkwXTr4SIAw&q=kadri+bo%C4%9Fazi%C3%A7i+elektrik+elektronik&oq=kadri+bo%C4%9Fazi%C3%A7i+elektrik+elektronik&gs_l=psy-ab.3...3637.4278.0.5091.4.4.0.0.0.0.223.340.0j1j1.2.0....0...1..64.psy-ab..2.0.0....0.Y_kB4V1ldm4)'ın dersine girdim bir de. 
+
