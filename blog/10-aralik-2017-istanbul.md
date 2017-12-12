@@ -15,7 +15,7 @@ Benim için bu organizasyonun en önemli kısımlarından biri de, tanışma ve 
 
 Rotting Christ'ı beklerken, fotoğrafta etrafına nur inmiş olan solist Harun Altun'la mekanda karşılaşıp dışarıda, bir kilisenin dibinde (mekan: İstiklal'e yakın bir konumda [Garaj](https://www.google.com.tr/search?q=Garaj+istanbul&ie=utf-8&oe=utf-8&gws_rd=cr&dcr=0&ei=12IwWtU30pGwB-v9rJAO)) tekrar muhabbet etme fırsatım oldu. Etrafımızdaki insanlar grup hakkında bayağı pozitif şeyler düşünmekteydiler.
 
-Bu söyleşinin en başlarından birkaç paragrafı buraya demo olarak koyuyorum. Yakın zamanda Radyo Etü'de yayının tamamının podcast'i yayımlanacak olursa -ki muhtemeldir-, onu buraya koyacağım. 
+Bahsettiğim radyo söyleşisinin en başlarından birkaç paragrafı buraya demo olarak koyuyorum. Yakın zamanda Radyo Etü'de yayının tamamının podcast'i yayımlanacak olursa -ki muhtemeldir-, onu da buraya koyacağım. 
  
 *Forgotten 95' yılında benim tarafımdan kuruldu. Aslında kurulduğumuzda amacımız Thrash metal yapmaktı. Ama o sıralarda Paradise Lost'un Icon albümünü dinledim ve dedim ki "Evet bizim yapmamız gereken metal bu." Zaten o sıralarda dinlediğim tarzlardan bazıları epic, folk gibi şeylerdi bir de soundtrackler dinliyordum. Bunları birleştirmeye karar verdik ve ortaya Forgotten çıktı.*
 
