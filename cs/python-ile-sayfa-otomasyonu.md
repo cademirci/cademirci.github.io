@@ -25,7 +25,7 @@ Python'da sistemden zaman çekmek için iki satırlık bir kod gereklidir:
   ```
 Burada `print(localtime)` bize `Wed Dec 13 19:20:53 2017` çıktısını verecektir.
 
-Bu tarih formatını, biraazcık string manipülasyonu bildiğimiz zaman istediğimiz gibi şekillendirebiliriz. Bunun için şöyle bir fonksiyon yazılabilir:
+Bu tarih formatını, birazcık string manipülasyonu bildiğimiz zaman istediğimiz gibi şekillendirebiliriz. Bunun için şöyle bir fonksiyon yazılabilir:
 
   ```python
   def turkish_localtime(time):
@@ -64,12 +64,12 @@ Bu tarih formatını, biraazcık string manipülasyonu bildiğimiz zaman istedi�
   
 Programın yaptıkları:
 
-1. `args[1]`'in içindeki data `blog` ya da `cs` olabilir. Bu keyword, yazı belgesinin hangi klasörde olacağını işaret ediyor. Üreteceği linklerin tümüne bunu koyacak. 
-2. blog/belge-ismi şeklinde URL üretiyor.
-3. Program "Yazının adı ne olsun?" sorusunu soruyor, yazı adını aldıktan sonra bir Markdown linki üretiyor: `[Yazı adı](blog/belge-ismi)`
-4. Yazıyı temsilen bir görsel istiyor. 
-5. Yazıyı temsilen bir demo cümlesi istiyor.
-6. Bunları aldıktan sonra Ana Sayfa'daki Son Yazılar kısmı için resimli ve tarihli bir HTML division'u üretiyor:
+- `args[1]`'in içindeki data `blog` ya da `cs` olabilir. Bu keyword, yazı belgesinin hangi klasörde olacağını işaret ediyor. Üreteceği linklerin tümüne bunu koyacak. 
+- blog/belge-ismi şeklinde URL üretiyor.
+- Program "Yazının adı ne olsun?" sorusunu soruyor, yazı adını aldıktan sonra bir Markdown linki üretiyor: `[Yazı adı](blog/belge-ismi)`
+- Yazıyı temsilen bir görsel istiyor. 
+- Yazıyı temsilen bir demo cümlesi istiyor.
+- Bunları aldıktan sonra Ana Sayfa'daki Son Yazılar kısmı için resimli ve tarihli bir HTML division'u üretiyor:
 
 ```html
 <div class="lastone">
@@ -81,9 +81,9 @@ Programın yaptıkları:
 ```
 not: Markdown içindeki HTML bölümlerinde indentation yapılmaz. Şu an ne kadar uygunsuz göründüğü mühim değil.
 
-7. belge-ismi'nin sonuna `.md` uzantısı koyarak bu belgeyi üretiyor ve kendisini alıp siteye koymam için programla aynı klasörün içine koyuyor. Aslında önceden doğrudan sitenin içine koyuyordum ama bu işten vazgeçtim. 
-8. Markdown belgesini açıp başına `layout: default` ve `title: Yazı Adı` gibi gerekli şeyleri ve hemen ardından yazı tarihini belgeye koyuyor.
-9. Bütün bu linkleri ve div'leri, daha sonra istediğim zaman kullanmam için programımın olduğu klasördeki *TextLinks.txt* belgesine öncekileri silmeden yazıyor. 
+- belge-ismi'nin sonuna `.md` uzantısı koyarak bu belgeyi üretiyor ve kendisini alıp siteye koymam için programla aynı klasörün içine koyuyor. Aslında önceden doğrudan sitenin içine koyuyordum ama bu işten vazgeçtim. 
+- Markdown belgesini açıp başına `layout: default` ve `title: Yazı Adı` gibi gerekli şeyleri ve hemen ardından yazı tarihini belgeye koyuyor.
+- Bütün bu linkleri ve div'leri, daha sonra istediğim zaman kullanmam için programımın olduğu klasördeki *TextLinks.txt* belgesine öncekileri silmeden yazıyor. 
 
 Böylece programın geri kalanı burada:
 
