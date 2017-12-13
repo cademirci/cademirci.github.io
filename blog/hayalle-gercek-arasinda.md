@@ -7,7 +7,7 @@ title: Hayalle Gerçek Arasında
 # Hayalle Gerçek Arasında
 ***Kısa bir övgü.***
 
-<div style="margin: 25px auto; border: 1px solid red; width: 300px;">
+<div style="margin: 25px auto; width: 300px;">
 <iframe src="https://open.spotify.com/embed/album/5vB4iQYM72LF2zvjGS2akY" width="300" height="535" frameborder="0" align="middle" allowtransparency="true"></iframe>
 </div>
 
