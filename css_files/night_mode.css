@@ -192,8 +192,9 @@ pre {
 	float: right;
 }
 
-iframe {
-	margin: 40px auto;
+markdown-body iframe {
+	margin: 25px auto;
+	text-align: center;
 }
 
 
