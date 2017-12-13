@@ -9,7 +9,7 @@ title: Ana Sayfa
 <div class="lastone">
 <a href="blog/hayalle-gercek-arasinda"><img src="https://s.mxmcdn.net/images-storage/albums/4/6/3/8/0/2/28208364_800_800.jpg"></a>
 <p>
-<a href="https://caglayandemirci.github.io/blog/hayalle-gercek-arasinda">Hayalle Gerçek Arasında</a>
+<a href="blog/hayalle-gercek-arasinda">Hayalle Gerçek Arasında</a>
 <br>13.12.2017<br>Pickpocket'in 2008'de çıkan canavar gibi albümü</p>
 </div>
 <div class="lastone">
