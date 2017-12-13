@@ -7,6 +7,12 @@ title: Ana Sayfa
 
 <div class="lasts">
 <div class="lastone">
+<a href="cs/python-ile-sayfa-otomasyonu"><img src="https://i.ytimg.com/vi/vISRn5qFrkM/maxresdefault.jpg"></a>
+<p>
+<a href="cs/python-ile-sayfa-otomasyonu">Bloğumda Python İle Sayfa Otomasyonu</a>
+<br>13.12.2017<br>Bu sayfada gördüğünüz kimi şeyleri yaptırdığım ufak python programım.</p>
+</div>
+<div class="lastone">
 <a href="blog/hayalle-gercek-arasinda"><img src="https://s.mxmcdn.net/images-storage/albums/4/6/3/8/0/2/28208364_800_800.jpg"></a>
 <p>
 <a href="blog/hayalle-gercek-arasinda">Hayalle Gerçek Arasında</a>

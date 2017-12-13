@@ -5,6 +5,8 @@ title: Arşiv
 
 **Aralık 2017**
 
+[Bloğumda Python İle Sayfa Otomasyonu](cs/python-ile-sayfa-otomasyonu)
+
 [Hayalle Gerçek Arasında](https://caglayandemirci.github.io/blog/hayalle-gercek-arasinda)
 
 [10 Aralık 2017 İstanbul](https://caglayandemirci.github.io/blog/10-aralik-2017-istanbul)
