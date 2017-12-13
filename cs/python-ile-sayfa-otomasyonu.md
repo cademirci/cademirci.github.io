@@ -3,7 +3,7 @@ layout: post
 title: Bloğumda Python İle Sayfa Otomasyonu
 ---
 <p class="date">13.12.2017 Çar 20:08</p>
-
+<br><br><br>
 Kullanım:
 ```
 $ python createpage.py blog tirelerle-latin-harfli-yazi-ismi
