@@ -92,7 +92,7 @@ Böylece programın geri kalanı burada:
 >text_date = turkish_localtime(localtime)
 >
 ># implementing: 
->#          {{ IMAGE }}
+>#             IMAGE 
 >#           text name. 
 >#             date.
 ># description or demo sentence
