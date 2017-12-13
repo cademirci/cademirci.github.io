@@ -7,7 +7,7 @@ title: Hayalle Gerçek Arasında
 # Hayalle Gerçek Arasında
 ***Kısa bir övgü.***
 
-<iframe src="https://open.spotify.com/embed/album/5vB4iQYM72LF2zvjGS2akY" width="300" height="535" frameborder="0" allowtransparency="true"></iframe>
+<iframe style= "margin: 25px auto" src="https://open.spotify.com/embed/album/5vB4iQYM72LF2zvjGS2akY" width="300" height="535" frameborder="0" allowtransparency="true"></iframe>
 
 Pickpocket adlı alternatif metal denebilecek, "daha sert bir Kurban" tarzında bir grup olduğunu yıllardır biliyordum. Ama bu albümlerini daha geçenlerde dinlemeye başladım. Kalitesinden, güzelliğinden hayrete düştüğümü belirteyim. Bu tarz müziği seviyorsanız bir bakmanızda fayda var.
 
