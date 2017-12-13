@@ -192,11 +192,9 @@ pre {
 	float: right;
 }
 
-markdown-body iframe {
-	margin: 25px auto;
-	text-align: center;
+iframe[seamless] {
+    display: block;
 }
-
 
 
 

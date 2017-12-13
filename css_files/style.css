@@ -260,9 +260,8 @@ pre {
 	color: ##262626;
 }
 
-.markdown-body iframe {
-	margin: 25px auto;
-	text-align: center;
+iframe[seamless] {
+    display: block;
 }
 
 
