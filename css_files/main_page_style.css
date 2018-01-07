@@ -1,0 +1,10 @@
+@import url("style.css");
+
+.foggy {
+	background-image: url(../images/foggyforest.jpg);
+	height: 200px;
+	width: 100%;
+}
+.foggy img {
+	opacity: 0.75;
+}
