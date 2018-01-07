@@ -7,7 +7,7 @@ title: Hakkımda
 ### Ben Kimim?
 Çağlayan Demirci. Rock müzikten ve diğer fantastik sanatlardan hoşlanan, yakında biteceği umuduyla bulunduğu üniversitede bilgisayar mühendisliği bölümü öğrencisi.
 
-![](https://github.com/caglayandemirci/forgotten-pages/blob/gh-pages/images/ppEymir.png) 
+<img src="images/pp.jpg" style="border-radius: 50%; height: 125px; width: 125px; float: left; margin-left: 10%;">
 
 ### Burası Neresi?
 Kişisel site. Kişisel blog sitesi, blog, Çağlayan Demirci’nin web sayfası, sitesi, bloğu… Ben de tam emin değilim. Belli bir ismi yok. Çoğunlukla kişisel sitelerin bir ismi de olmaz zaten; insanlar ad ve soyadlarını site başlığı olarak yazarlar. Ben böyle bir şeyi gerek görmedim; adım site url’sinde ve çeşitli yerlerde yeteri kadar yazıyor.
@@ -20,4 +20,4 @@ Kişisel site. Kişisel blog sitesi, blog, Çağlayan Demirci’nin web sayfası
 
 Sitenin temel yapısını HTML ve CSS ile oluşturdum. Kodlama, tasarım, fikir, sayfaları işaret eden minik ikon resimler (tabi ki sosyal medya logoları hariç) ve ufak Javascript programlama destekleri de dahil olmak üzere her şey benim tarafımdan yazılmış/yapılmış ve bana aittir. Ancak işin güzel tarafı bunların hepsini fütursuzca kullanabilirsiniz. Yaptığım işleri, sayfanın en altında (footerda) görebileceğiniz şekilde GitHub Repository’mde kullanıma sundum. Sitenin **teknik kısmının** en ufak bir telif hakkı ya da ona benzer bir şeyi yoktur. Ayrıca sitede hiçbir zaman reklam görmeyeceksiniz.
 
-![](https://github.com/caglayandemirci/caglayandemirci.github.io/blob/master/images/siteicon.png)
+![](https://caglayandemirci.github.io/forgotten-pages/images/siteicon.png)
