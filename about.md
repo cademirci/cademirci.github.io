@@ -5,9 +5,10 @@ title: Hakkımda
 
 ## Hakkımda
 ### Ben Kimim?
-Çağlayan Demirci. Rock müzikten ve diğer fantastik sanatlardan hoşlanan, yakında biteceği umuduyla bulunduğu üniversitede bilgisayar mühendisliği bölümü öğrencisi.
 
 <img src="images/pp.jpg" style="border-radius: 50%; height: 250px; width: 250px; margin: 25px; float: right;">
+
+Çağlayan Demirci. Rock müzikten ve diğer fantastik sanatlardan hoşlanan, yakında biteceği umuduyla bulunduğu üniversitede bilgisayar mühendisliği bölümü öğrencisi.
 
 ### Burası Neresi?
 Kişisel site. Kişisel blog sitesi, blog, Çağlayan Demirci’nin web sayfası, sitesi, bloğu… Ben de tam emin değilim. Belli bir ismi yok. Çoğunlukla kişisel sitelerin bir ismi de olmaz zaten; insanlar ad ve soyadlarını site başlığı olarak yazarlar. Ben böyle bir şeyi gerek görmedim; adım site url’sinde ve çeşitli yerlerde yeteri kadar yazıyor.
