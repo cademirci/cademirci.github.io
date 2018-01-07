@@ -2,9 +2,13 @@
 
 .foggy {
 	background-image: url(../images/foggyforest.jpg);
-	height: 200px;
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+	height: 500px;
 	width: 100%;
 }
 .foggy img {
-	opacity: 0.75;
+	
+	width: 100%;
 }
