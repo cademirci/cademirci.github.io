@@ -4,7 +4,7 @@ body {
 	background: #fafafa;
 	color: #333;
 	font-family: Open Sans;
-	font-size: 0.975em;
+	font-size: 0.95em;
 	line-height: 1.5;
 	margin: 0;
 }
@@ -124,4 +124,12 @@ body {
 	color: #666;
 	margin-top: -50px;
 	text-align: center;
+}
+
+p2, p3 {
+	font-size: 0.85em;
+	font-color: #999;
+}
+p3 {
+	margin-top: -55px;
 }
