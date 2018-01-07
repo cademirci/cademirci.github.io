@@ -1,5 +1,5 @@
-# ÇAĞLAYAN DEMİRCİ
+# Personal Website
 
-My blog web page which is including texts about music, some programming codes and others.
+I am Çağlayan Demirci and this is my blog/web page which is including texts about music, ideas and everything.
 
-https://caglayandemirci.github.io/
+https://caglayandemirci.com/
