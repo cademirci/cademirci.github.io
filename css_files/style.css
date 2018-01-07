@@ -133,3 +133,31 @@ p2, p3 {
 p3 {
 	margin-top: -55px;
 }
+
+/* mail sender */
+.mail_sender_box {
+	display: block;
+}
+.mail_email_req,
+.mail_text {
+	font-family: Calibri;
+	font-size: 1em;
+	color: #000;
+	width: 100%;
+	padding: 10px;
+	border: 5px solid #b8aa8f;
+}
+.mail_text {
+	height: 200px;
+	margin-top: 10px;
+}
+.mail_send_button {
+	background: #b8aa8f;
+	font-family: Calibri;
+	font-size: 1em;
+	color: #fff;
+	margin: auto;
+	height: 50px;
+	border: none;
+	margin-top: 10px;
+}/**/
