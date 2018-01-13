@@ -126,7 +126,9 @@ body {
 	text-align: center;
 }
 .markdown-body blockquote {
-	border-left: 4px solid #b8aa8f;
+	border-left: 4px solid #ebe7e0;
+	padding: 0 15px;
+	margin: 15px 0;
 }
 
 p2, p3 {
