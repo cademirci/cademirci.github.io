@@ -125,6 +125,9 @@ body {
 	margin-top: -50px;
 	text-align: center;
 }
+.markdown-body blockquote {
+	border-left: 4px solid #b8aa8f;
+}
 
 p2, p3 {
 	font-size: 0.85em;
