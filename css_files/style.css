@@ -186,9 +186,12 @@ p3 {
 	height: 35px;
     width: 25%;
     border: none;
-    background-color: #fff;
+    background-color: rgb(240,240,240);
     float: right;
     margin-top: 10px;
+}
+.article_button:hover {
+	background-color: #fff;
 }
 @media only screen and (max-width: 500px) {
 	.article_window {
