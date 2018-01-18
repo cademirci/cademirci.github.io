@@ -167,3 +167,58 @@ p3 {
 	border: none;
 	margin-top: 10px;
 }/**/
+
+/* article window */
+
+.article_window {
+	height: 300px;
+	width: 42%;
+	color: ghostwhite;
+	background-color: #111;
+    padding: 10px;
+}
+.article_window h {
+	color: #fff;
+}
+.article_button {
+	height: 35px;
+    width: 25%;
+    border: none;
+    background-color: #fff;
+    float: right;
+    margin-right: 10%;
+    margin-top: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
