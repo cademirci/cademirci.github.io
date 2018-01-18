@@ -2,7 +2,7 @@
 /* general content of the page */
 body {
 	background: #fafafa;
-	color: #333;
+	color: #222;
 	font-family: "Segoe UI";
 	/* font-size: 0.95em; */
 	line-height: 1.5;
@@ -133,7 +133,7 @@ body {
 }
 
 p2, p3 {
-	font-size: 0.95em;
+	font-size: 0.9em;
 	font-color: #999;
 }
 p3 {
