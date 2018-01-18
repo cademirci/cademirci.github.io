@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Alternatif Dünya Özlemi
 ---
 <p2>22.02.2017</p2>
