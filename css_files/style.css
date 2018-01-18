@@ -171,15 +171,16 @@ p3 {
 /* article window */
 
 .article_window {
-	height: 300px;
 	width: 42%;
 	color: ghostwhite;
-	background-color: #111;
+	background-color: #222;
     padding: 10px;
 	margin: 25px 0;
+	display: block;
 }
-.article_window h {
+.article_window h3 {
 	color: #fff;
+	margin-top: 0;
 }
 .article_button {
 	height: 35px;
@@ -187,10 +188,13 @@ p3 {
     border: none;
     background-color: #fff;
     float: right;
-    margin-right: 10%;
     margin-top: 10px;
 }
-
+@media only screen and (max-width: 500px) {
+	.article_window {
+		width: 100%;
+	}
+}
 
 
 
