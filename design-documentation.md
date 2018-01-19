@@ -43,7 +43,7 @@ Bir blog sitesinin en belirgin karakterlerinden birinin, linkler olduğuna inan�
 - Link olan sözcük ya da gruplarında text decoration olarak çift alt çizgi kullandım. 
 - Renk: rgb(156, 137, 99) (#9c8963). Hover: rgb(184, 170, 143) (#b8aa8f).
 
-Buradan da görülebileceği gibi, siyah ve beyazın dışında alternatif rengim (aslında evet tek rengim) parşömeni ya da teksiz kağıdını andıran solgun bir gri-altındır. Linkler dışında mail kutumun kenarlarında, aylık blog sayfamın başlık alt çizgilerinde ve bu gibi çeşitli yerlerde görülebilmektedir.
+Buradan da görülebileceği gibi, siyah ve beyazın dışında alternatif rengim (aslında evet tek rengim) parşömeni ya da teksir kağıdını andıran solgun bir gri-altındır. Linkler dışında mail kutumun kenarlarında, aylık blog sayfamın başlık alt çizgilerinde ve bu gibi çeşitli yerlerde görülebilmektedir.
 
 Böylece sitemde şöyle bir renk paleti ortaya çıkıyor:
 
@@ -55,7 +55,7 @@ Böylece sitemde şöyle bir renk paleti ortaya çıkıyor:
 <div class="color_box" style="background-color: #9c8963"></div>
 <div class="color_box" style="background-color: #b8aa8f"></div>
 <div class="color_box" style="background-color: #fafafa"></div>
-</div>
+</div><br>
 
 ##### Kullanım Tasarımı
 
