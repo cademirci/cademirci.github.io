@@ -52,7 +52,13 @@ Böylece sitemde şöyle bir renk paleti ortaya çıkıyor:
 <div class="color_box" style="background-color: #222"></div>
 <div class="color_box" style="background-color: #363636"></div>
 <div class="color_box" style="background-color: #999"></div>
-<div class="color_box" style="background-color: #b8aa8f"></div>
 <div class="color_box" style="background-color: #9c8963"></div>
+<div class="color_box" style="background-color: #b8aa8f"></div>
 <div class="color_box" style="background-color: #fafafa"></div>
 </div>
+
+##### Kullanım Tasarımı
+
+Header'a dört öğeden oluşan bir navigation bar yaptım gibi açıkça görülebilecek şeyleri geçiyorum.
+
+Sitede genel olarak, kısa yazılarımı yazdığım aylık blog, Hakkımda ve İletişim dışında her şeyin ana sayfadan ulaşılabileceği şeklinde bir yapı mevcut. Son Yazılar şeklinde başlıkladığım kısımda yeniden eskiye doğru yazılarımı siyah kutucuklar şeklinde tutuyorum. Bunlar kutuların birbirine olan uyumu doğrultusunda beş veya altı adet olacaklar. Daha eskiye gittiklerinde bunların altında "Tüm yazıları gör" şeklinde bir buton koyabilirim. Sayfayı aşağıya doğru genişleterek yazıları yeniden eskiye doğru veririm.
