@@ -5,7 +5,7 @@ title: Tasarım Dokümantasyonu
 <style>
 .color_palette {
 	height: 100px;
-	border: 1px solid red;
+	border: 1px solid gray;
 }
 .color_box {
 	margin:0;
