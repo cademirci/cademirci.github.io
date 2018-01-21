@@ -196,7 +196,7 @@ p3 {
     margin-top: 10px;
 }
 .article_button:hover {
-	background-color: #fff;
+	background-color: #666;
 }
 @media only screen and (max-width: 500px) {
 	.article_window {
