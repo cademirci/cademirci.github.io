@@ -182,11 +182,16 @@ p3 {
 	color: #fff;
 	margin-top: 0;
 }
+.article_window img {
+	margin: 10px;
+}
 .article_button {
 	height: 35px;
     width: 25%;
     border: none;
-    background-color: rgb(240,240,240);
+    background-color: #333;
+	color: #fff;
+	border: 1px solid #999;
     float: right;
     margin-top: 10px;
 }
