@@ -11,4 +11,4 @@ Nadiren yazdığım makale tipi yazılarımı buradan, ana sayfadan yayımlıyor
 
 ## Son Yazılar
 
-<div class="article_window"><h3>Alternatif Dünya Özlemi</h3><br>22.02.2017<br>Zamanında okulun edebiyat bölümüne ait Oluş dergisinde çıkan yazım.<br><br><i>"İnsanlar olarak mutsuzuz. Depresyon ve stres, her geçen gün daha da büyüyen kara bir siluet gibi karşımızda yükseliyor. Bilincimizin her gün tekrar ve tekrar bu..."</i><br><a href="articles/alternatif-dunya-ozlemi"><button class="article_button">Okuyayım</button></a><br><br></div>
+<div class="article_window"><h3>Alternatif Dünya Özlemi</h3><br>22.02.2017<br>Zamanında okulun edebiyat bölümüne ait dergide çıkan yazım.<br><br><i>"İnsanlar olarak mutsuzuz. Depresyon ve stres, her geçen gün daha da büyüyen kara bir siluet gibi karşımızda yükseliyor. Bilincimizin her gün tekrar ve tekrar bu..."</i><br><a href="articles/alternatif-dunya-ozlemi"><button class="article_button">Okuyayım</button></a><br><br></div>
