@@ -21,4 +21,4 @@ Kişisel site. Kişisel blog sitesi, blog, Çağlayan Demirci’nin web sayfası
 
 Sitenin temel yapısını HTML ve CSS ile oluşturdum. Kodlama, tasarım, fikir, sayfaları işaret eden minik ikon resimler (tabi ki sosyal medya logoları hariç) ve ufak Javascript programlama destekleri de dahil olmak üzere her şey benim tarafımdan yazılmış/yapılmış ve bana aittir. Ancak işin güzel tarafı bunların hepsini fütursuzca kullanabilirsiniz. Yaptığım işleri, sayfanın en altında (footerda) görebileceğiniz şekilde GitHub Repository’mde kullanıma sundum. Sitenin **teknik kısmının** en ufak bir telif hakkı ya da ona benzer bir şeyi yoktur. Ayrıca sitede hiçbir zaman reklam görmeyeceksiniz.
 
-![](https://caglayandemirci.github.io/forgotten-pages/images/siteicon.png)
+![](https://caglayandemirci.github.io/images/siteicon2.1image.png)
