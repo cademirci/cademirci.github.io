@@ -249,8 +249,8 @@ pre {
 	background-color: #222;
 	height: 42px;
 	text-align: center;
-	border-radius: 50px;
-	border-top: 1px solid #fafafa;
+	border-radius: 25px 25px 0 0;
+	border: 1px solid #222;
 	margin-bottom: -40px;
 	padding: 10px;
 }
