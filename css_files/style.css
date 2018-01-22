@@ -245,12 +245,12 @@ pre {
     box-shadow: 0 2px 1px rgba(0,140,186, 0.5);
 }
 .code_source_name {
-	color: #666;
+	color: #999;
 	background-color: #222;
 	height: 42px;
 	text-align: center;
-	border-top-radius: 50%;
-	border: 5px solid green;
+	border-radius: 50%;
+	border-top: 1px solid #fafafa;
 	margin-bottom: -40px;
 }
 
