@@ -21,6 +21,6 @@ Kişisel site. Kişisel blog sitesi, blog, Çağlayan Demirci’nin web sayfası
 
 Sitenin temel yapısını HTML ve CSS ile oluşturdum. Kodlama, tasarım, fikir, sayfaları işaret eden minik ikon resimler (tabi ki sosyal medya logoları hariç) ve ufak Javascript programlama destekleri de dahil olmak üzere her şey benim tarafımdan yazılmış/yapılmış ve bana aittir. Ancak işin güzel tarafı bunların hepsini fütursuzca kullanabilirsiniz. Yaptığım işleri, sayfanın en altında (footerda) görebileceğiniz şekilde GitHub Repository’mde kullanıma sundum. Sitenin **teknik kısmının** en ufak bir telif hakkı ya da ona benzer bir şeyi yoktur. Ayrıca sitede hiçbir zaman reklam görmeyeceksiniz.
 
-![](https://caglayandemirci.github.io/images/siteicon2.4.png)
+![](https://caglayandemirci.github.io/images/siteicon2.2.png)
 
 Kar kristali öteden beri tasarım imzam gibi bir şeydi. Görsel tasarım uzmanı olmasam da, kendi çapımda yaptığım görsellerin bir yerlerinde, altı kollu küçük yıldızlar şeklinde de olsa bu simgeyi kullanırım. Site icon olarak da yine dijital ortamda yaptığım bu resmi seçtim.
