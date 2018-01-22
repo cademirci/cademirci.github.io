@@ -203,6 +203,47 @@ p2 {
 	}
 }
 
+/* coding */
+/* syntax highlighting via tomorrow-night.css 
+   which is in the same directory. */
+pre, code {
+	font-family: Consolas;
+	font-size: 13.5px;
+	line-height: 1.3;
+	margin: 40px 0;
+	border: 1px solid #1d1f21;
+}
+pre {
+	/* TAB character be 4 whitespace wide. */
+    -moz-tab-size: 4; /* Firefox 4+ */
+    -o-tab-size: 4;   /* Opera 11.5 & 12.1 only */
+    tab-size: 4;      /* Chrome 21+, Safari 6.1+, Opera 15+ */
+	
+	/* code lines do not outflow from code blocks */
+	white-space: pre-wrap;       /* Since CSS 2.1 */
+    white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
+    white-space: -pre-wrap;      /* Opera 4-6 */
+    white-space: -o-pre-wrap;    /* Opera 7 */
+    word-wrap: break-word;       /* Internet Explorer 5.5+ */
+}
+.markdown-body pre {
+	padding: 10px;
+	border: 1px solid #000;
+}
+.dir_zone {
+	display: inline-block;
+	width: 100%;
+	text-align: right;
+}
+.markdown-body img.dir { 
+	height: 100px; 
+	width: 100px;
+	margin: 0;
+	display: inline;
+}
+.dir:hover {
+    box-shadow: 0 2px 1px rgba(0,140,186, 0.5);
+}
 
 
 
