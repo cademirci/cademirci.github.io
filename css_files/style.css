@@ -249,13 +249,18 @@ pre {
 	background-color: #222;
 	display: block;
 	text-align: center;
-	border-radius: 25px 25px 0 0;
+	border-radius: 20px 20px 0 0;
 	border: 1px solid #222;
 	margin-bottom: -40px;
 	padding: 10px;
 }
 
-
+.a2a_svg, .a2a_count { border-radius: 0 !important; }
+.a2a_kit {
+	margin: 50px 0;
+	display: flex; 
+	justify-content: center;
+}
 
 
 
