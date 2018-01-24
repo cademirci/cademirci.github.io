@@ -1,3 +1,5 @@
+/* "Knowledge is Light" theme by Caglayan Demirci. http://caglayandemirci.com/ */
+
 
 /* general content of the page */
 body {
@@ -10,10 +12,14 @@ body {
 }
 .header {
 	background: #363636;
-	height: 50px;
+	height: 110px;
 	padding: 20px;
 	text-align: center;
 	border-bottom: 1px solid #000;
+}
+.site_title {
+	float: left; 
+	margin-left: 15%;
 }
 .header_photo {
 	border-radius: 50%; 
@@ -24,8 +30,8 @@ body {
 }
 .nav_bar {
 	display: inline-block;
-	/*float: right;
-	margin-right: 15%;*/
+	float: right;
+	margin-right: 15%;
 }
 .nav_bar img {
 	height: 42px;
