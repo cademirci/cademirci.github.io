@@ -11,11 +11,11 @@ title: Hakkımda
 ![image](https://i.hizliresim.com/RnJX8G.png)
 
 ### Burası Neresi?
-Kişisel site. Kişisel blog sitesi, blog, Çağlayan Demirci’nin web sayfası, sitesi, bloğu… Ben de tam emin değilim. Belli bir ismi yok. Çoğunlukla kişisel sitelerin bir ismi de olmaz zaten; insanlar ad ve soyadlarını site başlığı olarak yazarlar. Ben böyle bir şeyi gerek görmedim; adım site url’sinde ve çeşitli yerlerde yeteri kadar yazıyor.
+Kişisel site. Kişisel blog sitesi, blog, Çağlayan Demirci’nin web sayfası, sitesi, bloğu… Ben de tam emin değilim. Belli bir ismi yok. Çoğunlukla kişisel sitelerin bir ismi de olmaz zaten; insanlar ad ve soyadlarını site başlığı olarak yazarlar. Ben böyle bir şeyi gerek görmemiştim, ta ki en sonunda şu hobiyi bir lisans parçası haline getireyim diyip web design dersi alana kadar. Artık sayfamın sol başında sizi simgem, adım ve sloganımla karşılayacağım (tam "logo" sayılmaz).
 
 Çocukluğumdan beri, becerebildiğim çapta yazı yazmaktan hoşlanıyorum. Uzun süre Ekşi Sözlük’te yazdım, ancak orası, asırlık “Ekşi bozdu” muhabbetinden değil ama gerçekten ağız tadıyla yazı yazılacak durumdan çıktığı için, bir süredir kendime ait bir platformda kendi küçük dünyamı kurma planları yapıyordum. Öyle çok da sosyal medyacı bir tarafım olmadığından ve eskiden beri web sayfaları tasarlamayı sevdiğimden, bunu kendime ait ama son derece sade, okumaya hizmet eden bir blog sitesinde gerçekleştirmeye karar verdim. Lafın kısası, burayı başkalarının da faydalanabileceği **kişisel elektronik hafıza** olarak kullanacağım. 
 
-... Bu arada önceden bir site sloganı vardı, yukarıda bir yerlerde ortaya yazmıştım ama sadelik obsesifliğimde o da kayboldu. "Hayat, Evren ve Her Şey'e Dair Nihai Kişisel Blog" şeklindeki, eloğlunun *catchphrase* dediği laf hala sitemin sloganı sayılabilir. O, Douglas Adams’ın yazdığı Otostopçu’nun Galaksi Rehberi (*The Hitchhiker’s Guide to the Galaxy*) adlı kitapta yer alan “Hayat, evren ve her şeye dair nihai sorunun cevabı 42’dir” kültüne göndermede bulunuyordu.
+Önceden bir başka site sloganı kullanıyordum, sadelik obsesifliğimde kaybolmuştu, fakat profesyonel danışmanlığından dolayı bir başka versiyonu ile geri geldi (bakınız ilk paragraf). "Hayat, Evren ve Her Şey'e Dair Nihai Kişisel Blog" şeklindeki, eloğlunun *catchphrase* dediği laf sitemin sloganıydı. O, Douglas Adams’ın yazdığı Otostopçu’nun Galaksi Rehberi (*The Hitchhiker’s Guide to the Galaxy*) adlı kitapta yer alan “Hayat, evren ve her şeye dair nihai sorunun cevabı 42’dir” kültüne göndermede bulunuyordu. Artık daha sade ve sanat eserlerine o kadar bağlı kalmayan bir slogan kullanıyorum: Sanat, teknik, düşünce.
 
 ### Site Hakkında
 
@@ -23,4 +23,4 @@ Sitenin temel yapısını HTML ve CSS ile oluşturdum. Kodlama, tasarım, fikir,
 
 ![](https://caglayandemirci.github.io/images/siteicon2.2.png)
 
-Kar kristali öteden beri tasarım imzam gibi bir şeydi. Görsel tasarım uzmanı olmasam da, kendi çapımda yaptığım görsellerin bir yerlerinde, altı kollu küçük yıldızlar şeklinde de olsa bu simgeyi kullanırım. Site icon olarak da yine dijital ortamda yaptığım bu resmi seçtim.
+Kar kristali öteden beri tasarım imzam gibi bir şeydi. Görsel tasarım uzmanı olmasam da, kendi çapımda yaptığım görsellerin bir yerlerinde, altı kollu küçük yıldızlar şeklinde de olsa bu simgeyi kullanırım. Site ikonu olarak da yine dijital ortamda yaptığım bu resmi seçtim. Sitenin başındaki de, tarayıcı sekmesindeki de bunun daha az süslü birer türevidir.
