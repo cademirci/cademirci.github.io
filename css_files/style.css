@@ -33,6 +33,7 @@ body {
 	display: inline-block;
 	float: right;
 	margin-right: 15%;
+	margin-top: 35px;
 }
 .nav_bar img {
 	height: 42px;
@@ -203,12 +204,6 @@ p2 {
 .article_button:hover {
 	background-color: #666;
 }
-@media only screen and (max-width: 500px) {
-	.article_window {
-		width: 100%;
-		margin-left: -10px;
-	}
-}
 
 /* coding */
 /* syntax highlighting via tomorrow-night.css 
@@ -267,6 +262,24 @@ pre {
 	margin: 50px 0;
 	display: flex; 
 	justify-content: center;
+}
+
+@media only screen and (max-width: 500px) {
+	.header {
+		height: 150px;
+	}
+	.article_window {
+		width: 100%;
+		margin-left: -10px;
+	}
+	.site_title {
+		float: left; 
+		margin-left: 0;
+		height: 100px;
+	}
+	.nav_bar {
+		margin: auto;
+	}
 }
 
 
