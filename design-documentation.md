@@ -39,9 +39,10 @@ Header ve footer renk tercihleri koyu grinin iki farklı tonu şeklinde:
 
 İki alanın renklerinin az da olsa farklı olması, her bir division'ın ayrı karakterlere sahip olmasını istememden kaynaklanıyor. Bunun başlıca sebebi, eğer ikisi de aynı renk olsaydı, siteyi altında ve üstünde aynı ekmek parçalarından olan bir sandviç gibi sunmanın algıda biraz monotonluk yaratacağına inanmam oldu. Neden daha açık olanın header olduğu meselesine gelirsek: İnsanlar genel olarak bilgisayar ekranını, yüze paralel değil ama çok az açıyla havaya bakacak şekilde tutuyorlar. Bu da laptoplar gibi lcd ekranları olan cihazlarda ekranın üst kısımlarının daha koyu görünmesine yol açıyor. Böylece açık renkli olan footer olsaydı, arada benim istediğim miktardan çok daha fazla bir ton farkı olacaktı. Bu beyan fantastik görünebilir ama evet, bunu düşündüm.
 
-Bir blog sitesinin en belirgin karakterlerinden birinin, linkler olduğuna inanıyorum. Referans vermek gibi çok çeşitli amaçlarla kullanılabilecek web linklerini kullanmaya Ekşi Sözlük'ten alışmış olan neslimiz için, sayfayı renklendirmenin en basit yöntemlerinden birinin bu araçlar diye düşünüyorum. Bunun için;
-- Link olan sözcük ya da gruplarında text decoration olarak çift alt çizgi kullandım. 
-- Renk: rgb(156, 137, 99) (#9c8963). Hover: rgb(184, 170, 143) (#b8aa8f).
+Bir blog sitesinin en belirgin karakterlerinden birinin, linkler olduğuna inanıyorum. Referans vermek gibi çok çeşitli amaçlarla kullanılabilecek web linklerini kullanmaya Ekşi Sözlük'ten alışmış olan neslimiz için, sayfayı renklendirmenin en basit yöntemlerinden birinin bu araçlar diye düşünüyorum.
+
+- Link: rgb(156, 137, 99) (#9c8963). 
+- Link Hover: rgb(184, 170, 143) (#b8aa8f).
 
 Buradan da görülebileceği gibi, siyah ve beyazın dışında alternatif rengim (aslında evet tek rengim) parşömeni ya da teksir kağıdını andıran solgun bir gri-altındır. Linkler dışında mail kutumun kenarlarında, aylık blog sayfamın başlık alt çizgilerinde ve bu gibi çeşitli yerlerde görülebilmektedir.
 
@@ -65,10 +66,10 @@ Sitede genel olarak, kısa yazılarımı yazdığım aylık blog, Hakkımda ve �
 
 Bilgisayar Bilimleri kısmını, ana sayfadan vereceğim. Bunu header'daki navigatigon bar'da da bir icon olarak sunabilirdim, hatta onu da şununla temsil edecektim:
 
-[](images/iconcs.jpg)
+<img src="../images/iconcs.jpg" style="margin: 10px;">
 
 Bunun yerine ana sayfada bulunan küçük Aylık Blog açıklaması ve resmi şeklinde ana sayfada sunuyorum. Bunun sebebinden tam emin değilim. :)
 
 ---
 
-Aslında daha yazılabilir. Ama temel noktalarda, özellikle renk tasarımı konusunda boluk bırakmadım sanıyorum.
+Aslında daha yazılabilir. Ama temel noktalarda, özellikle renk tasarımı konusunda boşluk bırakmadım sanıyorum.
