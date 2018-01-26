@@ -44,7 +44,7 @@ Bir blog sitesinin en belirgin karakterlerinden birinin, linkler olduğuna inan�
 - Link: rgb(156, 137, 99) (#9c8963). 
 - Link Hover: rgb(184, 170, 143) (#b8aa8f).
 
-Buradan da görülebileceği gibi, siyah ve beyazın dışında alternatif rengim (aslında evet tek rengim) parşömeni ya da teksir kağıdını andıran solgun bir gri-altındır. Linkler dışında mail kutumun kenarlarında, aylık blog sayfamın başlık alt çizgilerinde ve bu gibi çeşitli yerlerde görülebilmektedir.
+Buradan da görülebileceği gibi, siyah ve beyazın dışında alternatif rengim (aslında evet tek rengim) parşömeni ya da teksir kağıdını andıran solgun bir gri-altındır. Linkler dışında mail kutumun kenarlarında, aylık blog sayfamın başlık ayırıcılarında (separators) ve bu gibi çeşitli yerlerde görülebilmektedir.
 
 Böylece sitemde şöyle bir renk paleti ortaya çıkıyor:
 
