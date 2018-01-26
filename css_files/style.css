@@ -262,9 +262,9 @@ pre {
 	justify-content: center;
 }
 
-@media only screen and (max-width: 500px) {
+@media only screen and (max-width: 900px) {
 	.header {
-		height: 150px;
+		height: 125px;
 	}
 	.article_window {
 		width: 100%;
@@ -273,7 +273,7 @@ pre {
 	.site_title {
 		float: left; 
 		margin-left: 0;
-		height: 100px;
+		height: 90px;
 	}
 	.nav_bar {
 		margin: auto;
