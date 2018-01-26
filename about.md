@@ -11,7 +11,7 @@ title: Hakkımda
 ![image](https://i.hizliresim.com/RnJX8G.png)
 
 ### Burası Neresi?
-Kişisel site. Kişisel blog sitesi, blog, Çağlayan Demirci’nin web sayfası, sitesi, bloğu… Ben de tam emin değilim. Belli bir ismi yok. Çoğunlukla kişisel sitelerin bir ismi de olmaz zaten; insanlar ad ve soyadlarını site başlığı olarak yazarlar. Ben böyle bir şeyi gerek görmemiştim, ta ki en sonunda şu hobiyi bir lisans parçası haline getireyim diyip web design dersi alana kadar. Artık sayfamın sol başında sizi simgem, adım ve sloganımla karşılayacağım (tam "logo" sayılmaz).
+Kişisel site. Kişisel blog sitesi, blog, Çağlayan Demirci’nin sanat, teknik ve düşünce ile ilgili yazılarını barındırığı web sayfası, sitesi, bloğu… Ben de tam emin değilim. Belli bir ismi yok. Çoğunlukla kişisel sitelerin bir ismi de olmaz zaten; insanlar ad ve soyadlarını site başlığı olarak yazarlar. Ben böyle bir şeyi gerek görmemiştim, ta ki en sonunda şu hobiyi bir lisans parçası haline getireyim diyip web design dersi alana kadar. Artık sayfamın sol başında sizi simgem, adım ve sloganımla karşılayacağım (tam "logo" sayılmaz).
 
 Çocukluğumdan beri, becerebildiğim çapta yazı yazmaktan hoşlanıyorum. Uzun süre Ekşi Sözlük’te yazdım, ancak orası, asırlık “Ekşi bozdu” muhabbetinden değil ama gerçekten ağız tadıyla yazı yazılacak durumdan çıktığı için, bir süredir kendime ait bir platformda kendi küçük dünyamı kurma planları yapıyordum. Öyle çok da sosyal medyacı bir tarafım olmadığından ve eskiden beri web sayfaları tasarlamayı sevdiğimden, bunu kendime ait ama son derece sade, okumaya hizmet eden bir blog sitesinde gerçekleştirmeye karar verdim. Lafın kısası, burayı başkalarının da faydalanabileceği **kişisel elektronik hafıza** olarak kullanacağım. 
 
