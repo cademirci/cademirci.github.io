@@ -87,9 +87,11 @@ body {
 .markdown-body a,
 .markdown-body a:visited {
 	color: #9c8963;
+	text-decoration: none;
 }
 .markdown-body a:hover {
 	color: #b8aa8f;
+	text-decoration: none;
 } /**/ 
 
 .markdown-body h1 { font-size: 2.2em; }  
