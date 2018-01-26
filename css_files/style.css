@@ -86,15 +86,10 @@ body {
 }
 .markdown-body a,
 .markdown-body a:visited {
-	color: #333;
-	text-decoration: underline;
-	text-decoration-color: #9c8963;
-	text-decoration-style: double;
+	color: #9c8963;
 }
 .markdown-body a:hover {
-	text-decoration: underline;
-	text-decoration-color: #b8aa8f;
-	text-decoration-style: double;
+	color: #b8aa8f;
 } /**/ 
 
 .markdown-body h1 { font-size: 2.2em; }  
