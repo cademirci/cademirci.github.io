@@ -2,14 +2,6 @@
 layout: default
 title: Ana Sayfa
 ---
-<style>
-.footer {
-  position: absolute;
-  right: 0;
-  bottom: 0;
-  left: 0;
-}
-</style>
 Blog/site işimin yıllardır iyice suyu çıktıktan, birçok deneme sitesi yayına koyup koyup beğenmedikten, yazasımın gelip gelip site açtığımda gitmesi kademelerinden geçtikten sonra, nihayet şöyle son derece sade bir şey yapılandırıp caglayandemirci.com domainimi aldım. 
 
 *
