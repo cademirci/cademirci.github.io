@@ -284,7 +284,9 @@ pre {
 		margin-left: 0;
 		height: 90px;
 	}
-	.nav_bar {
+	.nav_bar,
+	.footer .social_media_bar,
+	.footer .bottom_signatures {
 		margin: auto;
 	}
 }
