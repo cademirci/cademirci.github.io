@@ -59,8 +59,8 @@ body {
 	color: #666;
 	font-size: 0.85em;
 	padding: 10px;
-	text-align: center;
 	border-top: 1px solid #666;
+	height: 175px;
 }.footer a { 
 	color: #999; 
 	text-decoration: none; 
@@ -69,7 +69,16 @@ body {
 	color: #fff; 
 	text-decoration: none; 
 }
-.footer img { height: 50px; width: 50px; }
+.footer .social_media_bar {
+	float: right;
+	margin-right: 15%;
+}
+.footer .bottom_signatures {
+	float: left;
+	margin-left: 15%;
+	margin-top: 50px;
+}
+.footer img { height: 50px; width: 50px; border: }
 .footer img:hover { 
 	box-shadow: 0 3px 1px rgb(125, 125, 125, 0.3); 
 }/**/
