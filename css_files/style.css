@@ -5,10 +5,16 @@
 body {
 	background: #fafafa;
 	color: #222;
-	font-family: Open Sans;
+	font-family: Open Sans, caglayandemirci_Open-Sans;
 	font-size: 0.95em;
 	line-height: 1.5;
 	margin: 0;
+} @font-face {
+	font-family: caglayandemirci_Open-Sans;
+	src: url(Open-Sans/OpenSans-Regular.ttf);
+}
+p, .markdown-body p {
+	font-family: caglayandemirci_Open-Sans;
 }
 .header {
 	background: #363636;
@@ -262,15 +268,18 @@ pre {
 	border: 1px solid #222;
 	margin-bottom: -40px;
 	padding: 10px;
-}
+}/**/
 
+
+/* share buttons */
 .a2a_svg, .a2a_count { border-radius: 0 !important; }
 .a2a_kit {
 	margin: 50px 0;
 	display: flex; 
 	justify-content: center;
-}
+}/**/
 
+/* phone screen syncronisation */
 @media only screen and (max-width: 900px) {
 	.header {
 		height: 125px;
@@ -292,7 +301,7 @@ pre {
 	.footer .bottom_signatures {
 		margin-top: 25px;
 	}
-}
+}/**/
 
 
 
