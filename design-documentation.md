@@ -68,7 +68,7 @@ Bilgisayar Bilimleri kısmını, ana sayfadan vereceğim. Bunu header'daki navig
 
 <img src="../images/iconcs.jpg" style="margin: 10px;">
 
-Bunun yerine ana sayfada bulunan küçük Aylık Blog açıklaması ve resmi şeklinde ana sayfada sunuyorum. Bunun sebebinden tam emin değilim. :)
+Bunun yerine ana sayfada bulunan küçük Aylık Blog açıklaması ve resmi şeklinde ana sayfada sunuyorum. Bunun sebebini "Sitenin Amacı" altbaşlığında ikinci paragrafta açıklamıştım.
 
 ---
 
