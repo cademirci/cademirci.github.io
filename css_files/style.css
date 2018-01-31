@@ -23,15 +23,11 @@ p, .markdown-body p {
 	text-align: center;
 	border-bottom: 1px solid #000;
 }
-.header img {
-	border: 1px solid #666;
-}
 .site_title {
 	float: left; 
 	margin-left: 15%;
 	height: 100px;
 	text-decoration: none;
-	border: none;
 }
 .header_photo {
 	border-radius: 50%; 
@@ -49,6 +45,7 @@ p, .markdown-body p {
 .nav_bar img {
 	height: 42px;
 	width: 42px;
+	border: 1px solid #666;
 }
 .nav_bar img:hover {
 	box-shadow: 0 3px 1px rgb(184, 170, 143, 0.3); 
