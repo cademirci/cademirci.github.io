@@ -23,11 +23,15 @@ p, .markdown-body p {
 	text-align: center;
 	border-bottom: 1px solid #000;
 }
+.header img {
+	border: 1px solid #666;
+}
 .site_title {
 	float: left; 
 	margin-left: 15%;
 	height: 100px;
 	text-decoration: none;
+	border: none;
 }
 .header_photo {
 	border-radius: 50%; 
