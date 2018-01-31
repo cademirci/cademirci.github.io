@@ -13,7 +13,7 @@ Nadiren yazdığım makale tipi yazılarımı buradan, ana sayfadan yayımlıyor
 
 <div style="margin: 10px;">
 <img src="../images/iconcs.jpg" style="margin: 10px; float: left; height: 64px; width: 64px;">
-Nadiren yazdığım makale tipi yazılarımı buradan, ana sayfadan yayımlıyorum. Bunun dışında yazımına çok vakit harcamadığım, şimdiye kadar nerelere koyacağımı şaştığım, 50 satır civarındaki minik yazılarımı da Aylık Blog sayfasına yazacağım. Bu sayfa yukarıdaki not defteri simgesinde bulunuyor.
+Bilgisayar bilimleri sayfalarıma buradan ulaşabilirsiniz: ziplenmiş kaynaklarıyla birlikte sayfada yazılı olarak sunulan kodlardan oluşan küçük bir portföy/arşiv. Çoğunlukla yalnızca kaynak, bazı yerlerde açıklamalar. **Bu sayfada henüz bir şey olmadığından kutucuğu aktif link haline getirmedim.**
 </div>
 </div>
 
