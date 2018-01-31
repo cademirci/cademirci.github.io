@@ -13,7 +13,7 @@ Nadiren yazdığım makale tipi yazılarımı buradan, ana sayfadan yayımlıyor
 
 <div style="margin: 10px;">
 <img src="../images/iconcs.jpg" style="margin: 10px; float: left; height: 64px; width: 64px;">
-Bilgisayar bilimleri sayfalarıma buradan ulaşabilirsiniz: ziplenmiş kaynaklarıyla birlikte sayfada yazılı olarak sunulan kodlardan oluşan küçük bir portföy/arşiv. Çoğunlukla yalnızca kaynak, bazı yerlerde açıklamalar. **Bu sayfada henüz bir şey olmadığından kutucuğu aktif link haline getirmedim.**
+Bilgisayar bilimleri sayfalarıma buradan ulaşabilirsiniz: ziplenmiş kaynaklarıyla birlikte sayfada yazılı olarak sunulan kodlardan oluşan küçük bir portföy/arşiv. Çoğunlukla yalnızca kaynak, bazı yerlerde açıklamalar. <b>Bu sayfada henüz bir şey olmadığından kutucuğu aktif link haline getirmedim.</b>
 </div>
 </div>
 
