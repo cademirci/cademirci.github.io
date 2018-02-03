@@ -281,6 +281,18 @@ pre {
 	justify-content: center;
 }/**/
 
+.small_panel {
+	height: 50px;
+	background: #fafafa;
+	text-align: center;
+	padding-top: 4px;
+
+}
+.small_panel img {
+	height: 30px;
+	width: 30px;
+}
+
 /* phone screen syncronisation */
 @media only screen and (max-width: 900px) {
 	.header {
