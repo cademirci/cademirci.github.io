@@ -15,7 +15,7 @@ Kişisel site. Kişisel blog sitesi, blog, Çağlayan Demirci’nin sanat, tekni
 
 Çocukluğumdan beri, becerebildiğim çapta yazı yazmaktan hoşlanıyorum. Uzun süre Ekşi Sözlük’te yazdım, ancak orası, asırlık “Ekşi bozdu” muhabbetinden değil ama gerçekten ağız tadıyla yazı yazılacak durumdan çıktığı için, bir süredir kendime ait bir platformda kendi küçük dünyamı kurma planları yapıyordum. Öyle çok da sosyal medyacı bir tarafım olmadığından ve eskiden beri web sayfaları tasarlamayı sevdiğimden, bunu kendime ait ama son derece sade, okumaya hizmet eden bir blog sitesinde gerçekleştirmeye karar verdim. Lafın kısası, burayı başkalarının da faydalanabileceği **kişisel elektronik hafıza** olarak kullanacağım. 
 
-"Hayat, Evren ve Her Şey" şeklindeki, eloğlunun *catchphrase* dediği platform sloganım, Douglas Adams’ın yazdığı Otostopçu’nun Galaksi Rehberi (*The Hitchhiker’s Guide to the Galaxy*) adlı kitapta yer alan “Hayat, evren ve her şeye dair nihai sorunun cevabı 42’dir” kültüne göndermede bulunuyor. Benimkinin eski hali "Hayat, Evren ve Her Şey'e Dair Nihai Kişisel Blog" idi, bunu sadeleştirdim. Bir ara "Sanat, Teknik, Düşünce" sloganını da kullanmıştım, ama sonra H2G2 kültüründen kopmak istemediğime karar verdim. 
+"Hayat, Evren ve Her Şey" şeklindeki, eloğlunun *catchphrase* dediği platform sloganım, Douglas Adams’ın yazdığı Otostopçu’nun Galaksi Rehberi (*The Hitchhiker’s Guide to the Galaxy*) adlı kitapta yer alan “Hayat, evren ve her şeye dair nihai sorunun cevabı 42’dir” kültüne göndermede bulunuyor. Bunun eski hali "Hayat, Evren ve Her Şey'e Dair Nihai Kişisel Blog" idi, bunu sadeleştirdim. Bir ara "Sanat, Teknik, Düşünce" sloganını da kullanmıştım, ama sonra H2G2 kültüründen kopmak istemediğime karar verdim. 
 
 ### Site Hakkında
 
