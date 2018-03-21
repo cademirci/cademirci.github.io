@@ -57,19 +57,3 @@ Böylece sitemde şöyle bir renk paleti ortaya çıkıyor:
 <div class="color_box" style="background-color: #b8aa8f"></div>
 <div class="color_box" style="background-color: #fafafa"></div>
 </div><br>
-
-##### Kullanım Tasarımı
-
-Header'a dört öğeden oluşan bir navigation bar yaptım gibi açıkça görülebilecek şeyleri geçiyorum.
-
-Sitede genel olarak, kısa yazılarımı yazdığım aylık blog, Hakkımda ve İletişim dışında her şeyin ana sayfadan ulaşılabileceği şeklinde bir yapı mevcut. Son Yazılar şeklinde başlıkladığım kısımda yeniden eskiye doğru yazılarımı siyah kutucuklar şeklinde tutuyorum. Bunlar kutuların birbirine olan uyumu doğrultusunda beş veya altı adet olacaklar. Daha eskiye gittiklerinde bunların altında "Tüm yazıları gör" şeklinde bir buton koyabilirim. Sayfayı aşağıya doğru genişleterek yazıları yeniden eskiye doğru veririm.
-
-Bilgisayar Bilimleri kısmını, ana sayfadan vereceğim. Bunu header'daki navigatigon bar'da da bir icon olarak sunabilirdim, hatta onu da şununla temsil edecektim:
-
-<img src="../images/iconcs.jpg" style="margin: 10px;">
-
-Bunun yerine ana sayfada bulunan küçük Aylık Blog açıklaması ve resmi şeklinde ana sayfada sunuyorum. Bunun sebebini "Sitenin Amacı" altbaşlığında ikinci paragrafta açıklamıştım.
-
----
-
-Aslında daha yazılabilir. Ama temel noktalarda, özellikle renk tasarımı konusunda boşluk bırakmadım sanıyorum.
