@@ -8,12 +8,12 @@ Blog/site işimin yıllardır iyice suyu çıktıktan, birçok deneme sitesi yay
 <div style="display: flex;">
 <div style="margin: 10px;">
 <a href="notes/2018"><img src="../images/iconnp.png" style="margin: 10px; float: left; height: 64px; width: 64px;"></a>
-Makale tipi uzun yazılarımı buradan, ana sayfadan yayımlıyorum. Bunun dışında şimdiye kadar nerelere koyacağımı şaştığım, 50 satır civarındaki minik yazılarımı da <i>notlar</i> sayfasına yazacağım. Bu sayfa yukarıdaki not defteri simgesinde bulunuyor.
+Makale tipi uzun yazılarımı buradan, ana sayfadan yayımlıyorum. Bunun dışında şimdiye kadar nerelere koyacağımı şaştığım, 50 satır civarındaki minik yazılarımı da <i>notlar</i> sayfasına yazacağım.
 </div>
 
 <div style="margin: 10px;">
 <img src="../images/iconcs.jpg" style="margin: 10px; float: left; height: 64px; width: 64px;">
-Bilgisayar bilimleri sayfalarıma buradan ulaşabilirsiniz: ziplenmiş kaynaklarıyla birlikte sayfada yazılı olarak sunulan kodlardan oluşan küçük bir portföy/arşiv. <b>Bu sayfada henüz bir şey olmadığından kutucuğu aktif link haline getirmedim.</b>
+Bilgisayar bilimleri: Ziplenmiş kaynaklarıyla birlikte sayfada yazılı olarak sunulan kodlardan oluşan küçük bir portföy/arşiv. <b>Bu sayfada henüz bir şey olmadığından kutucuğu aktif link haline getirmedim.</b>
 </div>
 </div>
 
