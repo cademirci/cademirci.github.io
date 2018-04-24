@@ -24,16 +24,16 @@ p, .markdown-body p {
 	border-bottom: 1px solid #000;
 }
 .site_title {
-	float: left; 
+	float: left;
 	margin-left: 15%;
 	height: 100px;
 	text-decoration: none;
 }
 .header_photo {
-	border-radius: 50%; 
-	height: 100px; 
-	width: 100px; 
-	float: left; 
+	border-radius: 50%;
+	height: 100px;
+	width: 100px;
+	float: left;
 	margin-left: 15%;
 }
 .nav_bar {
@@ -48,7 +48,7 @@ p, .markdown-body p {
 	border: 1px solid #666;
 }
 .nav_bar img:hover {
-	box-shadow: 0 3px 1px rgb(184, 170, 143, 0.3); 
+	box-shadow: 0 3px 1px rgb(184, 170, 143, 0.3);
 }
 .markdown_zone {
 	width: 100%;
@@ -68,13 +68,13 @@ p, .markdown-body p {
 	padding: 10px;
 	border-top: 1px solid #666;
 	height: 150px;
-}.footer a { 
-	color: #999; 
-	text-decoration: none; 
+}.footer a {
+	color: #999;
+	text-decoration: none;
 }
-.footer a:hover { 
-	color: #fff; 
-	text-decoration: none; 
+.footer a:hover {
+	color: #fff;
+	text-decoration: none;
 }
 .footer .social_media_bar {
 	float: right;
@@ -86,16 +86,16 @@ p, .markdown-body p {
 	margin-top: 50px;
 }
 .footer img { height: 50px; width: 50px; border: }
-.footer img:hover { 
-	box-shadow: 0 3px 1px rgb(125, 125, 125, 0.3); 
+.footer img:hover {
+	box-shadow: 0 3px 1px rgb(125, 125, 125, 0.3);
 }/**/
 
 /* theme */
-.markdown-body h1,  
-.markdown-body h2, 
-.markdown-body h3, 
-.markdown-body h4, 
-.markdown-body h5, 
+.markdown-body h1,
+.markdown-body h2,
+.markdown-body h3,
+.markdown-body h4,
+.markdown-body h5,
 .markdown-body a,
 .markdown-body a:visited {
 	color: #333;
@@ -108,31 +108,31 @@ p, .markdown-body p {
 .markdown-body a:hover {
 	color: #b8aa8f;
 	text-decoration: none;
-} /**/ 
+} /**/
 
-.markdown-body h1 { font-size: 2.2em; }  
-.markdown-body h2 { 
-	font-size: 2.2em;  
+.markdown-body h1 { font-size: 2.2em; }
+.markdown-body h2 {
+	font-size: 2.2em;
 	text-align: center;
-} 
-.markdown-body h3 { 
-	font-size: 1.6em; 
+}
+.markdown-body h3 {
+	font-size: 1.6em;
 	display: inline-block;
-	border-bottom: 4px solid #999;	
-} 
-.markdown-body h4 { 
-	font-size: 1.2em; 
+	border-bottom: 4px solid #999;
+}
+.markdown-body h4 {
+	font-size: 1.2em;
 	border-bottom: 4px solid #b8aa8f;
 	margin: 0 auto;
 	text-align: center;
 }
-.markdown-body h5 { 
-	font-size: 1.2em; 
+.markdown-body h5 {
+	font-size: 1.2em;
 	display: inline-block;
 	border-bottom: 4px solid #ccc;
-} 
-.markdown-body h6 { 
-	font-size: 1.2em; 
+}
+.markdown-body h6 {
+	font-size: 1.2em;
 	color: #404040;
 	margin: 0;
 }
@@ -221,7 +221,7 @@ p2 {
 }
 
 /* coding */
-/* syntax highlighting via tomorrow-night.css 
+/* syntax highlighting via tomorrow-night.css
    which is in the same directory. */
 pre, code {
 	font-family: Consolas;
@@ -235,7 +235,7 @@ pre {
     -moz-tab-size: 4; /* Firefox 4+ */
     -o-tab-size: 4;   /* Opera 11.5 & 12.1 only */
     tab-size: 4;      /* Chrome 21+, Safari 6.1+, Opera 15+ */
-	
+
 	/* code lines do not outflow from code blocks */
 	white-space: pre-wrap;       /* Since CSS 2.1 */
     white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
@@ -252,9 +252,8 @@ pre {
 	width: 100%;
 	text-align: right;
 }
-.markdown-body img.dir { 
+.markdown-body img.dir {
 	height: 100px; 
-	width: 100px;
 	margin: 0;
 	display: inline;
 }
@@ -277,7 +276,7 @@ pre {
 .a2a_svg, .a2a_count { border-radius: 0 !important; }
 .a2a_kit {
 	margin: 50px 0;
-	display: flex; 
+	display: flex;
 	justify-content: center;
 }/**/
 
@@ -303,7 +302,7 @@ pre {
 		margin-left: -10px;
 	}
 	.site_title {
-		float: left; 
+		float: left;
 		margin-left: 0;
 		height: 90px;
 	}
@@ -316,32 +315,3 @@ pre {
 		margin-top: 25px;
 	}
 }/**/
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
