@@ -12,7 +12,7 @@ Makale tipi uzun yazılarımı buradan, ana sayfadan yayımlıyorum. Bunun dış
 </div>
 
 <div style="margin: 10px;">
-<img src="../images/iconcs.jpg" style="margin: 10px; float: left; height: 64px; width: 64px;">
+<a href="cs/cs-main"><img src="../images/iconcs.jpg" style="margin: 10px; float: left; height: 64px; width: 64px;"></a>
 Bilgisayar bilimleri: Ziplenmiş kaynaklarıyla birlikte sayfada yazılı olarak sunulan kodlardan oluşan küçük bir portföy/arşiv. <b>Bu sayfada henüz bir şey olmadığından kutucuğu aktif link haline getirmedim.</b>
 </div>
 </div>
