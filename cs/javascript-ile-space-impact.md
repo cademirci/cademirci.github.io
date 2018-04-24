@@ -15,7 +15,9 @@ Oyunu oynayabilmek ve/veya HTML ve CSS kodlarıyla beraber inceleyebilmek için 
 <a href="https://github.com/caglayandemirci/caglayandemirci.github.io/raw/master/cs/JS_Space_Impact.rar">
 <img class="dir" src="dir_rar.png">
 </a>
+<a href="https://github.com/caglayandemirci/caglayandemirci.github.io/raw/master/cs/JS_Space_Impact.tar.gz">
 <img class="dir" src="dir_targz.png">
+</a>
 </div>
 
 Bu JS kodu son derece temel düzeyde ve geliştirmeye açık. Düşman sayıları ve şekilleri arttırılabilir, bir start/reset butonu koyulabilir, farklı ateş şekillerine çalışılabilir, farklı değişkenler de eklenerek oyun daha sayısal dinamik hale getirilebilir vesaire.
