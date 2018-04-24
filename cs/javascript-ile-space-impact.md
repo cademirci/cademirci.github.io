@@ -20,7 +20,7 @@ Oyunu oynayabilmek ve/veya HTML ve CSS kodlarıyla beraber inceleyebilmek için 
 </a>
 </div>
 
-Bu JS kodu son derece temel düzeyde ve geliştirmeye açık. Düşman sayıları ve şekilleri arttırılabilir, bir start/reset butonu koyulabilir, farklı ateş şekillerine çalışılabilir, farklı değişkenler de eklenerek oyun daha sayısal dinamik hale getirilebilir vesaire.
+Bu JS kodu son derece temel düzeyde ve geliştirmeye açık. Düşman sayıları ve şekilleri arttırılabilir, bir start/reset butonu koyulabilir, farklı ateş şekillerine çalışılabilir, farklı değişkenler de eklenerek oyun daha sayısal dinamik hale getirilebilir, vesaire...
 
 ```javascript
 document.getElementById("life").innerHTML = 3;
