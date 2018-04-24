@@ -11,7 +11,10 @@ Karşınızdaki, son derece basit, kötü bir SI oyunu. Öldükçe ya da geçtik
 
 Oyunu oynayabilmek ve/veya HTML ve CSS kodlarıyla beraber inceleyebilmek için onları aşağıdakilerden indirebilirsiniz.
 
-<a href="JS_Space_Impact.rar"><img class="dir" src="dir_rar.png"></a><img class="dir" src="dir_targz.png">
+<div class="dir_zone">
+<a href="caglayandemirci.github.io/cs/JS_Space_Impact.rar
+"><img class="dir" src="dir_rar.png"></a><img class="dir" src="dir_targz.png">
+</div>
 
 Bu JS kodu son derece temel düzeyde ve geliştirmeye açık. Düşman sayıları ve şekilleri arttırılabilir, bir start/reset butonu koyulabilir, farklı ateş şekillerine çalışılabilir, farklı değişkenler de eklenerek oyun daha sayısal dinamik hale getirilebilir vesaire.
 
