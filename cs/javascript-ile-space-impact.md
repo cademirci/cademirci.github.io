@@ -5,11 +5,11 @@ title: Javascript ile Space Impact
 <p2>24.04.2018</p2>
 ## Javascript ile Space Impact
 
-1990'larda Nokia telefonlarda bulunarak tüm dünyada bir kült haline gelmiş en ünlü oyun Snake ise, Space Impact de bu güruhtan onun en bilinen arkadaşlarından biri. Artık bu tip oyunlar hayatımızda oynanmak için değil, kodları yazılarak programlama becerisi geliştirmek, alıştırma yapmak amacıyla var oluyorlar.
+Snake, Space Impact gibi oyunlar, 1990'ların en popüler oyunlarındandı. Artık bu tip oyunlar hayatımızda oynanmak için değil, kodları yazılarak programlama becerisi geliştirmek, alıştırma yapmak amacıyla var oluyorlar.
 
 Karşınızdaki, son derece basit, kötü bir SI oyunu. Öldükçe ya da geçtikçe gelen tek bir düşmandan, skor ve hayat değişkenlerinden ve css ile beş dakikada şekli verilmiş kötü bir uzay gemisinden ibaret. Fakat burada amaç JS dinamiklerine çalışmaktı. Kodlarımın tamamına yakını temel JS; yalnızca birkaç satırda da **jquery** kullandım. 
 
-Oyunu oynayabilmek ve/veya HTML ve CSS kodlarıyla beraber inceleyebilmek için onları aşağıdakilerden indirebilirsiniz.
+Oyunu oynayabilmek ve/veya HTML ve CSS kodlarıyla beraber inceleyebilmek için onları buradan indirebilirsiniz.
 
 <div class="dir_zone">
 <a href="https://github.com/caglayandemirci/caglayandemirci.github.io/raw/master/cs/JS_Space_Impact.rar">
