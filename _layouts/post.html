@@ -52,5 +52,19 @@
 				I have published the whole <a href="https://github.com/caglayandemirci/caglayandemirci.github.io">design and coding</a>. Çağlayan Demirci. Ankara. 2017
 			</div>
 		</div>
+		<script>
+				(function() {
+					var pre = document.getElementsByTagName('pre'),
+					pl = pre.length;
+					for (var i = 0; i < pl; i++) {
+						pre[i].innerHTML = '<span class="line-number"></span>' + pre[i].innerHTML + '<span class="cl"></span>';
+						var num = pre[i].innerHTML.split(/\n/).length;
+						for (var j = 0; j < num; j++) {
+							var line_num = pre[i].getElementsByTagName('span')[0];
+							line_num.innerHTML += '<span>' + (j + 1) + '</span><br>';
+						}
+					}
+				})();
+		</script>
 	</body>
 </html>
