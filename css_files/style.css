@@ -292,12 +292,6 @@ pre {
 	width: 30px;
 }
 
-pre {
-	overflow: auto; /*
-	margin: 0 0 1em;
-	padding: .5em 1em;
-	*/
-}
 
 pre code,
 pre .line-number {
@@ -306,7 +300,9 @@ pre .line-number {
 	display: block;
 }
 
+
 pre .line-number {
+	font-size: 13.5px;
 	float: left;
 	padding-right: 5px;
 	margin-right: 10px;
