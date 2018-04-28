@@ -293,24 +293,24 @@ pre {
 }
 
 pre {
-  overflow:auto;
-  margin:0 0 1em;
-  padding:.5em 1em;
+  overflow: auto;
+  margin: 0 0 1em;
+  padding: .5em 1em;
 }
 
 pre code,
 pre .line-number {
   /* Ukuran line-height antara teks di dalam tag <code> dan <span class="line-number"> harus sama! */
-  font:normal normal 12px/14px Monospace;
 
-  display:block;
+  display: block;
 }
 
 pre .line-number {
-  float:left;
-  margin:0 1em 0 -1em;
-  border-right:1px solid;
-  text-align:right;
+  float: left;
+  margin: 0 1em 0 -1em;
+  border-right: 1px solid #66ff99;
+  margin-right: 3px;
+  text-align: right;
 }
 
 /* phone screen syncronisation */
