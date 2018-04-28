@@ -292,11 +292,10 @@ pre {
 	width: 30px;
 }
 
-
+/* code line numbers */
+/*
 pre code,
 pre .line-number {
-	/* Ukuran line-height antara teks di dalam tag <code> dan <span class="line-number"> harus sama! */
-
 	display: block;
 }
 
@@ -309,7 +308,8 @@ pre .line-number {
 	border-right: 1px solid #66ff99;
 	text-align: right;
 	line-height: 1.3;
-}
+} */  /**/
+
 
 /* phone screen syncronisation */
 @media only screen and (max-width: 900px) {
