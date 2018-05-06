@@ -173,14 +173,14 @@ p2 {
 	width: calc(100% - 30px);
 	margin: 0 auto;
 	padding: 10px;
-	border: 5px solid #6BB8E7;
+	border: 5px solid #b8aa8f;
 }
 .mail_text {
 	height: 200px;
 	margin-top: 10px;
 }
 .mail_send_button {
-	background: #6BB8E7;
+	background: #b8aa8f;
 	font-family: Calibri;
 	font-size: 1em;
 	color: #fff;
