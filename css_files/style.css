@@ -102,14 +102,15 @@ p, .markdown-body p {
 }
 .markdown-body a,
 .markdown-body a:visited {
-	color: #9c8963;
+	color: #3269a2;
 	text-decoration: none;
 }
 .markdown-body a:hover {
-	color: #b8aa8f;
+	color: #6BB8E7;
 	text-decoration: none;
 } /**/
-
+/*#3269a2*/
+/*6BB8E7*/
 .markdown-body h1 { font-size: 2.2em; }
 .markdown-body h2 {
 	font-size: 2.2em;
@@ -122,7 +123,7 @@ p, .markdown-body p {
 }
 .markdown-body h4 {
 	font-size: 1.2em;
-	border-bottom: 4px solid #b8aa8f;
+	border-bottom: 4px solid #6BB8E7;
 	margin: 0 auto;
 	text-align: center;
 }
@@ -149,7 +150,7 @@ p, .markdown-body p {
 	text-align: center;
 }
 .markdown-body blockquote {
-	border-left: 4px solid #ebe7e0;
+	border-left: 4px solid #d8e6f3;
 	padding: 0 15px;
 	margin: 15px 0;
 	font-style: italic;
@@ -172,14 +173,14 @@ p2 {
 	width: calc(100% - 30px);
 	margin: 0 auto;
 	padding: 10px;
-	border: 5px solid #b8aa8f;
+	border: 5px solid #6BB8E7;
 }
 .mail_text {
 	height: 200px;
 	margin-top: 10px;
 }
 .mail_send_button {
-	background: #b8aa8f;
+	background: #6BB8E7;
 	font-family: Calibri;
 	font-size: 1em;
 	color: #fff;
@@ -253,7 +254,7 @@ pre {
 	text-align: right;
 }
 .markdown-body img.dir {
-	height: 100px; 
+	height: 100px;
 	margin: 0;
 	display: inline;
 }
@@ -293,6 +294,7 @@ pre {
 }
 
 /* code line numbers */
+/* markdown has a fault, I have cancelled this. */
 /*
 pre code,
 pre .line-number {
