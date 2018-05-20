@@ -7,7 +7,7 @@ Blog/site işimin yıllardır iyice suyu çıktıktan, birçok deneme sitesi yay
 *
 <div style="display: flex;">
 <div style="margin: 10px;">
-<a href="notes/2018"><img src="../images/iconnp.png" style="margin: 10px; float: left; height: 64px; width: 64px;"></a>
+<a href=""><img src="../images/iconnp.png" style="margin: 10px; float: left; height: 64px; width: 64px;"></a>
 Makale tipi uzun yazılarımı buradan, ana sayfadan yayımlıyorum. Farkındayım ki uzun süredir bir yenisi gelmiyor.
 </div>
 

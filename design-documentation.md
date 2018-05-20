@@ -57,3 +57,7 @@ Böylece sitemde şöyle bir renk paleti ortaya çıkıyor:
 <div class="color_box" style="background-color: #b8aa8f"></div>
 <div class="color_box" style="background-color: #fafafa"></div>
 </div><br>
+
+...
+
+Yeni temayla birlikte, gri-altın sarısı olan alternatif rengim, grimsi mavi ve açık mavi olarak değişti.
