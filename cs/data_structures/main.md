@@ -1,6 +1,6 @@
 ---
 layout: data-structures-main
-title: Bilgisayar Bilimleri
+title: Data Structures
 ---
 
 Love is gonna save us?
