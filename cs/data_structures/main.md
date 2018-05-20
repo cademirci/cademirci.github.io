@@ -3,4 +3,4 @@ layout: data-structures-main
 title: Data Structures
 ---
 
-[Love is gonna save us?](first-data-structure)
+[Love is gonna save us?](post)
