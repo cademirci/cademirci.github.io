@@ -2,7 +2,7 @@
 layout: post
 title: Javascript ile Space Impact
 ---
-<p2>24.04.2018</p2>
+<p2>24.04.2018 2:36</p2>
 ## Javascript ile Space Impact
 
 Snake, Space Impact gibi oyunlar, 1990'ların en popüler oyunlarındandı. Artık bu tip oyunlar hayatımızda oynanmak için değil, kodları yazılarak programlama becerisi geliştirmek, alıştırma yapmak amacıyla var oluyorlar.

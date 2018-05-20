@@ -3,4 +3,6 @@ layout: default
 title: Bilgisayar Bilimleri
 ---
 
-<a href="javascript-ile-space-impact">Javascript ile Space Impact</a>
+24 Nisan 2018 - [Javascript ile Space Impact](javascript-ile-space-impact)
+
+13 Kasım 2017 - [Electron Hakkında](electron-hakkinda)
