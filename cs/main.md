@@ -2,8 +2,16 @@
 layout: default
 title: Bilgisayar Bilimleri
 ---
+<style>
+.footer {
+position: absolute;
+right: 0;
+bottom: 0;
+left: 0;
+}
+</style>
 
-Yazı Serisi: [Veri Yapıları (Data Structures)](http://caglayandemirci.com/cs/data_structures/main)
+Not Serisi: [Veri Yapıları (Data Structures)](http://caglayandemirci.com/cs/data_structures/main)
 
 24 Nisan 2018 - [Javascript ile Space Impact](javascript-ile-space-impact)
 
