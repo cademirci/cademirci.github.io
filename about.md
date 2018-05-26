@@ -11,11 +11,11 @@ title: Hakkımda
 ![image](https://i.hizliresim.com/RnJX8G.png)
 
 ### Burası Neresi?
-Kişisel site. Kişisel blog sitesi, blog, Çağlayan Demirci’nin sanat, teknik ve düşünce ile ilgili yazılarını barındırığı web sayfası, sitesi, bloğu… Ben de tam emin değilim. Belli bir ismi yok. Çoğunlukla kişisel sitelerin bir ismi de olmaz zaten; insanlar ad ve soyadlarını site başlığı olarak yazarlar. Ben böyle bir şeyi gerek görmedim, adım sitenin bizzat alan adı olarak yazıyor zaten. 
+Kişisel site. Kişisel blog sitesi, blog, Çağlayan Demirci’nin sanat, teknik ve düşünce ile ilgili yazılarını barındırığı web sayfası, sitesi, bloğu… Ben de tam emin değilim. Belli bir ismi yok. Çoğunlukla kişisel sitelerin bir ismi de olmaz zaten; insanlar ad ve soyadlarını site başlığı olarak yazarlar.
 
 Çocukluğumdan beri, becerebildiğim çapta yazı yazmaktan hoşlanıyorum. Uzun süre Ekşi Sözlük’te yazdım, ancak orası, asırlık “Ekşi bozdu” muhabbetinden değil ama gerçekten ağız tadıyla yazı yazılacak durumdan çıktığı için, bir süredir kendime ait bir platformda kendi küçük dünyamı kurma planları yapıyordum. Öyle çok da sosyal medyacı bir tarafım olmadığından ve eskiden beri web sayfaları tasarlamayı sevdiğimden, bunu kendime ait ama son derece sade, okumaya hizmet eden bir blog sitesinde gerçekleştirmeye karar verdim. Lafın kısası, burayı başkalarının da faydalanabileceği **kişisel elektronik hafıza** olarak kullanacağım. 
 
-Bir ara, bugün Bazı Yazılar, Notlar, Kişisel Site..." yazan yerde "Hayat, Evren ve Her Şey" şeklinde, eloğlunun *catchphrase* dediği bir slogan kullanıyordum. O, Douglas Adams’ın yazdığı Otostopçu’nun Galaksi Rehberi (*The Hitchhiker’s Guide to the Galaxy*) adlı kitapta yer alan “Hayat, evren ve her şeye dair nihai sorunun cevabı 42’dir” kültüne göndermede bulunuyordu. Bunun eski hali "Hayat, Evren ve Her Şey'e Dair Nihai Kişisel Blog" idi. Bir zamanlar "Sanat, Teknik, Düşünce" sloganını da kullanmıştım. Bugünkü halinin de değişmeyeceğinin garantisini veremem. Marka olmadıktan sonra çok da isim ya da iddialı sözlerle orayı doldurmak istemiyorum. Bunun yanında kendim çizdiğim not defteri simgemi kullanıyorum -çok da logo sayılmaz- o gözüme sevimli geliyor.
+Bir ara, bugün Bazı Yazılar, Notlar, Kişisel Site..." yazan yerde "Hayat, Evren ve Her Şey" şeklinde, eloğlunun *catchphrase* dediği bir slogan kullanıyordum. O, Douglas Adams’ın yazdığı Otostopçu’nun Galaksi Rehberi (*The Hitchhiker’s Guide to the Galaxy*) adlı kitapta yer alan “Hayat, evren ve her şeye dair nihai sorunun cevabı 42’dir” kültüne göndermede bulunuyordu. Bunun eski hali "Hayat, Evren ve Her Şey'e Dair Nihai Kişisel Blog" idi. Bir zamanlar "Sanat, Teknik, Düşünce" sloganını da kullanmıştım. Bugünkü halinin de değişmeyeceğinin garantisini veremem. 
 
 ### Site Hakkında
 
