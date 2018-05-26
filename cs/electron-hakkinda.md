@@ -25,6 +25,6 @@ app.on('ready', function() {
 })
 ```
 
-###Peki Neden Electron kullanalım? 
+### Peki Neden Electron kullanalım? 
 
 Sayfa tasarımı bilenler için, programlamayla uğraşanların haberdar olduğu GUI'den çok daha pratik bir çözüm olarak karşımıza çıkıyor. Öğrenmenin bu dönemde bir kazanç olacağı Javascript ile uygulama geliştirebilmeyi sağlıyor. Bir sayfayı şekillendirmek konusunda açık ara en basit ve güçlü çözüm olarak bildiğim **CSS** ile uygulamanızın her pikseline hakim olmanıza olanak tanıyor. Önceden biraz kullanmışlığım olan **Python Tkinter** ya da **Java GUI** gibi yazılımlarda genelde programcı, karşısında bir grafik olarak görünen ve doğru çalışan bir programdan daha fazlasına uğraşmak istemiyor ya da elinde öyle bir araç bulamıyor; Java GUI'de bir butonun yazı fontunu, kenarlık rengini, sayfada pikseli pikseline tam olarak nerede duracağını vs nasıl ayarlayacağız mesela ben bilmiyorum. Her şey bir yana, böyle güzel tasarlanmış **Open Source** projelere olan sevgim gün geçtikçe artıyor.
