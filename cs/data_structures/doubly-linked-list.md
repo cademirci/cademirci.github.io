@@ -5,7 +5,7 @@ title: Doubly Linked List
 
 An implementation of a doubly linked list in Java. Class is not generic, nodes contain a string for name and an integer for a value. 
 
-<div class="code_source_name">DLL.java</div>
+<br><div class="code_source_name">DLL.java</div>
 ```java
 public class DLL {
 
