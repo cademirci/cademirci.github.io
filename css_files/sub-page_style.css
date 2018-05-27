@@ -37,6 +37,16 @@ pre {
     white-space: -o-pre-wrap;    /* Opera 7 */
     word-wrap: break-word;       /* Internet Explorer 5.5+ */
 }
+.code_source_name {
+	color: #999;
+	background-color: #222;
+	display: block;
+	text-align: center;
+	border-radius: 20px 20px 0 0;
+	border: 1px solid #222;
+	margin-bottom: -40px;
+	padding: 10px;
+}/**/
 .markdown-body pre {
 	padding: 10px;
 	border: 1px solid #000;
