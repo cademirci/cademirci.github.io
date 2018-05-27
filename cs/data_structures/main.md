@@ -3,4 +3,4 @@ layout: data-structures-main
 title: Data Structures
 ---
 
-[Love is gonna save us?](post)
+[Doubly Linked List](doubly-linked-list)
