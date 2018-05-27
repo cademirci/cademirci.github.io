@@ -6,6 +6,39 @@ title: Doubly Linked List
 An implementation of a doubly linked list in Java. Class is not generic, nodes contain a string for name and an integer for a value. 
 
 <br>
+<div class="code_source_name">Node.java</div>
+```java
+public class Node {
+
+    private String name;
+    private int value;
+    public Node next;
+    public Node prev;
+
+    // gets
+    public String getName() {
+        return name;
+    }
+    public int getValue() {
+        return value;
+    }
+
+    // sets
+    public void setName(String newName) {
+        name = newName;
+    }
+    public void setValue(int newValue) {
+        value = newValue;
+    }
+
+    // constructor
+    public Node(String name, int v) {
+        this.name = name;
+        this.value = v;
+    }
+}
+```
+
 <div class="code_source_name">DLL.java</div>
 ```java
 public class DLL {
@@ -70,39 +103,6 @@ public class DLL {
             current = current.next;
         }
         return s;
-    }
-}
-```
-
-<div class="code_source_name">Node.java</div>
-```java
-public class Node {
-
-    private String name;
-    private int value;
-    public Node next;
-    public Node prev;
-
-    // gets
-    public String getName() {
-        return name;
-    }
-    public int getValue() {
-        return value;
-    }
-
-    // sets
-    public void setName(String newName) {
-        name = newName;
-    }
-    public void setID(int newValue) {
-        value = newValue;
-    }
-
-    // constructor
-    public Node(String name, int v) {
-        this.name = name;
-        this.value = v;
     }
 }
 ```
