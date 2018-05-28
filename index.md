@@ -19,7 +19,7 @@ Bilgisayar bilimleri: Ziplenmiş kaynaklarıyla birlikte sayfada yazılı olarak
 
 ## Son Yazılar
 
-<div class="article_window"><h3>FOUT Sorunu</h3><br>28.05.2017<br>Web tasarımı/İnternet programlama ile ilgilenenler için teknik bir ayrıntı.<br><br><img src="https://i.hizliresim.com/moq9aY.png"><i>"Web tasarımı/internet programlama biliminde, FOUT diye adlandırılan bir problem var. **Flash of Unstlyled Text** anlamına geliyor. 
+<div class="article_window"><h3>FOUT Sorunu</h3><br>28.05.2018<br>Web tasarımı/İnternet programlama ile ilgilenenler için teknik bir ayrıntı.<br><br><img src="https://i.hizliresim.com/moq9aY.png"><i>"Web tasarımı/internet programlama biliminde, FOUT diye adlandırılan bir problem var. **Flash of Unstlyled Text** anlamına geliyor. 
 
 FOUT kavramı, tarayıcımızın, web sitesini yüklerken yaşadığı bir gecikmeyi..."</i><br><a href="cs/fout-sorunu"><button class="article_button">Okuyayım</button></a><br><br></div>
 
