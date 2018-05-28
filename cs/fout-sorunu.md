@@ -5,7 +5,7 @@ Web tasarımı/internet programlama biliminde, FOUT diye adlandırılan bir prob
 
 FOUT kavramı, tarayıcımızın, web sitesini yüklerken yaşadığı bir gecikmeyi karşılamakta. Tarayıcı web sitesini genel hatlarıyla yüklemişken, **font stack**ten çekemediği ve @font-face ile temsil edilen yazı stilinin yerine, default font stilini okuyucuya çok kısa bir süre için gösterir, ki bu default font stili, özellikle Windows işletim sistemlerinde, **Times New Roman**'dır.
 
-![](https://ibb.co/hObYVy)
+![](https://www.photobox.co.uk/my/photo/full?photo_id=500803993302)
 
 <p3>Bu durum en fazla bir saniye sürse de, azıcık web tasarımı derdi olan herkesin gözüne batmak için yeterli.</p3>
 
