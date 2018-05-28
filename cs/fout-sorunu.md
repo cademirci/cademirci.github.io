@@ -1,5 +1,5 @@
 ## FOUT Sorunu
--- *Javascript, CSS* --
+28.05.2018 21:36 -- *Javascript, CSS* --
 
 Web tasarımı/internet programlama biliminde, FOUT diye adlandırılan bir problem var. **Flash of Unstlyled Text** anlamına geliyor. 
 
@@ -47,4 +47,4 @@ Aslında en başta, bu problemin adının FOUT olduğunu bilirseniz işiniz kola
 })();
 ```
 
-Bu kodu, HTML sayfanızda `<head></head>` tagi içine yerleştirdiğiniz bir `<script></script>` JS bloğuna yazmanız gerekiyor. İşe yaramadığı durumlar olmaması dileğiyle. Olsa da tekrar araştırıp öğreniriz zaten, CS'ciler olarak işimiz ne?...
+Bu kodu, HTML sayfanızda `<head></head>` tagi içine yerleştirdiğiniz bir `<script></script>` JS bloğuna yazmanız gerekiyor. İşe yaramadığı durumlar olmaması dileğiyle. Olsa da tekrar araştırıp öğreniriz zaten, CS'ciler olarak işimiz ne...
