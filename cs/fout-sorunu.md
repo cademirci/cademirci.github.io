@@ -46,3 +46,5 @@ Aslında en başta, bu problemin adının FOUT olduğunu bilirseniz işiniz kola
 	}
 })();
 ```
+
+Bu kodu, HTML sayfanızda `<head></head>` tagi içine yerleştirdiğiniz bir `<script></script>` JS bloğuna yazmanız gerekiyor. İşe yaramadığı durumlar olmaması dileğiyle. Olsa da tekrar araştırıp öğreniriz zaten, CS'ciler olarak işimiz ne?...
