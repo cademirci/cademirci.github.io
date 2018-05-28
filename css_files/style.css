@@ -199,13 +199,15 @@ p2 {
     padding: 10px;
 	margin: 25px 0;
 	display: block;
+	float: left;
 }
 .article_window h3 {
 	color: #fff;
 	margin-top: 0;
 }
 .article_window img {
-	margin: 10px;
+	margin-left: 10px;
+	margin-right: 10px;
 }
 .article_button {
 	height: 35px;
