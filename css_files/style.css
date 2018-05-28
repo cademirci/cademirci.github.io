@@ -198,6 +198,7 @@ p2 {
 	background-color: #222;
     padding: 10px;
 	margin: 25px 0;
+	margin-left: 20px;
 	display: block;
 	float: left;
 }
@@ -206,8 +207,8 @@ p2 {
 	margin-top: 0;
 }
 .article_window img {
-	margin-left: 10px;
-	margin-right: 10px;
+	margin: 10px;
+	padding-right: 10px;
 }
 .article_button {
 	height: 35px;
