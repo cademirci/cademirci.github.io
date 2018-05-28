@@ -1,3 +1,8 @@
+---
+layout: post
+title: FOUT Sorunu
+---
+
 ## FOUT Sorunu
 28.05.2018 21:36 -- *Javascript, CSS* --
 
