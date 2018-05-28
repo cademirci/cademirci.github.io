@@ -7,7 +7,7 @@ FOUT kavramı, tarayıcımızın, web sitesini yüklerken yaşadığı bir gecik
 
 [![image](https://i.hizliresim.com/moq9aY.png)](https://hizliresim.com/moq9aY)
 
-<p3>Bu durum en fazla bir saniye sürse de, azıcık web tasarımı derdi olan herkesin gözüne batmak için yeterli.</p3>
+<p class="imgdesc">Bu durum en fazla bir saniye sürse de, azıcık web tasarımı derdi olan herkesin gözüne batmak için yeterli.</p>
 
 ### Neden @font-face property?
 
