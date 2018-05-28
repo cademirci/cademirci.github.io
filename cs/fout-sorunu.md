@@ -1,11 +1,11 @@
-# FOUT Sorunu
+## FOUT Sorunu
 -- *Javascript, CSS* --
 
 Web tasarımı/internet programlama biliminde, FOUT diye adlandırılan bir problem var. **Flash of Unstlyled Text** anlamına geliyor. 
 
 FOUT kavramı, tarayıcımızın, web sitesini yüklerken yaşadığı bir gecikmeyi karşılamakta. Tarayıcı web sitesini genel hatlarıyla yüklemişken, **font stack**ten çekemediği ve @font-face ile temsil edilen yazı stilinin yerine, default font stilini okuyucuya çok kısa bir süre için gösterir, ki bu default font stili, özellikle Windows işletim sistemlerinde, **Times New Roman**'dır.
 
-![](https://www.photobox.co.uk/my/photo/full?photo_id=500803993302)
+[![image](https://i.hizliresim.com/moq9aY.png)](https://hizliresim.com/moq9aY)
 
 <p3>Bu durum en fazla bir saniye sürse de, azıcık web tasarımı derdi olan herkesin gözüne batmak için yeterli.</p3>
 
