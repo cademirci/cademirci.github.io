@@ -11,6 +11,8 @@ left: 0;
 }
 </style>
 
+![](../images/cs_detailed.png)
+
 Not Serisi: [Veri Yapıları (Data Structures)](http://caglayandemirci.com/cs/data_structures/main)
 
 28 Mayıs 2018 - [FOUT Sorunu](fout-sorunu)
