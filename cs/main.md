@@ -2,8 +2,14 @@
 layout: default
 title: Bilgisayar Bilimleri
 ---
-
-![](../images/cs_detailed.png)
+<style>
+.footer {
+position: absolute;
+right: 0;
+bottom: 0;
+left: 0;
+}
+</style>
 
 Not Serisi: [Veri Yapıları (Data Structures)](http://caglayandemirci.com/cs/data_structures/main)
 
