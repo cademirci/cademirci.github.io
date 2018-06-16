@@ -19,6 +19,8 @@ title: Tasarım Dokümantasyonu
 
 ### Sitenin Amacı
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/scry4y-dBLg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 Site, en başta sanat, fikir, tecrübe gibi konulardaki yazılarımı muhafaza edebileceğim klasik bir kişisel blog sitesi olarak düşünüldü. Daha sonra buna ek olarak burayı, programlama kodları ve projelerim gibi işlerimi de ekleyerek bütün bir kişisel site olarak kullanmaya karar verdim. Sözün özünde burası, amacı bakımından diğerlerinden farklı olmayan bir kişisel web platformu olarak yaratılmıştır. 
 
 İlk başta, bir tarafta rock müzik, fantastik sanatlar gibi ilgi alanlarımdaki yazılarımı sergilerken, öbür yanda bilgisayar bilimleri gibi ciddi, bununla ilgisi olmayanlar açısından "sıkıcı" ve ilgili sayfalarda genel olarak kod barındırmayı gerektirecek bir alanın aynı çatı altında olamayacağını düşünmüştüm. Bu sorun için, bilgisayar bilimleri sayfalarımı ana sayfadan gidilebilecek ayrı bir platform olarak tutmayı düşündüm. Bununla birlikte bu kısım da bloğun genel tasarım özelliklerini taşıyacaktır.
