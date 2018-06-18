@@ -9,7 +9,7 @@ Traversals on a given binary tree similar to below:
 
 ![](btex.png)
 
-##### Preorder Traversal
+### Preorder Traversal
 
 ```
 function binaryPreorder(Tree t, Node v):
@@ -22,7 +22,7 @@ function binaryPreorder(Tree t, Node v):
 
 Output: **A, B, D, C, E, G, F, H, I**
 
-##### Postorder Traversal
+### Postorder Traversal
 
 ```
 function binaryPostorder(Tree t, Node v):
@@ -33,7 +33,9 @@ function binaryPostorder(Tree t, Node v):
     visit(v)
 ```
 
-##### Inorder Traversal
+Output: **D, B, G, E, H, I, F, C, A**
+
+### Inorder Traversal
 
 ```
 function binaryInorder(Tree t, Node v):
@@ -43,6 +45,8 @@ function binaryInorder(Tree t, Node v):
     if v.hasRight()
     	binaryInorder(T, v.right())    
 ```
+
+Output: **D, B, A, G, E, C, H, F, I**
 
 ***
 
