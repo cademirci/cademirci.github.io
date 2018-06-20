@@ -19,11 +19,11 @@ Sahneye, dijitalliğin günümüzün en güçlü olayı olduğu 2000'ler sonunda
 
 Bugün karşınızda 21. yüzyıl müzik akımının son derece ilginç ama bir o kadar da olması beklenen örneği: The Algorithm. 
 
-Müziklerine tema olarak bilgisayar bilimlerini seçmiş olan bir topluluk bu. Daha doğrusu Rémi Gallego'nun başı çektiği, gruptan çok bir proje olarak karşımıza çıkıyorlar. Elektronik metal, elektronik müzik / progresif metal, computer science metal gibi fantastik isimlerle özgürce adlandırılabilir. Vokal yok; bunun yerine gaza getirici riff ve ritm atakları, gitar soloları ve elektronik var. Bu yönden Angel Vivaldi'yi de biraz andırmıyor değil. 
+Müziklerine tema olarak bilgisayar bilimlerini seçmiş olan Fransız bir topluluk bu. Daha doğrusu Rémi Gallego'nun başı çektiği, gruptan çok bir proje olarak karşımıza çıkıyorlar. Elektronik metal, elektronik müzik / progresif metal, computer science metal gibi fantastik isimlerle özgürce adlandırılabilir. Vokal yok; bunun yerine gaza getirici riff ve ritm atakları, gitar soloları ve elektronik var. Bu yönden [Angel Vivaldi](https://www.youtube.com/watch?v=qFWoIyqSjlA)'yi de biraz andırmıyor değil. 
 
-Grubun en göze çarpar albümü Brute Force, son zamanlarda insanlara tavsiye ettiğim albümler arasında. Albümde Floating Point, Pointers, Userspace, Boot favorilerim olarak sayabileceklerimden. Deadlock ise, bahsettiğim özellikleri taşıyan, son yılların bir başka değişik Fransız ekstremcisi Igorrr'un eşlik ettiği bir parça. 
+Grubun en göze çarpar albümü **Brute Force**, son zamanlarda insanlara tavsiye ettiğim albümler arasında. Albümde **Floating Point**, **Pointers**, **Userspace**, **Boot** favorilerim olarak sayabileceklerimden. **Deadlock** ise, bahsettiğim özellikleri taşıyan, son yılların bir başka değişik Fransız ekstremcisi [Igorrr](https://www.youtube.com/watch?v=vS7X5nuvjHo)'un eşlik ettiği bir parça. 
 
-***
+####. . . 
 
 Bu grup, benim yaşımdaki ya da daha büyük metal dinleyicilerinin kötülemesi için tam biçilmiş kaftan. Sonuçta ekstrem rock müzikte 2000'den sonra çıkmış herhangi bir şeyin berbat olduğunu söyleyenler çok. Bu söylemi 1990'a, hatta 1980'lere kadar götürenler var. Led Zeppelin ve Pink Floyd'dan sonraki her şeyin çok genç ve çiğ olduğunu söyleyenler bile mevcut. Algorithm'in bu açıdan çok yadırganacağı bariz. Tabi ki ben de Algorithm projesinin henüz yüzlerce iyi rock grubundan daha iyi olmadığını kabul ediyorum. Dahası fazla elektronik olduğu ve vokal ihtiva etmediğinden, henüz tam olarak heavy metal kültürü içinde incelenemeyeceğinin de farkındayım. Ancak görüyorum ki, bu iş hiç de kötü bir iş olmamış; çok beğendim, takdir ettim ve dinliyorum.
 
