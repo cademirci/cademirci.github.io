@@ -31,6 +31,6 @@ Metalin; özgürlüğü, özgünlüğü, bir alt kültür olarak alternatif bir 
 
 ![](http://symmetal.com/wp-content/uploads/2013/09/the-algorithm-logo.jpg)
 
-The Algorithm Spotify:
-
-<iframe src="https://open.spotify.com/embed/artist/14u4KXVp0iXQil79EpxXGc" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+Spotify: [The Algorithm](spotify:artist:14u4KXVp0iXQil79EpxXGc)
+Wikipedia: [gir.im/https://en.wikipedia.org/wiki/The_Algorithm](gir.im/https://en.wikipedia.org/wiki/The_Algorithm)
+ek$i: [the algorithm](https://eksisozluk.com/the-algorithm--2750871)
