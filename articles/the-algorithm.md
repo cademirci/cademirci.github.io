@@ -23,7 +23,7 @@ Müziklerine tema olarak bilgisayar bilimlerini seçmiş olan Fransız bir toplu
 
 Grubun en göze çarpar albümü **Brute Force**, son zamanlarda insanlara tavsiye ettiğim albümler arasında. Albümde **Floating Point**, **Pointers**, **Userspace**, **Boot** favorilerim olarak sayabileceklerimden. **Deadlock** ise, bahsettiğim özellikleri taşıyan, son yılların bir başka değişik Fransız ekstremcisi [Igorrr](https://www.youtube.com/watch?v=vS7X5nuvjHo)'un eşlik ettiği bir parça. 
 
-####. . . 
+#### . . . 
 
 Bu grup, benim yaşımdaki ya da daha büyük metal dinleyicilerinin kötülemesi için tam biçilmiş kaftan. Sonuçta ekstrem rock müzikte 2000'den sonra çıkmış herhangi bir şeyin berbat olduğunu söyleyenler çok. Bu söylemi 1990'a, hatta 1980'lere kadar götürenler var. Led Zeppelin ve Pink Floyd'dan sonraki her şeyin çok genç ve çiğ olduğunu söyleyenler bile mevcut. Algorithm'in bu açıdan çok yadırganacağı bariz. Tabi ki ben de Algorithm projesinin henüz yüzlerce iyi rock grubundan daha iyi olmadığını kabul ediyorum. Dahası fazla elektronik olduğu ve vokal ihtiva etmediğinden, henüz tam olarak heavy metal kültürü içinde incelenemeyeceğinin de farkındayım. Ancak görüyorum ki, bu iş hiç de kötü bir iş olmamış; çok beğendim, takdir ettim ve dinliyorum.
 
