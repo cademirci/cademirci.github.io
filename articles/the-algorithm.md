@@ -15,7 +15,7 @@ Ben bu gelişmeleri, yalnızca bir "Gördün mü Fransızlar da metal dinliyormu
 
 Sahneye, dijitalliğin günümüzün en güçlü olayı olduğu 2000'ler sonunda çıktığı için Fransa'nın sert müziğinde, hızın, progresifizmin, elektronik seslerin, djent'e varacak ölçüde dijital bir sertliğin ön plana çıktığı görülebiliyor. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CDS9gmdHtB8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe class="video" src="https://www.youtube.com/embed/CDS9gmdHtB8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Bugün karşınızda 21. yüzyıl müzik akımının son derece ilginç ama bir o kadar da olması beklenen örneği: The Algorithm. 
 
