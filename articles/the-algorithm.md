@@ -30,3 +30,7 @@ Bu grup, benim yaşımdaki ya da daha büyük metal dinleyicilerinin kötülemes
 Metalin; özgürlüğü, özgünlüğü, bir alt kültür olarak alternatif bir şeyler sunması bitmediği sürece, ne yönde gittiği çok da önemli değil. "Eskiler daha iyiydi" şarkısı söylemekten çok, genç ve yeni insanların neler yaptığını inceleyerek kaliteliyi ayıklayıp kabul etmek daha şık bir hareket olsa gerek. 
 
 ![](http://symmetal.com/wp-content/uploads/2013/09/the-algorithm-logo.jpg)
+
+The Algorithm Spotify:
+
+<iframe src="https://open.spotify.com/embed/artist/14u4KXVp0iXQil79EpxXGc" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
