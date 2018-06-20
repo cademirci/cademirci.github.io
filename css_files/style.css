@@ -314,6 +314,11 @@ pre .line-number {
 	line-height: 1.3;
 } */  /**/
 
+.video {
+	width: 100%;
+	margin-top: 42px;
+	margin-bottom: 42px;
+}
 
 /* phone screen syncronisation */
 @media only screen and (max-width: 900px) {
