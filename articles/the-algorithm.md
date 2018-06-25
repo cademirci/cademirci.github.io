@@ -15,7 +15,7 @@ Ben bu gelişmeleri, yalnızca bir "Gördün mü Fransızlar da metal dinliyormu
 
 Sahneye, dijitalliğin günümüzün en güçlü olayı olduğu 2000'ler sonunda çıktığı için Fransa'nın sert müziğinde, hızın, progresifizmin, elektronik seslerin, djent'e varacak ölçüde dijital bir sertliğin ön plana çıktığı görülebiliyor. 
 
-<iframe class="video" width="806" height="453" src="https://www.youtube.com/embed/CDS9gmdHtB8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe class="video" id="ytvideo" src="https://www.youtube.com/embed/CDS9gmdHtB8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Bugün karşınızda 21. yüzyıl müzik akımının son derece ilginç ama bir o kadar da olması beklenen örneği: The Algorithm. 
 
@@ -32,5 +32,4 @@ Metalin; özgürlüğü, özgünlüğü, bir alt kültür olarak alternatif bir 
 ![](http://symmetal.com/wp-content/uploads/2013/09/the-algorithm-logo.jpg)
 
 Spotify: [The Algorithm](spotify:artist:14u4KXVp0iXQil79EpxXGc) <br>
-Wikipedia: [gir.im/https://en.wikipedia.org/wiki/The_Algorithm](gir.im/https://en.wikipedia.org/wiki/The_Algorithm) <br>
 ek$i: [the algorithm](https://eksisozluk.com/the-algorithm--2750871)

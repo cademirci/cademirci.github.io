@@ -7,11 +7,8 @@
 		<link rel="stylesheet" type="text/css" href="../css_files/style.css">
 		<link rel="stylesheet" type="text/css" href="../css_files/tomorrow-night.css">
 		<link rel="icon" href="../images/siteicon2.3.jpg">
-		<!-- <style>
-			body {
-				font-size: 1em;
-			}
-		</style> -->
+		<script src="https://code.jquery.com/jquery-1.9.1.min.js"></script>
+		<style> body { font-size: 1em; } </style>
 	</head>
 	<body>
 		<div class="header">
@@ -52,5 +49,11 @@
 				I have published the whole <a href="https://github.com/caglayandemirci/caglayandemirci.github.io">design and coding</a>. Çağlayan Demirci. Ankara. 2017
 			</div>
 		</div>
+		<script>
+			$(document).ready(function(){
+				var width = $("#ytvideo").width();
+				document.getElementById("ytvideo").style.height = width*(0.562)+ "px";
+			});
+		</script>
 	</body>
 </html>
