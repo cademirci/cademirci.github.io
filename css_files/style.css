@@ -325,6 +325,44 @@ pre .line-number {
 	margin-bottom: 42px;
 }
 
+/* New article windows */
+.article_rep,
+.article_rep:visited {
+	width: 100%;
+	border-bottom: 1px solid #000;
+	display: flex;
+	justify-content: space-between;
+	margin: 40px 0;
+}
+.article_rep a {
+	text-decoration: none;
+}
+.article_rep:hover {
+	box-shadow: 0 3px 1px rgb(50, 105, 162, 0.3);
+}
+.article_rep_des {
+	height: 100%;
+	width: 48%;
+}
+.article_rep img {
+	max-width: 50%;
+	margin: 0;
+}
+
+
+@media only screen and (max-width: 600px) {
+	.article_rep img {
+		max-width: 100%;
+	}
+	.article_rep {
+		display: inline;
+		justify-content: none;
+	}
+	.article_rep_des {
+	width: 100%;
+	}
+}
+
 /* phone screen syncronisation */
 @media only screen and (max-width: 900px) {
 	.header {
