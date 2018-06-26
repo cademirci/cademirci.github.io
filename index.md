@@ -6,7 +6,7 @@ Blog/site işimin yıllardır iyice suyu çıktıktan, birçok deneme sitesi yay
 
 ## Son Yazılar
 
-<a href="articles/the-algorithm"><div class="article_rep" id="ar"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/The_Algorithm.jpg/1200px-The_Algorithm.jpg"><div class="article_rep_des"><h3>The Algorithm</h3><br>20.06.2018<br><br>Yeni nesil bir elektronik/metal grubu hakkında.</div></div></a>
+<div class="article_rep" id="ar"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/The_Algorithm.jpg/1200px-The_Algorithm.jpg"><div class="article_rep_des"><a href="articles/the-algorithm"><h3>The Algorithm</h3></a><br>20.06.2018<br><br>Yeni nesil bir elektronik/metal grubu hakkında.</div></div>
 
 <div class="article_window"><h3>FOUT Sorunu</h3><br>28.05.2018<br>Web tasarımı/İnternet programlama ile ilgilenenler için teknik bir ayrıntı.<br><br><img src="images/foutp.png"><br><a href="cs/fout-sorunu"><button class="article_button">Okuyayım</button></a><br><br></div>
 
