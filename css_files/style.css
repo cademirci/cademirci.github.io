@@ -196,7 +196,7 @@ p2 {
 /* article window */
 
 .article_window {
-	width: 42%;
+	width: 50%;
 	color: ghostwhite;
 	background-color: #222;
     padding: 10px;
@@ -211,6 +211,7 @@ p2 {
 .article_window img {
 	margin-top: 5px;
 	margin-bottom: 10px;
+	width: 100%;
 }
 .article_button {
 	height: 35px;
@@ -346,8 +347,6 @@ pre .line-number {
 	max-width: 50%;
 	margin: 0;
 }
-
-
 
 .tooltip .tooltiptext {
     width: 86;
