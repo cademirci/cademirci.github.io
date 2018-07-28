@@ -24,3 +24,7 @@ Sitenin temel yapısını HTML ve CSS ile oluşturdum. Teknik ve sanatsal donan�
 ![](https://caglayandemirci.github.io/images/siteicon2.2.png)
 
 Kar kristali öteden beri tasarım imzam gibi bir şeydi. Görsel tasarım uzmanı olmasam da, kendi çapımda yaptığım görsellerin ve tasarımların bir yerlerinde, altı kollu küçük yıldızlar şeklinde de olsa bu simgeyi kullanırım. Site ikonu olarak da yine dijital ortamda yaptığım bu resmi seçtim. 
+
+<style>
+#ab { box-shadow: 0 5px 5px rgb(51, 102, 204, 0.5)}
+</style>
