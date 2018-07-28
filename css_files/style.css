@@ -227,6 +227,11 @@ p2 {
 	background-color: #666;
 }
 
+.article_container {
+	justify-content: space-around; 
+	display: flex;
+}
+
 /* coding */
 /* syntax highlighting via tomorrow-night.css
    which is in the same directory. */
@@ -407,6 +412,9 @@ pre .line-number {
 	.article_window {
 		width: 100%;
 		margin-left: -10px;
+	}
+	.article_container {
+		display: block;
 	}
 	/*
 	.site_title {
