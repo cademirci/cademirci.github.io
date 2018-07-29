@@ -53,16 +53,9 @@ Bu noktadan sonra yani ikinci bölümde, biraz daha pozitif ve (kendi fikirlerim
 
 ## . . .
 
-<iframe class="video" id="ytvideo" src="https://www.youtube.com/embed/uAVAt5FV2uc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+@[youtube](uAVAt5FV2uc)
 
 
-
-<script>
-$(document).ready(function(){
-var width = $("#ytvideo").width();
-document.getElementById("ytvideo").style.height = width*(0.562)+ "px";
-});
-</script>
 
 
 
