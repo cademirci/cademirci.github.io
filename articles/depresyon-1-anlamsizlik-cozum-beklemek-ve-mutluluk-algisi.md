@@ -57,7 +57,12 @@ Bu noktadan sonra yani ikinci bölümde, biraz daha pozitif ve (kendi fikirlerim
 
 
 
-
+<script>
+$(document).ready(function(){
+var width = $("#ytvideo").width();
+document.getElementById("ytvideo").style.height = width*(0.562)+ "px";
+});
+</script>
 
 
 
