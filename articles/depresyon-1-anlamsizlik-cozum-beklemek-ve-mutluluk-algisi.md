@@ -53,10 +53,6 @@ Bu noktadan sonra yani ikinci bölümde, biraz daha pozitif ve (kendi fikirlerim
 
 ## . . .
 
-<iframe class="video" id="ytvideo" src="https://www.youtube.com/embed/" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-
-
-
+<iframe class="video" id="ytvideo" src="https://www.youtube.com/embed/uAVAt5FV2uc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
