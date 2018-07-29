@@ -221,7 +221,8 @@ p2 {
 	color: #fff;
 	border: 1px solid #999;
     float: right;
-    margin-top: 10px;
+	bottom: 0;
+    margin-top: 25px;
 }
 .article_button:hover {
 	background-color: #666;
@@ -229,6 +230,7 @@ p2 {
 
 .article_container {
 	justify-content: space-around; 
+	align-items: center;
 	display: flex;
 }
 
