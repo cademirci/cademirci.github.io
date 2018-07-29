@@ -39,7 +39,6 @@ Buraya bu yazıyı herkesi depresyondan çıkarabilirmiş gibi tavsiyeler vermek
 
 Vikings'te Ragnar ile oğlu Björn'ün konuştuğu bir sahne var. 
 
-<iframe class="video" id="ytvideo" src="https://www.youtube.com/embed/lFW_4MWs5wM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 "Mutlu olman gerektiğini kim söyledi?" sorusu bu sahneyi ilk izlediğimden beri beni etklilemiştir. Gördüğüm kadarıyla insanlar, mutlu olmanın bir şart olduğunu, acıdan köşe bucak kaçınmak gerektiğini, mutlu olmanın hayatın tek gayesi olduğuna inanıyorlar. Bu da çektikleri acının ağırlığını arttırıyor. Elde ettikleri en ufak mutluluk kırıntısının kendilerinin sonuna kadar hakkı olduğuna inanıyor, bu yüzden o yaşadıkları mutluluğun da (elde edildikten sonra) pek bir anlamı olmuyor. Bu da hayattan korunabilmek için her zaman daha fazla mutluluk istemelerine yol açıyor. Gel gelelim dünyada hiçbir zaman o kadar fazla mutluluk olmadığından, bu bir mutsuzluk ilüzyonu yaratıyor ve zamanla bu gerçeğin ta kendisi oluyor.
 
