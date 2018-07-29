@@ -51,7 +51,7 @@ Bu noktadan sonra yani ikinci bölümde, biraz daha pozitif ve (kendi fikirlerim
 
 ## . . .
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uAVAt5FV2uc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe class="video" id="ytvideo" src="https://www.youtube.com/embed/uAVAt5FV2uc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 
