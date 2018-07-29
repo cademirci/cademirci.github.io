@@ -398,6 +398,8 @@ pre .line-number {
 	padding-top:30px;
 	height:0;
 	overflow:hidden;
+	margin-bottom: 42px;
+	margin-top: 42px;
 }
 
 .video-container iframe, .video-container object, .video-container embed {
