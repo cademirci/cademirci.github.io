@@ -3,6 +3,8 @@ layout: default
 title: Arşiv
 ---
 
+20.06.2018 [Depresyon - 1: Anlamsızlık ve Mutluluk Algısı](articles/depresyon-1-anlamsizlik-ve-mutluluk-algisi) *düşünce, tecrübe*
+
 20.06.2018 [Grup: The Algorithm](articles/alternatif-dunya-ozlemi) *müzik, rock*
 
 22.02.2017 [Alternatif Dünya Özlemi](articles/alternatif-dunya-ozlemi) *düşünce*

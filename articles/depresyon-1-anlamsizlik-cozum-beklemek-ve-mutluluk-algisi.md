@@ -5,7 +5,9 @@ title: Depresyon Serisi 1
 
 ![](https://i.pinimg.com/originals/7e/20/62/7e2062768c34783f5c4cd2f8409ebfea.jpg)
 
-## Depresyon 1 - Anlamsızlık: Çözüm Beklemek ve Mutluluk Algısı
+## Depresyon - 1 
+
+## Anlamsızlık ve Mutluluk Algısı
 
 Geçenlerde Ekşi Sözlük'te depresyona iyi gelen şeyler başlığına rastlamıştım. İnsanların yazdıkları; denize girmek, güzel bir film izlemek, lezzetli bir yemek yemek gibi kimi şeyleri bir hayli garipsemiştim. 
 
