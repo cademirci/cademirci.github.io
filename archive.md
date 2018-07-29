@@ -3,7 +3,17 @@ layout: default
 title: Arşiv
 ---
 
-Yapılandırılıyor. Birkaç güne hallolur.
+20.06.2018 [Grup: The Algorithm](articles/alternatif-dunya-ozlemi) *müzik, rock*
+
+22.02.2017 [Alternatif Dünya Özlemi](articles/alternatif-dunya-ozlemi) *düşünce*
+
+#### Bilgisayar Bilimleri
+
+28.05.2018 [FOUT Sorunu](cs/fout-sorunu) *javascript, css*
+
+24.04.2018 [Javascript İle Space Impact](cs/javascript-ile-space-impact) *javascritp*
+
+13.11.2017 [Electron Hakkında](cs/electron-hakkinda) *javascript, html, css*
 
 <style>
 #ar { box-shadow: 0 5px 5px rgb(51, 102, 204, 0.5)}
