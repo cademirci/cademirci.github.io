@@ -49,6 +49,10 @@ Gerçek şu ki, ne yaparsanız yapın, ne yaşarsanız yaşayın, asla ama asla 
 
 Bu noktadan sonra yani ikinci bölümde, biraz daha pozitif ve (kendi fikirlerimce) nasihatkâr konuşacağım; ama unutulmamalı ki **bunlar tavsiyelerim değildir**. Ben psikiyatr değilim. 
 
+## . . .
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uAVAt5FV2uc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 
 
 
