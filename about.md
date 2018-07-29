@@ -8,7 +8,7 @@ title: Hakkımda
 
 Çağlayan Demirci. Rock müzikten ve diğer fantastik sanatlardan hoşlanan, yakında biteceği umuduyla bulunduğu üniversitede bilgisayar mühendisliği bölümü öğrencisi.
 
-![image](https://i.hizliresim.com/RnJX8G.png)
+<img src="images/me.PNG" style="border-radius: 50%;">
 
 ### Burası Neresi?
 Kişisel site. Kişisel blog sitesi, blog, Çağlayan Demirci’nin sanat, teknik ve düşünce ile ilgili yazılarını barındırığı web sayfası, sitesi, bloğu… Ben de tam emin değilim. Belli bir ismi yok. Çoğunlukla kişisel sitelerin bir ismi de olmaz zaten; insanlar ad ve soyadlarını site başlığı olarak yazarlar.
