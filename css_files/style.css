@@ -1,4 +1,5 @@
 /* "Knowledge is Light" theme by Caglayan Demirci. http://caglayandemirci.com/ */
+/* Version 2 */
 
 
 /* general content of the page */
@@ -402,7 +403,9 @@ pre .line-number {
 	margin-top: 42px;
 }
 
-.video-container iframe, .video-container object, .video-container embed {
+.video-container iframe, 
+.video-container object, 
+.video-container embed {
 	position:absolute;
 	top:0;
 	left:0;
@@ -420,7 +423,7 @@ pre .line-number {
 		justify-content: none;
 	}
 	.article_rep_des {
-	width: 100%;
+		width: 100%;
 	}
 }
 
