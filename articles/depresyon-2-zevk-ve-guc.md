@@ -65,7 +65,8 @@ Sanırım en iyi şey, güç bağlamından bahsettiğime göre; kendinizi yetene
 <div class="video-container">
 <iframe src="https://www.youtube.com/embed/7m1s2NFOGyg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
-<br><p class="imgdesc">"Break the cycle Morty, rise above, focus on science."</p>
+<br>
+<p class="imgdesc">"Break the cycle Morty, rise above, focus on science."</p>
 
 İnsanın zevk alma peşinden koşmasından çok, kendini güçlü ve iyi bir insan gibi hissetmesinin depresyondan çıkmak için ikinci adım olduğuna dair inancımı anlattım. Üçüncü bölümde, yaşam felsefesi tabanını biraz terk edip; işi kendi yaşadıklarıma, tecrübelerime ve spesifik olarak benim depresyonuma getireceğim. Bunu yaparken, depresiften depresife fark olduğunu hatırlatıyor, ancak benim yaşadıklarıma benzer şeyleri yaşamış insanlara bir nebze olsun yardımcı, en azından ortak olabilmeyi umuyorum. 
 
