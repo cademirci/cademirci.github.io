@@ -4,15 +4,11 @@
 
 ## Depresyon - 2
 
-Serinin birinci bölümünde; hayatın anlamsızlığının fazla bariz olduğunu, buna saplanılıp kalınmaması gerektiğini, mutsuzluğun her zaman ve her şartta var olmaya devam edeceğini söylemiş, mutsuzluk konusuna da günümüz yaşam şekilleri penceresinden biraz bakıp yazıyı tamamlamıştım. Depresyonun kendisiyle ilgili olmaktan çok, hayat/mutluluk/mutsuzluk şeklinde bir giriş oldu.
-
-Dikkatle üstünde durmam gereken bir uyarı: **Zaten depresyonun kendisi hakkında yargılara varmak, psikiyatri ve psikoloji alanlarında epeyce toz yutmuş insanların işi olduğundan, benimki kesinlikle dahil olmak üzere bu tip blog yazılarına tamah etmeyiniz.** Bu cümleden sonra kendi tecrübelerim ve fikirlerim dahilinde cümleler kurmayı kendime hak göreceğim. 
+Serinin birinci bölümünde; hayatın anlamsızlığının fazla bariz olduğunu, buna saplanılıp kalınmaması gerektiğini, mutsuzluğun her zaman ve her şartta var olmaya devam edeceğini söylemiş, mutsuzluk konusuna da günümüz yaşam şekilleri penceresinden biraz bakıp yazıyı tamamlamıştım. Depresyonun kendisiyle ilgili olmaktan çok, hayat/mutluluk/mutsuzluk şeklinde bir giriş oldu. Bu bölümde zevk ile güç arasındaki farklara değineceğim.
 
 ## Zevk ve Güç
 
 Madem hayat anlamsız, madem hayat o kadar anlamsız ki evrenin sonsuz büyüklüğü karşısında hayatın anlamsızlığını düşünmek bile anlamsız, ve madem yaşamın evrildiği noktada bunları yaşamak son derece olağan, o zaman ne yapalım? Ölelim mi?
-
-Bu noktada zevk ile güç arasındaki farklara değineceğim.
 
 ### Zevk
 
@@ -28,11 +24,11 @@ O halde problemi çözdüğümüze ve artık her şey berbat olduğuna göre, ş
 
 ### Güç
 
+Burada güç ile kastettiğim şeyin, Türkçede başka bir karşılığı olmadığından *güç* ile karşılanması seçilmiş bir kavram olduğunu belirtmem gerekiyor. Para ile, kariyer ile, şununla bununla pek ilgisi yok. Olması gereken sözcük *kudret* belki, veya *kut*. İngilizcede de *power* değil ama *might* belki. Tanımlamam gerekirse: **Faydalı veya, güzellik ve iyilik uğruna bir şeyler yapabilme yetisi**. Hayatta bundan daha önemli bir şey olduğunu sanmıyorum.
+
 Depresyon hakkında konuşan psikiyatristlerden duymuşsunuzdur: "Hobi edinin. Örneğin bir enstrüman çalın. Yaratıcı bir şeyler yapın. Bir şeyler ortaya çıkarmaya çalışın." 
 
 Sizce ne demeye çalışıyorlar? Müzik uygulamasını açıp Satriani'den ya da Albeniz'den gitar soloları dinlemek artık depresyondaki siz için en anlamsız, keyifsiz aktivitelerden biriyken, neden aynı gitar onların değil de sizin elinizde olmaya başlayınca bunun bir faydası olsun?
-
-Burada güç ile kastettiğim şeyin, Türkçede başka bir karşılığı olmadığından *güç* ile karşılanması seçilmiş bir kavram olduğunu belirtmem gerekiyor. Para ile, kariyer ile, şununla bununla pek ilgisi yok. Olması gereken sözcük *kudret* belki, veya *kut*. İngilizcede de *power* değil ama *might* belki. Tanımlamam gerekirse: **Faydalı veya, güzellik ve iyilik uğruna bir şeyler yapabilme yetisi**. Hayatta bundan daha önemli bir şey olduğunu sanmıyorum.
 
 Ben kitap okuyan, merak eden, araştıran, aklının yettiğince hayat, evren ve her şey hakkında kafa yormaya çalışan bir çocuktum. Birikimlerimin yaşıtlarıma göre arttığı lise yıllarımın sonlarına gelindiğinde, başımdaki kavak yellerinin, biranın ve yoğun düzeyde rock'n roll'un da etkisiyle beylik laflar etmeyi severdim. O zamanlar şunu söylerdim ve bu söylemimde aslında bugün de pek bir şey değişmedi: **Hayatta anlamlı olan ancak üç şey yapabilirsin: Ya bilim, ya sanat ya da felsefe.** Bunu ortamlarda kız düşürmek veya dostlarıma entelektüel görünmek için değil de, gerçekten anlamış olduğumu düşünerek ve içten söyleyebildiğim için kendimi şanslı hissediyorum. 
 
@@ -46,15 +42,13 @@ Ben kitap okuyan, merak eden, araştıran, aklının yettiğince hayat, evren ve
 
 ## . . .
 
-Zamanında bütün yaşadıklarımızın sebebinin hepi topu endokrin ve sinir sistemlerimizde gerçekleşen reaksiyonlardan ibaret olduğunu idrak ederek üzülmüş antimetafizikçi-rasyonalist bir insan olduğumdan, olayı şu yönden de ele alacaktım elbette: Bu işin fizyolojik açıdan farklılıklarını bilmiyorum. 
-
-Evet, peki madem bu dünyada zevktense iyilik ve güzellik için savaşmak asıl mutluluk kaynağı, ikisi arasında psikiyatrik açıdan ne fark var?
+Zamanında bütün yaşadıklarımızın sebebinin hepi topu endokrin ve sinir sistemlerimizde gerçekleşen reaksiyonlardan ibaret olduğunu idrak ederek üzülmüş antimetafizikçi-rasyonalist bir insan olduğumdan, olayı şu yönden de ele alacaktım elbette: Madem bu dünyada zevktense iyilik ve güzellik için savaşmak asıl mutluluk kaynağı, ikisi arasında psikiyatrik açıdan ne fark var?
 
 Cevap basit ve net: Bilmiyorum. Kaç yüz satırdır psikiyatristler ve psikologlar size tavsiyede bulunurken amaçları şunu kastetmek diyip duruyorum. Hayır, aslında onların amacı tabiki sizin nörotransmitterlerinizin salgı düzey ve dengenizi sağlamaya yardımcı olarak şeyler yapmanızı sağlamaktır (belki özellikle ilk sınıf). Anlık zevk verici dopaminin bende bir işe yaramamış olup serotonin düzeyimin bir hayli düşmüş olduğunu tahmin ettiğimi iki kuruşluk genel kültürümle söyleyebilirim, ama ahkam kesecek değilim. Piskiyatri uzmanı olmadığımı ve bana inanmamanız gerektiğini söylemiştim. Siz ise hala okuyorsunuz.
 
 Şaka bir yana, başka bir şeyler söylemeye çalıştığımı, kendi duygulanım ve tecrübe süreçlerimden bahsetmeye, felsefeyi ve karakterimi ele alarak, okuduklarımın ve biriktirdiklerimin beni getirdiği yaşam noktasındaki fikirlerimi yazmaya çalıştığımı da söylemiştim. O yüzden, bu bilinçle okuyorsanız, size verebileceğim bir zarar yok. Yine de yanlış bilgi çöplüğü olarak nam salmış web metinlerine bir yenisini de bloğumda eklemek istemediğim ve bu duyarlılığı hatırlatmak istediğim için bu paragrafları yazma gereği duydum.
 
-# . . . 
+## . . . 
 
 İnsanın zevk alma peşinden koşmasından çok, kendini güçlü ve iyi bir insan gibi hissetmesinin depresyondan çıkmak için ikinci adım olduğuna dair inancımı anlattım. Üçüncü bölümde, yaşam felsefesi tabanını biraz terk edip; işi kendi yaşadıklarıma, tecrübelerime ve spesifik olarak benim depresyonuma getireceğim. Bunu yaparken, depresiften depresife fark olduğunu hatırlatıyor, ancak benim yaşadıklarıma benzer şeyleri yaşamış insanlara bir nebze olsun yardımcı, en azından ortak olabilmeyi umuyorum. 
 
