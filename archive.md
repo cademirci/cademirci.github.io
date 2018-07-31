@@ -3,6 +3,8 @@ layout: default
 title: Arşiv
 ---
 
+31.07.2018 [Depresyon - 2: Zevk ve Güç](articles/depresyon-2-zevk-ve-guc) *düşünce, tecrübe*
+
 29.07.2018 [Depresyon - 1: Anlamsızlık ve Mutluluk Algısı](articles/depresyon-1-anlamsizlik-ve-mutluluk-algisi) *düşünce, tecrübe*
 
 20.06.2018 [Grup: The Algorithm](articles/alternatif-dunya-ozlemi) *müzik, rock*
