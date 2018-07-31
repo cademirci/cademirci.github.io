@@ -57,8 +57,6 @@ Bu noktadan sonra yani ikinci bölümde, biraz daha pozitif ve (kendi fikirlerim
 
 [İkinci bölüm: Zevk ve Güç](depresyon-2-zevk-ve-guc)
 
-## . . .
-
 <div class="video-container">
 <iframe src="https://www.youtube.com/embed/uAVAt5FV2uc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
