@@ -77,6 +77,8 @@ Bunlar zevk almayla, o veya bu gün ile, şu veya bu film ya da kitap ile **bitm
 
 Eğer benim gibi duygusal ve iyi kalpli olduğuna inanan bir insansanız, kendinizi köşeye sıkışmış ve durmadan hayat tarafından dayak yiyen bir sevimli fare gibi düşünme sürecine girip, çaresizlik ve gözyaşları içinde o köşeyi kabullenip, bir gün bu yumrukların bitmesini bekleyebilirsiniz. Ama bir gün kalkıp hayallerinizdeki güzellik imgesi gibi kuzey ormanlarındaki gri-beyaz kurda dönüşüp **kalkıp o hayatı ısırın**. Romantik bir ergen gibi o hayatı elbet yenebileceğinizi söylemeyeceğim. Ama savaşarak ölmek bile her zaman korkaklık ve tembelliğe yeğdir.
 
+Merak etmeyin; bunu okuduğunuz saniyede göğsünüzü gere gere kalkıp kararlı tavırlar sevgilemeyeceksiniz. Bu işe yarın başlamaya da karar vermeyeceksiniz. Ertesi gün bir gitar alıp çalacağınızı da sanmıyorum. Biliyorum çünkü major depresyondaydım ve intiharı düşünüyordum. Yapılması gereken tek şey, bu gerçekleri açık bir şekilde görecek bilince sahip olabilmek. 
+
 ## . . . 
 
 İnsanın zevk alma peşinden koşmasından çok, kendini güçlü ve iyi bir insan gibi hissetmesinin depresyondan çıkmak için ikinci adım olduğuna dair inancımı anlattım. Üçüncü bölümde, yaşam felsefesi tabanını biraz terk edip; işi kendi yaşadıklarıma, tecrübelerime ve spesifik olarak benim depresyonuma getireceğim. Bunu yaparken, depresiften depresife fark olduğunu hatırlatıyor, ancak benim yaşadıklarıma benzer şeyleri yaşamış insanlara bir nebze olsun yardımcı, en azından ortak olabilmeyi umuyorum. 
