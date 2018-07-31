@@ -68,7 +68,6 @@ Yazılım öğrenin. Programlama, öğrenme süreci sancılı geçse de, en ufak
 <div class="video-container">
 <iframe src="https://www.youtube.com/embed/7m1s2NFOGyg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
-<br>
 <p class="imgdesc">"Break the cycle Morty, rise above, focus on science."</p>
 
 Günlük zevklerle bir yere varmaya kalkmanız sizi depresyondan çıkarmayacak. Her gün, içkiden, sigaradan medet ummak, *dün de aynı bugün de bence aynı olur yarın da* mottosuna sığınıp, başınızı kaldıramadığınız ya da elde etmeye enerjinizin olmadığı olasılıkları görmezlikten gelmek, hayatın bu şekilde ertelenip durması, potansiyelinizin heba olması, diğer insanları, sistemi ya da başka bir ben-dışı faktörü suçlayıp durmak, bunun tersi olarak profesyonel bir mazlum/mağdur rolüne soyunup durmadan ben-dışı bir faktörden kurtuluş beklemek, her gün en büyük derdinizin güçsüz ve enerjisiz olmanız olduğunu bütün dünyaya haykırmanız, hiç durmadan kendinizden nefret ettiğinizden dış görünüşünüze önem veremediğiniz için özgüveninizin olmamasını sanki Einstein ve diğer büyük adamların hepsi çok yakışıklıymış gibi buna bağlamanız,   bütün bu iğrenç kısır döngü ve sanki hiçbir olasılık ve zaman aralığında başka bir şey yaşayamayacakmışsınız gibi sonsuza kadar bu işin böyle gideceğine kendinizi inandırmanız **zevk almayla** bitmez. Öyle olsaydı, bütün bu işi bitirip rahatlamanın tek çözümü olarak bira içmeyi düşünürdünüz. İntihar etmeyi değil. 
