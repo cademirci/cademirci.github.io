@@ -50,6 +50,23 @@ Cevap basit ve net: Bilmiyorum. Kaç yüz satırdır psikiyatristler ve psikolog
 
 ## . . . 
 
+Bütün bunların ışığında bazı örnekler sunacağım.
+
+- Depresif olmadığınız zamanlarda hoşunuza giden; epik, romantik, düşük ritmli, sakinleştirici müzikler bir işe yaramaz. "Trip"lere girmeniz olasıdır, enerji seviyenizi düşürür, hüznünüze odaklanmanıza sebep olabilir. Maddeyi kişisel bulabilirsiniz ama, oturun ekstrem metal dinleyin. Heavy metal falan değil; Lamb of God, Meshuggah, Gojira, Born of Osiris gibi ekstrem sertlikte ve öfkeli müzikler dinleyin. Bunu yaparken, o kişiye veya bu nesneye saldırmak yerine; hızlı tempo yürümek mesela, melankolinizi öfkeye çevirip bir nebze olsun atmanızı sağlayabilir.
+- Güzel filmler izlemek, iyi bir diziye başlamak kafanızı dağıtmak için yardımcı olabilir. Eğer bu şekilde iyileşme sürecini hızlandırabiliyorsanız ne ala. Ancak, çok mutsuz olduğum zamanlarda bir film ya da dizi izlediğim zaman ben, onu o mutsuz zamanla özdeşleştiriyorum, duygusal bir sahne olduğunda rahatsız oluyorum. Üzüntüyü hatırlatıcı yerler gördüğümde dizi bir işkence halini alıyor. Özellikle ayrılıklarda, tercih ettiğim bir konsept değil dizi/film.
+- Güzel yemekler yemek, denize girmek gibi her an herkes için keyifli olan şeyler de aynı şekilde: Kafanızı dağıtmanıza yardımcı olabilir. Ama bir anda kendinizi o anlamsız büyüklük ve boşlukta denize bakıp ölmek isterken bulabilirsiniz. 
+...
+Sanırım en iyi şey, güç bağlamından bahsettiğime göre; kendinizi yetenekli, potansiyelini kullanabilmiş, işe yarar, özsaygınızı arttırıcı şeyler denemek.
+- Programlama öğrenmeyi düşünün mesela. Düşünmüyorsanız veya hali hazırda yazılımla uğraşan bir insansanız, altından kalkması zor problemlerle uğraşabilirsiniz. Çünkü programlama; sıfırdan öğrenmesi çok kolay olmayan, öğrenildiğinde insanı iyi hissettiren, en önemlisi de en ufak başarınızdan en zor uygulamalara kadar hızlı sonuç alabildiğiniz (bir *run* tuşuna bakıyor) bir uğraşı. Başarmak iyi bir şeydir. Bu maddeyi, matematik, kendi uzmanlığınız, veya herhangi zor bir disiplin açısından düşünebilirsiniz.
+- Enstrüman her zaman tavsiye edilen şeylerden biri. Çalmayı bilmiyorsanız bir gitar alın, ne isterseniz alın başlayın. Uğraştıkça, anlamlı sesler çıkarmaya başladıkça, daha sonra da bir parçayı bitirince, emin olun her şeye başarmanın penceresinden bakmaya başlayacaksınız. Bu süreç size yardımcı olacak.
+
+Örnekler çoğaltılabilir, illa benim dediğim gibi olması gerekmez, her bir insanın kendi depresyonuna uyarlanabilir. Amacım bunların arasındaki farkı anlatmaktı.
+
+<div class="video-container">
+<iframe src="https://www.youtube.com/embed/7m1s2NFOGyg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+<p class="imgdesc">"Break the cycle Morty, rise above, focus on science."</p>
+
 İnsanın zevk alma peşinden koşmasından çok, kendini güçlü ve iyi bir insan gibi hissetmesinin depresyondan çıkmak için ikinci adım olduğuna dair inancımı anlattım. Üçüncü bölümde, yaşam felsefesi tabanını biraz terk edip; işi kendi yaşadıklarıma, tecrübelerime ve spesifik olarak benim depresyonuma getireceğim. Bunu yaparken, depresiften depresife fark olduğunu hatırlatıyor, ancak benim yaşadıklarıma benzer şeyleri yaşamış insanlara bir nebze olsun yardımcı, en azından ortak olabilmeyi umuyorum. 
 
 Bloğun asıl amacıysa kişisel elektronik hafıza olarak kişisel kullanımım zaten ama çaktırmıyorum. 
