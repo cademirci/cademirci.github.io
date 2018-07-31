@@ -55,13 +55,15 @@ Cevap basit ve net: Bilmiyorum. Kaç yüz satırdır psikiyatristler ve psikolog
 
 ## . . . 
 
-Bütün bunların ışığında bazı örnekler sunabilirim.
+Bütün bunların ışığında zevke karşı güç açısından bazı örnekler sunabilirim.
 
 Keyifli bir film veya dizi izlemek, kafanızı dağıtmanıza yardımcı olabilir. Ama depresyondan çıkarmaz. Bunun yerine film sanatı ile ilgilenip, amatör düzeyde deolsa eleştiri yapmaya başlayın. Yönetmenliğe soyunmaya karar verin. Aylarca buna uğraşın.
 
-Gitar örneğini verdim. Çalmayı bilmiyorsanız bir gitar alın. Bu zamana kadar aklınızın bir köşesindeydiyse o gün bu gün. Anlamlı sesler çıkarmaya başladığınızda, bir parçayı tamamladığınızda o olmayan dopamini salgılayacaksınız.
+Denize girmek veya sahilde dolaşmak da kafanızı dağıtmanıza yardımcı olabilir. Ama depresyondan çıkarmaz. Bunun yerine yüzme veya dalgıçlık ile ilgilenip, adam gibi bir spora yoğunlaşmayı deneyebilirsiniz. 
 
-Yazılım öğrenin. Programlama, öğrenme süreci sancılı geçse de, en ufak başarınızdan en zor uygulamalara kadar çok hızlı sonuç alınabilen (bir *run* tuşuna bakıyor) bir uğraşı olduğundan diğer teknik bilimlere kıyasla günlük uğraşa ve kendini geliştirmeye daha uygundur. Programınızı yazın, çalıştırın ve izleyin. Onu siz yarattınız.
+Gitar örneğini verdim. Sabaha kadar Malmsteen videoları izlemek güzel bir şey olabilir. Ama onun yerine çalmayı bilmiyorsanız bir gitar alın. Bu zamana kadar aklınızın bir köşesindeydiyse o gün bu gün. Anlamlı sesler çıkarmaya başladığınızda, bir parçayı tamamladığınızda o olmayan dopamini salgılayacaksınız.
+
+Yazılım öğrenin örneğin. Programlama, öğrenme süreci sancılı geçse de, en ufak başarınızdan en zor uygulamalara kadar çok hızlı sonuç alınabilen (bir *run* tuşuna bakıyor) bir uğraşı olduğundan diğer teknik bilimlere kıyasla günlük uğraşa ve kendini geliştirmeye daha uygundur. Programınızı yazın, çalıştırın ve izleyin. Onu siz yarattınız.
 
 İlla bu maddelerdeki şeyleri yapmanız gerekmediği anlaşılmıştır. Az çok kendinizi tanıdığınız için (ya da işe tanımakla başlayabilirsiniz), neyi sevip neyi sevmediğinizin farkındasınızdır. Ne yapmak istiyorsanız lütfen **kalkıp üzerine gidin**.
 
