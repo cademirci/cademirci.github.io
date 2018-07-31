@@ -13,11 +13,11 @@ Serinin birinci bölümünde; hayatın anlamsızlığının fazla bariz olduğun
 
 ## Zevk ve Güç
 
-Madem hayat anlamsız, madem hayat o kadar anlamsız ki evrenin sonsuz büyüklüğü karşısında hayatın anlamsızlığını düşünmek bile anlamsız, ve madem yaşamın evrildiği noktada bunları yaşamak son derece olağan, o zaman ne yapalım? Ölelim mi?
+Madem hayat anlamsız, hatta o kadar anlamsız ki evrenin sonsuz büyüklüğü karşısında hayatın anlamsızlığını düşünmek bile anlamsız, ve madem yaşamın evrildiği noktada bunları yaşamak son derece olağan, o zaman ne yapalım? Ölelim mi?
 
 ### Zevk
 
-[ Gündelik dilde yer alan *zevk* kelimesi yerine böyle durumlarda felsefe metinlerinde genellikle *haz* denir. Siz bu yazıda *zevk* gördüğünüz her yerde *haz*zı da düşünebilirsiniz. Köylü milletin efendisi olduğundan ben en aşina olduğumuz sözcük olan *zevk*i demeyi seçtim. ]
+[ Gündelik dilde yer alan *zevk* kelimesi yerine böyle durumlarda felsefe metinlerinde genellikle *haz* denir. Siz bu yazıda *zevk* gördüğünüz her yerde *haz*zı da düşünebilirsiniz. Köylü milletin efendisi olduğundan ben en aşina olduğumuz sözcük olan *zevk*i kullanmayı seçtim. ]
 
 Sokrates'in zamanlarında Aristippos hayatta ancak zevk alınması gerektiğini savunduğunda, onun öğretilerinin bir derlemesi olarak Hedonizm ortaya çıktı. Zevk konusunun en dikkate değer adamıysa Epiküros, insan bedeni ve zihninin dinginliğine ulaşmasıyla son bulan bir zevk alma süreci önermişti. Hazcı olduğunu iddia edemesem de Ömer Hayyam da bunlardan bin sene sonra çareyi şarap içmek ve güzel kadınlarla ilgilenmekte bulmuştu. Bugün de bunu, her ne kadar insanın beynine beynine data haykırılan bir zamanda yaşadığımızdan bunu sakin bir kafa ve kararlılıkla ifade edemiyor olsak da, "ne yapıcaksın ki yaşadığın andan zevk almaya bak" şeklinde de olsa düşünebiliyoruz. 
 
@@ -47,7 +47,7 @@ Ben kitap okuyan, merak eden, araştıran, aklının yettiğince hayat, evren ve
 
 ## . . .
 
-Zamanında bütün yaşadıklarımızın sebebinin hepi topu endokrin ve sinir sistemlerimizde gerçekleşen reaksiyonlardan ibaret olduğunu idrak ederek üzülmüş antimetafizikçi-rasyonalist bir insan olduğumdan, olayı şu yönden de ele alacaktım elbette: Madem bu dünyada zevktense iyilik ve güzellik için savaşmak asıl mutluluk kaynağı, ikisi arasında psikiyatrik açıdan ne fark var?
+Zamanında, bütün yaşadıklarımızın sebebinin hepi topu endokrin ve sinir sistemlerimizde gerçekleşen reaksiyonlardan ibaret olduğunu idrak ederek üzülmüş antimetafizikçi-rasyonalist bir insan olduğumdan, olayı şu yönden de ele alacaktım elbette: Madem bu dünyada zevktense iyilik ve güzellik için savaşmak asıl mutluluk kaynağı, ikisi arasında psikiyatrik açıdan ne fark var?
 
 Cevap basit ve net: Bilmiyorum. Kaç yüz satırdır psikiyatristler ve psikologlar size tavsiyede bulunurken amaçları şunu kastetmek diyip duruyorum. Hayır, aslında onların amacı tabiki sizin nörotransmitterlerinizin salgı düzey ve dengenizi sağlamaya yardımcı olarak şeyler yapmanızı sağlamaktır (belki özellikle ilk sınıf). Anlık zevk verici dopaminin bende bir işe yaramamış olup serotonin düzeyimin bir hayli düşmüş olduğunu tahmin ettiğimi iki kuruşluk genel kültürümle söyleyebilirim, ama ahkam kesecek değilim. Piskiyatri uzmanı olmadığımı ve bana inanmamanız gerektiğini söylemiştim. Siz ise hala okuyorsunuz.
 
@@ -55,23 +55,29 @@ Cevap basit ve net: Bilmiyorum. Kaç yüz satırdır psikiyatristler ve psikolog
 
 ## . . . 
 
-Bütün bunların ışığında bazı örnekler sunacağım.
+Bütün bunların ışığında bazı örnekler sunabilirim.
 
-- Depresif olmadığınız zamanlarda hoşunuza giden; epik, romantik, düşük ritmli, sakinleştirici müzikler bir işe yaramaz. "Trip"lere girmeniz olasıdır, enerji seviyenizi düşürür, hüznünüze odaklanmanıza sebep olabilir. Maddeyi kişisel bulabilirsiniz ama, oturun ekstrem metal dinleyin. Heavy metal falan değil; Lamb of God, Meshuggah, Gojira, Born of Osiris gibi ekstrem sertlikte ve öfkeli müzikler dinleyin. Bunu yaparken, o kişiye veya bu nesneye saldırmak yerine; hızlı tempo yürümek mesela, melankolinizi öfkeye çevirip bir nebze olsun atmanızı sağlayabilir.
-- Güzel filmler izlemek, iyi bir diziye başlamak kafanızı dağıtmak için yardımcı olabilir. Eğer bu şekilde iyileşme sürecini hızlandırabiliyorsanız ne ala. Ancak, çok mutsuz olduğum zamanlarda bir film ya da dizi izlediğim zaman ben, onu o mutsuz zamanla özdeşleştiriyorum, duygusal bir sahne olduğunda rahatsız oluyorum. Üzüntüyü hatırlatıcı yerler gördüğümde dizi bir işkence halini alıyor. Özellikle ayrılıklarda, tercih ettiğim bir konsept değil dizi/film.
-- Güzel yemekler yemek, denize girmek gibi her an herkes için keyifli olan şeyler de aynı şekilde: Kafanızı dağıtmanıza yardımcı olabilir. Ama bir anda kendinizi o anlamsız büyüklük ve boşlukta denize bakıp ölmek isterken bulabilirsiniz. 
-...
-Sanırım en iyi şey, güç bağlamından bahsettiğime göre; kendinizi yetenekli, potansiyelini kullanabilmiş, işe yarar, özsaygınızı arttırıcı şeyler denemek.
-- Programlama öğrenmeyi düşünün mesela. Düşünmüyorsanız veya hali hazırda yazılımla uğraşan bir insansanız, altından kalkması zor problemlerle uğraşabilirsiniz. Çünkü programlama; sıfırdan öğrenmesi çok kolay olmayan, öğrenildiğinde insanı iyi hissettiren, en önemlisi de en ufak başarınızdan en zor uygulamalara kadar hızlı sonuç alabildiğiniz (bir *run* tuşuna bakıyor) bir uğraşı. Başarmak iyi bir şeydir. Bu maddeyi, matematik, kendi uzmanlığınız, veya herhangi zor bir disiplin açısından düşünebilirsiniz.
-- Enstrüman her zaman tavsiye edilen şeylerden biri. Çalmayı bilmiyorsanız bir gitar alın, ne isterseniz alın başlayın. Uğraştıkça, anlamlı sesler çıkarmaya başladıkça, daha sonra da bir parçayı bitirince, emin olun her şeye başarmanın penceresinden bakmaya başlayacaksınız. Bu süreç size yardımcı olacak.
+Keyifli bir film veya dizi izlemek, kafanızı dağıtmanıza yardımcı olabilir. Ama depresyondan çıkarmaz. Bunun yerine film sanatı ile ilgilenip, amatör düzeyde deolsa eleştiri yapmaya başlayın. Yönetmenliğe soyunmaya karar verin. Aylarca buna uğraşın.
 
-Örnekler çoğaltılabilir, illa benim dediğim gibi olması gerekmez, her bir insanın kendi depresyonuna uyarlanabilir. Amacım bunların arasındaki farkı anlatmaktı.
+Gitar örneğini verdim. Çalmayı bilmiyorsanız bir gitar alın. Bu zamana kadar aklınızın bir köşesindeydiyse o gün bu gün. Anlamlı sesler çıkarmaya başladığınızda, bir parçayı tamamladığınızda o olmayan dopamini salgılayacaksınız.
+
+Yazılım öğrenin. Programlama, öğrenme süreci sancılı geçse de, en ufak başarınızdan en zor uygulamalara kadar çok hızlı sonuç alınabilen (bir *run* tuşuna bakıyor) bir uğraşı olduğundan diğer teknik bilimlere kıyasla günlük uğraşa ve kendini geliştirmeye daha uygundur. Programınızı yazın, çalıştırın ve izleyin. Onu siz yarattınız.
+
+İlla bu maddelerdeki şeyleri yapmanız gerekmediği anlaşılmıştır. Az çok kendinizi tanıdığınız için (ya da işe tanımakla başlayabilirsiniz), neyi sevip neyi sevmediğinizin farkındasınızdır. Ne yapmak istiyorsanız lütfen **kalkıp üzerine gidin**.
 
 <div class="video-container">
 <iframe src="https://www.youtube.com/embed/7m1s2NFOGyg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 <br>
 <p class="imgdesc">"Break the cycle Morty, rise above, focus on science."</p>
+
+Günlük zevklerle bir yere varmaya kalkmanız sizi depresyondan çıkarmayacak. Her gün, içkiden, sigaradan medet ummak, *dün de aynı bugün de bence aynı olur yarın da* mottosuna sığınıp, başınızı kaldıramadığınız ya da elde etmeye enerjinizin olmadığı olasılıkları görmezlikten gelmek, hayatın bu şekilde ertelenip durması, potansiyelinizin heba olması, diğer insanları, sistemi ya da başka bir ben-dışı faktörü suçlayıp durmak, bunun tersi olarak profesyonel bir mazlum/mağdur rolüne soyunup durmadan ben-dışı bir faktörden kurtuluş beklemek, her gün en büyük derdinizin güçsüz ve enerjisiz olmanız olduğunu bütün dünyaya haykırmanız, hiç durmadan kendinizden nefret ettiğinizden dış görünüşünüze önem veremediğiniz için özgüveninizin olmamasını sanki Einstein ve diğer büyük adamların hepsi çok yakışıklıymış gibi buna bağlamanız,   bütün bu iğrenç kısır döngü ve sanki hiçbir olasılık ve zaman aralığında başka bir şey yaşayamayacakmışsınız gibi sonsuza kadar bu işin böyle gideceğine kendinizi inandırmanız **zevk almayla** bitmez. Öyle olsaydı, bütün bu işi bitirip rahatlamanın tek çözümü olarak bira içmeyi düşünürdünüz. İntihar etmeyi değil. 
+
+Bunlar zevk almayla, o veya bu gün ile, şu veya bu film ya da kitap ile **bitmeyecek**. Ama iyi bir haberim var: güç ile bitebilir.
+
+Eğer benim gibi duygusal ve iyi kalpli olduğuna inanan bir insansanız, kendinizi köşeye sıkışmış ve durmadan hayat tarafından dayak yiyen bir sevimli fare gibi düşünme sürecine girip, çaresizlik ve gözyaşları içinde o köşeyi kabullenip, bir gün bu yumrukların bitmesini bekleyebilirsiniz. Ama bir gün kalkıp hayallerinizdeki güzellik imgesi gibi kuzey ormanlarındaki gri-beyaz kurda dönüşüp **kalkıp o hayatı ısırın**. Romantik bir ergen gibi o hayatı elbet yenebileceğinizi söylemeyeceğim. Ama savaşarak ölmek bile her zaman korkaklık ve tembelliğe yeğdir.
+
+## . . . 
 
 İnsanın zevk alma peşinden koşmasından çok, kendini güçlü ve iyi bir insan gibi hissetmesinin depresyondan çıkmak için ikinci adım olduğuna dair inancımı anlattım. Üçüncü bölümde, yaşam felsefesi tabanını biraz terk edip; işi kendi yaşadıklarıma, tecrübelerime ve spesifik olarak benim depresyonuma getireceğim. Bunu yaparken, depresiften depresife fark olduğunu hatırlatıyor, ancak benim yaşadıklarıma benzer şeyleri yaşamış insanlara bir nebze olsun yardımcı, en azından ortak olabilmeyi umuyorum. 
 
