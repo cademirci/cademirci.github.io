@@ -55,6 +55,8 @@ Gerçek şu ki, ne yaparsanız yapın, ne yaşarsanız yaşayın, asla ama asla 
 
 Bu noktadan sonra yani ikinci bölümde, biraz daha pozitif ve (kendi fikirlerimce) nasihatkâr konuşacağım; ama unutulmamalı ki **bunlar tavsiyelerim değildir**. Ben psikiyatr değilim. 
 
+[İkinci bölüm: Zevk ve Güç](depresyon-2-zevk-ve-guc)
+
 ## . . .
 
 <div class="video-container">

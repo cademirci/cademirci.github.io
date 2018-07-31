@@ -9,7 +9,7 @@ title: Depresyon Serisi 2
 
 ## Depresyon - 2
 
-Serinin birinci bölümünde; hayatın anlamsızlığının fazla bariz olduğunu, buna saplanılıp kalınmaması gerektiğini, mutsuzluğun her zaman ve her şartta var olmaya devam edeceğini söylemiş, mutsuzluk konusuna da günümüz yaşam şekilleri penceresinden biraz bakıp yazıyı tamamlamıştım. Depresyonun kendisiyle ilgili olmaktan çok, hayat/mutluluk/mutsuzluk şeklinde bir giriş oldu. Bu bölümde zevk ile güç arasındaki farklara değineceğim.
+[Serinin birinci bölümünde](depresyon-1-anlamsizlik-ve-mutluluk-algisi); hayatın anlamsızlığının fazla bariz olduğunu, buna saplanılıp kalınmaması gerektiğini, mutsuzluğun her zaman ve her şartta var olmaya devam edeceğini söylemiş, mutsuzluk konusuna da günümüz yaşam şekilleri penceresinden biraz bakıp yazıyı tamamlamıştım. Depresyonun kendisiyle ilgili olmaktan çok, hayat/mutluluk/mutsuzluk şeklinde bir giriş oldu. Bu bölümde zevk ile güç arasındaki farklara değineceğim.
 
 ## Zevk ve Güç
 
