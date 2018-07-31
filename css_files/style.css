@@ -143,14 +143,14 @@ p, .markdown-body p {
 }
 .markdown-body img {
 	max-width: 100%;
-	margin: 60px auto;
+	margin: 100px auto;
 	display: block;
 }
 .markdown-body p.imgdesc,
 .markdown-body p3 {
-	font-size: 0.9em;
+	font-size: 0.85em;
 	color: #666;
-	margin-top: -50px;
+	margin-top: -85px;
 	text-align: center;
 }
 .markdown-body blockquote {
