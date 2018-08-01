@@ -21,7 +21,7 @@ p, .markdown-body p {
 	height: 64px;
 	border: 1px solid #999;
 	display: inline-block;
-	margin: 50px 10px;
+	margin: 35px 10px;
 }
 .header {
 	text-align: center;
@@ -198,7 +198,7 @@ p2 {
 /* article window */
 
 .article_window {
-	width: 50%;
+	width: 42%;
 	color: ghostwhite;
 	background-color: #222;
     padding: 10px;
