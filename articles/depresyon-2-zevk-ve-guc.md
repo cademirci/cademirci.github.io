@@ -3,7 +3,7 @@ layout: post
 title: Depresyon Serisi 2
 ---
 
-![](https://pbs.twimg.com/media/BAvabTwCUAAruvm.jpg)
+![](../images/post_images/strongbm.png)
 
 31.07.2018 05:48 *düşünce, tecrübe*
 
