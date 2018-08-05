@@ -89,6 +89,7 @@ p, .markdown-body p {
 	box-shadow: 0 3px 1px rgb(125, 125, 125, 0.3);
 }/**/
 
+/* #4dcb82
 /* theme */
 .markdown-body h1,
 .markdown-body h2,
@@ -100,17 +101,17 @@ p, .markdown-body p {
 	color: #333;
 }
 .markdown-body h6 {
-	color: #3269a2;
+	color: #4dcb82;
 	font-size: 24px;
 	text-align: center;
 }
 .markdown-body a,
 .markdown-body a:visited {
-	color: #3269a2;
+	color: #4dcb82;
 	text-decoration: none;
 }
 .markdown-body a:hover {
-	color: #4f8ac9;
+	color: #75d79e;
 	text-decoration: none;
 } /**/
 /*#3269a2*/
@@ -127,7 +128,7 @@ p, .markdown-body p {
 }
 .markdown-body h4 {
 	font-size: 1.2em;
-	border-bottom: 4px solid #598bc0;
+	border-bottom: 4px solid #88ddab;
 	margin: 0 auto;
 	text-align: center;
 }
@@ -155,7 +156,7 @@ p, .markdown-body p {
 	padding-bottom: 65px;
 }
 .markdown-body blockquote {
-	border-left: 4px solid #d8e6f3;
+	border-left: 4px solid #88ddab;
 	padding: 0 15px;
 	margin: 15px 0;
 	font-style: italic;
