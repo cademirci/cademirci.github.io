@@ -11,6 +11,8 @@ title: Arşiv
 
 20.06.2018 [Grup: The Algorithm](articles/the-algorithm) *müzik, rock*
 
+**2017**
+
 22.02.2017 [Alternatif Dünya Özlemi](articles/alternatif-dunya-ozlemi) *düşünce*
 
 #### Bilgisayar Bilimleri
@@ -18,6 +20,8 @@ title: Arşiv
 28.05.2018 [FOUT Sorunu](cs/fout-sorunu) *javascript, css*
 
 24.04.2018 [Javascript İle Space Impact](cs/javascript-ile-space-impact) *javascritp*
+
+**2017**
 
 13.11.2017 [Electron Hakkında](cs/electron-hakkinda) *javascript, html, css*
 
