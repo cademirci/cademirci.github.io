@@ -85,3 +85,5 @@ Merak etmeyin; bunu okuduğunuz saniyede göğsünüzü gere gere kalkıp kararl
 İnsanın zevk alma peşinden koşmasından çok, kendini güçlü ve iyi bir insan gibi hissetmesinin depresyondan çıkmak için ikinci adım olduğuna dair inancımı anlattım. Üçüncü bölümde, yaşam felsefesi tabanını biraz terk edip; işi kendi yaşadıklarıma, tecrübelerime ve spesifik olarak benim depresyonuma getireceğim. Bunu yaparken, depresiften depresife fark olduğunu hatırlatıyor, ancak benim yaşadıklarıma benzer şeyleri yaşamış insanlara bir nebze olsun yardımcı, en azından ortak olabilmeyi umuyorum. 
 
 Bloğun asıl amacıysa kişisel elektronik hafıza olarak kişisel kullanımım zaten ama çaktırmıyorum. 
+
+[Üçüncü bölüm: Savaşçı Kişilik](articles/depresyon-3-savasci-kisilik)
