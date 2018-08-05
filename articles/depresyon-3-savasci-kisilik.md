@@ -1,4 +1,9 @@
-06.08.2018 *düşünce, tecrübe*
+---
+layout: post
+title: Depresyon 3
+---
+
+06.08.2018 01:17 *düşünce, tecrübe*
 
 ## Depresyon 3 
 ## Savaşçı Kişilik 

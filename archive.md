@@ -3,6 +3,8 @@ layout: default
 title: Arşiv
 ---
 
+06.08.2018 [Depresyon - 3: Savaşçı Kişilik](articles/depresyon-3-savasci-kisilik) *düşünce, tecrübe*
+
 31.07.2018 [Depresyon - 2: Zevk ve Güç](articles/depresyon-2-zevk-ve-guc) *düşünce, tecrübe*
 
 29.07.2018 [Depresyon - 1: Anlamsızlık ve Mutluluk Algısı](articles/depresyon-1-anlamsizlik-ve-mutluluk-algisi) *düşünce, tecrübe*
