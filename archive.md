@@ -20,5 +20,5 @@ title: Arşiv
 13.11.2017 [Electron Hakkında](cs/electron-hakkinda) *javascript, html, css*
 
 <style>
-#ar { box-shadow: 0 5px 5px rgb(51, 102, 204, 0.5)}
+#ar { box-shadow: 0 5px 5px rgb(0, 128, 64, 0.5)}
 </style>

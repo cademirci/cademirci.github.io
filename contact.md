@@ -20,5 +20,5 @@ oninput="setCustomValidity('')">
 <br><br>Bunun dışında footerda (aşağıda) yer alan sosyal medya mecralarıma da göz atıp onları kullanmaktan çekinmeyebilirsiniz. Ayrıca, yukarıdaki kutuyu kullanmayıp mail adresimi ayrıca isterseniz, o da <b>demircicaglayan13 at gmail nokta com</b>
 
 <style>
-#ct { box-shadow: 0 5px 5px rgb(51, 102, 204, 0.5)}
+#ct { box-shadow: 0 5px 5px rgb(0, 128, 64, 0.5)}
 </style>
