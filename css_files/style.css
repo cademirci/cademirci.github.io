@@ -101,13 +101,13 @@ p, .markdown-body p {
 	color: #333;
 }
 .markdown-body h6 {
-	color: #00b359;
+	color: #00994d;
 	font-size: 24px;
 	text-align: center;
 }
 .markdown-body a,
 .markdown-body a:visited {
-	color: #00b359;
+	color: #00994d;
 	text-decoration: none;
 }
 .markdown-body a:hover {
