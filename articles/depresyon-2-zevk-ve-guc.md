@@ -86,4 +86,4 @@ Merak etmeyin; bunu okuduğunuz saniyede göğsünüzü gere gere kalkıp kararl
 
 Bloğun asıl amacıysa kişisel elektronik hafıza olarak kişisel kullanımım zaten ama çaktırmıyorum. 
 
-[Üçüncü bölüm: Savaşçı Kişilik](articles/depresyon-3-savasci-kisilik)
+[Üçüncü bölüm: Savaşçı Kişilik](depresyon-3-savasci-kisilik)
