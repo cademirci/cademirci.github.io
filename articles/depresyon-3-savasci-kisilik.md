@@ -33,7 +33,7 @@ Bazı durumlarda ise; sorununuzu "sonunda ışık olan bir tünel gibi" düşün
 
 İnsanın, karşısına mücadele edilecek hiçbir şey çıkmasın isteği, ve bu kıskaçta bulduğu en ufak konfora dört elle sarılması, çocukça ve gerçekdışıdır. Kısaca atalet* denilen bu yaşam tarzında, bir süreden sonra mücadele kılıcını o tozlu raflara mı yoksa şu eski çekmeceye mi koyduğunuzu bile unutmaya başlayacak, böylece karşınıza çıkacak her problemin önünde baldırıçıplak kalıp dayak yiyecek ve kılcın yerini adamakıllı unutacaksınız. Buna da, kısaca sefalet denir. Hayalinizde onu taşıyan, hiç durmadan yalınkılıç yürüyen kendinizin karizmatik savaşçı duruşunun arkasından bakakaldığınızda, bilinciniz; aşırı mutsuzluğa karşı bir savunma mekanizması olarak, sizin mücadeleyi değil, mücadelenin sizi unuttuğu inancını size aşılayacak ve vücudunuzu yorgun, enerjisiz, mutsuz bir standby moduna alıp kapayacak. "Kısaca" kombosunun üçüncü öğesi olarak, buna da depresyon denir.
 
-*atalet: tembellik gibi bir sözcük, çalışkan olmamaktan daha büyük, daha genel bir anlamda*
+*atalet: tembellik gibi bir sözcük, "çalışkan olmamak"tan daha büyük, daha genel bir anlamda*
 
 Bütün bunlar kendimden nefret etmemle, kendimi sonuna kadar değersiz hissetmemle sonuçlandı. Şu anki durumum ise, o kılıcı artık bir zahmet taşıyabilmenin mümkün olduğunu görmeye başlamış birinin durumu. Belki de hiçbir zaman o hayallerimdeki imgedeki savaşçı rolüne yüzde yüz soyunamam veya hiçbir şeyin garantisini veremem. Ama tek yaptığım şey şu ki, sonuna kadar baldırıçıplak gitmek zorunda değildim, tek gücüm ise anlamak.
 
