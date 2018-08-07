@@ -220,7 +220,7 @@ p2 {
 .article_window a,
 .article_window a:visited {
 	text-decoration: none;
-	color: ghostwhite;
+	color: #93ebbb;
 }
 .article_button {
 	height: 35px;
