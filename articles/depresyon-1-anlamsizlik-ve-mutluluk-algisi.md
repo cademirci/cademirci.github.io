@@ -5,6 +5,8 @@ title: Depresyon Serisi 1
 
 ![](https://i.pinimg.com/originals/7e/20/62/7e2062768c34783f5c4cd2f8409ebfea.jpg)
 
+29 Temmuz 2018 03:42 *düşünce, tecrübe*
+
 ## Depresyon - 1 
 
 ## Anlamsızlık ve Mutluluk Algısı

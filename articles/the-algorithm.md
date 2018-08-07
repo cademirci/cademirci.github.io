@@ -3,7 +3,7 @@ title: The Algorithm
 layout: post
 ---
 
-20.06.2018 23:48
+20 Haziran 2018 23:48 *müzik, rock*
 
 ## The Algorithm
 

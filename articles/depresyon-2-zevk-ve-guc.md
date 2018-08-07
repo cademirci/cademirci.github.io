@@ -5,7 +5,7 @@ title: Depresyon Serisi 2
 
 ![](../images/post_images/strongbm.png)
 
-31.07.2018 05:48 *düşünce, tecrübe*
+31 Temmuz 2018 05:48 *düşünce, tecrübe*
 
 ## Depresyon - 2
 

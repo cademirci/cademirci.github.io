@@ -3,7 +3,7 @@ layout: post
 title: Depresyon 3
 ---
 
-06.08.2018 01:17 *düşünce, tecrübe*
+6 Ağustos 2018 01:17 *düşünce, tecrübe*
 
 ## Depresyon 3 
 
