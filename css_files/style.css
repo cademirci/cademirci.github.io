@@ -437,9 +437,9 @@ pre .line-number {
 
 /* phone screen syncronisation */
 @media only screen and (max-width: 900px) {
-	.header {
+	/*.header {
 		height: 125px;
-	}
+	} */
 	.article_window {
 		width: 100%;
 		margin-left: 0;
