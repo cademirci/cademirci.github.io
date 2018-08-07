@@ -239,7 +239,7 @@ p2 {
 
 .article_container {
 	justify-content: space-around; 
-	align-items: center;
+	align-items: strech;
 	display: flex;
 }
 
