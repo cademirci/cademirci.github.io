@@ -6,6 +6,11 @@ title: Depresyon 3
 06.08.2018 01:17 *düşünce, tecrübe*
 
 ## Depresyon 3 
+
+[Birinci bölüm: Anlamsızlık ve Mutluluk Algısı](depresyon-1-anlamsizlik-ve-mutluluk-algisi)
+
+[İkinci bölüm: Zevk ve Güç](depresyon-2-zevk-ve-guc)
+
 ## Savaşçı Kişilik 
 
 Depresyona neden girdiğimi tam olarak anlatabileceğimi sanmıyorum. Zaten "şu yüzden depresyona girdi" diye bir şey olduğunu da pek düşünmüyorum. Onun adı genellikle **psikolojik travma**dır. İnsan uzun bir süre yaşadığı şeyler sonucunda depresyona girer. Bir insanın bir şeyi yaşamasının arkasında yüzlerce değişken (*parametre*) yer alır. 
