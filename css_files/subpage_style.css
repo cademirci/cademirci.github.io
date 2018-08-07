@@ -1,8 +1,9 @@
 body {
 	margin: 0;
-	background: #fafafa;
+	background: #1a1a1a;
 	font-family: Open Sans, open_sans_truetype;
 	font-size: .9em;
+	color: #fafafa;
 } @font-face {
 	font-family: open_sans_truetype;
 	src: url(assets/OpenSans-Regular.ttf);
