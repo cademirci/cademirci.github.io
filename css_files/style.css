@@ -442,7 +442,8 @@ pre .line-number {
 	}
 	.article_window {
 		width: 100%;
-		margin-left: -10px;
+		margin-left: 0;
+		margin-right: 0;
 	}
 	.article_container {
 		display: block;
