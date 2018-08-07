@@ -199,22 +199,28 @@ p2 {
 /* article window */
 
 .article_window {
-	width: 42%;
+	width: 45%;
 	color: ghostwhite;
 	background-color: #222;
-    padding: 10px;
 	margin: 20px;
 	display: block;
-	float: left;
+}
+.ar_wi_desc {
+	padding: 10px;
 }
 .article_window h3 {
 	color: #fff;
 	margin-top: 0;
+	border: none;
 }
 .article_window img {
-	margin-top: 5px;
-	margin-bottom: 10px;
+	margin: 0 0 5px 0;
 	width: 100%;
+}
+.article_window a,
+.article_window a:visited {
+	text-decoration: none;
+	color: ghostwhite;
 }
 .article_button {
 	height: 35px;
