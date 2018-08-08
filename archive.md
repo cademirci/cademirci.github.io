@@ -19,7 +19,7 @@ title: Arşiv
 
 28.05.2018 [FOUT Sorunu](cs/fout-sorunu) *javascript, css*
 
-24.04.2018 [Javascript İle Space Impact](cs/javascript-ile-space-impact) *javascritp*
+24.04.2018 [Javascript İle Space Impact](cs/javascript-ile-space-impact) *javascript*
 
 **2017**
 
