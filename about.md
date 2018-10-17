@@ -11,11 +11,11 @@ title: Hakkımda
 ![image](images/me.PNG)
 
 ### Burası Neresi?
-Kişisel site. Kişisel blog sitesi, blog, Çağlayan Demirci’nin sanat, teknik ve düşünce ile ilgili yazılarını barındırığı web sayfası, sitesi, bloğu… Ben de tam emin değilim. Belli bir ismi yok. Çoğunlukla kişisel sitelerin bir ismi de olmaz zaten; insanlar ad ve soyadlarını site başlığı olarak yazarlar.
+Kişisel site. Kişisel blog sitesi, blog, Çağlayan Demirci’nin sanat, teknik ve düşünce ile ilgili yazılarını barındırığı web sayfası, sitesi, bloğu… Ben de tam emin değilim. Belli bir ismi yok. Çoğunlukla kişisel sitelerin bir ismi de olmaz zaten; insanlar ad ve soyadlarını site başlığı olarak yazarlar. Bu cümle şimdi eklendi.
 
-Çocukluğumdan beri, becerebildiğim çapta yazı yazmaktan hoşlanıyorum. Uzun süre Ekşi Sözlük’te yazdım, ancak orası, asırlık “Ekşi bozdu” muhabbetinden değil ama gerçekten ağız tadıyla yazı yazılacak durumdan çıktığı için, bir süredir kendime ait bir platformda kendi küçük dünyamı kurma planları yapıyordum. Öyle çok da sosyal medyacı bir tarafım olmadığından ve eskiden beri web sayfaları tasarlamayı sevdiğimden, bunu kendime ait ama son derece sade, okumaya hizmet eden bir blog sitesinde gerçekleştirmeye karar verdim. Lafın kısası, burayı başkalarının da faydalanabileceği **kişisel elektronik hafıza** olarak kullanacağım. 
+Çocukluğumdan beri, becerebildiğim çapta yazı yazmaktan hoşlanıyorum. Uzun süre Ekşi Sözlük’te yazdım, ancak orası, asırlık “Ekşi bozdu” muhabbetinden değil ama gerçekten ağız tadıyla yazı yazılacak durumdan çıktığı için, bir süredir kendime ait bir platformda kendi küçük dünyamı kurma planları yapıyordum. Öyle çok da sosyal medyacı bir tarafım olmadığından ve eskiden beri web sayfaları tasarlamayı sevdiğimden, bunu kendime ait ama son derece sade, okumaya hizmet eden bir blog sitesinde gerçekleştirmeye karar verdim. Lafın kısası, burayı başkalarının da faydalanabileceği **kişisel elektronik hafıza** olarak kullanacağım.
 
-Bir ara, bugün "Bazı yazılar, notlar, kişisel site..." yazan yerde "Hayat, Evren ve Her Şey" şeklinde, eloğlunun *catchphrase* dediği bir slogan kullanıyordum. O, Douglas Adams’ın yazdığı Otostopçu’nun Galaksi Rehberi (*The Hitchhiker’s Guide to the Galaxy*) adlı kitapta yer alan “Hayat, evren ve her şeye dair nihai sorunun cevabı 42’dir” kültüne göndermede bulunuyordu. Bunun eski hali "Hayat, Evren ve Her Şey'e Dair Nihai Kişisel Blog" idi. Bir zamanlar "Sanat, Teknik, Düşünce" sloganını da kullanmıştım. Bugünkü halinin de değişmeyeceğinin garantisini veremem. 
+Bir ara, bugün "Bazı yazılar, notlar, kişisel site..." yazan yerde "Hayat, Evren ve Her Şey" şeklinde, eloğlunun *catchphrase* dediği bir slogan kullanıyordum. O, Douglas Adams’ın yazdığı Otostopçu’nun Galaksi Rehberi (*The Hitchhiker’s Guide to the Galaxy*) adlı kitapta yer alan “Hayat, evren ve her şeye dair nihai sorunun cevabı 42’dir” kültüne göndermede bulunuyordu. Bunun eski hali "Hayat, Evren ve Her Şey'e Dair Nihai Kişisel Blog" idi. Bir zamanlar "Sanat, Teknik, Düşünce" sloganını da kullanmıştım. Bugünkü halinin de değişmeyeceğinin garantisini veremem.
 
 ### Site Hakkında
 
@@ -23,7 +23,7 @@ Sitenin temel yapısını HTML ve CSS ile oluşturdum. Teknik ve sanatsal donan�
 
 ![](https://caglayandemirci.github.io/images/siteicon2.2.png)
 
-Kar kristali öteden beri tasarım imzam gibi bir şeydi. Görsel tasarım uzmanı olmasam da, kendi çapımda yaptığım görsellerin ve tasarımların bir yerlerinde, altı kollu küçük yıldızlar şeklinde de olsa bu simgeyi kullanırım. Site ikonu olarak da yine dijital ortamda yaptığım bu resmi seçtim. 
+Kar kristali öteden beri tasarım imzam gibi bir şeydi. Görsel tasarım uzmanı olmasam da, kendi çapımda yaptığım görsellerin ve tasarımların bir yerlerinde, altı kollu küçük yıldızlar şeklinde de olsa bu simgeyi kullanırım. Site ikonu olarak da yine dijital ortamda yaptığım bu resmi seçtim.
 
 <style>
 #ab { box-shadow: 0 5px 5px rgb(0, 128, 64, 0.5)}
