@@ -110,7 +110,8 @@ p, .markdown-body p {
 	color: #00994d;
 	text-decoration: none;
 }
-.markdown-body a:hover {
+.markdown-body a:hover,
+.markdown-body a:hover:visited {
 	color: #28bd73;
 	text-decoration: none;
 } /**/
