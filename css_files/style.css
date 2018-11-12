@@ -60,6 +60,11 @@ p, .markdown-body p {
 	padding: 10px;
 	color: #333;
 }
+@media only screen and (max-width: 1250px) {
+	.markdown-body {
+		max-width: 85%;
+	}
+}
 .footer {
 	background: #1a1a1a;
 	color: #666;
