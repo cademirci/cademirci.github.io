@@ -5,16 +5,15 @@ title: Change Log
 
 #### Change Log
 
-25.11.2018 - Main page link added to top of subpage layout.
+25.11.2018 (3) - Main page link added to top of subpage layout.
 
-25.11.2018 - Website logo which is Snowflake in a Black Square reloacet on the header instead of simple black hexagon.
+25.11.2018 (2) - Website logo which is Snowflake in a Black Square relocated on the header instead of simple black hexagon.
 
 <div class="dir_zone">
 <img class="dir" src="../images/hexagon.png">
 <img class="dir" src="../images/siteicon2.2.png">
 </div>
-
-25.11.2018 - Old directory representation images made pixelation. New directory images have been drawned and added.
+25.11.2018 (1) - Old directory representation images made pixelation. New directory images have been drawned and added.
 
 <div class="dir_zone">
 <img class="dir" src="../images/dir_rar.png">
