@@ -55,7 +55,7 @@ pre {
 .dir_zone {
 	display: inline-block;
 	width: 100%;
-	text-align: right;
+	text-align: center;
 }
 .markdown-body img.dir { 
 	height: 100px; 
