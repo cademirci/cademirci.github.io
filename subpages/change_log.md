@@ -12,8 +12,8 @@ title: Change Log
 <div style="display: inline-block;
 			width: 100%;
 			text-align: center;">
-<img src="../images/hexagon.png" sytle="height: 50px;">
-<img src="../images/siteicon2.2.png" sytle="height: 50px;">
+<img class="icon" src="../images/hexagon.png">
+<img class="icon" src="../images/siteicon2.2.png">
 </div>
 
 25.11.2018 (1) - Old directory representation images made pixelation. New directory images have been drawned and added.
