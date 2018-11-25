@@ -9,7 +9,9 @@ title: Change Log
 
 25.11.2018 (2) - Website logo which is Snowflake in a Black Square relocated on the header instead of simple black hexagon.
 
-<div class="dir_zone">
+<div style="display: inline-block;
+			width: 100%;
+			text-align: center;">
 <img class="dir" src="../images/hexagon.png" sytle="height: 50px">
 <img class="dir" src="../images/siteicon2.2.png" sytle="height: 50px">
 </div>
