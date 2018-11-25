@@ -17,8 +17,7 @@ title: Change Log
 <img class="icon" src="../images/hexagon.png">
 <img class="icon" src="../images/siteicon2.2.png">
 </div>
-
-25.11.2018 (1) - Old directory representation images made pixelation. New directory images have been drawned and added.
+25.11.2018 (1) - Old directory representation images made pixelation. New directory images have been drawn and added.
 
 <div class="dir_zone">
 <img class="dir" src="../images/dir_rar.png">
