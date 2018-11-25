@@ -5,9 +5,11 @@ title: Change Log
 
 #### Change Log
 
+26.11.2018 - Computer science representation image is redrawn.
+
 25.11.2018 (3) - Main page link added to top of subpage layout.
 
-25.11.2018 (2) - Website logo which is Snowflake in a Black Square relocated on the header instead of simple black hexagon.
+25.11.2018 (2) - Website logo which is Snowflake in a Black Square relocated on top of the header instead of simple black hexagon.
 
 <div style="display: inline-block;
 			width: 100%;
