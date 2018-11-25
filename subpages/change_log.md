@@ -5,6 +5,8 @@ title: Change Log
 
 #### Change Log
 
+25.11.2018 - Main page link added to top of subpage.html layout.
+
 25.11.2018 - Website logo which is Snowflake in a Black Square reloacet on the header instead of simple black hexagon.
 
 <div class="dir_zone">
