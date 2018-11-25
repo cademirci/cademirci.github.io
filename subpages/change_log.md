@@ -13,6 +13,7 @@ title: Change Log
 <img class="dir" src="../images/hexagon.png" sytle="height: 50px">
 <img class="dir" src="../images/siteicon2.2.png" sytle="height: 50px">
 </div>
+
 25.11.2018 (1) - Old directory representation images made pixelation. New directory images have been drawned and added.
 
 <div class="dir_zone">
@@ -21,7 +22,6 @@ title: Change Log
 <img class="dir" src="../cs/dir_rar.png">
 <img class="dir" src="../cs/dir_targz.png">
 </div>
-
 20.11.2018 - Safari had ignored default Consolas font type in code blocks. So code blocks fonts supported by another .ttf file contains Source Code Pro Regular font. 
 
 ---
