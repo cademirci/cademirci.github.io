@@ -1,5 +1,6 @@
 ---
 layout: subpage
+title: Change Log
 ---
 
 #### Change Log
