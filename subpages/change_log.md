@@ -11,7 +11,6 @@ layout: subpage
 <div class="dir_zone">
 <img class="dir" src="../images/dir_rar.png">
 <img class="dir" src="../images/dir_targz.png">
-<img class="dir" src="dir_rar.png">
-<img class="dir" src="dir_targz.png">
+<img class="dir" src="../cs/dir_rar.png">
+<img class="dir" src="../cs/dir_targz.png">
 </div>
-
