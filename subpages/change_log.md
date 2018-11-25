@@ -4,8 +4,6 @@ layout: subpage
 
 #### Change Log
 
-20.11.2018 - Safari had ignored default Consolas font type in code blocks. So code blocks fonts supported by another .ttf file contains Source Code Pro Regular font. 
-
 25.11.2018 - Old directory representation images made pixelation. New directory images have been drawned and added.
 
 <div class="dir_zone">
@@ -14,3 +12,6 @@ layout: subpage
 <img class="dir" src="../cs/dir_rar.png">
 <img class="dir" src="../cs/dir_targz.png">
 </div>
+
+20.11.2018 - Safari had ignored default Consolas font type in code blocks. So code blocks fonts supported by another .ttf file contains Source Code Pro Regular font. 
+
