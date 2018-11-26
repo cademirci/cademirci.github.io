@@ -32,6 +32,13 @@ p, .markdown-body p {
 	max-width: 1000px;
 	margin: 20px auto;
 }
+.icon_img {
+	float: left; 
+	height: 50px; 
+	padding-right: 5px;
+	/* padding-left: 5px screen size under
+		1250px. Written in line 70s*/
+}
 /*
 .nav_bar {
 	display: inline-block;
@@ -63,6 +70,9 @@ p, .markdown-body p {
 @media only screen and (max-width: 1250px) {
 	.markdown-body {
 		max-width: 85%;
+	}
+	.icon_img {
+		padding-left: 5px;
 	}
 }
 .footer {
