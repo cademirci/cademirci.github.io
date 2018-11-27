@@ -13,7 +13,7 @@ title: Hakkımda
 
 Kişisel site. Blog. Kişisel blog; sanat, teknik ve düşünce içeriğindeki kimi konular hakkında yazacaklarımı paylaşacağım web sayfası. Belli bir ismi yok. Çoğunlukla kişisel sitelerin bir ismi de olmaz zaten; insanlar ad ve soyadlarını site başlığı olarak yazarlar. Burada önemli nokta, burasının bir doktorun internet tabanlı radevu merkezi ya da ayrıntılı bir LinkedIn hesabına benzer bir sektör adamı reklamı sitesinden çok, **yazarın kişisel elektronik hafıza** olarak kullanma amacıyla kurduğu bir sayfa olması.
 
-Eskiden beri yazı yazmaktan az çok hoşlandığımdan, uzun bir süre Ekşi Sözlük'te yazıp belli bir süreden sonra artık orayı kullanmamaya karar verdiğimden, öyle çok da sosyal medyacı bir tarafım olmayıp, bu işi kendime ait, her bir noktasını şekillendirebileceğim bağımsız bir sayfada yapmak bana daha fazla keyif vereceğinden, böyle bir sayfa kurma gereği duydum.
+Eskiden beri yazı yazmaktan az çok hoşlandığımdan, uzun bir süre Ekşi Sözlük'te yazıp belli bir süreden sonra artık orayı kullanmamaya karar verdiğimden, öyle çok da sosyal medyacı bir tarafım olmayıp, bu işi kendime ait, her bir noktasını şekillendirebileceğim bağımsız bir sayfada yapmak bana daha fazla keyif vereceğinden, böyle bir site kurma gereği duydum.
 
 ### Site Hakkında
 
