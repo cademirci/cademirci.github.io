@@ -4,27 +4,23 @@ title: Hakkımda
 ---
 
 ## Hakkımda
+
 ### Ben Kimim?
 
-Çağlayan Demirci. Rock müzikten ve diğer fantastik sanatlardan hoşlanan, yakında biteceği umuduyla bulunduğu üniversitede bilgisayar mühendisliği bölümü öğrencisi.
-
-![image](images/me.PNG)
+Çağlayan Demirci. Okulu uzatmış bir bilgisayar mühendisliği öğrencisi. 
 
 ### Burası Neresi?
-Kişisel site. Kişisel blog sitesi, blog, Çağlayan Demirci’nin sanat, teknik ve düşünce ile ilgili yazılarını barındırığı web sayfası, sitesi, bloğu… Ben de tam emin değilim. Belli bir ismi yok. Çoğunlukla kişisel sitelerin bir ismi de olmaz zaten; insanlar ad ve soyadlarını site başlığı olarak yazarlar.
 
-Çocukluğumdan beri, becerebildiğim çapta yazı yazmaktan hoşlanıyorum. Uzun süre Ekşi Sözlük’te yazdım, ancak orası, asırlık “Ekşi bozdu” muhabbetinden değil ama gerçekten ağız tadıyla yazı yazılacak durumdan çıktığı için, bir süredir kendime ait bir platformda kendi küçük dünyamı kurma planları yapıyordum. Öyle çok da sosyal medyacı bir tarafım olmadığından ve eskiden beri web sayfaları tasarlamayı sevdiğimden, bunu kendime ait ama son derece sade, okumaya hizmet eden bir blog sitesinde gerçekleştirmeye karar verdim. Lafın kısası, burayı başkalarının da faydalanabileceği **kişisel elektronik hafıza** olarak kullanacağım.
+Kişisel site. Blog. Kişisel blog; sanat, teknik ve düşünce içeriğindeki kimi konular hakkında yazacaklarımı paylaşacağım web sayfası. Belli bir ismi yok. Çoğunlukla kişisel sitelerin bir ismi de olmaz zaten; insanlar ad ve soyadlarını site başlığı olarak yazarlar. Burada önemli nokta, burasının bir doktorun internet tabanlı radevu merkezi ya da ayrıntılı bir LinkedIn hesabından çok, **yazarın kişisel elektronik hafıza** olarak kullanma amacıyla kurduğu bir sayfa olması.
 
-Bir ara, bugün "Bazı yazılar, notlar, kişisel site..." yazan yerde "Hayat, Evren ve Her Şey" şeklinde, eloğlunun *catchphrase* dediği bir slogan kullanıyordum. O, Douglas Adams’ın yazdığı Otostopçu’nun Galaksi Rehberi (*The Hitchhiker’s Guide to the Galaxy*) adlı kitapta yer alan “Hayat, evren ve her şeye dair nihai sorunun cevabı 42’dir” kültüne göndermede bulunuyordu. Bunun eski hali "Hayat, Evren ve Her Şey'e Dair Nihai Kişisel Blog" idi. Bir zamanlar "Sanat, Teknik, Düşünce" sloganını da kullanmıştım. Bugünkü halinin de değişmeyeceğinin garantisini veremem.
+Eskiden beri yazı yazmaktan az çok hoşlandığımdan, uzun bir süre Ekşi Sözlük'te yazıp belli bir süreden sonra artık orayı kullanmamaya karar verdiğimden, öyle çok da sosyal medyacı bir tarafım olmayıp, bu işi kendime ait, her bir noktasını şekillendirebileceğim bağımsız bir sayfada yapmak bana daha fazla keyif vereceğinden, böyle bir sayfa kurma gereği duydum.
 
 ### Site Hakkında
 
-Sitenin temel yapısını HTML ve CSS ile oluşturdum. Teknik ve sanatsal donanım; kodlama, tasarım, fikir, sayfaları işaret eden (ya da başka) minik ikon resimler (tabi ki sosyal medya logoları hariç), ufak Javascript programlama destekleri gibi her şey benim tarafımdan yazılmış/yapılmış ve bana aittir. Ancak işin güzel tarafı bunların hepsini fütursuzca kullanabilirsiniz. Yaptığım işleri, sayfanın en altında (footerda) görebileceğiniz şekilde GitHub Repository’mde kullanıma sundum. Sitenin **teknik kısmının** en ufak bir telif hakkı ya da ona benzer bir şeyi yoktur. Ayrıca sitede hiçbir zaman reklam görmeyeceksiniz.
+Sitenin temel yapısını HTML ve CSS ile, ücretsiz tema veya hazır şablon kullanmadan, sıfırdan tasarlayıp yapılandırdım. İşin server ve hosting kısmında [Jekyll](https://jekyllrb.com/) ve [GitHub Pages](https://pages.github.com/) kullandım. Bütün postlarım ve sayfalarım **Markdown** sayfa yapısı üzerinde yazılıp yayımlanmakta.
+
+Yaptığım bütün bu işleri, sayfanın en altında (footerda) görebileceğiniz şekilde GitHub Repository’mde kullanıma sundum. Sitenin **teknik kısmının** en ufak bir telif hakkı ya da ona benzer bir şeyi yoktur. Ayrıca sitede hiçbir zaman reklam görmeyeceksiniz.
 
 ![](https://caglayandemirci.github.io/images/siteicon2.2.png)
 
 Kar kristali öteden beri tasarım imzam gibi bir şeydi. Görsel tasarım uzmanı olmasam da, kendi çapımda yaptığım görsellerin ve tasarımların bir yerlerinde, altı kollu küçük yıldızlar şeklinde de olsa bu simgeyi kullanırım. Site ikonu olarak da yine dijital ortamda yaptığım bu resmi seçtim.
-
-<style>
-#ab { box-shadow: 0 5px 5px rgb(0, 128, 64, 0.5)}
-</style>
