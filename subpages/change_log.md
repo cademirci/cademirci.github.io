@@ -5,6 +5,8 @@ title: Change Log
 
 #### Change Log
 
+28.11.2018 Page **about.md** fully changed.
+
 26.11.2018 (2) - For screen size under 1250px, logo image padding-left fixed 5px.
 
 26.11.2018 (1) - Computer science representation image is redrawn and added.
