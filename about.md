@@ -17,7 +17,7 @@ Eskiden beri yazı yazmaktan az çok hoşlandığımdan, uzun bir süre Ekşi S�
 
 ### Site Hakkında
 
-Sitenin temel yapısını HTML ve CSS ile, ücretsiz tema veya hazır şablon kullanmadan, sıfırdan tasarlayıp yapılandırdım. İşin server ve hosting kısmında [Jekyll](https://jekyllrb.com/) ve [GitHub Pages](https://pages.github.com/) kullandım. Bütün gönderilerim ve sayfalarım **Markdown** sayfa yapısı üzerinde yazılıp yayımlanmakta.
+Sitenin temel yapısını HTML ve CSS ile, ücretsiz tema veya hazır şablon kullanmadan, sıfırdan tasarlayıp yapılandırdım. Tasarlarken, buranın olabildiğince sade olmasını amaçladım. İşin server ve hosting kısmında [Jekyll](https://jekyllrb.com/) ve [GitHub Pages](https://pages.github.com/) kullandım. Bütün gönderilerim ve sayfalarım **Markdown** sayfa yapısı üzerinde yazılıp yayımlanmakta.
 
 Yaptığım bütün bu işleri, sayfanın en altında (footerda) görebileceğiniz şekilde GitHub Repository’mde kullanıma sundum. Sitenin **teknik kısmının** en ufak bir telif hakkı ya da ona benzer bir şeyi yoktur. Ayrıca sitede hiçbir zaman reklam görmeyeceksiniz.
 
