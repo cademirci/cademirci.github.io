@@ -7,7 +7,7 @@ title: Hakkımda
 
 ### Ben Kimim?
 
-Çağlayan Demirci. Okulu uzatmış bir bilgisayar mühendisliği öğrencisi. 
+Çağlayan Demirci. Bilgisayar mühendisliği öğrencisi. 
 
 ### Burası Neresi?
 
