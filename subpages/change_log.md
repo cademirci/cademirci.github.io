@@ -5,7 +5,7 @@ title: Change Log
 
 #### Change Log
 
-02.12.2018 (2) - Facebook box is removed from the social media bar. Medium is located its place instead.
+02.12.2018 (2) - Facebook box is removed from the social media bar. Medium is located its place instead. Black box within Medium logo is drawn and added.
 
 02.12.2018 (1) - Secondary color, some tone of classical green #00994d, changed to #36b079 which is paler than the old one. In the same way, for Subpage layout, a paler blue secondary color is selected.
 
