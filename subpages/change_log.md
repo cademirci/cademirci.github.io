@@ -5,7 +5,9 @@ title: Change Log
 
 #### Change Log
 
-02.12.2018 - Secondary color, some tone of classical green #00994d, changed to #28bd73 which is paler than the old.
+02.12.2018 (2) - Facebook box removed from the social media bar.
+
+02.12.2018 (1) - Secondary color, some tone of classical green #00994d, changed to #28bd73 which is paler than the old.
 
 <div style="text-align: center;">
     <p style="color: #00994d;">old link &emsp; <span style="color: #28bd73">new link</span>
