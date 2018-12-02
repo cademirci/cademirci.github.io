@@ -7,7 +7,7 @@ title: Change Log
 
 02.12.2018 (2) - Facebook box removed from the social media bar. Medium located its place instead.
 
-02.12.2018 (1) - Secondary color, some tone of classical green #00994d, changed to #28bd73 which is paler than the old.
+02.12.2018 (1) - Secondary color, some tone of classical green #00994d, changed to #36b079 which is paler than the old.
 
 <div style="text-align: center;">
     <p style="color: #00994d;">old link &emsp; <span style="color: #36b079">new link</span>
