@@ -116,18 +116,18 @@ p, .markdown-body p {
 	color: #333;
 }
 .markdown-body h6 {
-	color: #00994d;
+	color: #36b079;
 	font-size: 24px;
 	text-align: center;
 }
 .markdown-body a,
 .markdown-body a:visited {
-	color: #2d9164;
+	color: #36b079;
 	text-decoration: none;
 }
 .markdown-body a:hover,
 .markdown-body a:hover:visited {
-	color: #28bd73;
+	color: #63cf9e;
 	text-decoration: none;
 } /**/
 /*00994d*/
