@@ -122,7 +122,7 @@ p, .markdown-body p {
 }
 .markdown-body a,
 .markdown-body a:visited {
-	color: #00994d;
+	color: #2d9164;
 	text-decoration: none;
 }
 .markdown-body a:hover,
@@ -130,7 +130,8 @@ p, .markdown-body p {
 	color: #28bd73;
 	text-decoration: none;
 } /**/
-/*#3269a2*/
+/*00994d*/
+/*3269a2*/
 /*6BB8E7*/
 .markdown-body h1 { font-size: 2.2em; }
 .markdown-body h2 {

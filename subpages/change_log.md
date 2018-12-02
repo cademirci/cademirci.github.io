@@ -5,7 +5,14 @@ title: Change Log
 
 #### Change Log
 
-28.11.2018 Page **about.md** fully changed.
+02.12.2018 - Secondary color some tone of classical green #00994d changed to #28bd73 which is paler than the old.
+
+<div style="text-align: center;">
+    <p style="color: #00994d;">old link &emsp; <span style="color: #28bd73">new link</span>
+    </p>
+</div>
+
+28.11.2018 - Page **about.md** fully changed.
 
 26.11.2018 (2) - For screen size under 1250px, logo image padding-left fixed 5px.
 
