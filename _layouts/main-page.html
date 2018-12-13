@@ -39,7 +39,14 @@
 		<div class="markdown_zone">
 			<!-- ! -->
 			<article class="markdown-body">
-			
+			<ul>
+			  {% for post in site.posts %}
+				<li>
+				  <a href="{{ post.url }}">{{ post.title }}</a>
+				</li>
+			  {% endfor %}
+			</ul>
+						
 				{{ content }}
 
 				<h2>Son Yazılar</h2>
