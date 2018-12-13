@@ -43,6 +43,7 @@
 			  {% for post in site.posts %}
 				<li>
 				  <a href="{{ post.url | replace: ‘.html’, ‘’}}">{{ post.title }}</a>
+				  <p>{{ post.date | date_to_string }}</p>
 				</li>
 			  {% endfor %}
 			</ul>
