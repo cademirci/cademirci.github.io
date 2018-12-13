@@ -5,6 +5,23 @@ title: Change Log
 
 #### Change Log
 
+13.12.2018 (2) - Page header name (Çağlayan Demirci) font style returned to regular weight from bold.
+
+13.12.2018 (1) - A new article representation design is tried. It was decided that it is not being used for now.
+
+<div class="article_representation"> <!-- ar.rep. -->
+    <div><img src="https://pbs.twimg.com/media/CcvcLQvW0AAlEtL.jpg"></div>
+    <div class="article_representation_text">
+        <a href="" style="font-size:1.5em;">Header of the Article</a>
+        <p style="font-size: 1em; margin-top: 5px;">
+            This is the explanation/introduction text part of the article representation division. Lorem ipsum dolor sit amet... 
+        </p>
+        <p class="article_representation_date">13.12.2018&ensp;&#9679;&ensp;
+            <span style="color: black; font-style: bold;">categories, subjects</span>
+        </p>
+    </div>
+</div> <!-- /ar.rep. -->
+
 02.12.2018 (2) - Facebook box is removed from the social media bar. Medium is located its place instead. Black box within Medium logo is drawn and added.
 
 02.12.2018 (1) - Secondary color, some tone of classical green #00994d, changed to #36b079 which is paler than the old one. In the same way, for Subpage layout, a paler blue secondary color is selected.

@@ -91,3 +91,38 @@ h1 {
 	color: #3269a2;
 	text-decoration: none;
 } 
+
+
+
+.article_representation {
+	border-bottom: 1px solid #999; 
+	justify-content: space-around; 
+	align-items: strech;
+	display: flex;
+	margin-bottom: 30px;
+}
+.article_representation_date {
+	padding-bottom: 20px; 
+	color: #666; 
+	font-size: 0.8em;
+}
+.article_representation_text {
+	padding-left: 20px; 
+	width: 66%;
+}
+.article_representation img {
+	max-width: 100%;
+	margin: 0;
+	display: block;
+	width: 300px;
+}
+@media only screen and (max-width: 750px) {
+	.article_representation img {
+		height: 0;
+		width: 0;
+	}
+	.article_representation_text {
+		padding-left: 20px; 
+		width: 100%;
+	}
+}
