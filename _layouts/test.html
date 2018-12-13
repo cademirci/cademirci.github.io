@@ -22,6 +22,16 @@
 			  }
 			})()
 		</script>
+		<style>
+			article {
+				-webkit-box-shadow: 0px 0px 27px -5px rgba(0,0,0,1);
+-moz-box-shadow: 0px 0px 27px -5px rgba(0,0,0,1);
+box-shadow: 0px 0px 27px -5px rgba(0,0,0,1);
+				background: #fbfbfb;
+				padding: 10px;
+			}
+
+		</style>
 	</head>
 	<body>
 		<div class="site_title"><img src="../images/siteicon2.2.png" class="icon_img">
@@ -54,10 +64,15 @@
 
 					  <p>{{ post.categories }}</p>
 					  <p>{{ post.tags }}</p>
-					  {{ post.tags | sort | join: ", " }} <br>
+					  {% if post.tags.size > 0 %}
+						{{ post.tags | sort | join: ", " }}
+					  {% endif %}<br>
 					
 				  {% endfor %}
-
+					
+					<br><br><br><br>
+					
+					{{ site.time }}
 				
 			
 			
