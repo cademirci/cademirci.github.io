@@ -54,6 +54,7 @@
 
 					  <p>{{ post.categories }}</p>
 					  <p>{{ post.tags }}</p>
+					  {{ post.tags | sort | join: ", " }} <br>
 					
 				  {% endfor %}
 
