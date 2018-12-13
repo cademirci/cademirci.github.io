@@ -40,7 +40,24 @@
 			<article class="markdown-body">
 				
 				
-				{{ content }}
+				{{ content }} <br>
+			
+				  {% for post in site.posts %}
+				  
+					  <a href="{{ post.url | remove: ‘.html’}}">{{ post.title }}</a>
+					  <p>{{ post.date | date:"%B %d, %Y" }}</p>
+					  <p>{{ post.excerpt }}</p>
+					  <p>{{ post.url }}</p>
+					  <p>{{ post.url | remove: 'es' }}</p>
+					  <p>{{ page.url }}</p>
+					  <p>{{ post.url | strip_html }}</p>
+
+					  <p>{{ post.categories }}</p>
+					  <p>{{ post.tags }}</p>
+					
+				  {% endfor %}
+
+				
 			
 			
 			</article>
