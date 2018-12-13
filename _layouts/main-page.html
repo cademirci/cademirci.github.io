@@ -48,6 +48,8 @@
 				  <p>{{ post.url }}</p>
 				  <p>{{ post.url | remove: 'es' }}</p>
 				  <p>{{ page.url }}</p>
+				  <p>{{ post.url | remove_first: ‘.html’}}</p>
+				  <p>{{ post.url | remove_first: ‘ml’}}</p>
 				  
 				</li>
 				
