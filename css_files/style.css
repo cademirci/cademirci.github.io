@@ -229,6 +229,12 @@ p2 {
 	padding-left: 20px; 
 	width: 66%;
 }
+.article_representation img {
+	max-width: 100%;
+	margin: 0;
+	display: block;
+	width: 300px;
+}
 @media only screen and (max-width: 750px) {
 	.article_representation img {
 		height: 0;
