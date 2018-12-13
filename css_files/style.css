@@ -213,6 +213,37 @@ p2 {
 	margin-top: 10px;
 }/**/
 
+
+.article_representation {
+	border-bottom: 1px solid #999; 
+	justify-content: space-around; 
+	align-items: strech;
+	display: flex;
+}
+.article_representation_date {
+	padding-bottom: 20px; 
+	color: #666; 
+	font-size: 0.8em;
+}
+.article_representation_text {
+	padding-left: 20px; 
+	width: 66%;
+}
+@media only screen and (max-width: 750px) {
+	.article_representation img {
+		height: 0;
+		width: 0;
+	}
+	.article_representation_text {
+		padding-left: 20px; 
+		width: 100%;
+	}
+}
+
+
+
+
+
 /* article window */
 
 .article_window {
