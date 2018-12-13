@@ -48,8 +48,9 @@
 				  <p>{{ post.url }}</p>
 				  <p>{{ post.url | remove: 'es' }}</p>
 				  <p>{{ page.url }}</p>
-				  <p>{{ post.url | remove_first: ‘.html’}}</p>
+				  <p>{{ post.url | strip_html }}</p>
 				  <p>{{ post.url | remove_first: ‘ml’}}</p>
+				  <p>{{ page.base_url }}</p>
 				  
 				</li>
 				
