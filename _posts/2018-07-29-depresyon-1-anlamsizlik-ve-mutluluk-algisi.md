@@ -6,6 +6,8 @@ tags: ['düşünce', 'psikoloji']
 
 Depresyon yazı dizisinin ilk kısmı: Depresyonu tanıma, acıyı kabullenme, mutluluk zorunluluğu algısı gibi kavramlar üzerine.
 
+<!--more-->
+
 [](https://i.pinimg.com/originals/7e/20/62/7e2062768c34783f5c4cd2f8409ebfea.jpg)
 
 29 Temmuz 2018 03:42 *düşünce, tecrübe*
