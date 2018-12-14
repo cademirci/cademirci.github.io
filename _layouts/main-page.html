@@ -61,7 +61,7 @@
 									{% if post.tags.size > 0 %}
 									    {% if post.tags.size > 1 %}
 								     		{{ post.tags | sort | join: ", " }}
-										{% else }
+										{% else %}
 											{{ post.tags }}
 										{% endif %}
 									{% endif %}
