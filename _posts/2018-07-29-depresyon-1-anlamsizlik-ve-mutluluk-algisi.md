@@ -2,7 +2,7 @@
 layout: post
 title: Depresyon Serisi 1
 tags: ['düşünce', 'psikoloji']
-excerp: Depresyon yazı dizisinin ilk kısmı: Depresyonu tanıma, acıyı kabullenme, mutluluk zorunluluğu algısı gibi kavramlar üzerine.
+excerp: depresyon yazı dizisinin ilk kısmı
 ---
 
 ![](https://i.pinimg.com/originals/7e/20/62/7e2062768c34783f5c4cd2f8409ebfea.jpg)
