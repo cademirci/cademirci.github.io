@@ -1,7 +1,8 @@
 ---
 title: The Algorithm
 layout: post
-tags: ['müzik, rock']
+tags: ['rock']
+excerp: Yeni nesil, bilgisayar teknolojisi temalı tek kişilik bir elektronik/metal projesi.
 ---
 
 20 Haziran 2018 23:48 *müzik, rock*

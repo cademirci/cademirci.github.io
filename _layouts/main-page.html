@@ -56,9 +56,15 @@
 					        <p style="font-size: 1em; margin-top: 5px;">
 					            {{ post.excerp }}
 					        </p>
-					        <p class="post_rep_date">{{ post.date |  }}&ensp;&#9679;&ensp;
+					        <p class="post_rep_date">{{ post.date | date: "%d.%m.%Y" }}&ensp;&#9679;&ensp;
 					            <span class="post_rep_tags">
-									categories, subjects
+									{% if post.tags.size > 0 %}
+									    {% if post.tags.size > 1 %}
+								     		{{ post.tags | sort | join: ", " }}
+										{% else }
+											{{ post.tags }}
+										{% endif %}
+									{% endif %}
 								</span>
 					        </p>
 					    </div>
