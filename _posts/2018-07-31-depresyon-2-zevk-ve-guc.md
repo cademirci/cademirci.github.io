@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Depresyon Serisi 2
+tags: ['düşünce', 'psikoloji']
 ---
 
 ![](../images/post_images/strongbm.png)

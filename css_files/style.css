@@ -214,6 +214,59 @@ p2 {
 }/**/
 
 
+
+
+.post_rep {
+	border-bottom: 1px solid #ccc;
+	justify-content: space-around;
+	align-items: strech;
+	display: flex;
+	margin-bottom: 50px;
+	padding-bottom: 35px;
+}
+.post_rep_img {
+	padding-bottom: 10px;
+}
+.post_rep_title {
+	font-size: 1.5em;
+}
+.post_rep_date {
+	padding-bottom: 20px;
+	color: #666;
+	font-size: 0.8em;
+}
+.post_rep_text {
+	padding-left: 20px;
+	width: 66%;
+}
+.post_rep img {
+	max-width: 100%;
+	margin: 0;
+	display: block;
+	width: 300px;
+}
+.post_rep_tags {
+	color: #0a0a0a;
+	font-style: bold;
+}
+@media only screen and (max-width: 750px) {
+	.post_rep img {
+		height: 0;
+		width: 0;
+	}
+	.post_rep_text {
+		padding-left: 20px;
+		width: 100%;
+	}
+}
+
+
+
+
+
+
+
+
 .article_representation {
 	border-bottom: 1px solid #999; 
 	justify-content: space-around; 

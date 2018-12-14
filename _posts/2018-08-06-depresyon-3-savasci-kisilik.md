@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Depresyon 3
+tags: ['düşünce', 'psikoloji']
 ---
 
 6 Ağustos 2018 01:17 *düşünce, tecrübe*

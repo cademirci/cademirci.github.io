@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Alternatif Dünya Özlemi
+tags: ['düşünce', 'rock']
 ---
 <p2>22.02.2017</p2>
 ## Alternatif Dünya Özlemi

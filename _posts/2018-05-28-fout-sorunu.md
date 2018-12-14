@@ -1,6 +1,7 @@
 ---
 layout: post
 title: FOUT Sorunu
+tags: ['bilgisayar bilimleri', 'javascript', 'css']
 ---
 
 ## FOUT Sorunu

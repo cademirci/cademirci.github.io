@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Electron Hakkında
+tags: ['bilgisayar bilimleri', 'javascript', 'electron']
 ---
 <p class="date">13.11.2017 01:32</p>
 ![](https://i.ytimg.com/vi/ojX5yz35v4M/maxresdefault.jpg)

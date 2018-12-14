@@ -1,6 +1,7 @@
 ---
 title: The Algorithm
 layout: post
+tags: ['müzik, rock']
 ---
 
 20 Haziran 2018 23:48 *müzik, rock*
