@@ -2,9 +2,12 @@
 layout: post
 title: Depresyon Serisi 2
 tags: ['düşünce', 'psikoloji']
+image: ../images/post_images/strongbm.png
 ---
 
 Depresyon yazı dizisinin ikinci kısmı: Güç kavramı, bende çağrıştırdıkları, zevk karşısındaki pozisyonu ve depresyon ile bağlantıları.
+
+<endexcerpt>
 
 ![](../images/post_images/strongbm.png)
 
