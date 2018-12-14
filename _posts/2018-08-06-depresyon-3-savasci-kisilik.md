@@ -2,8 +2,9 @@
 layout: post
 title: Depresyon 3
 tags: ['düşünce', 'psikoloji']
-excerp: Depresyon yazı dizisinin üçüncü ve son kısmı: Mücadele, onun araç mı karakter mi olduğu, depresyonun zayıflık olmadığı gibi kavramlar üzerine.
 ---
+
+Depresyon yazı dizisinin üçüncü ve son kısmı: Mücadele, onun araç mı karakter mi olduğu, depresyonun zayıflık olmadığı gibi kavramlar üzerine.
 
 6 Ağustos 2018 01:17 *düşünce, tecrübe*
 
