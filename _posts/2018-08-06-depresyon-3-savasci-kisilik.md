@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Depresyon 3
+title: Depresyon 3 - Savaşçı Kişilik
 tags: ['düşünce', 'psikoloji']
+image: https://cdn-images-1.medium.com/max/1280/1*_nJxs4ua47BzQJGrByoLhQ.jpeg
 ---
 
 Depresyon yazı dizisinin üçüncü ve son kısmı: Mücadele, onun araç mı karakter mi olduğu, depresyonun zayıflık olmadığı gibi kavramlar üzerine.

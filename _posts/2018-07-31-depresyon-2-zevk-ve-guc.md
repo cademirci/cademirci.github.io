@@ -9,7 +9,7 @@ Depresyon yazı dizisinin ikinci kısmı: Güç kavramı, bende çağrıştırd�
 
 test before the end excerpt.
 
-<endexcerpt>
+<!--more-->
 
 ![](../images/post_images/strongbm.png)
 
