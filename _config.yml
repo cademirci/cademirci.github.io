@@ -1,4 +1,4 @@
 encoding: UTF-8
 
 permalink: /:categories/:title
-excerp-seperator: <!--more-->
+excerp-seperator: <endexcerpt>
