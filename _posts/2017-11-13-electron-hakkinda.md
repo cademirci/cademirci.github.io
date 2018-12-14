@@ -2,8 +2,12 @@
 layout: post
 title: Electron Hakkında
 tags: ['bilgisayar bilimleri', 'javascript', 'electron']
+image: https://i.ytimg.com/vi/ojX5yz35v4M/maxresdefault.jpg
 ---
+HTML, CSS ve JS kullanarak masaüstü uygulamaları yapabilmeye yarayan bir platform.
+
 <p class="date">13.11.2017 01:32</p>
+
 ![](https://i.ytimg.com/vi/ojX5yz35v4M/maxresdefault.jpg)
 
 ## Electron Hakkında

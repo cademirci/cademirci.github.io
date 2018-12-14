@@ -2,9 +2,13 @@
 layout: post
 title: FOUT Sorunu
 tags: ['bilgisayar bilimleri', 'javascript', 'css']
+image: https://image.ibb.co/nEv7Sy/foutp.png
 ---
 
+Web tasarımı / web programlama ile ilgilenenler için teknik bir ayrıntı.
+
 ## FOUT Sorunu
+
 28.05.2018 21:36 -- *Javascript, CSS* --
 
 Web tasarımı/internet programlama biliminde, FOUT diye adlandırılan bir problem var. **Flash of Unstlyled Text** anlamına geliyor. 

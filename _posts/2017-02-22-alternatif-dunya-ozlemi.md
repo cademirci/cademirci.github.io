@@ -3,7 +3,10 @@ layout: post
 title: Alternatif Dünya Özlemi
 tags: ['düşünce', 'rock']
 ---
+Yıllar önce bir dergi/fanzin için yazdığım bir yazı. Bloğumun ilk yazısı olarak bunu buraya koyayım.
+
 <p2>22.02.2017</p2>
+
 ## Alternatif Dünya Özlemi
 
 İnsanlar olarak mutsuzuz. Depresyon ve stres, her geçen gün daha da büyüyen kara bir siluet gibi karşımızda yükseliyor. Bilincimizin her gün tekrar ve tekrar bu bunalımları mazeret göstererek gerçekleştiremediği hayallerin çöp yığınları altında eziliyoruz. Bütün bu zayiata iyi gelecekmiş gibi dört elle sarıldığımız dokunmatik ekranlardan da, beyaz yakalı yaşamın ne kadar güzel bir şey olduğuna ya da sizin kendi kişiliğinizin başka insanların değer yargıları süzgecinden geçirilmesinin ne kadar önemli olduğuna dair pompalanan safsatalardan başka bir şey yansımıyor. 
