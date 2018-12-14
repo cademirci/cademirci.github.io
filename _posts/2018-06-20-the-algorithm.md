@@ -2,8 +2,10 @@
 title: The Algorithm
 layout: post
 tags: ['rock']
-excerp: Yeni nesil, bilgisayar teknolojisi temalı tek kişilik bir elektronik/metal projesi.
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/The_Algorithm.jpg/1200px-The_Algorithm.jpg
 ---
+
+Yeni nesil, bilgisayar teknolojisi temalı tek kişilik bir elektronik/metal projesi.
 
 20 Haziran 2018 23:48 *müzik, rock*
 
