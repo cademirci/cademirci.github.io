@@ -237,13 +237,13 @@ p2 {
 }
 .post_rep_text {
 	padding-left: 20px;
-	width: 66%;
+	width: 75%;
 }
 .post_rep img {
 	max-width: 100%;
 	margin: 0;
 	display: block;
-	width: 300px;
+	width: 200px;
 }
 .post_rep_tags {
 	color: #0a0a0a;
