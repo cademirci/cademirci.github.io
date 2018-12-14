@@ -1,11 +1,13 @@
 ---
 layout: post
-title: Depresyon Serisi 2
+title: Depresyon 2 - Zevk ve Güç
 tags: ['düşünce', 'psikoloji']
 image: ../images/post_images/strongbm.png
 ---
 
 Depresyon yazı dizisinin ikinci kısmı: Güç kavramı, bende çağrıştırdıkları, zevk karşısındaki pozisyonu ve depresyon ile bağlantıları.
+
+test before the end excerpt.
 
 <endexcerpt>
 

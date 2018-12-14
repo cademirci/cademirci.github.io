@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Depresyon - 1: Anlamsızlık ve Mutluluk Algısı
+title: Depresyon 1 - Anlamsızlık ve Mutluluk Algısı
 tags: ['düşünce', 'psikoloji']
 image: https://i.pinimg.com/originals/7e/20/62/7e2062768c34783f5c4cd2f8409ebfea.jpg
 ---
