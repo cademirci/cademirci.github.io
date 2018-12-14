@@ -249,7 +249,7 @@ p2 {
 	color: #0a0a0a;
 	font-style: bold;
 }
-@media only screen and (max-width: 750px) {
+@media only screen and (max-width: 500px) {
 	.post_rep img {
 		height: 0;
 		width: 0;
