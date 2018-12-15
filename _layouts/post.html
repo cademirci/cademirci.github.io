@@ -12,17 +12,7 @@
 		<!--<style> body { font-size: 1em; } </style>-->
 	</head>
 	<body>
-		<div class="site_title"><img src="../images/siteicon2.2.png" class="icon_img">
-			Çağlayan Demirci<br><p style="font-size: 0.9em; color: rgb(150,150,150); margin-top: 0;">Bazı yazılar, notlar, kişisel site...</p>
-		</div>
-		<div class="header">
-			<div class="nav_bar">
-				<a class="tooltip" href="../index"><img src="../images/iconhp.png" id="hp"><span class="tooltiptext">Ana Sayfa</span></a>
-				<a class="tooltip" href="../about"><img src="../images/iconab.png" id="ab"><span class="tooltiptext">Hakkımda</span></a>
-				<a class="tooltip" href="../contact"><img src="../images/iconct.png" id="ct"><span class="tooltiptext">İletişim</span></a>
-				<a class="tooltip" href="../archive"><img src="../images/iconar.png" id="ar"><span class="tooltiptext">Arşiv</span></a>
-			</div>
-		</div>
+		{% include header.html %}
 		<div class="markdown_zone">
 			<!-- <div class="small_panel"><img src="../images/Untitled.png"></div> -->
 			<!-- ! CONTENT -->
@@ -39,19 +29,7 @@
 			</div>
 			<script async src="https://static.addtoany.com/menu/page.js"></script>
 			<!-- AddToAny END -->
-		<div class="footer">
-			<div class="social_media_bar">
-				<a href="https://www.instagram.com/cademirci/" target="_blank"><img src="../images/logoi.jpg"></a>
-				<a href="https://twitter.com/cademirci" target="_blank"><img src="../images/logot.jpg"></a>
-				<a href="https://medium.com/@cademirci" target="_blank"><img src="../images/logom.jpg"></a>
-				<!--<a href="https://www.facebook.com/caglayan.demirci.56" target="_blank"><img src="../images/logof.jpg"></a>-->
-				<a href="https://open.spotify.com/user/%C3%A7a%C4%9Flayan" target="_blank"><img src="../images/logos.jpg"></a>
-			</div>
-			<div class="bottom_signatures">
-				Proudly hosted by <b>GitHub</b>.<br>
-				I have published the whole <a href="https://github.com/caglayandemirci/caglayandemirci.github.io">design and coding</a>. Çağlayan Demirci. Ankara. 2017
-			</div>
-		</div>
+		{% include footer.html %}
 		<script>
 			$(document).ready(function(){
 				var width = $("#ytvideo").width();
