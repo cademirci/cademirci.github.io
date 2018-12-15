@@ -86,12 +86,15 @@
 				I have published the whole <a href="https://github.com/caglayandemirci/caglayandemirci.github.io">design and coding</a>. Çağlayan Demirci. Ankara. 2017
 			</div>
 		</div>
+		<style>
+			{% if page.title == 'İletişim' %}
+				#ct { box-shadow: 0 5px 5px rgb(0, 128, 64, 0.5) }
+			{% endif %}
+		</style>
 	</body>
 	<script>
 		$(document).ready(function(){
 			document.getElementById("hp").style.boxShadow = "0 5px 5px rgb(0, 128, 64, 0.5)";
 		});
 	</script>
-	<style>
-	</style>
 </html>
