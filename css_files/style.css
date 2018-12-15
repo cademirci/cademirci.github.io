@@ -99,9 +99,20 @@ p, .markdown-body p {
 	margin-left: 15%;
 	margin-top: 50px;
 }
-.footer img { height: 50px; width: 50px; border: }
+.footer img { height: 50px; width: 50px; }
 .footer img:hover {
 	box-shadow: 0 3px 1px rgb(125, 125, 125, 0.3);
+}
+@media only screen and (max-width: 1450px) {
+	.footer .social_media_bar {
+		float: right;
+		margin-right: 10px;
+	}
+	.footer .bottom_signatures {
+		float: left;
+		margin-left: 10px;
+		margin-top: 50px;
+	}
 }/**/
 
 /* #4dcb82
