@@ -1,8 +1,12 @@
 ---
 layout: post
 title: Javascript ile Space Impact
+image: ../cs/jssi.png
 ---
+Çok ayrıntıya girmeden, temel dinamikler kullanılarak yazılmış bir Javascript alıştırması. 
+
 <p2>24.04.2018 2:36</p2>
+
 ## Javascript ile Space Impact
 
 Snake, Space Impact gibi oyunlar, 1990'ların en popüler oyunlarındandı. Artık bu tip oyunlar hayatımızda oynanmak için değil, kodları yazılarak programlama becerisi geliştirmek, alıştırma yapmak amacıyla var oluyorlar.
@@ -13,12 +17,13 @@ Oyunu oynayabilmek ve/veya HTML ve CSS kodlarıyla beraber inceleyebilmek için 
 
 <div class="dir_zone">
 <a href="https://github.com/caglayandemirci/caglayandemirci.github.io/raw/master/cs/JS_Space_Impact.rar">
-<img class="dir" src="dir_rar.png">
+<img class="dir" src="../cs/dir_rar.png">
 </a>
 <a href="https://github.com/caglayandemirci/caglayandemirci.github.io/raw/master/cs/JS_Space_Impact.tar.gz">
-<img class="dir" src="dir_targz.png">
+<img class="dir" src="../cs/dir_targz.png">
 </a>
 </div>
+
 
 Bu JS kodu son derece temel düzeyde ve geliştirmeye açık. Düşman sayıları ve şekilleri arttırılabilir, bir start/reset butonu koyulabilir, farklı ateş şekillerine çalışılabilir, farklı değişkenler de eklenerek oyun daha sayısal dinamik hale getirilebilir, vesaire...
 
