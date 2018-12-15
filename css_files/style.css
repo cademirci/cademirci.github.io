@@ -17,13 +17,13 @@ body {
 p, .markdown-body p {
 	font-family: Open Sans, caglayandemirci_Open-Sans;
 }
-.header img {
+.nav_bar_zone img {
 	height: 64px;
 	border: 1px solid #999;
 	display: inline-block;
 	margin: 35px 10px;
 }
-.header {
+.nav_bar_zone {
 	text-align: center;
 	padding-top: 50px;
 }
