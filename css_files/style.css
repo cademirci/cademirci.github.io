@@ -99,7 +99,11 @@ p, .markdown-body p {
 	margin-left: 15%;
 	margin-top: 50px;
 }
-.footer img { height: 50px; width: 50px; }
+.footer img { 
+	height: 50px; 
+	width: 50px; 
+	border: 1px solid #363636;
+}
 .footer img:hover {
 	box-shadow: 0 3px 1px rgb(125, 125, 125, 0.3);
 }
