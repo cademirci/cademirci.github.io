@@ -50,6 +50,7 @@ p, .markdown-body p {
 	font-family: OSlight;
 	color: #666;
 	margin-top: -10px;
+	font-style: italic;
 } @font-face {
 	font-family: OSLight;
 	src: url(Open-Sans/OpenSans-Light.ttf);
