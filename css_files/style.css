@@ -39,20 +39,20 @@ p, .markdown-body p {
 	/* padding-left: 5px screen size under
 		1250px. Written in line 70s*/
 }
-.site_title,
-.site_catchphrase {
-	font-family: SourceCode;
-}
+
 .site_title {
 	font-size: 1.05em;
-	font-family: SourceCode;
+	font-family: OSLight;
 	font-weight: bold;
 }
 .site_catchphrase {
 	font-size: 0.95em;
-	font-family: SourceCode;
+	font-family: OSlight;
 	color: #666;
 	margin-top: -10px;
+} @font-face {
+	font-family: OSLight;
+	src: url(Open-Sans/OpenSans-Light.ttf);
 }
 .logo_image {
 	height: 60px;
@@ -61,7 +61,7 @@ p, .markdown-body p {
 	margin-left: 15%;
 	padding-right: 5px;
 }
-@media only screen and (max-width: 1250px) {
+@media only screen and (max-width: 1450px) {
 	.logo_image {
 		margin-left: 10px; 
 	}
