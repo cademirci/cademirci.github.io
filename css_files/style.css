@@ -105,10 +105,10 @@ p, .markdown-body p {
 }
 @media only screen and (max-width: 1450px) {
 	.footer .social_media_bar { 
-		margin-right: 100px; 
+		margin-right: 10px; 
 	}
 	.footer .bottom_signatures { 
-		margin-left: 100px; 
+		margin-left: 10px; 
 	}
 }
 /**/
