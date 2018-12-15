@@ -103,14 +103,11 @@ p, .markdown-body p {
 .footer img:hover {
 	box-shadow: 0 3px 1px rgb(125, 125, 125, 0.3);
 }
-@media only screen and (max-width: 1500px) {
+@media only screen and (max-width: 1450px) {
 	.footer .social_media_bar { margin-right: 100px; }
 	.footer .bottom_signatures { margin-left: 100px; }
 }
-@media only screen and (max-width: 800px) {
-	.footer .social_media_bar { margin-right: 10px; }
-	.footer .bottom_signatures { margin-left: 10px; }
-}/**/
+/**/
 
 /* #4dcb82
 /* theme */
