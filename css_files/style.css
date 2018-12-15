@@ -46,9 +46,11 @@ p, .markdown-body p {
 .site_title {
 	font-size: 1.05em;
 	font-family: SourceCode;
+	font-weight: bold;
 }
 .site_catchphrase {
 	font-size: 0.95em;
+	font-family: SourceCode;
 	color: #666;
 	margin-top: -10px;
 }
