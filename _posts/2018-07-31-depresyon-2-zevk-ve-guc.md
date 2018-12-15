@@ -5,9 +5,7 @@ tags: ['düşünce', 'psikoloji']
 image: ../images/post_images/strongbm.png
 ---
 
-###### Depresyon yazı dizisinin ikinci kısmı: Güç kavramı, bende çağrıştırdıkları, zevk karşısındaki pozisyonu ve depresyon ile bağlantıları.
-
-**Depresyon yazı dizisinin ikinci kısmı: Güç kavramı, bende çağrıştırdıkları, zevk karşısındaki pozisyonu ve depresyon ile bağlantıları.**
+Depresyon yazı dizisinin ikinci kısmı: Güç kavramı, bende çağrıştırdıkları, zevk karşısındaki pozisyonu ve depresyon ile bağlantıları.
 
 ![](../images/post_images/strongbm.png)
 
