@@ -104,8 +104,12 @@ p, .markdown-body p {
 	box-shadow: 0 3px 1px rgb(125, 125, 125, 0.3);
 }
 @media only screen and (max-width: 1450px) {
-	.footer .social_media_bar { margin-right: 100px; }
-	.footer .bottom_signatures { margin-left: 100px; }
+	.footer .social_media_bar { 
+		margin-right: 100px; 
+	}
+	.footer .bottom_signatures { 
+		margin-left: 100px; 
+	}
 }
 /**/
 
