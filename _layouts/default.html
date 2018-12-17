@@ -1,28 +1,6 @@
 <!DOCTYPE html>
 <html>
-	<head>
-		<meta charset="UTF-8">
-		<meta content='width=device-width, initial-scale=1' name='viewport'/>
-		<meta content='Çağlayan Demirci' name='Description'/>
-		<title>{{ page.title }}</title>
-		<link rel="stylesheet" type="text/css" href="../css_files/style.css">
-		<link rel="stylesheet" type="text/css" href="../css_files/tomorrow-night.css">
-		<link rel="icon" href="../images/siteicon2.3.jpg">
-		<script>
-			(function(){
-			  // if firefox 3.5+, hide content till load (or 3 seconds) to prevent FOUT
-			  var d = document, e = d.documentElement, s = d.createElement('style');
-			  if (e.style.MozTransform === ''){ // gecko 1.9.1 inference
-				s.textContent = 'body{visibility:hidden}';
-				var r = document.getElementsByTagName('script')[0];
-				r.parentNode.insertBefore(s, r);
-				function f(){ s.parentNode && s.parentNode.removeChild(s); }
-				addEventListener('load',f,false);
-				setTimeout(f,3000);
-			  }
-			})()
-		</script>
-	</head>
+	{% include head.html %}
 	<body>
 		{% include header.html %}
 		<div class="markdown_zone">

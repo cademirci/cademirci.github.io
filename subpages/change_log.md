@@ -8,10 +8,10 @@ title: Change Log
 16.12.2018 - In December 14, 15 and 16, a lot of things changed. It is almost the whole web page was rebuilt.
 
 - `articles` directory removed. `_posts` directory is created and all the articles moved here. 
-- main-page.html structure is rewritten via `Liquid`programming powered by Jekyll. 
-- `_includes` directory is created. header.html and footer.html are separately written and put here. they are removed from main-page.html, post.html and default.html. 
-- website logo redesigned.
-- header-footer margins fixed due to move synchronously.
+- main-page.html structure is rewritten via `Liquid` programming powered by Jekyll. 
+- `_includes` directory is created. header.html and footer.html are separately written and put here. They are removed from main-page.html, post.html and default.html. 
+- Website logo redesigned.
+- Header-footer margins fixed due to move synchronously.
 
 13.12.2018 (2) - Page header name (Çağlayan Demirci) font style returned to regular weight from bold.
 
