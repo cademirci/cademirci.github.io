@@ -1,96 +1,19 @@
 <!DOCTYPE html>
 <html>
-	<head>
-		<meta charset="UTF-8">
-		<meta content='width=device-width, initial-scale=1' name='viewport'/>
-		<meta content='Çağlayan Demirci' name='Description'/>
-		<title>{{ page.title }}</title>
-		<link rel="stylesheet" type="text/css" href="../css_files/style.css">
-		<link rel="stylesheet" type="text/css" href="../css_files/tomorrow-night.css">
-		<link rel="icon" href="../images/siteicon2.3.jpg">
-		<script>
-			(function(){
-			  // if firefox 3.5+, hide content till load (or 3 seconds) to prevent FOUT
-			  var d = document, e = d.documentElement, s = d.createElement('style');
-			  if (e.style.MozTransform === ''){ // gecko 1.9.1 inference
-				s.textContent = 'body{visibility:hidden}';
-				var r = document.getElementsByTagName('script')[0];
-				r.parentNode.insertBefore(s, r);
-				function f(){ s.parentNode && s.parentNode.removeChild(s); }
-				addEventListener('load',f,false);
-				setTimeout(f,3000);
-			  }
-			})()
-		</script>
-		<style>
-			article {
-				-webkit-box-shadow: 0px 0px 27px -5px rgba(0,0,0,1);
-				-moz-box-shadow: 0px 0px 27px -5px rgba(0,0,0,1);
-				box-shadow: 0px 0px 27px -5px rgba(0,0,0,1);
-				background: #fbfbfb;
-				padding: 10px;
-			}
-
-		</style>
-	</head>
+	{% include head.html %}
 	<body>
-		<div class="site_title"><img src="../images/siteicon2.2.png" class="icon_img">
-			Çağlayan Demirci<br><p style="font-size: 0.9em; color: rgb(150,150,150); margin-top: 0;">Bazı yazılar, notlar, kişisel site...</p>
-		</div>
-		<div class="header">
-			<div class="nav_bar">
-				<a class="tooltip" href="../index"><img src="../images/iconhp.png" id="hp"><span class="tooltiptext">Ana Sayfa</span></a>
-				<a class="tooltip" href="../about"><img src="../images/iconab.png" id="ab"><span class="tooltiptext">Hakkımda</span></a>
-				<a class="tooltip" href="../contact"><img src="../images/iconct.png" id="ct"><span class="tooltiptext">İletişim</span></a>
-				<a class="tooltip" href="../archive"><img src="../images/iconar.png" id="ar"><span class="tooltiptext">Arşiv</span></a>
-			</div>
-		</div>
+		{% include header.html %}
 		<div class="markdown_zone">
 			<!-- ! -->
 			<article class="markdown-body">
 				
-				
-				{{ content }} <br>
-			
-				  {% for post in site.posts %}
-				  
-					  <a href="{{ post.url | remove: ‘.html’}}">{{ post.title }}</a>
-					  <p>{{ post.date | date:"%B %d, %Y" }}</p>
-					  <p>{{ post.excerpt }}</p>
-					  <p>{{ post.url }}</p>
-					  <p>{{ post.url | remove: 'es' }}</p>
-					  <p>{{ page.url }}</p>
-					  <p>{{ post.url | strip_html }}</p>
-
-					  <p>{{ post.categories }}</p>
-					  <p>{{ post.tags }}</p>
-					  {% if post.tags.size > 0 %}
-						{{ post.tags | sort | join: ", " }}
-					  {% endif %}<br>
-					
-				  {% endfor %}
-					
-					<br><br><br><br>
-					
-					{{ site.time }} <br><br><br>
-					{{ site.posts }}
-			
+				{{ content }}
 			
 			</article>
 			<!-- ! -->
 		</div>
-		<div class="footer">
-			<div class="social_media_bar">
-				<a href="https://www.instagram.com/cademirci/" target="_blank"><img src="../images/logoi.jpg"></a>
-				<a href="https://twitter.com/cademirci" target="_blank"><img src="../images/logot.jpg"></a>
-				<a href="https://medium.com/@cademirci" target="_blank"><img src="../images/logom.jpg"></a>
-				<!--<a href="https://www.facebook.com/caglayan.demirci.56" target="_blank"><img src="../images/logof.jpg"></a>-->
-				<a href="https://open.spotify.com/user/%C3%A7a%C4%9Flayan" target="_blank"><img src="../images/logos.jpg"></a>
-			</div>
-			<div class="bottom_signatures">
-				Proudly hosted by <b>GitHub</b>.<br>
-				I have published the whole <a href="https://github.com/caglayandemirci/caglayandemirci.github.io">design and coding</a>. Çağlayan Demirci. Ankara. 2017
-			</div>
-		</div>
+		{% include footer.html %}
 	</body>
 </html>
+			
+			
