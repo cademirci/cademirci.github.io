@@ -5,7 +5,9 @@ title: Change Log
 
 #### Change Log
 
-27.12.2018 - New post added. [Jekyll 2](http://caglayandemirci.com/jekyll-2)
+27.12.2018 (1) - List (`ul`, `ol`) elements (`li`) padding-bottom is fixed 10px.
+
+27.12.2018 (1) - New post added. [Jekyll 2](http://caglayandemirci.com/jekyll-2)
 
 22.12.2018 - New post added. [Jekyll 1](http://caglayandemirci.com/jekyll-1)
 
