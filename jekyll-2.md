@@ -9,7 +9,7 @@ Bir Jekyll sitesi kurmanın aşamaları, gerek Jekyll'in [kendi sayfasında](htt
 
 Jekyll sitenizi kurduğunuzda, hiçbir oynama yapmadığınız siteniz içinde şunlarla yüklenir (sizin için Linux'ta tekrar yükleyip ekran alıntısı aldım):
 
-![](../caglayandemirci.github.io/images/post_images/default_jekyll.png)
+![](../caglayandemirci.github.io/images/post_images/default_jekyll.PNG)
 
 Tabiki bütün bu klasörler ve içindeki dosyların bir fonksiyonu, işe yaradığı bir nokta var. Ama, meseleyi biraz daha basitleştirmek adına, ben bu yazı için temel dosyaları gösterecek şekilde bir tablo hazırladım. Sitenizde bunlar olduğu takdirde, web sayfanız çalışır. Hatta, daha fazlasını yapmasanız bile gayet profesyonel görünümlü ve iyi çalışan bir siteye sahip olabilirsiniz.
 
