@@ -19,9 +19,9 @@ Tabiki bütün bu klasörler ve içindeki dosyların bir fonksiyonu, işe yarad�
 
 Jekyll sayesinde, sitenizdeki HTML sayfalarının içinde Ruby ile yazılmış bir şablon dili (*template language*) olan Liquid ile programlama yapabilirsiniz. 
 
-**`_includes`** ve **`{% include %}`**:
+**`_includes`** ve **`{ % include % }`**:
 
-`_includes`klasörünüzün içinde, temelde header ve footer, isterseniz de bin türlü başka sayfa parçanızı barındırabilirsiniz. Bunlar .html dosyaları olmalıdır. Liquid ile, herhangi bir sayfanın içinde bu sayfa parçalarını `{% include ... %}`syntaxıyla kullanabilirsiniz. Örneğin:
+`_includes`klasörünüzün içinde, temelde header ve footer, isterseniz de bin türlü başka sayfa parçanızı barındırabilirsiniz. Bunlar .html dosyaları olmalıdır. Liquid ile, herhangi bir sayfanın içinde bu sayfa parçalarını `{ % include ... % }`syntaxıyla kullanabilirsiniz. Örneğin:
 
 ```html
 <html>
