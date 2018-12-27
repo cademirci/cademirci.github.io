@@ -17,6 +17,8 @@ Tabiki bütün bu klasörler ve içindeki dosyların bir fonksiyonu, işe yarad�
 
 ### Liquid
 
+**Uyarı**: *Liquid, syntaxı gereği, iki adet açıp kapatılmış blok parantezi arasındaki değerleri ve bir { ve bir % ile açıp kapatılmış blokların içindeki işlemleri okur. Bu belgede onları { { } } ve { % % } şeklinde göstermek zorunda kaldım, aksi takdirde üzerinde bulunduğum Markdown sayfası bunları programlama çabası olarak algılayarak hata veriyor. Uyarım şudur ki, siz boşluk koymadan yazmalısınız... Evet, `code`bloklarının içine yazdığımda bile böyle saçma bir reaksiyon aldığım için GitHub Pages'e kırgınım.* 
+
 Jekyll sayesinde, sitenizdeki HTML sayfalarının içinde Ruby ile yazılmış bir şablon dili (*template language*) olan Liquid ile programlama yapabilirsiniz. 
 
 **`_includes`** ve **`{ % include % }`**:
