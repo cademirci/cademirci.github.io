@@ -272,8 +272,7 @@ th, td,
   text-align: left;
 }
 
-.highlighter-rouge,
-code .highlighter-rouge {
+.highlighter-rouge {
 	padding: 3px;
 	border: none;
 	background-color: rgb(225,245,225);
