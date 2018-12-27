@@ -17,7 +17,7 @@ Tabiki bütün bu klasörler ve içindeki dosyların bir fonksiyonu, işe yarad�
 
 ### Liquid
 
-Jekyll sayesinde, sitenizdeki HTML sayfalarının içinde Ruby ile yazılmış bir şablon dili (*template language*) olan Liquid ile programlama yapabilirsiniz. Bu dil, `{{ }}` ya da `{yüzdeisareti yüzdeisareti}` içinde yer alan değer ve komutları okuyarak çalışır. (Yüzde işaretlerini koyduğumda üzerinde bulunduğum Markdown sayfası bunu bir programlama başlangıcı olarak algıladığından sözle ifade etme gereği duydum)
+Jekyll sayesinde, sitenizdeki HTML sayfalarının içinde Ruby ile yazılmış bir şablon dili (*template language*) olan Liquid ile programlama yapabilirsiniz. 
 
 **`_includes`** ve **`{% include %}`**:
 
