@@ -9,7 +9,7 @@ Bir Jekyll sitesi kurmanın aşamaları, gerek Jekyll'in [kendi sayfasında](htt
 
 Jekyll sitenizi kurduğunuzda, hiçbir oynama yapmadığınız siteniz içinde şunlarla yüklenir (sizin için Linux'ta tekrar yükleyip ekran alıntısı aldım):
 
-![](images/post_images/default_jekyll.png)
+![](../caglayandemirci.github.io/images/post_images/default_jekyll.png)
 
 Tabiki bütün bu klasörler ve içindeki dosyların bir fonksiyonu, işe yaradığı bir nokta var. Ama, meseleyi biraz daha basitleştirmek adına, ben bu yazı için temel dosyaları gösterecek şekilde bir tablo hazırladım. Sitenizde bunlar olduğu takdirde, web sayfanız çalışır. Hatta, daha fazlasını yapmasanız bile gayet profesyonel görünümlü ve iyi çalışan bir siteye sahip olabilirsiniz.
 
@@ -25,11 +25,11 @@ Jekyll sayesinde, sitenizdeki HTML sayfalarının içinde Ruby ile yazılmış b
 
 ```html
 <html>
-    {% include head.html %}
+    { % include head.html % }
     <body>
-        {% include header.html %}
+        { % include header.html % }
 
-        {% include footer.html %}
+        { % include footer.html % }
     </body>
 </html>
 ```
@@ -41,20 +41,20 @@ Sırada, içinde içeriklerinizin de görüntüleneceği ve böylece sitenizin y
 ```html
 <html>
     <head>
-        <title>{{ page.title }}</title>
+        <title>{ { page.title } }</title>
     </head>
-    {% include head.html %}
+    { % include head.html % }
     <body>
-        {% include header.html %}
+        { % include header.html % }
 
-        	{{ content }}
+        	{ { content } }
 
-        {% include footer.html %}
+        { % include footer.html % }
     </body>
 </html>
 ```
 
-Bu, bir `post.hmtl` layout'u için uygun bir örnek. Bu sayfa, sitenizi yayına koyduğunuzda Markdown dosyanızın içine yazdığınız bütün içeriği alıp `{{ content }}` 'in yerine koyacak. Bunun ne demek olduğunu son Liquid örneğimden sonra açıklayacağım.
+Bu, bir `post.hmtl` layout'u için uygun bir örnek. Bu sayfa, sitenizi yayına koyduğunuzda Markdown dosyanızın içine yazdığınız bütün içeriği alıp `{ { content } }` 'in yerine koyacak. Bunun ne demek olduğunu son Liquid örneğimden sonra açıklayacağım.
 
 `index.html`:
 
@@ -63,26 +63,26 @@ Burası, sitenizin anasayfasıdır. Domain adınızı aldığınızda, ya da alm
 ```html
 <html>
     <head>
-        <title>{{ page.title }}</title>
+        <title>{ { page.title } }</title>
     </head>
-    {% include head.html %}
+    { % include head.html % }
     <body>
-        {% include header.html %}
+        { % include header.html % }
 
-        {% for post in site.posts %}
-        	<h4>{{ post.title }}</h4>
-        	{{ post.excerpt }}
-        	{{ post.date | date: "%d.%m.%Y" }}
-        	{% if post.tags.size > 0 %}
-        		{% if post.tags.size > 1 %}
-        			{{ post.tags | sort | join: ", " }}
-        		{% else %}
-        			{{ post.tags }}
-        		{% endif %}
-        	{% endif %}
-        {% endfor %}
+        { % for post in site.posts % }
+        	<h4>{ { post.title } }</h4>
+        	{ { post.excerpt } }
+        	{ { post.date | date: "%d.%m.%Y" } }
+        	{ % if post.tags.size > 0 % }
+        		{ % if post.tags.size > 1 % }
+        			{ { post.tags | sort | join: ", " } }
+        		{ % else % }
+        			{ { post.tags } }
+        		{ % endif % }
+        	{ % endif % }
+        { % endfor % }
 
-        {% include footer.html %}
+        { % include footer.html % }
     </body>
 </html>
 ```
@@ -90,5 +90,3 @@ Burası, sitenizin anasayfasıdır. Domain adınızı aldığınızda, ya da alm
 Böyle bir kod sonucunda, artık anasayfanızda, bugüne kadar post ettiğiniz bütün yazılarınız yeniden eskiye; kısa özetleri, tarihleri ve tag'leri ile birlikte yayınlanırlar. Tabii bu kod parçasını çok temel tuttum, HTML ve CSS özelliklerini hiç yazmadım. Bunlar istenildiği gibi oynanıp şekillenebilirler. İsterseniz, bu sitenin footer'ında, bütün tasarım ve kodlamayı yayımladığımı söylediğim kısma gidip benim sayfalarımın nasıl yazıldığına bakabilirsiniz. Buna yakındırlar.
 
 Includes ve Layouts klasörlerindeki HTML dosylarının ve index'in içinde Liquid programlayarak sitemizin en temel yapısını oluşturduk. Bu üç örnek, bir başlangıç olabilir.
-
-contin
