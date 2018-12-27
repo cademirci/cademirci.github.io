@@ -259,7 +259,13 @@ p2 {
 }/**/
 
 
-
+table, th, td {
+  border: 1px solid #36b079;
+}
+th, td {
+  padding: 10px;
+  text-align: left;
+}
 
 .post_rep {
 	border-bottom: 1px solid #ccc;
