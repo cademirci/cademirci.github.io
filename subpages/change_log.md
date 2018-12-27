@@ -5,6 +5,10 @@ title: Change Log
 
 #### Change Log
 
+27.12.2018 - New post added. [Jekyll 2](http://caglayandemirci.com/jekyll-2)
+
+22.12.2018 - New post added. [Jekyll 1](http://caglayandemirci.com/jekyll-1)
+
 16.12.2018 - In December 14, 15 and 16, a lot of things changed. It is almost the whole web page was rebuilt.
 
 - `articles` directory removed. `_posts` directory is created and all the articles moved here. 
