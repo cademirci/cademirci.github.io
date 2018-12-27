@@ -17,9 +17,9 @@ Tabiki bütün bu klasörler ve içindeki dosyların bir fonksiyonu, işe yarad�
 
 ### Liquid
 
-Jekyll sayesinde, sitenizdeki HTML sayfalarının içinde Ruby ile yazılmış bir şablon dili (*template language*) olan Liquid ile programlama yapabilirsiniz. Bu dil, `{{ }}` ya da `{% %}` içinde yer alan değer ve komutları okuyarak çalışır. 
+Jekyll sayesinde, sitenizdeki HTML sayfalarının içinde Ruby ile yazılmış bir şablon dili (*template language*) olan Liquid ile programlama yapabilirsiniz. Bu dil, `{{ }}` ya da `{yüzdeisareti yüzdeisareti}` içinde yer alan değer ve komutları okuyarak çalışır. (Yüzde işaretlerini koyduğumda üzerinde bulunduğum Markdown sayfası bunu bir programlama başlangıcı olarak algıladığından sözle ifade etme gereği duydum)
 
-**`_includes`** ve **`{% include %}`**: 
+**`_includes`** ve **`{% include %}`**:
 
 `_includes`klasörünüzün içinde, temelde header ve footer, isterseniz de bin türlü başka sayfa parçanızı barındırabilirsiniz. Bunlar .html dosyaları olmalıdır. Liquid ile, herhangi bir sayfanın içinde bu sayfa parçalarını `{% include ... %}`syntaxıyla kullanabilirsiniz. Örneğin:
 
@@ -36,7 +36,7 @@ Jekyll sayesinde, sitenizdeki HTML sayfalarının içinde Ruby ile yazılmış b
 
 **`_layouts`**:
 
-Sırada, içinde içeriklerinizin de görüntüleneceği ve böylece sitenizin yüzü olacak sayfa şekilleriniz var. 
+Sırada, içinde içeriklerinizin de görüntüleneceği ve böylece sitenizin yüzü olacak sayfa şekilleriniz var.
 
 ```html
 <html>
@@ -46,9 +46,9 @@ Sırada, içinde içeriklerinizin de görüntüleneceği ve böylece sitenizin y
     {% include head.html %}
     <body>
         {% include header.html %}
-			
+
         	{{ content }}
-        	
+
         {% include footer.html %}
     </body>
 </html>
@@ -68,8 +68,8 @@ Burası, sitenizin anasayfasıdır. Domain adınızı aldığınızda, ya da alm
     {% include head.html %}
     <body>
         {% include header.html %}
-			
-        {% for post in site.posts %} 
+
+        {% for post in site.posts %}
         	<h4>{{ post.title }}</h4>
         	{{ post.excerpt }}
         	{{ post.date | date: "%d.%m.%Y" }}
@@ -81,7 +81,7 @@ Burası, sitenizin anasayfasıdır. Domain adınızı aldığınızda, ya da alm
         		{% endif %}
         	{% endif %}
         {% endfor %}
-        	
+
         {% include footer.html %}
     </body>
 </html>
@@ -89,6 +89,6 @@ Burası, sitenizin anasayfasıdır. Domain adınızı aldığınızda, ya da alm
 
 Böyle bir kod sonucunda, artık anasayfanızda, bugüne kadar post ettiğiniz bütün yazılarınız yeniden eskiye; kısa özetleri, tarihleri ve tag'leri ile birlikte yayınlanırlar. Tabii bu kod parçasını çok temel tuttum, HTML ve CSS özelliklerini hiç yazmadım. Bunlar istenildiği gibi oynanıp şekillenebilirler. İsterseniz, bu sitenin footer'ında, bütün tasarım ve kodlamayı yayımladığımı söylediğim kısma gidip benim sayfalarımın nasıl yazıldığına bakabilirsiniz. Buna yakındırlar.
 
-Includes ve Layouts klasörlerindeki HTML dosylarının ve index'in içinde Liquid programlayarak sitemizin en temel yapısını oluşturduk. Bu üç örnek, bir başlangıç olabilir. 
+Includes ve Layouts klasörlerindeki HTML dosylarının ve index'in içinde Liquid programlayarak sitemizin en temel yapısını oluşturduk. Bu üç örnek, bir başlangıç olabilir.
 
 contin
