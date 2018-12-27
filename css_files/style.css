@@ -259,10 +259,15 @@ p2 {
 }/**/
 
 
-table, th, td {
+table, th, td,
+.markdown-body table,
+.markdown-body th,
+.markdown-body td {
   border: 1px solid #36b079;
 }
-th, td {
+th, td,
+.markdown-body th,
+.markdown-body td {
   padding: 10px;
   text-align: left;
 }
