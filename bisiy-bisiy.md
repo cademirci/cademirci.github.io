@@ -90,3 +90,5 @@ Burası, sitenizin anasayfasıdır. Domain adınızı aldığınızda, ya da alm
 Böyle bir kod sonucunda, artık anasayfanızda, bugüne kadar post ettiğiniz bütün yazılarınız yeniden eskiye; kısa özetleri, tarihleri ve tag'leri ile birlikte yayınlanırlar. Tabii bu kod parçasını çok temel tuttum, HTML ve CSS özelliklerini hiç yazmadım. Bunlar istenildiği gibi oynanıp şekillenebilirler. İsterseniz, bu sitenin footer'ında, bütün tasarım ve kodlamayı yayımladığımı söylediğim kısma gidip benim sayfalarımın nasıl yazıldığına bakabilirsiniz. Buna yakındırlar.
 
 Includes ve Layouts klasörlerindeki HTML dosylarının ve index'in içinde Liquid programlayarak sitemizin en temel yapısını oluşturduk. Bu üç örnek, bir başlangıç olabilir. 
+
+contin
