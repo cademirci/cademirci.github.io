@@ -274,8 +274,7 @@ th, td,
 
 .highlighter-rouge {
 	padding: 3px;
-	border: none;
-	background-color: rgb(225,245,225);
+	border: 2px rgb(225,245,225);
 }
 
 .post_rep {
