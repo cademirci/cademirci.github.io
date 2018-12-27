@@ -274,9 +274,9 @@ th, td,
 
 .highlighter-rouge,
 code .highlighter-rouge {
-	padding: 2px;
+	padding: 3px;
 	border: none;
-	background-color: rgb(225,245,2250;)
+	background-color: rgb(225,245,225);
 }
 
 .post_rep {
