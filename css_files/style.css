@@ -272,6 +272,13 @@ th, td,
   text-align: left;
 }
 
+.highlighter-rouge,
+code .highlighter-rouge {
+	padding: 2px;
+	border: none;
+	background-color: rgb(225,245,2250;)
+}
+
 .post_rep {
 	border-bottom: 1px solid #ccc;
 	justify-content: space-around;
