@@ -272,10 +272,6 @@ th, td,
   text-align: left;
 }
 
-.highlighter-rouge {
-	padding: 3px;
-	border: 2px solid rgb(225,245,225);
-}
 
 .post_rep {
 	border-bottom: 1px solid #ccc;
@@ -420,7 +416,7 @@ pre, code {
 	font-size: 13.5px;
 	line-height: 1.3;
 	margin: 40px 0;
-	border: 1px solid #1d1f21;
+	border: 2px solid rgb(225,245,225);
 } @font-face {
 	font-family: SourceCode;
 	src: url(SourceCodePro/SourceCodePro-Regular.ttf);
