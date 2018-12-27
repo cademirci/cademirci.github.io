@@ -220,6 +220,11 @@ p, .markdown-body p {
 	margin: 40px 5%;
 	font-style: italic;
 }
+ul, ol, 
+.markdown-body ul,
+.markdown-body ol {
+	padding-bottom: 10px;
+}	
 
 p2 {
 	font-size: 0.9em;
