@@ -7,7 +7,7 @@ title: Hakkımda
 
 ### Ben Kimim?
 
-Çağlayan Demirci. Bilgisayar mühendisliği öğrencisi. 
+Çağlayan Demirci. Rock müzikten ve fantastik sanatlardan hoşlanan, bilgisayar mühendisliği öğrencisi. 
 
 ### Burası Neresi?
 
