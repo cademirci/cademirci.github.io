@@ -1,9 +1,10 @@
 body {
 	margin: 0;
-	background: #0d0d0d;
+	background: #fff;
 	font-family: Open-Sans_light_theme, Open Sans;
-	font-size: .9em;
-	color: #fff;
+	font-size: 1em;
+	line-height: 1.5;
+	color: #1a1a1a;
 } @font-face {
 	font-family: Open-Sans_light_theme;
 	src: url(Open-Sans/OpenSans-Regular.ttf);
