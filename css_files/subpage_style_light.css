@@ -1,12 +1,12 @@
 body {
 	margin: 0;
 	background: #fafafa;
-	font-family: SourceCode, Consolas;
+	font-family: Open-Sans_semibold_light_theme, Open Sans;
 	font-size: .9em;
 	color: #1a1a1a;
 } @font-face {
-	font-family: SourceCode;
-	src: url(SourceCodePro/SourceCodePro-Regular.ttf);
+	font-family: Open-Sans_semibold_light_theme;
+	src: url(Open-Sans/OpenSans-Semibold.ttf);
 }
 
 .markdown-body {
