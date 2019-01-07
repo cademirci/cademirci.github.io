@@ -1,12 +1,12 @@
 body {
 	margin: 0;
-	background: #fafafa;
-	font-family: Open-Sans_semibold_light_theme, Open Sans;
+	background: #fff;
+	font-family: Open-Sans_light_theme, Open Sans;
 	font-size: .9em;
-	color: #1a1a1a;
+	color: #0d0d0d;
 } @font-face {
-	font-family: Open-Sans_semibold_light_theme;
-	src: url(Open-Sans/OpenSans-Semibold.ttf);
+	font-family: Open-Sans_light_theme;
+	src: url(Open-Sans/OpenSans-Regular.ttf);
 }
 
 .markdown-body {
