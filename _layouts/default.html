@@ -5,11 +5,9 @@
 	<body>
 		{% include sidebar.html %}
 		{% include header.html %}
-		<div class="markdown_zone">
-			<!-- ! -->
-			<article class="markdown-body">{{ content }}</article>
-			<!-- ! -->
-		</div>
+		<div class="content container">
+      {{ content }}
+    </div>
 		{% include footer.html %}
 	</body>
 </html>
