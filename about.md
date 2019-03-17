@@ -1,30 +1,32 @@
 ---
-layout: page
-title: About
+layout: default
+title: Hakkımda
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+## Hakkımda
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+### Ben Kimim?
 
-There are currently two themes built on Poole:
+Çağlayan Demirci. Rock müzikten ve fantastik sanatlardan hoşlanan, bilgisayar mühendisliği öğrencisi. 
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+### Burası Neresi?
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+Kişisel site. Blog. Kişisel blog; sanat, teknik ve düşünce içeriğindeki kimi konular hakkında yazacaklarımı paylaşacağım web sayfası. Belli bir ismi yok. Çoğunlukla kişisel sitelerin bir ismi de olmaz zaten; insanlar ad ve soyadlarını site başlığı olarak yazarlar. Burada önemli nokta, burasının bir doktorun internet tabanlı radevu merkezi ya da ayrıntılı bir LinkedIn hesabına benzer bir sektör adamı reklamı sitesinden çok, yazarın **kişisel elektronik hafıza** olarak kullanma amacıyla kurduğu bir sayfa olması.
 
-## Setup
+Eskiden beri yazı yazmaktan az çok hoşlandığımdan, uzun bir süre Ekşi Sözlük'te yazıp belli bir süreden sonra artık orayı kullanmamaya karar verdiğimden, öyle çok da sosyal medyacı bir tarafım olmayıp, bu işi kendime ait, her bir noktasını şekillendirebileceğim bağımsız bir sayfada yapmak bana daha fazla keyif vereceğinden, böyle bir site kurma gereği duydum.
 
-Some fun facts about the setup of this project include:
+### Site Hakkında
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+Sitenin temel yapısını HTML ve CSS ile, ücretsiz tema veya hazır şablon kullanmadan, sıfırdan tasarlayıp yapılandırdım. Tasarlarken, buranın olabildiğince sade olmasını amaçladım. İşin server ve hosting kısmında [Jekyll](https://jekyllrb.com/) ve [GitHub Pages](https://pages.github.com/) kullandım. Bütün gönderilerim ve sayfalarım **Markdown** sayfa yapısı üzerinde yazılıp yayımlanmakta.
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+Yaptığım bütün bu işleri, sayfanın en altında (footerda) görebileceğiniz şekilde GitHub Repository’mde kullanıma sundum. Sitenin **teknik kısmının** en ufak bir telif hakkı ya da ona benzer bir şeyi yoktur. Ayrıca sitede hiçbir zaman reklam görmeyeceksiniz.
 
-Thanks for reading!
+![](https://caglayandemirci.github.io/images/siteicon2.2.png)
+
+Kar kristali öteden beri tasarım imzam gibi bir şeydi. Görsel tasarım uzmanı olmasam da, kendi çapımda yaptığım görsellerin ve tasarımların bir yerlerinde, altı kollu küçük yıldızlar şeklinde de olsa bu simgeyi kullanırım. Site ikonu olarak da yine dijital ortamda yaptığım bu resmi seçtim.
+
+<style>
+	#ab { 
+        box-shadow: 0 5px 5px rgb(0, 128, 64, 0.5) 
+    }
+</style>
