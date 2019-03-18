@@ -166,7 +166,10 @@ a.sidebar-nav-item:focus {
   }
 }
 
-
+body .content a,
+body .related-posts li a:hover {
+  color: #90a959;
+}
 
 /*
  * Themes
