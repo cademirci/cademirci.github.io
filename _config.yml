@@ -1,6 +1,6 @@
 encoding: UTF-8
 
-
+permalink: /:categories/:title
 
 excerp_seperator: <!--more-->
 

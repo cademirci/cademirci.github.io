@@ -3,7 +3,7 @@ layout: default
 title: Hakkımda
 ---
 
-# Hakkımda
+## Hakkımda
 
 ### Ben Kimim?
 
