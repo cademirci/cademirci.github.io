@@ -108,9 +108,9 @@ p, .markdown-body p {
 		width: 12rem;
 	}
 	.left_bar img { 
-		height: 40px; 
-		width: 40px; 
-		border: 3px solid red;
+		height: 50px; 
+		width: 50px; 
+		padding: 10px;
 	}
 }
 
