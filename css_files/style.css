@@ -188,15 +188,6 @@ p, .markdown-body p {
 	color: #fff;
 	text-decoration: none;
 }
-.left_bar .social_media_bar {
-	float: right;
-	margin-right: 15%;
-}
-.left_bar .bottom_signatures {
-	float: left;
-	margin-left: 15%;
-	margin-top: 50px;
-}
 .left_bar img { 
 	height: 50px; 
 	width: 50px; 
@@ -205,14 +196,7 @@ p, .markdown-body p {
 .left_bar img:hover {
 	box-shadow: 0 3px 1px rgb(125, 125, 125, 0.3);
 }
-@media only screen and (max-width: 1450px) {
-	.footer .social_media_bar { 
-		margin-right: 10px; 
-	}
-	.footer .bottom_signatures { 
-		margin-left: 10px; 
-	}
-}
+
 /**/
 
 /* #4dcb82
