@@ -11,3 +11,7 @@ Sayfam geçiçi bir süre için erişime kapalıdır. Bakım, coding, kararsızl
 
 ![](images/csimg.png)
 
+<style>
+    #hp { color: #fff; }
+</style>
+
