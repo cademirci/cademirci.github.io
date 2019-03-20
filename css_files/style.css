@@ -140,6 +140,11 @@ p, .markdown-body p {
 	.left_bar {
 		width: 15rem;
 	}
+	.left_bar img { 
+		height: 50px; 
+		width: 50px; 
+		border: 1px solid #363636;
+	}
 }
 
 
@@ -186,11 +191,7 @@ p, .markdown-body p {
 	color: #fff;
 	text-decoration: none;
 }
-.left_bar img { 
-	height: 50px; 
-	width: 50px; 
-	border: 1px solid #363636;
-}
+
 .left_bar img:hover {
 	box-shadow: 0 3px 1px rgb(125, 125, 125, 0.3);
 }
