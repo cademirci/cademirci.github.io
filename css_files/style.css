@@ -155,7 +155,11 @@ p, .markdown-body p {
 	}
 }
 
-
+.left_navbar {
+	color: #fafafa;
+	line-height: 1.2;
+	font-size: 1em;
+}
 
 .markdown-body {
 	/* max-width: 806px; /* 42% of 17.3'' screens */
