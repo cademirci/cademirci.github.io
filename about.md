@@ -19,8 +19,6 @@ Eskiden beri yazı yazmaktan az çok hoşlandığımdan, uzun bir süre Ekşi S�
 
 Sitenin temel yapısını HTML ve CSS ile, ücretsiz tema veya hazır şablon kullanmadan, sıfırdan tasarlayıp yapılandırdım. Tasarlarken, buranın olabildiğince sade olmasını amaçladım. İşin server ve hosting kısmında [Jekyll](https://jekyllrb.com/) ve [GitHub Pages](https://pages.github.com/) kullandım. Bütün gönderilerim ve sayfalarım **Markdown** sayfa yapısı üzerinde yazılıp yayımlanmakta.
 
-Yaptığım bütün bu işleri, sayfanın en altında (footerda) görebileceğiniz şekilde GitHub Repository’mde kullanıma sundum. Sitenin **teknik kısmının** en ufak bir telif hakkı ya da ona benzer bir şeyi yoktur. Ayrıca sitede hiçbir zaman reklam görmeyeceksiniz.
-
 ![](https://caglayandemirci.github.io/images/siteicon2.2.png)
 
 Kar kristali öteden beri tasarım imzam gibi bir şeydi. Görsel tasarım uzmanı olmasam da, kendi çapımda yaptığım görsellerin ve tasarımların bir yerlerinde, altı kollu küçük yıldızlar şeklinde de olsa bu simgeyi kullanırım. Site ikonu olarak da yine dijital ortamda yaptığım bu resmi seçtim.

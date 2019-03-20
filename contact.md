@@ -17,7 +17,7 @@ oninput="setCustomValidity('')">
 </textarea><br>
 <input class="mail_send_button" type="submit" value="Göndereyim bakalım">
 </form> 
-<br><br>Bunun dışında footerda (aşağıda) yer alan sosyal medya mecralarıma da göz atıp onları kullanmaktan çekinmeyebilirsiniz. Ayrıca, yukarıdaki kutuyu kullanmayıp mail adresimi ayrıca isterseniz, o da <b>demircicaglayan13 at gmail nokta com</b>
+<br><br>
 
 <style>
 #ct { color: #fff; }
