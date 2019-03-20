@@ -154,9 +154,9 @@ p, .markdown-body p {
 	}
 }
 
-.left_navbar {
+.left_navbar a {
 	color: #fafafa;
-	line-height: 1.2;
+	line-height: 1.8;
 	font-size: 1em;
 	padding: 20px 0;
 }
