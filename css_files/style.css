@@ -120,6 +120,8 @@ p, .markdown-body p {
 	padding: 2rem 1rem;
 	color: rgba(255,255,255,.5);
 	background-color: #202020;
+	font-size: 0.85em;
+	padding: 10px;
 }
 
 
@@ -176,29 +178,31 @@ p, .markdown-body p {
 	padding: 10px;
 	border-top: 1px solid #666;
 	height: 150px;
-}.footer a {
+}
+
+.left_bar a {
 	color: #999;
 	text-decoration: none;
 }
-.footer a:hover {
+.left_bar a:hover {
 	color: #fff;
 	text-decoration: none;
 }
-.footer .social_media_bar {
+.left_bar .social_media_bar {
 	float: right;
 	margin-right: 15%;
 }
-.footer .bottom_signatures {
+.left_bar .bottom_signatures {
 	float: left;
 	margin-left: 15%;
 	margin-top: 50px;
 }
-.footer img { 
+.left_bar img { 
 	height: 50px; 
 	width: 50px; 
 	border: 1px solid #363636;
 }
-.footer img:hover {
+.left_bar img:hover {
 	box-shadow: 0 3px 1px rgb(125, 125, 125, 0.3);
 }
 @media only screen and (max-width: 1450px) {
