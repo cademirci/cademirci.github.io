@@ -146,7 +146,7 @@ p, .markdown-body p {
 
 .markdown-body {
 	/* max-width: 806px; /* 42% of 17.3'' screens */
-	margin: 50px auto;
+	margin: 0px auto;
 	max-width: 800px;
 	padding: 10px;
 	color: #333;
