@@ -137,17 +137,24 @@ p, .markdown-body p {
 	}
 }
 
-@media (min-width: 64rem) {
-	.left_bar {
-		width: 15rem;
-	}
-
-}
+@media (max-width: 48rem) {
 	.left_bar img { 
 		height: 50px; 
 		width: 50px; 
 		border: 1px solid #363636;
 	}
+}
+@media (min-width: 64rem) {
+	.left_bar {
+		width: 15rem;
+	}
+	.left_bar img { 
+		height: 50px; 
+		width: 50px; 
+		border: 1px solid #363636;
+	}
+}
+
 
 
 .markdown-body {
