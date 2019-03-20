@@ -97,9 +97,6 @@ p, .markdown-body p {
     margin-left: 20rem;
     margin-right: 2rem;
   }
-  .box {
-	  background: green;
-  }
 }
 
 @media (min-width: 48rem) and (max-width: 64rem) {
@@ -110,8 +107,9 @@ p, .markdown-body p {
 	.left_bar {
 		width: 12rem;
 	}
-	.box {
-		background: blue;
+	.left_bar img { 
+		height: 35px; 
+		width: 35px; 
 	}
 }
 
