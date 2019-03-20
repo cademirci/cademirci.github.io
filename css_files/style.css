@@ -153,7 +153,10 @@ p, .markdown-body p {
 		border: 1px solid #363636;
 	}
 }
-
+.left_navbar {
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
 .left_navbar a {
 	color: #fafafa;
 	line-height: 1.8;
@@ -223,11 +226,15 @@ p, .markdown-body p {
 	font-size: 24px;
 	text-align: center;
 }
+.left_bar a,
+.left_bar a:visited,
 .markdown-body a,
 .markdown-body a:visited {
 	color: #36b079;
 	text-decoration: none;
 }
+.left_bar a,
+.left_bar a:visited,
 .markdown-body a:hover,
 .markdown-body a:hover:visited {
 	color: #4fc992;
