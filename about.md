@@ -27,6 +27,6 @@ Kar kristali öteden beri tasarım imzam gibi bir şeydi. Görsel tasarım uzman
 
 <style>
 	#ab { 
-        box-shadow: 0 5px 5px rgb(0, 128, 64, 0.5) 
+        color: #fff;
     }
 </style>
