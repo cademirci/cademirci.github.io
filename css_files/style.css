@@ -106,11 +106,11 @@ p, .markdown-body p {
 	}
 	.left_bar {
 		width: 12rem;
+		padding: 10px;
 	}
 	.left_bar img { 
 		height: 50px; 
 		width: 50px; 
-		padding: 10px;
 	}
 }
 
