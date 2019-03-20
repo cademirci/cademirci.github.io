@@ -183,11 +183,15 @@ p, .markdown-body p {
 
 }
 @media only screen and (min-width: 1175px) {
-		.markdown_zone {
+	.markdown_zone {
 		margin-left: 24rem;
 	}
 }
-
+@media only screen and (min-width: 1540px) {
+	.markdown_zone {
+		margin-left: 32rem;
+	}
+}
 
 
 .footer {
