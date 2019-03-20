@@ -108,8 +108,8 @@ p, .markdown-body p {
 		width: 12rem;
 	}
 	.left_bar img { 
-		height: 35px; 
-		width: 35px; 
+		height: 40px; 
+		width: 40px; 
 	}
 }
 
@@ -140,13 +140,13 @@ p, .markdown-body p {
 	.left_bar {
 		width: 15rem;
 	}
+
+}
 	.left_bar img { 
 		height: 50px; 
 		width: 50px; 
 		border: 1px solid #363636;
 	}
-}
-
 
 
 .markdown-body {
