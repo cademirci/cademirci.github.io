@@ -230,14 +230,18 @@ p, .markdown-body p {
 	text-align: center;
 }
 .left_bar a,
-.left_bar a:visited,
+.left_bar a:visited {
+	color: rgb(180,180,180);
+}
 .markdown-body a,
 .markdown-body a:visited {
 	color: #36b079;
 	text-decoration: none;
 }
 .left_bar a:hover,
-.left_bar a:hover:visited,
+.left_bar a:hover:visited {
+	color: rgb(220,220,220);
+}
 .markdown-body a:hover,
 .markdown-body a:hover:visited {
 	color: #4fc992;
