@@ -192,6 +192,10 @@ p, .markdown-body p {
 	}
 }
 
+.left_bar img {
+	border-radius: 50%;
+}
+
 
 .footer {
 	background: #1a1a1a;
