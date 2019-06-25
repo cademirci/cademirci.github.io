@@ -14,9 +14,30 @@ body {
 	font-family: caglayandemirci_Open-Sans;
 	src: url(Open-Sans/OpenSans-Regular.ttf);
 }
-p, .markdown-body p {
+p, .markdown-body p, {
 	font-family: Open Sans, caglayandemirci_Open-Sans;
 }
+
+
+.newHeader {
+	background-color: #1a1a1a;
+	padding: 10px;
+	height: 250px;
+	color: ghostwhite;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
 .nav_bar_zone img {
 	height: 64px;
 	border: 1px solid #999;
@@ -92,6 +113,7 @@ p, .markdown-body p {
 	padding-bottom: 4rem;
 }
 
+/*
 @media (min-width: 48em) {
   .markdown_zone {
     margin-left: 20rem;
@@ -122,6 +144,7 @@ p, .markdown-body p {
 	background-color: #202020;
 	padding: 10px;
 }
+*/
 
 
 @media (min-width: 48rem) {
@@ -203,8 +226,17 @@ p, .markdown-body p {
 	font-size: 0.85em;
 	padding: 10px;
 	border-top: 1px solid #666;
-	height: 150px;
+	height: 250px;
+	text-align: center;
+	margin-bottom: 0;
 }
+
+.footer img {
+	height: 50px;
+	width: 50px;
+}
+
+
 
 .left_bar a:hover {
 	color: #fff;
