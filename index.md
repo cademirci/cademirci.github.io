@@ -9,7 +9,7 @@ Ziyaret etmiş olduğunuz web sayfamı, kim bilir kaçıncı tasarım versiyonun
 
 Yine de, [iletişim](http://cademirci.com/contact) sayfamdaki mail göndericisini iptal etmiş değilim, orada da belirttiğim gibi, sorulara ve yorumlara döneceğimi içtenlikle söylüyorum. (Dönmezsem serverda bir hata çıkmış olabilir, mailime aynı mesajı atın :) )
 
-
+<br><br><br><br>
 
 <style>
     #hp { color: #fff; }
