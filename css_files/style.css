@@ -54,8 +54,8 @@ p, .markdown-body p, {
 	margin: 20px auto;
 }
 .icon_img {
-	float: left; 
-	height: 50px; 
+	float: left;
+	height: 50px;
 	padding-right: 5px;
 	/* padding-left: 5px screen size under
 		1250px. Written in line 70s*/
@@ -85,7 +85,7 @@ p, .markdown-body p, {
 }
 @media only screen and (max-width: 1450px) {
 	.logo_image {
-		margin-left: 10px; 
+		margin-left: 10px;
 	}
 }
 
@@ -130,9 +130,9 @@ p, .markdown-body p, {
 		width: 12rem;
 		padding: 10px;
 	}
-	.left_bar img { 
-		height: 42px; 
-		width: 42px; 
+	.left_bar img {
+		height: 42px;
+		width: 42px;
 		border: 1px solid #363636;
 	}
 }
@@ -160,9 +160,9 @@ p, .markdown-body p, {
 }
 
 @media (max-width: 48rem) {
-	.left_bar img { 
-		height: 50px; 
-		width: 50px; 
+	.left_bar img {
+		height: 50px;
+		width: 50px;
 		border: 1px solid #363636;
 	}
 }
@@ -170,9 +170,9 @@ p, .markdown-body p, {
 	.left_bar {
 		width: 15rem;
 	}
-	.left_bar img { 
-		height: 50px; 
-		width: 50px; 
+	.left_bar img {
+		height: 50px;
+		width: 50px;
 		border: 1px solid #363636;
 	}
 }
@@ -198,7 +198,7 @@ p, .markdown-body p, {
 @media only screen and (max-width: 1174px) {
 	.markdown-body {
 		max-width: 85%;
-	} 
+	}
 	.icon_img {
 		padding-left: 5px;
 	}
@@ -333,7 +333,7 @@ p, .markdown-body p, {
 }
 li, .markdown-body li {
 	padding-bottom: 10px;
-}	
+}
 
 p2 {
 	font-size: 0.9em;
@@ -439,19 +439,19 @@ th, td,
 
 
 .article_representation {
-	border-bottom: 1px solid #999; 
-	justify-content: space-around; 
+	border-bottom: 1px solid #999;
+	justify-content: space-around;
 	align-items: strech;
 	display: flex;
 	margin-bottom: 30px;
 }
 .article_representation_date {
-	padding-bottom: 20px; 
-	color: #666; 
+	padding-bottom: 20px;
+	color: #666;
 	font-size: 0.8em;
 }
 .article_representation_text {
-	padding-left: 20px; 
+	padding-left: 20px;
 	width: 66%;
 }
 .article_representation img {
@@ -466,7 +466,7 @@ th, td,
 		width: 0;
 	}
 	.article_representation_text {
-		padding-left: 20px; 
+		padding-left: 20px;
 		width: 100%;
 	}
 }
@@ -517,7 +517,7 @@ th, td,
 }
 
 .article_container {
-	justify-content: space-around; 
+	justify-content: space-around;
 	align-items: strech;
 	display: flex;
 }
@@ -648,7 +648,7 @@ pre .line-number {
 
 .tooltip .tooltiptext {
     width: 86;
-    
+
     left: 50%;
     margin-left: -60px; /* Use half of the width (120/2 = 60), to center the tooltip */
 }
@@ -667,12 +667,12 @@ pre .line-number {
     text-align: center;
     padding: 5px 0;
     /* border-radius: 6px; */
-	
+
 	width: 86px;
     top: 125px;
     left: 50%;
     margin-left: -43px; /* Use half of the width (120/2 = 60), to center the tooltip */
- 
+
     /* Position the tooltip text - see examples below! */
     position: absolute;
     z-index: 1;
@@ -693,8 +693,8 @@ pre .line-number {
 	margin-top: 80px;
 }
 
-.video-container iframe, 
-.video-container object, 
+.video-container iframe,
+.video-container object,
 .video-container embed {
 	position:absolute;
 	top:0;
@@ -721,7 +721,7 @@ pre .line-number {
 @media only screen and (max-width: 750px) {
 	/*.header {
 		height: 125px;
-	} 
+	}
 	.article_window {
 		width: 100%;
 		margin-left: 0;
@@ -752,6 +752,6 @@ pre .line-number {
 	}
 	pre, code {
 		font-size: 0.85em;
-		line-height: 1.2;	
+		line-height: 1.2;
 	}
 }/**/

@@ -4,4 +4,6 @@ permalink: /:categories/:title
 
 excerp_seperator: <!--more-->
 
+include: ['.htaccess']
+
 
