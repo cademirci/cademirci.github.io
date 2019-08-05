@@ -1,9 +1,20 @@
 <!DOCTYPE html>
 <html>
-	{% include head.html %}
-	<body>
-		{% include header.html %}
-		<div class="markdown_zone">
+{% include head.html %}
+<body>
+	<div class="title_zone">
+		<p class="title">
+			<span style="color: #00994d">
+				<strong>çağlayan demirci</strong>
+			</span>
+			<span style="color: #999999">
+				kişisel sayfa
+			</span>
+		</p>
+	</div>
+		{% include constant_panel.html %}
+		{% include navigation_bar.html %}
+		<div class="article_zone">
 			<!-- <div class="small_panel"><img src="../images/Untitled.png"></div> -->
 			<!-- ! CONTENT -->
 			<article class="markdown-body">{{ content }}</article>
@@ -19,13 +30,14 @@
 			</div>
 			<script async src="https://static.addtoany.com/menu/page.js"></script>
 			<!-- AddToAny END -->
+		</div>
 		<script>
 			$(document).ready(function(){
 				var width = $("#ytvideo").width();
 				document.getElementById("ytvideo").style.height = width*(0.562)+ "px";
 			});
 		</script>
-		
+
 	</body>
 	{% include footer.html %}
 </html>
