@@ -2,25 +2,14 @@
 <html>
 	{% include head.html %}
 	<body>
-		<div class="title_zone">
-            <p class="title">
-                <span style="color: #00994d">
-                    <strong>çağlayan demirci</strong>
-                </span>
-                <span style="color: #999999">
-                    kişisel sayfa
-                </span>
-            </p>
-        </div>
-		{% include constant_panel.html %}
-		{% include navigation_bar.html %}
-		<div class="article_zone">
+		{% include header.html %}
+		<div class="markdown_zone">
 			<!-- ! -->
 			<article class="markdown-body">
 
 				{{ content }}
 
-				{% for post in site.posts %}
+				{% for post in site.posts %} 
 					<div class="post_rep"> <!-- ar.rep. -->
 					    <div class="post_rep_img">
 							<a href="{{ post.url }}">
