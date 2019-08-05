@@ -167,6 +167,12 @@ markdown-body p {style="color: #206040"
     width: 65px;
     height: 65px;
 }
+@media only screen and (max-width: 900px) {
+    .navigation_bar_inside img {
+        width: 50px;
+        height: 50px;
+    }
+}
 
 .footer {
     display: block;
