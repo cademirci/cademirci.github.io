@@ -1,5 +1,5 @@
 ---
-layout: maintain
+layout: main-page
 title: Çağlayan Demirci
 ---
 
