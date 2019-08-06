@@ -1,0 +1,163 @@
+
+body {
+    margin: 0;
+    background-color: #121314;
+    color: #f2f3f4;
+    font-family: caglayandemirci_Open-Sans, Open Sans, sans-serif;
+}
+
+/* font, typography */
+body p, p,
+markdown-body p {
+    font-family: caglayandemirci_Open-Sans, Open Sans, sans-serif;
+    font-size: 1em;
+    line-height: 1.5;
+} @font-face {
+	font-family: caglayandemirci_Open-Sans;
+	src: url(fonts/Open-Sans/OpenSans-Regular.ttf);
+}
+
+/* second font: for codes, title, etc. */
+@font-face {
+	font-family: caglayandemirci_SourceCode;
+	src: url(fonts/SourceCodePro/SourceCodePro-Regular.ttf);
+}
+
+/* Open Sans Light for site title */
+@font-face {
+	font-family: caglayandemirci_OSLight;
+	src: url(fonts/Open-Sans/OpenSans-Light.ttf);
+}
+
+
+.title,
+.constant,
+.main_part,
+.footer {
+    max-width: 1000px;
+    margin: 20px auto;
+    padding: 15px;
+}
+
+
+@media only screen and (min-width: 1128px) {
+    /* 1128px: 100/85 of 960px */
+    .article_zone { /* text */
+        /* 960px: 50/100 of 17.3'' screens */
+        max-width: 960px;
+    }
+}
+
+.title_zone {
+    margin: 5px auto;
+}
+.title {
+    font-family: caglayandemirci_OSLight;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+
+img {
+    margin: 0 auto;
+	display: block;
+}
+
+.constant_zone {
+    display: block;
+    width: 100%;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+    background-color: #262728;
+    color: #bfbfbf;
+    font-size: 0.8em;
+    font-family: caglayandemirci_SourceCode;
+    letter-spacing: 1px;
+}
+.constant {
+    margin: 0 auto;
+    justify-content: space-around;
+    display: flex;
+}
+
+.cp1,
+.cp2,
+.cp3,
+.hiddencp {
+    width: 33%;
+}
+.cp1 { text-align: left; }
+.cp2 { text-align: center; }
+.cp3 { text-align: right; }
+
+.hiddencp {
+    display: none;
+}
+
+.top_button {
+    color: white;
+    background-color: #161718;
+    border: 1px solid grey;
+    display: none;
+
+    float: right;
+}
+
+
+.main_part {
+    margin: 5rem auto;
+}
+
+.footer_zone {
+    display: block;
+    background-color: #000;
+    color: #7f7f7f;
+    font-size: 0.85em;
+    padding: 10px 0;
+    border-top: 10px solid #252627;
+}
+.footer img {
+    height: 35px;
+    width: 35px;
+    padding-left: 15px;
+}
+.footer a,
+.footer a:visited {
+    text-decoration: none;
+    color: #afafaf;
+}
+.footer a:hover {
+    color: #cfcfcf;
+}
+.footer {
+    margin: 10px auto;
+}
+.footer_line {
+    display: block;
+}
+
+
+
+#fl1,
+#fl3 { text-align: right; }
+
+.search_zone {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    margin: 10px auto;
+    width: 70%;
+}
+#search_area {
+    height: 32px;
+    width: 100%;
+    font-size: 16px;
+    padding: 4px;
+    margin: 10px auto;
+}
+#search_button {
+    height: 32px;
+    background: #1a1a1a;
+    color: ghostwhite;
+    border: none;
+    margin-left: 4px;
+}
