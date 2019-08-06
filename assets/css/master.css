@@ -75,8 +75,8 @@ a:hover {
 .constant_zone {
     display: block;
     width: 100%;
-    padding-top: 0.5em;
-    padding-bottom: 0.5em;
+    padding-top: 10px;
+    padding-bottom: 10px;
     background-color: #262728;
     color: #bfbfbf;
     font-size: 0.8em;
