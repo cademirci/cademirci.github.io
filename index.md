@@ -11,6 +11,10 @@ Ziyaret etmiş olduğunuz web sayfamı, kim bilir kaçıncı tasarım versiyonun
 
 <br><br><br><br>
 
+## Bilgisayar Bilimleri, Programlama
+
+![](images/iconcs.png)
+
 <style>
     #hp { color: #fff; }
 </style>
