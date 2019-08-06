@@ -34,7 +34,7 @@ markdown-body p {
 .constant,
 .main_part,
 .footer {
-    max-width: 1000px;
+    max-width: 850px;
     margin: 20px auto;
     padding: 15px;
 }
