@@ -38,9 +38,6 @@ function scroll() {
         topButton.style.display = "block";
         hiddencp.style.display = "block";
 
-        document.body.scrollTop -= 89;
-        document.documentElement.scrollTop -= 89;
-
         var hashtag = pageHeight / 10,
             numberOfHashtags = seen / hashtag,
             linuxPercent = "[";
