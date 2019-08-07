@@ -578,7 +578,7 @@ pre {
 
 
 /* share buttons */
-.a2a_svg, .a2a_count { border-radius: 0 !important; }
+.a2a_svg, .a2a_count { border-radius: 50% !important; }
 .a2a_kit {
 	margin: 50px 0;
 	display: flex;
