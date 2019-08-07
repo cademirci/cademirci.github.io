@@ -60,6 +60,8 @@ markdown-body p {
 img {
     margin: 0 auto;
 	display: block;
+    height: 100px;
+    width: 100px;
 }
 
 a,
