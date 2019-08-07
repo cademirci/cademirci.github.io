@@ -190,7 +190,7 @@ pre, code {
 	border: 1px solid #1d1f21;
 } @font-face {
 	font-family: SourceCode;
-	src: url(SourceCodePro/SourceCodePro-Regular.ttf);
+	src: url(fonts/SourceCodePro/SourceCodePro-Regular.ttf);
 }
 pre {
 	/* TAB character be 4 whitespace wide. */
