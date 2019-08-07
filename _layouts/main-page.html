@@ -4,29 +4,29 @@
 	<body>
 		{% include header.html %}
 		{% include constant_panel.html %}
-		<div class="markdown_zone">
-			<!-- ! -->
-			<article class="markdown-body">
 
-				<div>
-		            <div class="main_part">
-		                {% include about.html %}
-		            </div>
-		        </div>
-		        <div style="background: #202122; padding: 5px 0;">
-		            <div class="main_part">
-						{{ content }}
-		            </div>
-		        </div>
-		        <div>
-		            <div class="main_part">
-		                {% include blog.html %}
-		            </div>
-		        </div>
+		<!-- ! -->
+		<article class="markdown-body">
 
-			</article>
-			<!-- ! -->
-		</div>
+			<div>
+	            <div class="main_part">
+	                {% include about.html %}
+	            </div>
+	        </div>
+	        <div style="background: #202122; padding: 5px 0;">
+	            <div class="main_part">
+					{{ content }}
+	            </div>
+	        </div>
+	        <div>
+	            <div class="main_part">
+	                {% include blog.html %}
+	            </div>
+	        </div>
+
+		</article>
+		<!-- ! -->
+
 		{% include footer.html %}
 	</body>
 	<!--<script>

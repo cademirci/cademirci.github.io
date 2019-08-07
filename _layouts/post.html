@@ -3,9 +3,10 @@
 	{% include head.html %}
 	<body>
 		{% include header.html %}
+		{% include constant_panel.html %}
+
 		<div class="markdown_zone">
-			<!-- <div class="small_panel"><img src="../images/Untitled.png"></div> -->
-			<!-- ! CONTENT -->
+
 			<article class="markdown-body">{{ content }}</article>
 			<!-- ! CONTENT -->
 			<!-- AddToAny BEGIN -->
@@ -25,7 +26,7 @@
 				document.getElementById("ytvideo").style.height = width*(0.562)+ "px";
 			});
 		</script>
-		
+
 	</body>
 	{% include footer.html %}
 </html>
