@@ -10,7 +10,7 @@ body {
 body p, p,
 markdown-body p {
     font-family: caglayandemirci_Open-Sans, Open Sans, sans-serif;
-    font-size: 0.9em;
+    font-size: 1em;
     line-height: 1.5;
 } @font-face {
 	font-family: caglayandemirci_Open-Sans;
