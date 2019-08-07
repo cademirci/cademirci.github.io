@@ -213,6 +213,7 @@ pre {
 
 .share {
     margin: 20px auto;
+    text-align: right;
 }
 /* share buttons */
 .a2a_svg, .a2a_count { border-radius: 50% !important; }
