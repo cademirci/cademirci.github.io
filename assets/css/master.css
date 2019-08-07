@@ -74,6 +74,10 @@ a:hover {
     text-decoration: none;
 }
 
+h2 {
+    text-align: center;
+}
+
 .constant_zone {
     display: block;
     width: 100%;
