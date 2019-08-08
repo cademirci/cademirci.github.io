@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+	{% include head.html %}
+	<body>
+		{% include header.html %}
+		{% include constant_panel.html %}
+
+		<div class="markdown_zone">
+
+			<article class="markdown-body">{{ content }}
+
+				{% include game.html %}
+			</article>
+
+			<div class="share">
+				<!-- AddToAny BEGIN -->
+				<div class="a2a_kit a2a_kit_size_32 a2a_default_style" data-a2a-icon-color="#36b079">
+					Bu kodu paylaşayım...
+					<a class="a2a_dd" href="https://www.addtoany.com/share"></a>
+					<a class="a2a_button_facebook"></a>
+					<a class="a2a_button_twitter"></a>
+					<a class="a2a_button_google_gmail"></a>
+					<a class="a2a_button_whatsapp"></a>
+				</div>
+				<script async src="https://static.addtoany.com/menu/page.js"></script>
+				<!-- AddToAny END -->
+			</div>
+		</div>
+
+
+		<script>
+			$(document).ready(function(){
+				var width = $("#ytvideo").width();
+				document.getElementById("ytvideo").style.height = width*(0.562)+ "px";
+			});
+		</script>
+
+		{% include footer.html %}
+	</body>
+</html>

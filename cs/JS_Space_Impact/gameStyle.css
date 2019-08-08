@@ -1,0 +1,61 @@
+body {
+	background-color: #1a1a1a;
+	color: fbfbfb;
+	font-family: verdana;
+	font-weight: bold;
+}
+
+.board {
+	/* background-image: url(bg.jpg); */
+	height: 650px;
+	width: 1000px;
+	margin: 100px 0 100px 100px;
+	border: 5px solid #3a3a3a;
+	background-color: rgb(33,33,42);
+	position: relative;
+	float: left;
+}
+
+.scoreBoard {
+	float: left;
+	height: 650px;
+	width: 300px;
+	border: 1px solid #3a3a3a;
+	margin: 100px 0 20px 20px;
+	padding-left: 20px;
+}
+
+.user {
+	margin-top: 600px;
+	position: absolute;
+	border: solid red;
+   border-width: 0 10px 10px 0;
+   display: inline-block;
+   padding: 25px;
+	transform: rotate(-135deg);
+  -webkit-transform: rotate(-135deg);
+   border-radius: 25%;
+}
+
+#bullet {
+	height: 12px;
+	width: 5px;
+	background-color: white;
+	position: absolute;
+}
+
+#fireButton {
+	height: 0;
+	width: 0;
+	padding: 0;
+	border: 0;
+	background-color: #1a1a1a;
+}
+
+#block {
+	height: 20px;
+	width: 20px;
+	border: 1px solid lime;
+	background-color: lime;
+	position: absolute;
+}

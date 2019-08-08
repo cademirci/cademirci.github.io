@@ -1,10 +1,10 @@
 ---
-layout: post
+layout: BSI
 title: Javascript ile Space Impact
 tags: ['bilgisayar bilimleri', 'javascript']
 image: ../cs/jssi.png
 ---
-Çok ayrıntıya girmeden, temel dinamikler kullanılarak yazılmış bir Javascript alıştırması. 
+Çok ayrıntıya girmeden, temel dinamikler kullanılarak yazılmış bir Javascript alıştırması.
 
 <p2>24.04.2018 2:36</p2>
 
@@ -12,19 +12,7 @@ image: ../cs/jssi.png
 
 Snake, Space Impact gibi oyunlar, 1990'ların en popüler oyunlarındandı. Artık bu tip oyunlar hayatımızda oynanmak için değil, kodları yazılarak programlama becerisi geliştirmek, alıştırma yapmak amacıyla var oluyorlar.
 
-Karşınızdaki, son derece basit, kötü bir SI oyunu. Öldükçe ya da geçtikçe gelen tek bir düşmandan, skor ve hayat değişkenlerinden ve css ile beş dakikada şekli verilmiş kötü bir uzay gemisinden ibaret. Fakat burada amaç JS dinamiklerine çalışmaktı. Kodlarımın tamamına yakını temel JS; yalnızca birkaç satırda da **jquery** kullandım. 
-
-Oyunu oynayabilmek ve/veya HTML ve CSS kodlarıyla beraber inceleyebilmek için onları buradan indirebilirsiniz.
-
-<div class="dir_zone">
-<a href="https://github.com/caglayandemirci/caglayandemirci.github.io/raw/master/cs/JS_Space_Impact.rar">
-<img class="dir" src="../cs/dir_rar.png">
-</a>
-<a href="https://github.com/caglayandemirci/caglayandemirci.github.io/raw/master/cs/JS_Space_Impact.tar.gz">
-<img class="dir" src="../cs/dir_targz.png">
-</a>
-</div>
-
+Karşınızdaki, son derece basit, kötü bir SI oyunu. Öldükçe ya da geçtikçe gelen tek bir düşmandan, skor ve hayat değişkenlerinden ve css ile beş dakikada şekli verilmiş kötü bir uzay gemisinden ibaret. Fakat burada amaç JS dinamiklerine çalışmaktı. Kodlarımın tamamına yakını temel JS; yalnızca birkaç satırda da **jquery** kullandım.
 
 Bu JS kodu son derece temel düzeyde ve geliştirmeye açık. Düşman sayıları ve şekilleri arttırılabilir, bir start/reset butonu koyulabilir, farklı ateş şekillerine çalışılabilir, farklı değişkenler de eklenerek oyun daha sayısal dinamik hale getirilebilir, vesaire...
 
@@ -113,4 +101,3 @@ function game() {
 	}
 }
 ```
-
