@@ -205,6 +205,17 @@ pre {
     white-space: -o-pre-wrap;    /* Opera 7 */
     word-wrap: break-word;       /* Internet Explorer 5.5+ */
 }
+@media only screen and (max-width: 1128px) {
+    pre {
+        /* TAB character be 2 whitespace wide for small screens */
+        -moz-tab-size: 2; /* Firefox 4+ */
+        -o-tab-size: 2;   /* Opera 11.5 & 12.1 only */
+        tab-size: 2;
+    }
+    pre, code {
+        font-size: 12px;
+    }
+}
 .markdown-body pre {
 	padding: 10px;
 	border: 1px solid #000;
