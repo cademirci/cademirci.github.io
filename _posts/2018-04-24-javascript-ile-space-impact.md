@@ -1,5 +1,5 @@
 ---
-layout: BSI
+layout: post
 title: Javascript ile Space Impact
 tags: ['bilgisayar bilimleri', 'javascript']
 image: ../cs/jssi.png
@@ -15,6 +15,32 @@ Snake, Space Impact gibi oyunlar, 1990'ların en popüler oyunlarındandı. Art�
 Karşınızdaki, son derece basit, kötü bir SI oyunu. Öldükçe ya da geçtikçe gelen tek bir düşmandan, skor ve hayat değişkenlerinden ve css ile beş dakikada şekli verilmiş kötü bir uzay gemisinden ibaret. Fakat burada amaç JS dinamiklerine çalışmaktı. Kodlarımın tamamına yakını temel JS; yalnızca birkaç satırda da **jquery** kullandım.
 
 Bu JS kodu son derece temel düzeyde ve geliştirmeye açık. Düşman sayıları ve şekilleri arttırılabilir, bir start/reset butonu koyulabilir, farklı ateş şekillerine çalışılabilir, farklı değişkenler de eklenerek oyun daha sayısal dinamik hale getirilebilir, vesaire...
+
+**html:**
+
+```html
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<meta content='width=device-width, initial-scale=1' name='viewport'/>
+		<link rel="stylesheet" type="text/css" href="gameStyle.css">
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+		<script type="text/javascript" src="game.js"></script>
+	</head>
+	<body onload="game()">
+		<div class="board" id="gameBoard">
+			<div class="user" id="gamer"></div>
+		</div>
+		<div class="scoreBoard">
+			<p> SCORE: <span id="score"></span></p>
+			<p> LIFE: <span id="life"></span></p>
+		</div>
+	</body>
+</html>
+```
+
+**game.js:**
+
 
 ```javascript
 document.getElementById("life").innerHTML = 3;
@@ -99,5 +125,71 @@ function game() {
 			game();
 		}
 	}
+}
+```
+
+**gameStyle.css:**
+
+```css
+body {
+	background-color: #1a1a1a;
+	color: fbfbfb;
+	font-family: verdana;
+	font-weight: bold;
+}
+
+.board {
+	/* background-image: url(bg.jpg); */
+	height: 650px;
+	width: 1000px;
+	margin: 100px 0 100px 100px;
+	border: 5px solid #3a3a3a;
+	background-color: rgb(33,33,42);
+	position: relative;
+	float: left;
+}
+
+.scoreBoard {
+	float: left;
+	height: 650px;
+	width: 300px;
+	border: 1px solid #3a3a3a;
+	margin: 100px 0 20px 20px;
+	padding-left: 20px;
+}
+
+.user {
+	margin-top: 600px;
+	position: absolute;
+	border: solid red;
+   border-width: 0 10px 10px 0;
+   display: inline-block;
+   padding: 25px;
+	transform: rotate(-135deg);
+  -webkit-transform: rotate(-135deg);
+   border-radius: 25%;
+}
+
+#bullet {
+	height: 12px;
+	width: 5px;
+	background-color: white;
+	position: absolute;
+}
+
+#fireButton {
+	height: 0;
+	width: 0;
+	padding: 0;
+	border: 0;
+	background-color: #1a1a1a;
+}
+
+#block {
+	height: 20px;
+	width: 20px;
+	border: 1px solid lime;
+	background-color: lime;
+	position: absolute;
 }
 ```
