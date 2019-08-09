@@ -120,6 +120,7 @@ h2 {
 .pad {
     width: 100%;
     height: 46px;
+    display: none;
 }
 
 
