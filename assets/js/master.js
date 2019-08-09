@@ -65,7 +65,6 @@ function scroll() {
         cp2.innerHTML = "";
         cp1.style.display = "block";
         cp1.innerHTML = "hello world.";
-        pad.style.height = "0px";
     }
 }
 
