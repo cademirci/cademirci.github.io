@@ -30,11 +30,13 @@ function scroll() {
         nightButton = document.getElementById('night_button'),
         hiddenCp = document.getElementById('hiddencp'),
         cp1 = document.getElementById('cp1'),
-        cp2 = document.getElementById('cp2');
+        cp2 = document.getElementById('cp2'),
+        pad = document.getElementsById('pad');
 
     if (body.scrollTop > 89 || html.scrollTop > 89) {
         constantZone.style.position = "fixed";
         constantZone.style.top = 0;
+        pad.style.height = "89px";
         topButton.style.display = "block";
         hiddencp.style.display = "block";
 
@@ -63,6 +65,7 @@ function scroll() {
         cp2.innerHTML = "";
         cp1.style.display = "block";
         cp1.innerHTML = "hello world.";
+        pad.style.height = "0px";
     }
 }
 
