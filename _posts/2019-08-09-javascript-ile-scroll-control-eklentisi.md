@@ -6,11 +6,11 @@ tags: ['bilgisayar bilimleri', 'javascript']
 
 ## Javascript İle Scroll Control Eklentisi
 
-Web sayfalarındaki bazı ufak ve akıllıca kişiselleştirmeler, hem kullanıcının bir bakış zamanı için de olsa eğlenmesini, hem de yazılımcının bu işi yaparken bir şeyler öğrenip zevk almasını sağlarlar. Akıllıca mı bilmem ama, ben de benimkinin kodlarını buraya koyuyorum. Bu kod, sayfasının tepesindeki [###-------] şeklindeki scroll barının kodları. Toplam 10 tane olan # ve - sayısı, sayfanın ne kadarının görüşmüş olduğunu haber veriyor. Sağındaki başa dön butonu ise bu durumu sıfırlıyor.
+Web sayfalarındaki bazı ufak ve akıllıca kişiselleştirmeler, hem kullanıcının bir bakış zamanı için de olsa eğlenmesini, hem de yazılımcının bu işi yaparken bir şeyler öğrenip zevk almasını sağlarlar. Akıllıca mı bilmem ama, ben de benimkinin kodlarını buraya koyuyorum. Bu kod, sayfasının tepesindeki [###-------] şeklindeki scroll barının kodları. Toplam 10 tane olan # ve - sayısı, sayfanın ne kadarının görülmüş olduğunu haber veriyor. Sağındaki başa dön butonu ise bu durumu sıfırlıyor.
 
 Ayrıca bir de başında `footerControl` diye ayrı bir kod var. Bu da, sayfa uzunluğu ekran uzunluğundan küçük olsa bile, footer'ın sayfanın en altına yapışık halde görünmesini, footerın hiçbir zaman havada kalmamasını sağlıyor.
 
-Bu arada, [#-] temasını seçmiş olmamın sebebi, Linux'ta terminal (bash) penceresinde bazı programların indirilme sürecini temsil eden bir ASCII görsellik eklentisi bulunması. Linux kullanıcılarına bir gönderme oldu böylece. Aslında oradaki - yerine _ 'lerden oluşuyor. Ben düz tire koymayı tercih ettim. 
+Bu arada, [#-] temasını seçmiş olmamın sebebi, Linux'ta terminal (bash) penceresinde bazı programların indirilme sürecini temsil eden bir ASCII görsellik eklentisi bulunması. Linux kullanıcılarına bir gönderme oldu böylece. Aslında oradakiler - yerine _ 'lerden oluşuyor. Ben düz tire koymayı tercih ettim. 
 
 **constant_panel.html**:
 
