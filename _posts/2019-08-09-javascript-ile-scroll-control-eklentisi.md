@@ -10,6 +10,8 @@ Web sayfalarındaki bazı ufak ve akıllıca kişiselleştirmeler, hem kullanıc
 
 Ayrıca bir de başında `footerControl` diye ayrı bir kod var. Bu da, sayfa uzunluğu ekran uzunluğundan küçük olsa bile, footer'ın sayfanın en altına yapışık halde görünmesini, footerın hiçbir zaman havada kalmamasını sağlıyor.
 
+Bu arada, [#-] temasını seçmiş olmamın sebebi, Linux'ta terminal (bash) penceresinde bazı programların indirilme sürecini temsil eden bir ASCII görsellik eklentisi bulunması. Linux kullanıcılarına bir gönderme oldu böylece. Aslında oradaki - yerine _ 'lerden oluşuyor. Ben düz tire koymayı tercih ettim. 
+
 **constant_panel.html**:
 
 ```html
