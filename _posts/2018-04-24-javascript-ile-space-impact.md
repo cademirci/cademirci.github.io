@@ -4,9 +4,6 @@ title: Javascript ile Space Impact
 tags: ['bilgisayar bilimleri', 'javascript']
 image: ../cs/jssi.png
 ---
-Çok ayrıntıya girmeden, temel dinamikler kullanılarak yazılmış bir Javascript alıştırması.
-
-<p2>24.04.2018 2:36</p2>
 
 ## Javascript ile Space Impact
 
