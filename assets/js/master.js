@@ -23,7 +23,7 @@ function scroll() {
         pageHeight = Math.max( body.scrollHeight, body.offsetHeight,
             html.clientHeight, html.scrollHeight, html.offsetHeight );
 
-    seen += 1; // DEBUG: sometimes seen value stucks at approximately (pageHeight - 1)
+    seen += 42; // DEBUG: sometimes seen value stucks at approximately (pageHeight - 1)
 
     var constantZone = document.getElementById('constant_zone'),
         topButton = document.getElementById('top_button'),
