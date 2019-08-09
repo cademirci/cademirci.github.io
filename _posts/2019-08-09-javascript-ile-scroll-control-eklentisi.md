@@ -10,7 +10,7 @@ Web sayfalarındaki bazı ufak ve akıllıca kişiselleştirmeler, hem kullanıc
 
 Ayrıca bir de başında `footerControl` diye ayrı bir kod var. Bu da, sayfa uzunluğu ekran uzunluğundan küçük olsa bile, footer'ın sayfanın en altına yapışık halde görünmesini, footerın hiçbir zaman havada kalmamasını sağlıyor.
 
-Bu arada, [#-] temasını seçmiş olmamın sebebi, Linux'ta terminal (bash) penceresinde bazı programların indirilme sürecini temsil eden bir ASCII görsellik eklentisi bulunması. Linux kullanıcılarına bir gönderme oldu böylece. Aslında oradakiler - yerine _ 'lerden oluşuyor. Ben düz tire koymayı tercih ettim. 
+Bu arada, [#-] temasını seçmiş olmamın sebebi, Linux'ta terminal (bash) penceresinde bazı programların indirilme sürecini temsil eden bir ASCII görsellik eklentisi bulunması. Linux kullanıcılarına bir gönderme oldu böylece. Aslında oradakiler - yerine _ 'lerden oluşuyor. Ben düz tire koymayı tercih ettim.
 
 **constant_panel.html**:
 
@@ -111,5 +111,50 @@ function scroll() {
 function returnTop() {
     document.body.scrollTop = 0;
     document.documentElement.scrollTop = 0;
+}
+```
+
+```css
+.constant_zone {
+    display: block;
+    width: 100%;
+    background-color: #262728;
+    color: #bfbfbf;
+    font-size: 0.8em;
+    font-family: caglayandemirci_SourceCode;
+    letter-spacing: 1px;
+}
+.constant {
+    margin: 0 auto;
+    justify-content: space-around;
+    display: flex;
+}
+
+.cp1,
+.cp2,
+.cp3,
+.hiddencp {
+    width: 33%;
+}
+.cp1 { text-align: left; }
+.cp2 { text-align: center; }
+.cp3 { text-align: right; }
+
+.hiddencp {
+    display: none;
+}
+
+.top_button {
+    color: white;
+    background-color: #161718;
+    border: 1px solid grey;
+    display: none;
+    float: right;
+}
+
+.pad {
+    width: 100%;
+    height: 46px;
+    display: none;
 }
 ```
