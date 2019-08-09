@@ -31,7 +31,7 @@ function scroll() {
         hiddenCp = document.getElementById('hiddencp'),
         cp1 = document.getElementById('cp1'),
         cp2 = document.getElementById('cp2'),
-        pad = document.getElementsById('pad');
+        pad = document.getElementById('pad');
 
     if (body.scrollTop > 89 || html.scrollTop > 89) {
         constantZone.style.position = "fixed";
