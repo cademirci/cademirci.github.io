@@ -36,7 +36,7 @@ function scroll() {
     if (body.scrollTop > 89 || html.scrollTop > 89) {
         constantZone.style.position = "fixed";
         constantZone.style.top = 0;
-        pad.style.height = "89px";
+        pad.style.display = "block";
         topButton.style.display = "block";
         hiddencp.style.display = "block";
 
@@ -62,6 +62,7 @@ function scroll() {
         constantZone.style.position = "static";
         topButton.style.display = "none";
         hiddencp.style.display = "none";
+        pad.style.display = "none";
         cp2.innerHTML = "";
         cp1.style.display = "block";
         cp1.innerHTML = "hello world.";
