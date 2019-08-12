@@ -6,35 +6,35 @@ Program uzun süre çalışıyor, muhtemelen çok fazla String analizi kodu yazd
 
 Görev ile birlikte verilen PPM görsel dosyası olan kız çocuğu resmi:
 
-![](https://github.com/caglayandemirci/QuadtreeJava/blob/master/Screenshot%20from%202019-08-12%2019-50-46.png)
+![](https://ibb.co/PQmQRrf)
 
 Resmi programı çalıştırarak analiz ettiğimde ortaya çıkan görseller ise şunlar (program tam istediğim şekilde çalışıyor):
 
-![](https://github.com/caglayandemirci/QuadtreeJava/blob/master/Screenshot%20from%202019-08-12%2019-50-33.png)
+![](https://ibb.co/R7Rpzfm)
 
-![](https://github.com/caglayandemirci/QuadtreeJava/blob/master/Screenshot%20from%202019-08-12%2019-50-36.png)
+![](https://ibb.co/R9VKbMJ)
 
-![](https://github.com/caglayandemirci/QuadtreeJava/blob/master/Screenshot%20from%202019-08-12%2019-50-38.png)
+![](https://ibb.co/gvFsftv)
 
-![](https://github.com/caglayandemirci/QuadtreeJava/blob/master/Screenshot%20from%202019-08-12%2019-50-39.png)
+![](https://ibb.co/HNzMstV)
 
-![](https://github.com/caglayandemirci/QuadtreeJava/blob/master/Screenshot%20from%202019-08-12%2019-50-39%20-%201.png)
+![](https://ibb.co/4SfBjt8)
 
-![](https://github.com/caglayandemirci/QuadtreeJava/blob/master/Screenshot%20from%202019-08-12%2019-50-40.png)
+![](https://ibb.co/c1QpKTd)
 
-![](https://github.com/caglayandemirci/QuadtreeJava/blob/master/Screenshot%20from%202019-08-12%2019-50-41.png)
+![](https://ibb.co/Dgfbbj9)
 
-![](https://github.com/caglayandemirci/QuadtreeJava/blob/master/Screenshot%20from%202019-08-12%2019-50-43.png)
+![](https://ibb.co/51yMHdp)
 
 Bu program temelinde istenen şekilde filtreleme yapılabilir. Ben bir monochromatic (grileştirme / siyah-beyazlaştırma, *Greyscale*) bir de negatifleştirme yazdım.
 
-![](https://github.com/caglayandemirci/QuadtreeJava/blob/master/Screenshot%20from%202019-08-12%2019-50-48.png)
+![](https://ibb.co/9y1fpy0)
 
-![](https://github.com/caglayandemirci/QuadtreeJava/blob/master/Screenshot%20from%202019-08-12%2019-50-49.png)
+![](https://ibb.co/nwqvMvV)
 
 Bir de edge detection diye bir işlem var, bu da kayda değer bir data değişikliği olduğunda görselin ilgili kısımlarını beyaz ile işaretliyor. Bu işlem, büyük görsel datalarını analiz eden programlar için (yani *introduction to big data science on images* desek abartmış olmayız) kullanılabiliyor.
 
-![](https://github.com/caglayandemirci/QuadtreeJava/blob/master/Screenshot%20from%202019-08-12%2019-50-50.png)
+![](https://ibb.co/1J9wqqF)
 
 README ve kodlar:
 
