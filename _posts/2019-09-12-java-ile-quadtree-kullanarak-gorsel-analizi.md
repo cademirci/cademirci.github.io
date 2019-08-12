@@ -40,6 +40,7 @@ Bir de edge detection diye bir işlem var, bu da kayda değer bir data değişik
 
 ![](https://i.ibb.co/5x5f88b/Screenshot-from-2019-08-12-19-50-50.png)
 
+<br><br>
 README ve kodlar:
 
 **README.txt**:
