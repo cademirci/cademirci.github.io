@@ -6,35 +6,35 @@ Program uzun süre çalışıyor, muhtemelen çok fazla String analizi kodu yazd
 
 Görev ile birlikte verilen PPM görsel dosyası olan kız çocuğu resmi:
 
-![](https://ibb.co/PQmQRrf)
+![](https://i.ibb.co/3zrzwTL/Screenshot-from-2019-08-12-19-50-46.png)
 
 Resmi programı çalıştırarak analiz ettiğimde ortaya çıkan görseller ise şunlar (program tam istediğim şekilde çalışıyor):
 
-![](https://ibb.co/R7Rpzfm)
+![](https://i.ibb.co/d780GFq/Screenshot-from-2019-08-12-19-50-33.png)
 
-![](https://ibb.co/R9VKbMJ)
+![](https://i.ibb.co/vHKWqrM/Screenshot-from-2019-08-12-19-50-36.png)
 
-![](https://ibb.co/gvFsftv)
+![](https://i.ibb.co/WDpSMBD/Screenshot-from-2019-08-12-19-50-38.png)
 
-![](https://ibb.co/HNzMstV)
+![](https://i.ibb.co/VHShZgt/Screenshot-from-2019-08-12-19-50-39.png)
 
-![](https://ibb.co/4SfBjt8)
+![](https://i.ibb.co/rptnZ0x/Screenshot-from-2019-08-12-19-50-39-1.png)
 
-![](https://ibb.co/c1QpKTd)
+![](https://i.ibb.co/JKHbWkP/Screenshot-from-2019-08-12-19-50-40.png)
 
-![](https://ibb.co/Dgfbbj9)
+![](https://i.ibb.co/PzGYYVc/Screenshot-from-2019-08-12-19-50-41.png)
 
-![](https://ibb.co/51yMHdp)
+![](https://i.ibb.co/Rgmvw1r/Screenshot-from-2019-08-12-19-50-43.png)
 
 Bu program temelinde istenen şekilde filtreleme yapılabilir. Ben bir monochromatic (grileştirme / siyah-beyazlaştırma, *Greyscale*) bir de negatifleştirme yazdım.
 
-![](https://ibb.co/9y1fpy0)
+![](https://i.ibb.co/nQYVwQy/Screenshot-from-2019-08-12-19-50-48.png)
 
-![](https://ibb.co/nwqvMvV)
+![](https://i.ibb.co/zmWYVYL/Screenshot-from-2019-08-12-19-50-49.png)
 
 Bir de edge detection diye bir işlem var, bu da kayda değer bir data değişikliği olduğunda görselin ilgili kısımlarını beyaz ile işaretliyor. Bu işlem, büyük görsel datalarını analiz eden programlar için (yani *introduction to big data science on images* desek abartmış olmayız) kullanılabiliyor.
 
-![](https://ibb.co/1J9wqqF)
+![](https://i.ibb.co/5x5f88b/Screenshot-from-2019-08-12-19-50-50.png)
 
 README ve kodlar:
 
