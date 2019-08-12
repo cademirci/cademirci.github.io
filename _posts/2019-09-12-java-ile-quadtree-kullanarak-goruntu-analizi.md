@@ -4,7 +4,41 @@ Gerekli olan bütün bilgiler şu pdf'ten okunabilir: [Assignment4SM19.pdf](http
 
 Program uzun süre çalışıyor, muhtemelen çok fazla String analizi kodu yazdığım için. Umarım bir ara bu koda geri dönüp bir iyileştirme yapacağım. Upgrade geldiği zaman buraya onu da not ederim.
 
-![](https://raw.githubusercontent.com/caglayandemirci/QuadtreeJava/master/cmpr-1.ppm)
+Görev ile birlikte verilen PPM görsel dosyası olan kız çocuğu resmi:
+
+![](https://github.com/caglayandemirci/QuadtreeJava/blob/master/Screenshot%20from%202019-08-12%2019-50-46.png)
+
+Resmi programı çalıştırarak analiz ettiğimde ortaya çıkan görseller ise şunlar (program tam istediğim şekilde çalışıyor):
+
+![](https://github.com/caglayandemirci/QuadtreeJava/blob/master/Screenshot%20from%202019-08-12%2019-50-33.png)
+
+![](https://github.com/caglayandemirci/QuadtreeJava/blob/master/Screenshot%20from%202019-08-12%2019-50-36.png)
+
+![](https://github.com/caglayandemirci/QuadtreeJava/blob/master/Screenshot%20from%202019-08-12%2019-50-38.png)
+
+![](https://github.com/caglayandemirci/QuadtreeJava/blob/master/Screenshot%20from%202019-08-12%2019-50-39.png)
+
+![](https://github.com/caglayandemirci/QuadtreeJava/blob/master/Screenshot%20from%202019-08-12%2019-50-39%20-%201.png)
+
+![](https://github.com/caglayandemirci/QuadtreeJava/blob/master/Screenshot%20from%202019-08-12%2019-50-40.png)
+
+![](https://github.com/caglayandemirci/QuadtreeJava/blob/master/Screenshot%20from%202019-08-12%2019-50-41.png)
+
+![](https://github.com/caglayandemirci/QuadtreeJava/blob/master/Screenshot%20from%202019-08-12%2019-50-43.png)
+
+Bu program temelinde istenen şekilde filtreleme yapılabilir. Ben bir monochromatic (grileştirme / siyah-beyazlaştırma, *Greyscale*) bir de negatifleştirme yazdım.
+
+![](https://github.com/caglayandemirci/QuadtreeJava/blob/master/Screenshot%20from%202019-08-12%2019-50-48.png)
+
+![](https://github.com/caglayandemirci/QuadtreeJava/blob/master/Screenshot%20from%202019-08-12%2019-50-49.png)
+
+Bir de edge detection diye bir işlem var, bu da kayda değer bir data değişikliği olduğunda görselin ilgili kısımlarını beyaz ile işaretliyor. Bu işlem, büyük görsel datalarını analiz eden programlar için (yani *introduction to big data science on images* desek abartmış olmayız) kullanılabiliyor.
+
+![](https://github.com/caglayandemirci/QuadtreeJava/blob/master/Screenshot%20from%202019-08-12%2019-50-50.png)
+
+README ve kodlar:
+
+**README.txt**:
 
     Name:
 
