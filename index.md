@@ -9,6 +9,8 @@ title: Çağlayan Demirci
 
 ~$ Java dilinde QuadTree veri yapısı kullanarak Image Processing'e bir giriş. .ppm formatında verilen bir görseli bir piksel küçüklüğüne inene kadar dörde bölerek her düzeyde renk ortalaması analiz edebilmek. Veri yapısını her düzeyde kayda değer veri değişikliğini göz önüne alarak genişletmek. [https://github.com/caglayandemirci/QuadtreeJava](https://github.com/caglayandemirci/QuadtreeJava)
 
+Aynı programı siteden incelemek isteyenler için: [Java İle Quadtree Kullanarak Görsel analizi](caglayandemirci.github.io/2019-09-12-java-ile-quadtree-kullanarak-gorsel-analizi)
+
 Buradan sonra Github'a koyulacak kadar büyük olmayan birkaç kod var. Sitemde bir sayfa olarak kaydediyorum, kodları oradan inceleyip kopyalayabilirsiniz:
 
 ~$ Exiftool datası kullanan bir parça Python kodu: [Python İle Exiftool Kullanarak Dosya Sıralama](caglayandemirci.github.io/python-ile-exiftool-kullanarak-dosya-siralama)
