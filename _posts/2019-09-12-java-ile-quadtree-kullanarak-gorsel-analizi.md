@@ -4,6 +4,7 @@ Gerekli olan bütün bilgiler şu pdf'ten okunabilir: [Assignment4SM19.pdf](http
 
 Program uzun süre çalışıyor, muhtemelen çok fazla String analizi kodu yazdığım için. Umarım bir ara bu koda geri dönüp bir iyileştirme yapacağım. Upgrade geldiği zaman buraya onu da not ederim.
 
+<br><br>
 Görev ile birlikte verilen PPM görsel dosyası olan kız çocuğu resmi:
 
 ![](https://i.ibb.co/3zrzwTL/Screenshot-from-2019-08-12-19-50-46.png)
@@ -26,12 +27,14 @@ Resmi programı çalıştırarak analiz ettiğimde ortaya çıkan görseller ise
 
 ![](https://i.ibb.co/Rgmvw1r/Screenshot-from-2019-08-12-19-50-43.png)
 
+<br><br>
 Bu program temelinde istenen şekilde filtreleme yapılabilir. Ben bir monochromatic (grileştirme / siyah-beyazlaştırma, *Greyscale*) bir de negatifleştirme yazdım.
 
 ![](https://i.ibb.co/nQYVwQy/Screenshot-from-2019-08-12-19-50-48.png)
 
 ![](https://i.ibb.co/zmWYVYL/Screenshot-from-2019-08-12-19-50-49.png)
 
+<br><br>
 Bir de edge detection diye bir işlem var, bu da kayda değer bir data değişikliği olduğunda görselin ilgili kısımlarını beyaz ile işaretliyor. Bu işlem, büyük görsel datalarını analiz eden programlar için (yani *introduction to big data science on images* desek abartmış olmayız) kullanılabiliyor.
 
 ![](https://i.ibb.co/5x5f88b/Screenshot-from-2019-08-12-19-50-50.png)
