@@ -6,7 +6,7 @@ tags: ['bilgisayar bilimleri', 'python']
 
 ## Python İle Exiftool Kullanarak Dosya Sıralama
 
-Exiftool adlı araç, herhangi bir dosyanın bütün özelliklerini, dosya türünü, en son ne zaman değiştirildiğini ve buna benzer bütün geçmişini ekrana getiren bir yazılım. Python kullanarak, bu yazılımın bize verdiği verilerden (*data*) yararlanarak, bir klasörde dosyaları hangi dosyanın ne zaman değiştirilmiş olduğuna göre sıralayabiliriz. Bu işlem, basit gibi ya da çoğu işletim siteminde zaten default olarak görülebiliyor gibi düşünülebilir. Ama siber güvenlik stajyerlerine yazdırılan temel kodlardan biridir: Bir kullanıcı tarafından hangi işlemin ne zaman yapıldığının takibi, büyük bir veridir.
+Exiftool adlı araç, herhangi bir dosyanın bütün özelliklerini, dosya türünü, en son ne zaman değiştirildiğini ve buna benzer bütün geçmişini ekrana getiren bir yazılım. Python kullanarak, bu yazılımın bize verdiği verilerden (*data*) yararlanarak, bir klasörde dosyaları hangi dosyanın ne zaman değiştirilmiş olduğuna göre sıralayabiliriz. Bu işlem, basit gibi ya da çoğu işletim siteminde zaten default olarak görülebiliyor gibi düşünülebilir. Ama siber güvenlik alanında temel kodlardan biri olarak yazdırılabilir: Bir kullanıcı tarafından hangi işlemin ne zaman yapıldığının takibi, büyük bir veridir.
 
 **README file**:
 
