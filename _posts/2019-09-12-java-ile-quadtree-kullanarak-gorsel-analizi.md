@@ -9,6 +9,7 @@ Görev ile birlikte verilen PPM görsel dosyası olan kız çocuğu resmi:
 
 ![](https://i.ibb.co/3zrzwTL/Screenshot-from-2019-08-12-19-50-46.png)
 
+<br><br>
 Resmi programı çalıştırarak analiz ettiğimde ortaya çıkan görseller ise şunlar (program tam istediğim şekilde çalışıyor):
 
 ![](https://i.ibb.co/d780GFq/Screenshot-from-2019-08-12-19-50-33.png)
