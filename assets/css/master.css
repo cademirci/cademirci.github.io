@@ -61,7 +61,7 @@ markdown-body p {
 img {
     margin: 0 auto;
     display: block;
-    max-width: 850px;
+    max-width: 85vw;
 }
 
 img.icon_image {
