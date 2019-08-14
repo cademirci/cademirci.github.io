@@ -38,6 +38,7 @@ markdown-body p {
     max-width: 850px;
     margin: 20px auto;
     padding: 15px;
+    border: 1px solid red;
 }
 
 
@@ -61,7 +62,7 @@ markdown-body p {
 img {
     margin: 0 auto;
     display: block;
-    max-width: 85vw;
+    max-width: 100%;
 }
 
 img.icon_image {
