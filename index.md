@@ -15,7 +15,7 @@ Buradan sonra Github'a koyulacak kadar büyük olmayan birkaç kod var. Sitemde 
 
 ~$ Exiftool datası kullanan bir parça Python kodu: [Python İle Exiftool Kullanarak Dosya Sıralama](caglayandemirci.github.io/python-ile-exiftool-kullanarak-dosya-siralama)
 
-~$ Linux için Python ile yazılmış bir GitHub sayfası otomasyonu: [Linux'ta Ptyhon İle GitHub Page Otomasyonu](2019-08-20-linux'ta-ptyhon-ile-github-page-otomasyonu)
+~$ Linux için Python ile yazılmış bir GitHub sayfası otomasyonu: [Linux'ta Ptyhon İle GitHub Page Otomasyonu](caglayandemirci.github.io/linux'ta-ptyhon-ile-github-page-otomasyonu)
 
 ~$ Bu sayfa için eğlence amaçlı yazdığım tepedeki eklentinin kodları: [Javascript İle Scroll Control Eklentisi](caglayandemirci.github.io/javascript-ile-scroll-control-eklentisi)
 
