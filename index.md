@@ -12,7 +12,6 @@ title: Çağlayan Demirci
 Aynı programı siteden incelemek isteyenler için: [Java İle Quadtree Kullanarak Görsel analizi](caglayandemirci.github.io/java-ile-quadtree-kullanarak-gorsel-analizi)
 
 <br><br>
-...
 Buradan sonra Github'a koyulacak kadar büyük olmayan birkaç kod var. Sitemde bir sayfa olarak kaydediyorum, kodları oradan inceleyip kopyalayabilirsiniz:
 
 ~$ Exiftool datası kullanan bir parça Python kodu: [Python İle Exiftool Kullanarak Dosya Sıralama](caglayandemirci.github.io/python-ile-exiftool-kullanarak-dosya-siralama)
