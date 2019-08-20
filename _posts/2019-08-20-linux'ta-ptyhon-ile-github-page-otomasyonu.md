@@ -25,7 +25,7 @@ On Linux terminal:
 
     ~$ ghp My New Post About Something
 
-After type that, a markdown file with usage date as *2019-08-20-my-new-post-about-something.md* apprears in the GitHub Page's *_posts* directory, filled within:
+After type that, a markdown file with usage date as *2019-08-20-my-new-post-about-something.md* appears in the GitHub Page's *_posts* directory, filled within:
 
     ---
     layout: post
