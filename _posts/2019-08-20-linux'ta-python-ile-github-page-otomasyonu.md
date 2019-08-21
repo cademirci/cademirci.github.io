@@ -14,10 +14,13 @@ Linux işletim sistemi kullanan ve sık sık GitHub güncelleyenler için temel 
 
 You may want to edit ~/.bashrc as I do:
 
+    alias gh='cd ~/ThePage/caglayandemirci.github.io'
+    # (g)it(h)ub(p)age
     alias ghp='cd ~/ThePage/caglayandemirci.github.io/_posts && python3 ~/ThePage/AutomatePage.py'
+    # (g)it(h)ub(p)age(p)ush
     alias ghpp='gh && python3 ~/ThePage/AutomaticPush.py'
 
-You have to edit your paths according to yout GitHub Repository directory in your system machine.
+You have to edit your paths according to your GitHub Repository directory in your system machine.
 
 ### Usage
 
