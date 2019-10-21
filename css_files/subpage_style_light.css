@@ -2,7 +2,7 @@ body {
 	margin: 0;
 	background: #fff;
 	font-family: Ubuntu_Regular, ubuntu;
-	font-size: 0.85em;
+	font-size: 0.9em;
 	line-height: 1.2;
 	color: #1a1a1a;
 	border-top: 3px solid #666;
@@ -15,7 +15,7 @@ body {
 	max-width: 750px;
 	margin: 128px auto;
 	padding: 20px;
-	border: 1px solid #fdfdfd;
+	border: 1px solid #ddd;
 }
 
 /* coding */
@@ -61,7 +61,7 @@ a:visited,
 .markdown-body a,
 .markdown-body a:visited {
 	text-decoration: none;
-	color: #9900cc;
+	color: #333399;
 }
 
 a:hover,
@@ -69,5 +69,5 @@ a:visited:hover,
 .markdown-body a:hover,
 .markdown-body a:visited:hover {
 	text-decoration: none;
-	color: bf00ff;
+	color: #4040bf;
 }
