@@ -11,4 +11,11 @@ title: Tasarım Dokümantasyonu
 
 ### Front-end
 
+## Version Delta
+
 Çeşitli bölümlerin (*div*) arka planları siyah (#000) ve siyaha yakın koyu grinin üç tonundan (#121314), (#161718), (#191919) oluşuyor. Temel yazı (*text*) çok az grileştirilmiş buz beyazı (#f2f3f4). İkincil renk ise yeşil (#00994d). Bir yandan teknolojiden, yazılımdan bahseden platformlarda siyah ve yeşilin kullanıldığı klasik algıya uyuyor, hem de koyu-gri yeşil tema, Spotify'ın da gayet farkında olduğu gibi, sayfalara yumuşak ve sıcak bir görünüm kazandırıyor.
+
+## Version DeltaBeta
+
+- Yeşilden turkuaz-yeşile (#00cc99) geçildi.
+- Font değiştirildi: Open Sans geniş bir yazı görünümü sunuyordu, artık Source Sans Pro kullanılıyor.

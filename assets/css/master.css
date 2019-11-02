@@ -10,7 +10,6 @@ body {
 body p, p,
 markdown-body p {
     font-family: caglayandemirci_SSP, Open Sans, sans-serif;
-    font-size: 0.96em;
     line-height: 1.5;
 } @font-face {
 	font-family: caglayandemirci_SSP;
@@ -57,7 +56,6 @@ markdown-body p {
 .title {
     font-family: caglayandemirci_SourceCode;
     font-weight: bold;
-    font-size: 20px;
     letter-spacing: 2px;
 }
 
@@ -74,13 +72,15 @@ img.icon_image {
     width: 100px;
 }
 
+/* old theme: #00994d */
+
 a,
 a:visited {
-    color: #00994d;
+    color: #00cc99;
     text-decoration: none;
 }
 a:hover {
-    color: #00b359;
+    color: #00ffbf;
     text-decoration: none;
 }
 
