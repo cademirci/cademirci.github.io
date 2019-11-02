@@ -9,12 +9,12 @@ body {
 /* font, typography */
 body p, p,
 markdown-body p {
-    font-family: caglayandemirci_Open-Sans, Open Sans, sans-serif;
+    font-family: caglayandemirci_SSP, Open Sans, sans-serif;
     font-size: 0.96em;
     line-height: 1.5;
 } @font-face {
-	font-family: caglayandemirci_Open-Sans;
-	src: url(fonts/Open-Sans/OpenSans-Regular.ttf);
+	font-family: caglayandemirci_SSP;
+	src: url(fonts/Source_Sans_Pro/SourceSansPro-Regular.ttf);
 }
 
 /* second font: for codes, title, etc. */
@@ -23,7 +23,9 @@ markdown-body p {
 	src: url(fonts/SourceCodePro/SourceCodePro-Regular.ttf);
 }
 
-/* Open Sans Light for site title */
+/* Open Sans Light for site title
+--updated-- (not anymore)
+*/
 @font-face {
 	font-family: caglayandemirci_OSLight;
 	src: url(fonts/Open-Sans/OpenSans-Light.ttf);
@@ -53,8 +55,9 @@ markdown-body p {
     margin: 5px auto;
 }
 .title {
-    font-family: caglayandemirci_OSLight;
+    font-family: caglayandemirci_SourceCode;
     font-weight: bold;
+    font-size: 20px;
     letter-spacing: 2px;
 }
 
