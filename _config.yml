@@ -29,6 +29,7 @@ collections:
     - projects
 
 # May be I will activate this later.
+# But now I did it in .git/info/exclude
 #exclude:
 #  - .sass-cache/
 #  - .jekyll-cache/
