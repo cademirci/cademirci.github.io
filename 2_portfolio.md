@@ -10,7 +10,7 @@ navlink_name: Portfolio
 
 <img src="/assets/images/iconcs.png" class="title_image">
 
-<div class="skills" id="django_and_leaflet" active='false'>
+<div class="skills" id="skills_django_and_leaflet" active='false'>
     <a id='django'>DJANGO</a>
     <a id='leaflet'>LEAFLET.JS</a>
 </div>

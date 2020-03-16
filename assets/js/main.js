@@ -38,6 +38,12 @@ window.addEventListener('load', () => {
                         ;
                     {% endif %}
                 }
+                if (this.getAttribute('id') == 'skills_django_and_leaflet') {
+                    {% if project.name == "django&leaflet" %}
+                        description += '{{ project.title }}'
+                        ;
+                    {% endif %}
+                }
                 if (this.getAttribute('id') == 'skills_jquery') {
                     {% if project.name == "jquery" %}
                         description += '{{ project.description }}'
