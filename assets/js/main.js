@@ -6,7 +6,7 @@ window.addEventListener('load', () => {
 
     var navlinks = document.querySelectorAll('.navlink');
     for (var i = 0; i < navlinks.length; i++) {
-        navlinks[i].addEventListener('click', function(e) {
+        navlinks[i].addEventListener('mousedown', function(e) {
             let anchor = this.getAttribute('data-scroll-top');
             jump(anchor);
         })
