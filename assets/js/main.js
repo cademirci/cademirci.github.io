@@ -71,7 +71,7 @@ window.addEventListener('load', () => {
         })
     }
 
-    document.querySelector('.menu_box').addEventListener('mouseenter', function(e) {
+    document.querySelector('.menu_box').addEventListener('click', function(e) {
         var lines = e.target.children;
         var navBox = document.querySelector('.navbox');
 
@@ -79,7 +79,7 @@ window.addEventListener('load', () => {
         for (var i = 0; i < lines.length; i++) {
             lines[i].style.borderColor = '#000';
         }
-        document.addEventListener('click', function(event) {
+        document.addEventListener('mousedown', function(event) {
             navBox.style.display = 'none';
             for (var i = 0; i < lines.length; i++) {
                 lines[i].style.borderColor = '#ccc';
