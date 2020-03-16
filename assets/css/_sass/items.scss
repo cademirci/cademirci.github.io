@@ -1,0 +1,83 @@
+// not related to general design and apprearance of the page
+// but style of the specific elements.
+
+.default_button {
+    background: $background-color;
+    border: 3px solid $grey-color;
+    border-radius: 7px;
+    padding: 7px 10px;
+    color: $brand-color;
+    font-size: 1.1em;
+    display: block;
+    margin: $centered;
+    cursor: pointer;
+}
+
+.github_link {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    margin: $margin-gaps;
+}
+.github_link img {
+    height: 42px;
+}
+.skills {
+    text-align: center;
+    padding-bottom: 25px;
+    color: $brand-color;
+    font-weight: bold;
+    cursor: pointer;
+    > a {
+        padding-bottom: 5px;
+        margin: 0 10px;
+        border: none;
+    }
+}
+.skills:last-child {
+    padding-bottom: 45px;
+}
+.skills[active="true"] {
+    > a {
+        border-bottom: 3px solid $second-color;
+    }
+}
+.tools {
+    font-size: .9em;
+    font-family: $code-font;
+    color: $second-color;
+}
+
+.projects {
+    display: block;
+    // border: 1px solid red;
+    margin: $margin-gaps;
+}
+.horizontal {
+    display: flex;
+    justify-content: center;
+}
+
+.title_image {
+    height: 64px;
+    display: block;
+    margin: 20px auto;
+}
+.social_media_bar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: $margin-gaps;
+}
+.social_media_icon {
+    height: 64px;
+    margin: 0 5px;
+    border: 3px solid $grey-color;
+    border-radius: 50%;
+}
+.mail_address {
+    text-align: center;
+    color: lighten($grey-color, 42%);
+    font-size: 1.4em;
+    padding-bottom: 25px;
+}

@@ -1,9 +1,48 @@
+
 encoding: UTF-8
+title: Çağlayan Demirci
+email: demircicaglayan13@gmail.com
+description: >-
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+baseurl: ""
+url: ""
+permalink: /:title
+twitter_username: cademirci
+github_username: cademirci
+instagram_username: cademirci
+sass:
+    load_paths: assets/css/_sass
+defaults:
+  - scope: # static files
+      path: "assets/images"
+    values:
+      image: true
 
-permalink: /:categories/:title
+plugins:
+  - jekyll-feed # RSS feed
+  - jekyll-sitemap
+  - jekyll-seo-tag # Google analytics
 
-excerp_seperator: <!--more-->
-
-include: ['.htaccess']
-
-
+collections:
+    - projects
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+#exclude:
+#  - .sass-cache/
+#  - .jekyll-cache/
+#  - gemfiles/
+#  - Gemfile
+#  - Gemfile.lock
+#  - node_modules/
+#  - vendor/bundle/
+#  - vendor/cache/
+#  - vendor/gems/
+#  - vendor/ruby/

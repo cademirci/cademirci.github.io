@@ -1,13 +1,9 @@
-<!DOCTYPE html>
-<html>
-	{% include head.html %}
-	<body>
-		{% include header.html %}
-		<div class="markdown_zone">
-			<!-- ! -->
-			<article class="markdown-body">{{ content }}</article>
-			<!-- ! -->
-		</div>
-		{% include footer.html %}
-	</body>
-</html>
+{% include head.html %}
+<body>
+    <div class="default_header"></div>
+    {% include panel.html %}
+    <div class="content_container">
+        {{ content }}
+    </div>
+    {% include footer.html %}
+</body>

@@ -1,0 +1,24 @@
+{% include head.html %}
+<body>
+    <div class="home_header">
+        <p class="name_sentence">
+            Hi, I am <span class="name">Çağlayan Demirci</span>. <br>
+            I like to learn, design and build <br> things.
+        </p>
+    </div>
+    {% include panel.html %}
+    <div class="content_container">
+        {{ content }}
+    </div>
+    {% for page in site.pages %}
+        {% if page.is_navlink %}
+            <div class="content_wrapper">
+                <div class="content_container">
+                    <h1 id='{{ page.title | downcase | replace: " ", "-" }}'>{{ page.anchor }}</h1>
+                    {{ page.content }}
+                </div>
+            </div>
+        {% endif %}
+    {% endfor %}
+    {% include footer.html %}
+</body>

@@ -1,0 +1,210 @@
+.home_header { background-image: url('/assets/images/asteroid.png'); }
+.default_header { background-image: url('/assets/images/planets.png'); }
+
+// ================================ HEADER WITHOUT PANEL
+.home_header,
+.default_header {
+    height: 50vh;
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.name_sentence {
+    color: #666;
+    font-size: 42px;
+    left: 42px;
+    letter-spacing: normal;
+    position: absolute;
+
+    > span.name {
+        color: $text-color;
+    }
+
+    @media only screen and (max-width: 1250px) {
+        font-size: 24px;
+        right: 15px;
+        left: auto;
+        text-align: right;
+    }
+}
+#page_def {
+    color: #999;
+}
+// ================================ END
+
+.content_wrapper {
+    width: 100%;
+    padding: 150px 0;
+}
+.content_container {
+    max-width: $content-inner-width;
+    margin: auto;
+    padding: calc(2 * #{$padding-gap});
+}
+.reading_area {
+    background: lighten($background-color, 3%);
+    margin-top: 1px;
+    letter-spacing: 1px;
+    line-height: 1.6;
+    font-size: 1.1em;
+    > pre {
+        letter-spacing: 0;
+    }
+}
+
+// ================================ PANEL
+.panel_container {
+    background: $panel-color;
+    -webkit-box-shadow: 0px 2px 2px 0px rgba(12,12,12,0.75);
+    -moz-box-shadow: 0px 2px 2px 0px rgba(0,0,0,0.75);
+    box-shadow: 0px 2px 2px 0px rgba(12,12,12,0.75);
+}
+.panel {
+    max-width: $panel-inner-width;
+    margin: auto;
+    padding: $padding-gap;
+    > div {
+        width: 33%;
+        > div {
+            width: 50;
+        }
+        > p {
+            color: $text-color;
+            margin: 0;
+            padding: 0;
+        }
+    }
+}
+.panel, .cell {
+    display: flex;
+}
+
+#c1 {
+    cursor: pointer;
+    position: relative;
+}
+#c1_pad {
+    color: $panel-color;
+}
+
+#c2 {
+    font-family: $code-font, monospace;
+    font-size: .85em;
+    color: $second-color;
+    cursor: n-resize;
+    display: block;
+    // flexbox text-align does not work even if
+    // justify-content is space-between without
+    // writing display block. I do not know why.
+    text-align: center;
+}
+
+#c3 {
+    display: block;
+    text-align: right;
+    position: relative;
+}
+.navlink {
+    cursor: pointer;
+}
+
+.arrow {
+    right: calc(50% - 11px);
+    transform: translate(-50%, -50%);
+    top: 10;
+    position: fixed;
+    z-index: 10;
+    font-size: 24px;
+    color: $second-color;
+    cursor: n-resize;
+}
+
+// ============ PANEL phone screen
+
+.menu_box {
+    display: none;
+    height: 24px;
+    text-align: right;
+    position: absolute;
+    top: 0;
+    right: 0;
+    cursor: pointer;
+    > .menu_line {
+        width: 28px;
+        height: 0;
+        border: 1px solid #ccc;
+        margin-bottom: 8px;
+        float: right;
+    }
+    > :last-child {
+        margin-bottom: 0;
+    }
+}
+
+.navbox {
+    display: none;
+    padding: 0 12px 12px 32px;
+    position: absolute;
+    border-radius: 5px;
+    background: $soft-black;
+    top: 28px;
+    right: 0;
+    -webkit-box-shadow: 2px 2px 4px 2px rgba(12,12,12,0.75);
+    -moz-box-shadow: 2px 2px 4px 2px rgba(0,0,0,0.75);
+    box-shadow: 2px 2px 4px 2px rgba(12,12,12,0.75);
+    > a {
+        float: right;
+        margin-top: 15px;
+    }
+}
+
+@media only screen and (max-width: 1000px) {
+    body {
+        font-size: 1em;
+    }
+}
+
+@media only screen and (max-width: 925px) {
+
+    .menu_box {
+        display: block;
+    }
+    .navbarlink {
+        display: none;
+    }
+    .navboxlink {
+        display: block;
+    }
+
+    #page_def {
+        display: none;
+    }
+    #c1 {
+        > p {
+            position: absolute;
+        }
+    }
+}
+// ============ END
+
+// ============ FOOTER
+
+.footer_container {
+    background: $soft-black;
+    border-top: 3px solid $grey-color;
+    display: block;
+}
+.footer_content {
+    max-width: $panel-inner-width;
+    margin: auto;
+    padding: $padding-gap;
+    .social_media_bar {
+        .social_media_icon {
+            height: 32px;
+        }
+    }
+}
+
+// ============ END
+
+// ================================ END

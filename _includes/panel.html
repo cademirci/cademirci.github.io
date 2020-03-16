@@ -1,0 +1,45 @@
+
+<div class="panel_container">
+    <div class="panel">
+        <div class="cell" id="c1">
+            <p>Çağlayan Demirci <span id="page_def">. Personal Page</span></p>
+            <div id="c1_pad">*</div>
+        </div>
+        <div class="cell" id="c2">
+
+        </div>
+        <p class="arrow" id="upArrow">&uarr;</p>
+        <div class="cell" id="c3">
+            {% if page.layout == "home" %}
+                {% for page in site.pages %}
+                    {% if page.is_navlink %}
+                        &emsp;
+                        <a class="navlink navbarlink"
+                           data-scroll-top='#{{ page.title | downcase | replace: " ", "-" }}'>
+                           {{ page.navlink_name }}
+                        </a>
+                    {% endif %}
+                {% endfor %}
+                <div class="menu_box">
+                    <div class="menu_line"></div>
+                    <div class="menu_line"></div>
+                    <div class="menu_line"></div>
+                </div>
+                <div class="navbox">
+                    {% for page in site.pages %}
+                        {% if page.is_navlink %}
+                            &emsp;
+                            <a class="navlink navboxlink"
+                               data-scroll-top='#{{ page.title | downcase | replace: " ", "-" }}'>
+                               {{ page.navlink_name }}
+                            </a>
+                        {% endif %}
+                    {% endfor %}
+                </div>
+            {% else %}
+                <a class="navlink" href="{{ site.url }}">Home</a>
+            {% endif %}
+        </div>
+    </div>
+</div>
+<div class="panel_pad"></div>

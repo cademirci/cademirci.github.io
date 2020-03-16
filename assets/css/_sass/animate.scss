@@ -1,0 +1,44 @@
+a {
+    color: $brand-color;
+    transition: .5s;
+}
+a:hover {
+    color: $text-color;
+}
+
+a.navlink { color: $text-color; } // reverse
+a.navlink:hover { color: $brand-color; }
+
+.menu_line {
+    transition: .5s;
+}
+.menu_box:hover {
+    > div {
+        border-color: $brand-color;
+    }
+}
+
+.arrow {
+    transition: .5s;
+}
+#c2:hover + #upArrow {
+    color: $text-color;
+}
+
+.navbox {
+    transition: .5s;
+}
+
+.default_button {
+    transition: .5s;
+}
+.default_button:hover {
+    border-color: $brand-color;
+}
+
+.social_media_icon {
+    transition: .5s;
+}
+.social_media_icon:hover {
+    border-color: $brand-color;
+}

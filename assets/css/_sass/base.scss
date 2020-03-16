@@ -1,0 +1,59 @@
+html {
+    scroll-behavior: smooth;
+}
+body {
+    margin: 0;
+    background: $background-color;
+    color: $text-color;
+    font-family: $main-font;
+    letter-spacing: 0.5px;
+    line-height: 1.5;
+}
+
+a,
+a:hover,
+a:visited,
+a:visited:hover  {
+    text-decoration: none;
+}
+
+h1, h2, h3,
+h4, h5, h6 {
+    font-family: $code-font;
+}
+
+h1 {
+    font-size: 2.2em;
+    font-family: $code-font;
+    text-align: center;
+}
+
+h2 {
+    font-size: 1.6em;
+} h2::before {
+    content: "_ ";
+    font-size: 15px;
+    color: $second-color;
+}
+
+h3 {
+    font-size: 1.3em;
+} h3::before {
+    content: "__ ";
+    font-size: 15px;
+    color: $second-color;
+}
+
+h4 {
+    font-size: 1.3em;
+} h4::before {
+    content: "___ ";
+    font-size: 15px;
+    color: $second-color;
+}
+
+blockquote {
+    padding: 10px 10px 10px 25px;
+    background: darken($background-color, 5%);
+    border-left: 3px solid darken($second-color, 25%);
+}
