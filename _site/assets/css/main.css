@@ -44,6 +44,8 @@ blockquote { padding: 10px 10px 10px 25px; background: #1f1f1f; border-left: 3px
 
 .content_container { max-width: 800px; margin: auto; padding: calc(2 * 10px); }
 
+.content_container img { max-width: 100%; }
+
 .reading_area { background: #343434; margin-top: 1px; letter-spacing: 1px; line-height: 1.6; font-size: 1.1em; }
 
 .reading_area > pre { letter-spacing: 0; }

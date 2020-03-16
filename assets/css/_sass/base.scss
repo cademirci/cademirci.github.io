@@ -57,3 +57,7 @@ blockquote {
     background: darken($background-color, 5%);
     border-left: 3px solid darken($second-color, 25%);
 }
+
+img {
+    max-width: 100%;
+}
