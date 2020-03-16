@@ -7,7 +7,7 @@ description: >-
   which is including software I made, information about me and
   some of my blog posts.
 baseurl: ""
-url: ""
+url: "https://cademirci.github.io/"
 permalink: /:title
 twitter_username: cademirci
 github_username: cademirci
