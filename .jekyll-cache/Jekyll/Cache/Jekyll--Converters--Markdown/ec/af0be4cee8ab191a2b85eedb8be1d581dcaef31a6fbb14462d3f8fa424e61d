@@ -1,0 +1,10 @@
+I"´<h1 id="about-me">About Me</h1>
+
+<p><img src="/assets/images/iconab.png" class="title_image" /></p>
+
+<p>As a regular computer science student at university, I work on general programming, hardware and math. Meanwhile, the fields that I am the most enthusiastic about are web technologies and designing. Currently I focus on Javascript frameworks like Node, Vue and Electron.</p>
+
+<!--<button class="default_button" type="button" name="button">GET MY CV</button>-->
+<h3 id="personal">Personal</h3>
+<p>I love to read and watch fantasy arts. Like trekking and walking in the woods. Interested in mythology and cultures, languages and etymology. Listen to heavy metal and drink coffee a lot.</p>
+:ET

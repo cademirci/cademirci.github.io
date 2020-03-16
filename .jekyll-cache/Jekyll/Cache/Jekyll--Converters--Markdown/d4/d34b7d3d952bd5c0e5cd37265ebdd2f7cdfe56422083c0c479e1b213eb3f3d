@@ -1,0 +1,3 @@
+I"<p>Using Liquid in Javascript, Jekyll does not allow you to use <code class="highlighter-rouge">. At least I couldn't find the way.
+I use a frontmatter element `description` instead. Now</code> prints the block above in <code class="highlighter-rouge">main.js</code>.</p>
+:ET

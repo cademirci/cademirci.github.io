@@ -1,0 +1,151 @@
+<head>
+    <title>
+        
+            Python İle Exiftool Kullanarak Dosya Sıralama
+        
+    </title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Çağlayan Demirci" />
+    <!-- Begin Jekyll SEO tag v2.6.1 -->
+<title>Python İle Exiftool Kullanarak Dosya Sıralama | Çağlayan Demirci</title>
+<meta name="generator" content="Jekyll v4.0.0" />
+<meta property="og:title" content="Python İle Exiftool Kullanarak Dosya Sıralama" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Python İle Exiftool Kullanarak Dosya Sıralama" />
+<meta property="og:description" content="Python İle Exiftool Kullanarak Dosya Sıralama" />
+<link rel="canonical" href="http://localhost:4000/python-ile-exiftool-kullanarak-dosya-siralama" />
+<meta property="og:url" content="http://localhost:4000/python-ile-exiftool-kullanarak-dosya-siralama" />
+<meta property="og:site_name" content="Çağlayan Demirci" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2019-08-10T00:00:00+03:00" />
+<script type="application/ld+json">
+{"description":"Python İle Exiftool Kullanarak Dosya Sıralama","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/python-ile-exiftool-kullanarak-dosya-siralama"},"@type":"BlogPosting","url":"http://localhost:4000/python-ile-exiftool-kullanarak-dosya-siralama","headline":"Python İle Exiftool Kullanarak Dosya Sıralama","dateModified":"2019-08-10T00:00:00+03:00","datePublished":"2019-08-10T00:00:00+03:00","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/assets/css/main.css">
+    <link rel="stylesheet" href="/assets/css/ghostcode-style.css">
+    <script type="text/javascript" src='assets/js/main.js'></script>
+    <script type="text/javascript" src='assets/js/panel.js'></script>
+    <script type="text/javascript" src='assets/js/ghostcode.js'></script>
+</head>
+
+<body>
+    <div class="default_header"></div>
+    
+<div class="panel_container">
+    <div class="panel">
+        <div class="cell" id="c1">
+            <p>Çağlayan Demirci <span id="page_def">. Personal Page</span></p>
+            <div id="c1_pad">*</div>
+        </div>
+        <div class="cell" id="c2">
+
+        </div>
+        <p class="arrow" id="upArrow">&uarr;</p>
+        <div class="cell" id="c3">
+            
+                <a class="navlink" href="http://localhost:4000">Home</a>
+            
+        </div>
+    </div>
+</div>
+<div class="panel_pad"></div>
+
+    <div class="reading_area">
+        <div class="content_container">
+            <h2 id="python-i̇le-exiftool-kullanarak-dosya-sıralama">Python İle Exiftool Kullanarak Dosya Sıralama</h2>
+
+<p>Exiftool adlı araç, herhangi bir dosyanın bütün özelliklerini, dosya türünü, en son ne zaman değiştirildiğini ve buna benzer bütün geçmişini ekrana getiren bir yazılım. Python kullanarak, bu yazılımın bize verdiği verilerden (<em>data</em>) yararlanarak, bir klasörde dosyaları hangi dosyanın ne zaman değiştirilmiş olduğuna göre sıralayabiliriz. Bu işlem, basit gibi ya da çoğu işletim siteminde zaten default olarak görülebiliyor gibi düşünülebilir. Ama siber güvenlik alanında temel kodlardan biri olarak yazdırılabilir: Bir kullanıcı tarafından hangi işlemin ne zaman yapıldığının takibi, büyük bir veridir.</p>
+
+<p><strong>README file</strong>:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Author: Çağlayan Demirci
+
+A basic Python program that sorts the files in a given directory by date.
+
+The program uses [Exiftool](https://github.com/exiftool/exiftool) as an assist tool. Exiftool must be exist in the system that sort_by_date.py will be used in.
+
+It takes an absolute path (of the directory) as program argument.
+
+Usage is given below:
+
+```
+    $ python3 sort_by_date.py &lt;directory-path&gt;
+```
+
+When the program is executed, every single file in the directory appears per line from newest to oldest. Then it can be given a file name as user input, which prints all details about the file.
+
+This program is written and executed on Ubuntu. Windows paths may include whitespaces, which causes that the program takes the substring after the whitespace in given line as another argument. When this happens, the program does not run properly.
+</code></pre></div></div>
+
+<p><strong>sort_by_date.py</strong>:</p>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kn">import</span> <span class="nn">sys</span>
+<span class="kn">import</span> <span class="nn">os</span>
+
+
+<span class="k">class</span> <span class="nc">File</span><span class="p">:</span>
+    <span class="k">def</span> <span class="nf">__init__</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">name</span><span class="p">,</span> <span class="n">modification_date</span><span class="p">,</span> <span class="n">details</span><span class="p">):</span>
+        <span class="bp">self</span><span class="o">.</span><span class="n">name</span> <span class="o">=</span> <span class="n">name</span>
+        <span class="bp">self</span><span class="o">.</span><span class="n">modification_date</span> <span class="o">=</span> <span class="n">modification_date</span>
+        <span class="bp">self</span><span class="o">.</span><span class="n">details</span> <span class="o">=</span> <span class="n">details</span>
+
+
+<span class="n">number_of_arguments</span> <span class="o">=</span> <span class="nb">len</span><span class="p">(</span><span class="n">sys</span><span class="o">.</span><span class="n">argv</span><span class="p">)</span>
+<span class="n">path</span> <span class="o">=</span> <span class="s">""</span>
+<span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="mi">1</span><span class="p">,</span> <span class="n">number_of_arguments</span><span class="p">):</span>
+    <span class="n">path</span> <span class="o">=</span> <span class="n">path</span> <span class="o">+</span> <span class="s">"</span><span class="err">\</span><span class="s"> "</span> <span class="o">+</span> <span class="n">sys</span><span class="o">.</span><span class="n">argv</span><span class="p">[</span><span class="n">i</span><span class="p">]</span>
+<span class="n">path</span> <span class="o">=</span> <span class="n">path</span><span class="p">[</span><span class="mi">1</span><span class="p">:]</span>
+<span class="n">files</span> <span class="o">=</span> <span class="p">[]</span>
+<span class="c1"># print(path)
+</span><span class="n">file_list</span> <span class="o">=</span> <span class="n">os</span><span class="o">.</span><span class="n">popen</span><span class="p">(</span><span class="s">"cd "</span> <span class="o">+</span> <span class="n">path</span> <span class="o">+</span> <span class="s">" &amp;&amp; ls"</span><span class="p">)</span><span class="o">.</span><span class="n">read</span><span class="p">()</span>
+<span class="n">file_list</span> <span class="o">=</span> <span class="n">file_list</span><span class="o">.</span><span class="n">splitlines</span><span class="p">()</span>
+<span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span> <span class="nb">len</span><span class="p">(</span><span class="n">file_list</span><span class="p">)):</span>
+    <span class="n">exifed_file</span> <span class="o">=</span> <span class="n">os</span><span class="o">.</span><span class="n">popen</span><span class="p">(</span><span class="s">"cd "</span> <span class="o">+</span> <span class="n">path</span> <span class="o">+</span> <span class="s">" &amp;&amp; exiftool "</span> <span class="o">+</span> <span class="n">file_list</span><span class="p">[</span><span class="n">i</span><span class="p">])</span><span class="o">.</span><span class="n">read</span><span class="p">()</span>
+    <span class="n">f</span> <span class="o">=</span> <span class="n">File</span><span class="p">(</span><span class="s">""</span><span class="p">,</span> <span class="s">""</span><span class="p">,</span> <span class="n">exifed_file</span><span class="p">)</span>
+    <span class="n">exifed_file_details</span> <span class="o">=</span> <span class="n">exifed_file</span><span class="o">.</span><span class="n">splitlines</span><span class="p">()</span>
+    <span class="k">for</span> <span class="n">j</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span> <span class="nb">len</span><span class="p">(</span><span class="n">exifed_file_details</span><span class="p">)):</span>
+        <span class="n">line</span> <span class="o">=</span> <span class="n">exifed_file_details</span><span class="p">[</span><span class="n">j</span><span class="p">]</span>
+        <span class="k">if</span> <span class="n">line</span><span class="p">[:</span><span class="mi">9</span><span class="p">]</span> <span class="o">==</span> <span class="s">"File Name"</span><span class="p">:</span>
+            <span class="n">f</span><span class="o">.</span><span class="n">name</span> <span class="o">=</span> <span class="n">line</span><span class="p">[</span><span class="mi">34</span><span class="p">:]</span>
+        <span class="k">if</span> <span class="n">line</span><span class="p">[:</span><span class="mi">27</span><span class="p">]</span> <span class="o">==</span> <span class="s">"File Modification Date/Time"</span><span class="p">:</span>
+            <span class="n">f</span><span class="o">.</span><span class="n">modification_date</span> <span class="o">=</span> <span class="n">line</span><span class="p">[</span><span class="mi">34</span><span class="p">:]</span>
+    <span class="n">files</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="n">f</span><span class="p">)</span>
+
+<span class="n">files</span><span class="o">.</span><span class="n">sort</span><span class="p">(</span><span class="n">key</span><span class="o">=</span><span class="k">lambda</span> <span class="n">r</span><span class="p">:</span> <span class="n">r</span><span class="o">.</span><span class="n">modification_date</span><span class="p">)</span>
+<span class="n">files</span><span class="o">.</span><span class="n">reverse</span><span class="p">()</span>
+
+<span class="k">print</span><span class="p">(</span><span class="s">"</span><span class="se">\n</span><span class="s">Files in this directory ("</span> <span class="o">+</span> <span class="n">path</span> <span class="o">+</span> <span class="s">")</span><span class="se">\n</span><span class="s">is sorted -from newest to oldest- as: </span><span class="se">\n</span><span class="s">"</span><span class="p">)</span>
+<span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span> <span class="nb">len</span><span class="p">(</span><span class="n">files</span><span class="p">)):</span>
+    <span class="k">if</span> <span class="nb">len</span><span class="p">(</span><span class="n">files</span><span class="p">[</span><span class="n">i</span><span class="p">]</span><span class="o">.</span><span class="n">name</span><span class="p">)</span> <span class="o">!=</span> <span class="mi">0</span><span class="p">:</span>
+        <span class="k">print</span><span class="p">(</span><span class="n">files</span><span class="p">[</span><span class="n">i</span><span class="p">]</span><span class="o">.</span><span class="n">name</span> <span class="o">+</span> <span class="s">", "</span> <span class="o">+</span> <span class="n">files</span><span class="p">[</span><span class="n">i</span><span class="p">]</span><span class="o">.</span><span class="n">modification_date</span><span class="p">)</span>
+
+<span class="k">while</span> <span class="p">(</span><span class="bp">True</span><span class="p">):</span>
+    <span class="k">print</span><span class="p">(</span><span class="s">"</span><span class="se">\n</span><span class="s">You can give a file name to see its details..."</span><span class="p">)</span>
+    <span class="n">command</span> <span class="o">=</span> <span class="nb">input</span><span class="p">()</span>
+    <span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span> <span class="nb">len</span><span class="p">(</span><span class="n">files</span><span class="p">)):</span>
+        <span class="k">if</span> <span class="n">files</span><span class="p">[</span><span class="n">i</span><span class="p">]</span><span class="o">.</span><span class="n">name</span> <span class="o">==</span> <span class="n">command</span><span class="p">:</span>
+            <span class="k">print</span><span class="p">(</span><span class="n">files</span><span class="p">[</span><span class="n">i</span><span class="p">]</span><span class="o">.</span><span class="n">details</span><span class="p">)</span>
+            <span class="k">break</span>
+
+</code></pre></div></div>
+
+        </div>
+    </div>
+    <div class="footer_container">
+    <div class="footer_content">
+        
+        <!--
+        <div class="social_media_bar">
+            <a href="https://github.com/cademirci" target="_blank"><img src="/assets/images/icon_git.png" class="social_media_icon"></a>
+            <a href="https://www.instagram.com/cademirci/" target="_blank"><img src="/assets/images/icon_ins.png" class="social_media_icon"></a>
+            <a href="https://twitter.com/cademirci" target="_blank"><img src="/assets/images/icon_twi.png" class="social_media_icon"></a>
+            <a href="" target="_blank"><img src="/assets/images/icon_lin.png" class="social_media_icon"></a>
+            <a href="" target="_blank"><img src="/assets/images/icon_spo.png" class="social_media_icon"></a>
+        </div>
+        -->
+    </div>
+</div>
+
+</body>

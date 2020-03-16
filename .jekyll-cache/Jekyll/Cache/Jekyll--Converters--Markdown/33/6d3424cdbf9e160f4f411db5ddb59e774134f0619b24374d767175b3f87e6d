@@ -1,0 +1,42 @@
+I"�<h2 id="fout-sorunu">FOUT Sorunu</h2>
+
+<p>Web tasarımı/internet programlama biliminde, FOUT diye adlandırılan bir problem var. <strong>Flash of Unstlyled Text</strong> anlamına geliyor.</p>
+
+<p>FOUT kavramı, tarayıcımızın, web sitesini yüklerken yaşadığı bir gecikmeyi karşılamakta. Tarayıcı web sitesini genel hatlarıyla yüklemişken, <strong>font stack</strong>ten çekemediği ve @font-face ile temsil edilen yazı stilinin yerine, default font stilini okuyucuya çok kısa bir süre için gösterir, ki bu default font stili, özellikle Windows işletim sistemlerinde, <strong>Times New Roman</strong>‘dır. Bu durum en fazla bir saniye sürse de, azıcık web tasarımı derdi olan herkesin gözüne batmak için yeterli.</p>
+
+<h3 id="neden-font-face-property">Neden @font-face property?</h3>
+
+<p>CSS’te font ayarı yapmak için, örneğin yazı stilinizi <strong>Verdana</strong> yapmak için, <code class="highlighter-rouge">font-family: verdana;</code> yazmanız yeterlidir. Ancak bu, bu işin çözümünün en amatörce şeklidir. Windows, Linux ve MacOS işletim sistemlerinin birinde yazdığınız bu satır, diğer ikisi tarafından umursanmayabilir. Tarayıcıdan tarayıcıya da bu satırın değerlendirilmesi farklılık gösterebilir.</p>
+
+<p>Daha profesyonelce bir yöntem olarak; web programlamada, hatrı sayılır sitelerin neredeyse tümünde yazı fontu, bir <strong>True Type Font File</strong> (.ttp) ya da <strong>Open Type Font File</strong> (.otf) ile desteklenir. Bunun için kod şu şekilde yazılır:</p>
+
+<div class="language-css highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nt">p</span> <span class="p">{</span>
+	<span class="nl">font-family</span><span class="p">:</span> <span class="n">Open</span> <span class="n">Sans</span><span class="p">,</span> <span class="n">caglayandemirci_Open-Sans</span><span class="p">;</span>
+<span class="p">}</span> <span class="k">@font-face</span> <span class="p">{</span>
+	<span class="nl">font-family</span><span class="p">:</span> <span class="n">caglayandemirci_Open-Sans</span><span class="p">;</span>
+	<span class="nl">src</span><span class="p">:</span> <span class="sx">url(Open-Sans/OpenSans-Regular.ttf)</span><span class="p">;</span> <span class="c">/* işte bu belge, sitemin yapılandırıcı klasörlerinden birinde duruyor. */</span>
+<span class="p">}</span>
+</code></pre></div></div>
+
+<p>Bunun içindir ki @font-face property, FOUT’a sebep olmak için değer bir tercih.</p>
+
+<h3 id="ne-yapmalı">Ne yapmalı?</h3>
+
+<p><a href="https://stackoverflow.com/questions/4712242/wait-for-fonts-to-load-before-rendering-web-page">StackOverFlow</a>‘da birisi bunun cevabını, “HTML’in içinde CSS yazmak yerine, ayrı yerde tuttuğun bir CSS dosyasına sahip olmalısın” şeklinde vermiş. Ancak bu benim sitem için geçerli değildi, CSS dosyamı her zaman ayrı yazıyor olsam da, ana sayfama her girdiğimde, göz göze gelindiğinde kaçan bir hamamböceği şeklinde bir anda belirip kaybolan bir Times New Roman ile karşılaşıyordum.</p>
+
+<p>Aslında en başta, bu problemin adının FOUT olduğunu bilirseniz işiniz kolay, çözümünüz bir Google aramasına bakar. Ben de bunu öğrenince sorunun en etkili yöntemi olarak bir Javascript kodu buldum. Bu kodun yaptığı tek şey, yazı fontu yüklenene kadar yazıyı gizlemek. Hepi topu üç saniyelik bir boş sayfa, stabil olmayan, uçup kaçarak göz acıtan bir sayfadan çok daha iyidir diye düşünmüşler. Katılıyorum.</p>
+
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">(</span><span class="kd">function</span><span class="p">(){</span>
+		<span class="c1">// if firefox 3.5+, hide content till load (or 3 seconds) to prevent FOUT</span>
+		<span class="kd">var</span> <span class="nx">d</span> <span class="o">=</span> <span class="nb">document</span><span class="p">,</span> <span class="nx">e</span> <span class="o">=</span> <span class="nx">d</span><span class="p">.</span><span class="nx">documentElement</span><span class="p">,</span> <span class="nx">s</span> <span class="o">=</span> <span class="nx">d</span><span class="p">.</span><span class="nx">createElement</span><span class="p">(</span><span class="dl">'</span><span class="s1">style</span><span class="dl">'</span><span class="p">);</span>
+		<span class="k">if</span> <span class="p">(</span><span class="nx">e</span><span class="p">.</span><span class="nx">style</span><span class="p">.</span><span class="nx">MozTransform</span> <span class="o">===</span> <span class="dl">''</span><span class="p">){</span> <span class="c1">// gecko 1.9.1 inference</span>
+		<span class="nx">s</span><span class="p">.</span><span class="nx">textContent</span> <span class="o">=</span> <span class="dl">'</span><span class="s1">body{visibility:hidden}</span><span class="dl">'</span><span class="p">;</span>
+		<span class="kd">var</span> <span class="nx">r</span> <span class="o">=</span> <span class="nb">document</span><span class="p">.</span><span class="nx">getElementsByTagName</span><span class="p">(</span><span class="dl">'</span><span class="s1">script</span><span class="dl">'</span><span class="p">)[</span><span class="mi">0</span><span class="p">];</span>
+		<span class="nx">r</span><span class="p">.</span><span class="nx">parentNode</span><span class="p">.</span><span class="nx">insertBefore</span><span class="p">(</span><span class="nx">s</span><span class="p">,</span> <span class="nx">r</span><span class="p">);</span>
+		<span class="kd">function</span> <span class="nx">f</span><span class="p">(){</span> <span class="nx">s</span><span class="p">.</span><span class="nx">parentNode</span> <span class="o">&amp;&amp;</span> <span class="nx">s</span><span class="p">.</span><span class="nx">parentNode</span><span class="p">.</span><span class="nx">removeChild</span><span class="p">(</span><span class="nx">s</span><span class="p">);</span> <span class="p">}</span>
+		<span class="nx">addEventListener</span><span class="p">(</span><span class="dl">'</span><span class="s1">load</span><span class="dl">'</span><span class="p">,</span><span class="nx">f</span><span class="p">,</span><span class="kc">false</span><span class="p">);</span>
+		<span class="nx">setTimeout</span><span class="p">(</span><span class="nx">f</span><span class="p">,</span><span class="mi">3000</span><span class="p">);</span>
+	<span class="p">}</span>
+<span class="p">})();</span>
+</code></pre></div></div>
+:ET
