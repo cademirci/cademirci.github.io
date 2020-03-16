@@ -40,6 +40,9 @@
     max-width: $content-inner-width;
     margin: auto;
     padding: calc(2 * #{$padding-gap});
+    img {
+        max-width: 100%;
+    }
 }
 .reading_area {
     background: lighten($background-color, 3%);
