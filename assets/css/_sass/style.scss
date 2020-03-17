@@ -1,13 +1,21 @@
-.home_header { background-image: url('/assets/images/asteroid.png'); }
-.default_header { background-image: url('/assets/images/planets.png'); }
 
 // ================================ HEADER WITHOUT PANEL
+.home_header { background-image: url('/assets/images/asteroid.png'); }
+.default_header { background-image: url('/assets/images/planets.png'); }
 .home_header,
 .default_header {
     height: 50vh;
     background-position: right;
     background-repeat: no-repeat;
     background-size: cover;
+}
+@media only screen and (max-width: 925px) {
+    .home_header {
+        height: 35vh;
+    }
+    .default_header {
+        height: 25vh;
+    }
 }
 .name_sentence {
     color: #666;
