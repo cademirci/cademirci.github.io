@@ -42,7 +42,7 @@
     padding: calc(2 * #{$padding-gap});
 }
 .reading_area {
-    background: lighten($background-color, 3%);
+    background: #2e2d2d;
     margin-top: 1px;
     letter-spacing: 1px;
     line-height: 1.6;
@@ -50,6 +50,10 @@
     > pre {
         letter-spacing: 0;
     }
+}
+.reading_area img,
+.reading_area pre {
+    margin: $margin-gaps;
 }
 
 // ================================ PANEL
