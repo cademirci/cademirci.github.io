@@ -94,7 +94,7 @@ window.addEventListener('load', () => {
     })
 
     var wrappers = document.querySelectorAll('.content_wrapper');
-    var colorArray = ['1a1a1a', '1a1a1e', '#060606', '#2e2d2d'];
+    var colorArray = ['1a1a1a', '060606', '#2e2d2d', '#1a1a1e'];
     for (var i = 0; i < wrappers.length; i++) {
         wrappers[i].style.backgroundColor = "" + colorArray[i];
     }
