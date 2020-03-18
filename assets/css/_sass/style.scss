@@ -52,6 +52,7 @@
 .reading_area {
     background: #2e2d2d;
     margin-top: 1px;
+    padding: 75px 0;
     letter-spacing: 1px;
     line-height: 1.6;
     font-size: 1.1em;
@@ -210,9 +211,16 @@
     max-width: $panel-inner-width;
     margin: auto;
     padding: $padding-gap;
+    // padding-bottom: 75px;
+    color: darken($text-color, 25%);
     .social_media_bar {
+        justify-content: flex-end;
         .social_media_icon {
+            border: 2px solid $grey-color;
             height: 32px;
+        }
+        .social_media_icon:hover {
+            border: 2px solid $brand-color;
         }
     }
 }
