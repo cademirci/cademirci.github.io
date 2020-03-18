@@ -92,6 +92,12 @@ window.addEventListener('load', () => {
             }
         })
     })
+
+    var wrappers = document.querySelectorAll('.content_wrapper');
+    var colorArray = ['1a1a1a', '1a1a1e', '#060606', '#2e2d2d'];
+    for (var i = 0; i < wrappers.length; i++) {
+        wrappers[i].style.backgroundColor = "" + colorArray[i];
+    }
 })
 
 function jump(anchor) {
