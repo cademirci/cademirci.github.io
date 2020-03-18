@@ -18,5 +18,5 @@ navlink_name: Contact
 <a href="https://www.instagram.com/cademirci/" target="_blank"><img src="/assets/images/icon_ins.png" class="social_media_icon"></a>
 <a href="https://twitter.com/cademirci" target="_blank"><img src="/assets/images/icon_twi.png" class="social_media_icon"></a>
 <a href="https://github.com/cademirci" target="_blank"><img src="/assets/images/icon_git.png" class="social_media_icon"></a>
-<!--<a href="" target="_blank"><img src="/assets/images/icon_lin.png" class="social_media_icon"></a>-->
+<a href="https://www.linkedin.com/in/%C3%A7a%C4%9Flayan-demirci-741a14199/" target="_blank"><img src="/assets/images/icon_lin.png" class="social_media_icon"></a>
 </div>
