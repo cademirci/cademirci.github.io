@@ -2,7 +2,7 @@
 ---
 {{ site.projects | jsonify }}
 
-window.addEventListener('load', () => {
+window.addEventListener('DOMContentLoaded', () => {
 
     var navlinks = document.querySelectorAll('.navlink');
     for (var i = 0; i < navlinks.length; i++) {
