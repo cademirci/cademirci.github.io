@@ -17,7 +17,7 @@ the same circle:
 -Ohw, this page is too gloomy now. Plus people will think about me a childish web lamer. Let's do this white.<br>
 -This is too bright! In anyway, aren't we coders do code on black IDEs? No eye strain is important. Return to black.<br>
 -This has become a Rock music blog, or a game console. This is unprofessional.<br>
--No, no I don't want to white, Spotify is cool. I will make it black again...
+-No, no I don't want white, Spotify is cool. I will make it black again...
 <br><br><br>
 
 After all these, I have some ideas about it (finally). To speak more analytically, I have to admit that dark backgrounds have some disadvantages:
@@ -37,9 +37,9 @@ article.
 I can say that, as long as some conditions are met, dark theme can be quite used. I am not the authority or a graphic designer of course, but I see it is working when I do these.
 Still I don't know if it is the right way.
 
-1. Never use solid black (#000000) as the whole pages background. Soft shades of black and very dark grays are always better. I use #1a1a1a as a base, sometimes I lighten it a bit.
+1. Never use solid black `#000000` as the whole pages background. Soft shades of black and very dark grays are always better. I use `#1a1a1a` as a base, sometimes I lighten it a bit.
 2. Soft black and boring dark gray are too close to each other. In order to avoid that, some main color contribution may be used. For instance, if you are reading this article on
-my page instead of Medium, background is #1a1a1e (1e means 3 times more than 1a, which are red and green). I think with a so little help of blue, concrete gray tone can be broken.
+my page instead of Medium, background is `#1a1a1e` (1e means 3 times more than 1a, which are red and green). I think with a so little help of blue, concrete gray tone can be broken.
 3. Extra blocks are good. [Documentation of Jekyll](https://jekyllrb.com/docs/) is a good example. They use extra containers just wrap the texts.  
 4. To start with an image, brings a stylish and mysterious sound. White can handle only-text pages, but it is risky when it is black.
 
