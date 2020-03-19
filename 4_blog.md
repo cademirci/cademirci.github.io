@@ -10,7 +10,7 @@ navlink_name: Blog
 
 <img src="/assets/images/iconbl.png" class="title_image">
 
-- [About Dark Design](/about-dark-design) [19.03.2020]
+- [About Dark Page Design](/about-dark-page-design) [19.03.2020]
 
 ### Turkish
 
