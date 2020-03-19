@@ -7,6 +7,10 @@ tags: [web design]
 
 # {{ page.title }}
 
+***
+
+<br><br>
+
 First of all, Lately I have found a [good post](https://1stwebdesigner.com/dark-or-light/) about this on the web. This was before I made this website and I read it carefully.
 
 I like to idea of designing user interfaces and web pages. For a couple of years, my design adventure (not pro though, in the corner of my workspace) has been going on
@@ -14,13 +18,13 @@ the same circle:
 <br><br><br>
 -I have to build light designs. A white background always looks professional.<br>
 -This has become so boring. After all, black backgrounds are stylish.<br>
--Ohw, this page is too gloomy now. Plus people will think about me a childish web lamer. Let's do this white.<br>
+-Ohw, this page is too gloomy now. Plus people will think about me a childish web lamer. Let's make this white.<br>
 -This is too bright! In anyway, aren't we coders do code on black IDEs? No eye strain is important. Return to black.<br>
 -This has become a Rock music blog, or a game console. This is unprofessional.<br>
 -No, no I don't want white, Spotify is cool. I will make it black again...
 <br><br><br>
 
-After all these, I have some ideas about it (finally). To speak more analytically, I have to admit that dark backgrounds have some disadvantages:
+At the end of all these, I have some ideas about it (finally). To speak more analytically, I have to admit that dark backgrounds have some disadvantages:
 
 1. It is too easy to come up with gloomy, cheerless, pages that makes not the eye but the mood tired. To make it not this happen, is hard.
 2. There is always a risk of being unprofessional. Sometimes it looks like you are on a year-2005 lamer hacker forum.
@@ -31,7 +35,7 @@ for people, suddenly it makes sense that why you picked up these cursed colors. 
 
 <br><br><br>
 However, time is changing, dark designs are rising. By the way I am not talking about new theme option of Instagram, or Spotify itself. Because
-these cannot be count among websites completely, these are applications. An application user interface is easier to be dark. Moreover I think they all should be. This is a topic of another
+these cannot be counted among *website* completely, these are applications. An application user interface is easier to be dark. Moreover I think they all should be. This is a topic of another
 article.
 
 I can say that, as long as some conditions are met, dark theme can be quite used. I am not the authority or a graphic designer of course, but I see it is working when I do these.
