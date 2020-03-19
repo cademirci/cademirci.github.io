@@ -61,3 +61,10 @@ blockquote {
 img {
     max-width: 100%;
 }
+
+ul, ol {
+    padding-left: inherit;
+    li {
+        padding: 10px;
+    }
+}

@@ -10,6 +10,8 @@ navlink_name: Blog
 
 <img src="/assets/images/iconbl.png" class="title_image">
 
+- [About Dark Design](/about-dark-design) [19.03.2020]
+
 ### Turkish
 
 Merhaba! Ekşi Sözlük'te içerik üretirken (birkaç yıl oluyor) metal ile ilgili birkaç yazı yazmıştım. İçlerinden Ekşi Şeyler için seçilmiş olanlarından ikisini buraya koyuyorum.
