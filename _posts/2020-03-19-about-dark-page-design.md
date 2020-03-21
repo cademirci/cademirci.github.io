@@ -1,7 +1,6 @@
 ---
 layout: post
 title: About Dark Page Design
-date: 19 March 2019
 tags: [web design, UI]
 ---
 
