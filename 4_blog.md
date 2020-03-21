@@ -14,7 +14,6 @@ navlink_name: Blog
 <ul>
 <li> <a href="{{ post.url }}">{{ post.title }}</a> &ensp; {{ post.date | date: "%d.%m.%Y" }}
     {% if post.tags.size > 0 %}
-        &emsp;
         <span class="post_tags">
             {% if post.tags.size > 1 %}
                 [{{ post.tags | sort | join: ", " }}]
