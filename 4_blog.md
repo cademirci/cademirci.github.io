@@ -10,7 +10,22 @@ navlink_name: Blog
 
 <img src="/assets/images/iconbl.png" class="title_image">
 
-- [About Dark Page Design](/about-dark-page-design) [19.03.2020]
+{% for post in site.posts %}
+<ul>
+<li> <a href="{{ post.url }}">{{ post.title }}</a> &ensp; {{ post.date | date: "%d.%m.%Y" }}
+    {% if post.tags.size > 0 %}
+        &emsp;
+        <span class="post_tags">
+            {% if post.tags.size > 1 %}
+                [{{ post.tags | sort | join: ", " }}]
+            {% else %}
+                [{{ post.tags }}]
+            {% endif %}
+        </span>
+    {% endif %}
+</li>
+</ul>
+{% endfor %}
 
 ### Turkish
 
