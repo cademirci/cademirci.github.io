@@ -19,7 +19,7 @@ the same circle of monologues:
 "I have to build light designs. A white background always looks professional."<br>
 "This has become so boring. After all, black backgrounds are stylish."<br>
 "Ohw, this page is too gloomy now. Plus people will think about me a childish web lamer. Let's make this white".<br>
-"This is too bright! In anyway, aren't we coders do code on black IDEs? No eye strain is important. Return to black.<"br>
+"This is too bright! In anyway, aren't we coders do code on black IDEs? No eye strain is important. Return to black."<br>
 "This has become a Rock music blog, or a game console. This is unprofessional."<br>
 "No, no I don't want white, Spotify is cool. I will make it black again..."
 <br><br><br>
