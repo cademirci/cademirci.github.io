@@ -7,7 +7,16 @@ tags: [web design, UI]
 # {{ page.title }}
 
 <div class="post_date">{{ page.date | date: "%d.%m.%Y" }}</div>
-<div class="post_tags">{{ page.tags | sort | join: ", " }}</div>
+<div class="post_date">{{ page.date | date: "%d.%m.%Y" }}</div>
+{% if post.tags.size > 0 %}
+    <div class="post_tags">
+        {% if post.tags.size > 1 %}
+            {{ post.tags | sort | join: ", " }}
+        {% else %}
+            {{ post.tags }}
+        {% endif %}
+    </div>
+{% endif %}
 
 ***
 
