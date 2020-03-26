@@ -11,7 +11,7 @@ code { color: ghostwhite; }
 
 
 .language-terminal pre.highlight {
-    background: #1a1a1a;
+    background: #101010;
     color: ghostwhite;
 }
 
@@ -22,7 +22,7 @@ pre.highlight,
     /* margin: 25px 0; */
     font-size: 0.9em;
     border-radius: 5px;
-    background: #1a1a1e;
+    background: #1a1a1a;
 
     /* TAB character be 4 whitespaces wide. */
     tab-size: 4;
@@ -55,6 +55,7 @@ pre::before { /* language name */
     font-weight: bold;
     float: right;
     color: #3bc47f;
+    letter-spacing: 0;
 }
 
 code {
@@ -66,11 +67,11 @@ code {
 
 code { /* iniline codes */
     padding: 0 3px;
-    background: #262626;
+    background: #0b0e0b;
     border: 1px solid #666;
     border-radius: 3px;
     font-size: .9em;
-    color: #35b088;
+    color: #35b099;
 }
 
 /* neutralizing inline code features for code blocks */
