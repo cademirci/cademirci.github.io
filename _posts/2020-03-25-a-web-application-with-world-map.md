@@ -51,7 +51,7 @@ At the and, in my HTML templates, I run a Django Jinja for loop and geoJson obje
 ```
 {% endraw %}
 
-I could not find a way for writing and using Django variables (I mean Jinja template variables) inside external Javascript files or a Json file. I think the reason is that I do not use any frontend framework organizes such things. I write almost everything related with Javascript down in `template` files. May be it became a little dirty code. By the way this is the same reason that it seems in the GitHub repository of my project the second most used language after python is HTML. Actually ther are not HTML, almast all of them are Leaflet JS in Jinja blocks.
+I could not find a way for writing and using Django variables (I mean Jinja template variables) inside external Javascript files or a Json file. I think the reason is that I do not use any frontend framework organizes such things. I write almost everything related with Javascript down in `template` files. May be it became a little dirty code. By the way this is the same reason that it seems in the GitHub repository of my project the second most used language after python is HTML. Actually they are not HTML, almost all of them are Leaflet JS in Jinja blocks.
 
 #### A Bug I Could Not Handle
 

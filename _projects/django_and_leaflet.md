@@ -8,7 +8,7 @@ description: >-
     <br><br>
     More information can be viewed in my &rarr; <a href="/a-web-application-with-world-map">blog post</a>
     <br><br>
-    <div class="tools">Python &emsp; Django &emsp; Leaflet.js &emsp; &emsp; HTML5,CSS3 &emsp; Sqlite3</div>
+    <div class="tools">Python &emsp; Django &emsp; Leaflet &emsp; Javascript &emsp; HTML5,CSS3 &emsp; Sqlite3</div>
 name: django&leaflet
 ---
 
