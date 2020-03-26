@@ -32,16 +32,16 @@ window.addEventListener('DOMContentLoaded', () => {
             {% for project in site.projects %}
                 if (this.getAttribute('id') == 'skills_jekyll') {
                     {% if project.name == "jekyll" %}
-                        description += '{{ project.title }}' +
-                                       '{{ project.github_link }}' +
-                                       '{{ project.description }}'
-                        ;
+                        description += `
+                            {{ project.title }} {{ project.github_link }} {{ project.description }}
+                        `;
                     {% endif %}
                 }
                 if (this.getAttribute('id') == 'skills_django_and_leaflet') {
                     {% if project.name == "django&leaflet" %}
-                        description += '{{ project.title }}'
-                        ;
+                        description += `
+                            {{ project.title }} {{ project.github_link }} {{ project.description }}
+                        `;
                     {% endif %}
                 }
                 if (this.getAttribute('id') == 'skills_jquery') {
