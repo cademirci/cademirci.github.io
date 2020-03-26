@@ -7,7 +7,7 @@ tags: [web app, back-end, python, django, leaflet.js]
 # {{ page.title }}
 
 <div class="post_date">{{ page.date | date: "%d.%m.%Y" }}</div>
-<div class="post_tags">{{ post.tags | sort | join: ", " }}</div>
+<div class="post_tags">{{ page.tags | sort | join: ", " }}</div>
 
 ***
 
