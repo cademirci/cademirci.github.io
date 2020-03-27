@@ -5,11 +5,11 @@
     letter-spacing: 1px;
     line-height: 1.6;
     font-size: 1.1em;
-    >pre {
+    > pre {
         letter-spacing: 0;
         background: #101010;
     }
-    >pre.terminal {
+    > pre.terminal {
         background: #000;
     }
     h1 {
@@ -69,6 +69,10 @@
 .a2a_button_reddit,
 .a2a_button_facebook {
     border-radius: 50%;
+}
+
+#turkish {
+    margin-top: 75px;
 }
 
 //
