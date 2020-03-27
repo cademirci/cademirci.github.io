@@ -11,7 +11,7 @@
 }
 @media only screen and (max-width: 925px) {
     .home_header {
-        height: 35vh;
+        height: 50vh;
     }
     .default_header {
         height: 25vh;
@@ -37,6 +37,9 @@
 }
 #page_def {
     color: #999;
+}
+#nameOnPhonePanel {
+    display: none;
 }
 // ================================ END
 
@@ -174,8 +177,11 @@
         display: block;
     }
 
-    #page_def {
+    #nameOnPanel {
         display: none;
+    }
+    #nameOnPhonePanel {
+        display: inline-block;
     }
     #c1 {
         > p {
