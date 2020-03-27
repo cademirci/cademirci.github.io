@@ -91,7 +91,7 @@ figure.highlight pre {
 /* line numbers cannot be selected */
 span.ln {
     user-select: none;
-    color: #3bc47f;
+    color: #666;
 }
 .c, .c1, .cm, .cs, .cp {
     color: #3bc47f;
