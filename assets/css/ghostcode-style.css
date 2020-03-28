@@ -41,6 +41,7 @@ pre.highlight,
     pre.highlight,
     .markdown-body pre.highlight {
         font-size: 0.8em;
+        margin: 75px -19px;
         border: none;
     }
 }
