@@ -3,7 +3,7 @@ window.addEventListener('resize', regulateImages);
 
 function regulateImages() {
     var windowWidth = window.innerWidth;
-    var maxWidth = Math.floor(windowWidth * 66 / 100);
+    var maxWidth = Math.floor(windowWidth * 0.6);
     var container = document.querySelector('.content_container');
     var containerWidth = container.clientWidth;
     const images = document.querySelectorAll('.reading_area img');

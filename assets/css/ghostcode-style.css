@@ -20,15 +20,15 @@ pre.highlight,
     border: 1px solid #666;
     padding: 25px 10px;
     /* margin: 25px 0; */
-    font-size: 0.9em;
+    font-size: 1em;
     border-radius: 5px;
     background: #1a1a1a;
 
-    /* TAB character be 4 whitespaces wide. */
-    tab-size: 4;
-    -moz-tab-size: 4;
-    -o-tab-size: 4;
-    tab-size: 4;
+    /* TAB character be 2 whitespaces wide. */
+    tab-size: 2;
+    -moz-tab-size: 2;
+    -o-tab-size: 2;
+    tab-size: 2;
 
 	/* code lines do not outflow from code blocks */
 	white-space: pre-wrap;
@@ -40,12 +40,8 @@ pre.highlight,
 @media only screen and (max-width: 800px) {
     pre.highlight,
     .markdown-body pre.highlight {
-        tab-size: 2;
-        -moz-tab-size: 2;
-        -o-tab-size: 2;
-        tab-size: 2;
-
         font-size: 0.8em;
+        border: none;
     }
 }
 

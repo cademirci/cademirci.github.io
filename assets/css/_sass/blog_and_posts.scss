@@ -5,12 +5,10 @@
     letter-spacing: 1px;
     line-height: 1.6;
     font-size: 1.1em;
-    > pre {
+    pre {
         letter-spacing: 0;
         background: #101010;
-    }
-    > pre.terminal {
-        background: #000;
+        margin: 75px -19px;
     }
     h1 {
         margin: 0 0 50px 0;
@@ -20,11 +18,8 @@
         border: 1px solid darken($second-color, 25%);
         margin-bottom: 75px;
     }
-    img,
-    pre {
-        margin: 75px auto;
-    }
     img {
+        margin: 75px auto;
         display: block;
     }
 }

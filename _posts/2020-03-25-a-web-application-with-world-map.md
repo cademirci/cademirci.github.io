@@ -39,14 +39,14 @@ At the and, in my HTML templates, I run a Django Jinja for loop and geoJson obje
 ```javascript
 {% for point in points %}
 // points is an array holds Django database model "Place"
-    "geometry": {
-        "type": "Point",
-        "coordinates": [
-            {{ point.longitude }},
-            // it can look like a reverse order but it works that way.
-            {{ point.latitude }}
-        ]
-    }
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      {{ point.longitude }},
+      // it can look like a reverse order but it works that way.
+      {{ point.latitude }}
+    ]
+  }
 {% endfor %}
 ```
 {% endraw %}
