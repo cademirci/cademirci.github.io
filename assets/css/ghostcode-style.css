@@ -56,7 +56,7 @@ pre::before { /* language name */
 }
 
 code {
-    font-family: Source_Code_Pro, monospace;
+    font-family: 'Roboto Mono', Source_Code_Pro, monospace;
 } @font-face {
 	font-family: Source_Code_Pro;
 	src: url(fonts/Source_Code_Pro/SourceCodePro-Regular.ttf);
