@@ -62,7 +62,9 @@ I do not like force the user to do something I provide. Provision should be used
 The user is about to enter a pin keeping a Coffee Shop. They may does not want to add a photo about here, but as can be seem, the input filed `Image` forces him/her to browse an image, otherwise the record will not be added into the database. To avoid that, my Django model is created with attributes such `null=True` and a default value:
 
 ```python
-image = models.ImageField(default="/place_pictures/iconbl.png", upload_to="place_pictures", null=True)
+image = models.ImageField( default="/place_pictures/iconbl.png",
+                           upload_to="place_pictures",
+                           null=True )
 ```
 
 That means you can leave it empty, in this case the field will be filled by `iconbl.png` which is a notebook image I drawed which represents this is not a graphical memory, it contains text only. But this feature does not work. I thought may be the reason of it that not python but HTML forces the user to fill the field. In this way I would use `default value` attribute of HTML. But this should be nonsense in the first place, because `form` fields are being initialized by python itself, because I use Django Jinja's {% raw %}`{{ form }}`{% endraw %} tool in my HTML template. Another absurd thing about this situation, is that I can leave the filed empty in my admin page (django administration), but the same framework does not allow me to leave the field empty in its own form templates.
