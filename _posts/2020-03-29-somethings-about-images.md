@@ -11,7 +11,7 @@ tags: [web programming, image manipulating]
 
 ***
 
-Sometimes a web user may wants images in a page to be wider than the container division. But the problem is, because of the images and the text are in the same container, simple solutions like `img { width: }` with whatever number or ratio in CSS does not work. Even if you arrange some settings like `with: 120%` or `max-with: 120%`, these are not the solutions because in such a situation, image would overflow to right, because probably its margin-left is not negative. Even if it is, you cannot be sure how much the negative number should be. CSS has a `calc()` function but what you should calculate is unclear. For such an issue, we understand that some code has to be written. 
+Sometimes a web user may wants images in a page to be wider than the container division. But the problem is, because of the images and the text are in the same container, simple solutions like `img { width: }` with whatever number or ratio in CSS does not work. Even if you arrange some settings like `with: 120%` or `max-with: 120%`, these are not the solutions because in such a situation, image would overflow through right, because probably its margin-left is not negative. Even if it is, you cannot be sure how much the negative number should be. CSS has a `calc()` function but what you should calculate is unclear. For such an issue, we understand that some code has to be written. 
 
 First of all I want to say that, if CSS provides a solution for something about style, never write a Javascript code. CSS is always stronger, cleaner and faster on that. It stands for "Cascade *Style* Sheet" in the first place and it is probably one of the most well-designed languages in the world. I love javascript but I can surely say that, javascript's `style` functions should be used if and only if there is not a CSS solution, or we do not know how to do it with CSS. Actually the second is more possibly. 
 
@@ -27,7 +27,7 @@ for (let i = 0; i < images.length; i++) {
 }
 ```
 
-The surprise is some of the widths may will be 0. The reason is, when this code runs, js realize that there is some images on the page, html says so. But the browser is not ready enough to load the images and show them with their proper widths and heights. Thus javascript's `document` object cannot measure the width at the moment, then assign the default value which is 0 to them. Discovering a `race condition` was fun. 
+The surprise is some of the widths may will be 0. The reason is, when this code runs, js realize that there is some images on the page, html says so. But the browser is not ready enough to load the images and show them with their proper widths and heights. Thus javascript's `document` object cannot measure the width at the moment, then assigns the default value which is 0 to them. Discovering this `race condition` was fun. 
 
 To avoid that, better to wait all of the images be loaded. The function below works for it.
 
@@ -56,7 +56,7 @@ image.style.marginRight = -extra + 'px';
 Thanks to this code the image will be 50px extra wider. In this point may be it is good to remember some of tricks while manipulating images. For both js and css:
 
 - To get centered images, `display: block` must be written for images alongside their left and right margins `auto`.
-- If divide operator being used for calculate image dimensions, always `Math.floor(value)` must be there. Height and width values are integer, not float. 
+- If divide operator being used for calculate image dimensions, always `Math.floor(value)` must be there. Remember height and width values are integer, not float. 
 - To get an image's real dimensions, `image.naturalWidth` can be used. `width` will return its current width inside the container.
 - Adding an extra event listener `resize` is good. Otherwise while user is resizing the window, images will stay steady until they refresh the page. This is ugly.
 - While doing an assignment, pay attention to this: where `image.style.width = value` the value must be string like `'100px'`. `image.width = value` takes an integer like `100`.
@@ -65,5 +65,6 @@ Thanks to this code the image will be 50px extra wider. In this point may be it 
 ![](https://tr.javascript.info/article/size-and-scroll/metric-all.svg)
 
 - To protect the images shape, if one of the dimensions' settings is changed by the user, the other must not be set. Otherwise the image's width/height ratio will be broken and it will seem creepy. For example while writing like `width = width + 100` (this is representation of course, it would'n run), `height` in the CSS must not be set. So that the CSS can automatically adjust the height.
+- I have written *width* for the examples all the time but they all can be replaced with *height* of course. 
 
 Good codings!
