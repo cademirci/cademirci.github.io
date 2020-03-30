@@ -21,7 +21,7 @@ I want to write my falses down here. Let it be a little documentation: I will wr
 
 ***
 
-#### Django/GeoDjango
+### Django/GeoDjango
 
 I used Django as back-end framework. Actually, for my exact purpose, there is a django version called [GeoDjango](https://realpython.com/location-based-app-with-geodjango-tutorial/) which allows you to make open world map applications. PostGIS/PosgreSQL is recommended as database with it, thus spatial model fields can be used like `PointField`, `PolygonField` and `GeometryField`. In this way I could use a single `point` in my json data (it is also called geoJson in such a project) to show a point on the map, which means using data that hold `latitude` and `longitude` at a single time. I thought that is unnecessary. Reasons:
 
@@ -29,11 +29,13 @@ PostgreSQL is extremely large and powerful database management system that requi
 
 Sometimes, it is better that make things simple. Django does not provide `pointField` that holds a world point coordinates. If so, then I figure it out with this way: can be hold that two data instead of PointField: these are two `FloatField`s one of them holding `latitude`, and `longitude` the other does. And done.
 
-#### Communication Between Django and Leaflet
+### Map
 
-After that, I found a Javascript library called [Leafletjs](https://leafletjs.com/) which allows you to manage map and map items like pin, field, pin popups and things like that. I like javascript. It always helps me.
+After a back-end framework that can serve a map management system, you need a map management system which allows you to manage map and map items like pin, field, pin popups and things like that. I found and thought to use [Google Maps Platform](https://developers.google.com/maps/documentation) first. You have to get an API key and a billing account for using GMP. Then when keep searching, an open source javascript library called [Leafletjs](https://leafletjs.com/) and I decided to use it instead of Google's API.
 
-At the and, in my HTML templates, I run a Django Jinja for loop and geoJson object within, all of them framed with Leaflet javascript code:
+### Communication Between Django and Leaflet
+
+At the end, in my HTML templates, I run a Django Jinja for loop and geoJson object within, all of them framed with Leaflet javascript code:
 
 {% raw %}
 ```javascript
@@ -53,7 +55,7 @@ At the and, in my HTML templates, I run a Django Jinja for loop and geoJson obje
 
 I could not find a way for writing and using Django variables (I mean Jinja template variables) inside external Javascript files or a Json file. I think the reason is that I do not use any frontend framework organizes such things. I write almost everything related with Javascript down in `template` files. May be it became a little dirty code. By the way this is the same reason that it seems in the GitHub repository of my project the second most used language after python is HTML. Actually they are not HTML, almost all of them are Leaflet JS in Jinja blocks.
 
-#### A Bug I Could Not Handle
+### A Bug I Could Not Handle
 
 I do not like force the user to do something I provide. Provision should be used as an addition, a better way. Not an obligation. I wrote a feature that the pins on the map can keep an image, a photograph alongside the text. My `add-new-place` page screenshot is given below:
 
@@ -71,7 +73,7 @@ That means you can leave it empty, in this case the field will be filled by `ico
 
 Current program forces the user to put an image to all of the pins, unless they do not create and use an admin account. In this point, I am explaining how to use an admin account.
 
-#### Use the App As an Admin
+### Use the App As an Admin
 
 Django administration is easy to use. I already wrote the admin urlpattern, a user just should do the following bellow:
 
