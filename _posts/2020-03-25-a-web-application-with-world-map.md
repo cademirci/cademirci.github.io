@@ -31,7 +31,7 @@ Sometimes, it is better that make things simple. Django does not provide `pointF
 
 ### Map
 
-After a back-end framework that can serve a map management system, you need a map management system which allows you to manage map and map items like pin, field, pin popups and things like that. I found and thought to use [Google Maps Platform](https://developers.google.com/maps/documentation) first. You have to get an API key and a billing account for using GMP. Then when keep searching, an open source javascript library called [Leafletjs](https://leafletjs.com/) and I decided to use it instead of Google's API.
+After a back-end framework that can serve a map management system, you need a map management system which allows you to manage map and map items like pin, field, pin popups and things like that. I found and thought to use [Google Maps Platform](https://developers.google.com/maps/documentation) first. You have to get an API key and a billing account for using GMP. Then when keep searching, I found an open source javascript library called [Leafletjs](https://leafletjs.com/) and I decided to use it instead of Google's API.
 
 ### Communication Between Django and Leaflet
 
