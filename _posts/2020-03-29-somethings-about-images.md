@@ -27,7 +27,7 @@ for (let i = 0; i < images.length; i++) {
 }
 ```
 
-The surprise is some of the widths may alerted as 0. Here is the reason: when this code runs, js realize that there is some images on the page, html says so; however the browser is not ready enough to load the images and show them with their proper widths and heights. Thus javascript's `document` object cannot measure the width at the moment, then assigns the default value which is 0 to them. Discovering this `race condition` was fun.
+The surprise is some of the widths may alerted as 0. Here is the reason: when this code runs, js realize that there are some images on the page, html says so; however the browser is not ready enough to load the images and show them with their proper widths and heights. Thus javascript's `document` object cannot measure the width at the moment, then assigns the default value which is 0 to them. Discovering this `race condition` was fun.
 
 To avoid that, better to wait all of the images be loaded. The function below works for it.
 
@@ -56,7 +56,7 @@ image.style.marginRight = -extra + 'px';
 Thanks to this code the image will be 50px extra wider. In this point may be it is good to remember some of tricks while manipulating images. For both js and css:
 
 - To get centered images, `display: block` must be written for images alongside their left and right margins `auto`.
-- If divide operator being used for calculate image dimensions, always `Math.floor(value)` must be there. Remember height and width values are integer, not float.
+- If divide operation being used for calculate image dimensions, always `Math.floor(value)` must be there. For instance where a width is 51 pixels and you want to compress it by half, you call an operation like (width / 2) however there is not such a width like 25.5 and code would not run. `Math.floor(25.5)` will return 25. Remember height and width values are integers, not floats.
 - To get an image's real dimensions, `image.naturalWidth` can be used. `width` will return its current width inside the container.
 - Adding an extra event listener `resize` is good. Otherwise while user is resizing the window, images will stay steady until they refresh the page. This is ugly.
 - While doing an assignment, pay attention to this: where `image.style.width = value` the value must be string like `'100px'`. `image.width = value` takes an integer like `100`.
