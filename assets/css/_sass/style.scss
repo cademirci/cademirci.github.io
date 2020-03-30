@@ -202,8 +202,7 @@
     max-width: $panel-inner-width;
     margin: auto;
     padding: $padding-gap;
-    color: #667;
-    font-size: .95em;
+    color: $grey-color;
     .social_media_bar {
         justify-content: flex-end;
         .social_media_icon {
