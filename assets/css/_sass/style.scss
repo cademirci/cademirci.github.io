@@ -202,7 +202,8 @@
     max-width: $panel-inner-width;
     margin: auto;
     padding: $padding-gap;
-    color: darken($text-color, 25%);
+    color: #667;
+    font-size: .95em;
     .social_media_bar {
         justify-content: flex-end;
         .social_media_icon {
@@ -214,10 +215,9 @@
         }
     }
     .footer_text {
+        padding: 10px 0;
+        border-top: 2px solid darken($soft-black, 3%);
         text-align: right;
-        color: lighten($soft-black, 42%);
-        padding: $margin-gaps;
-        border-top: 2px solid darken($grey-color, 24%);
         img {
             height: 50px;
             width: 50px;
@@ -229,6 +229,11 @@
         a:hover, a:visited:hover {
             color: lighten($soft-black, 90%);
         }
+    }
+    div.signature {
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
     }
 }
 
