@@ -202,7 +202,6 @@
     max-width: $panel-inner-width;
     margin: auto;
     padding: $padding-gap;
-    // padding-bottom: 75px;
     color: darken($text-color, 25%);
     .social_media_bar {
         justify-content: flex-end;
@@ -212,6 +211,23 @@
         }
         .social_media_icon:hover {
             border: 2px solid $brand-color;
+        }
+    }
+    .footer_text {
+        text-align: right;
+        color: lighten($soft-black, 42%);
+        padding: $margin-gaps;
+        border-top: 2px solid darken($grey-color, 24%);
+        img {
+            height: 50px;
+            width: 50px;
+            user-select: none;
+        }
+        a, a:visited {
+            color: lighten($soft-black, 66%);
+        }
+        a:hover, a:visited:hover {
+            color: lighten($soft-black, 90%);
         }
     }
 }
