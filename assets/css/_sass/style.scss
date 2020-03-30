@@ -202,11 +202,11 @@
     max-width: $panel-inner-width;
     margin: auto;
     padding: $padding-gap;
-    color: $grey-color;
+    color: #667;
     .social_media_bar {
         justify-content: flex-end;
         .social_media_icon {
-            border: 2px solid $grey-color;
+            border: 2px solid #667;
             height: 32px;
         }
         .social_media_icon:hover {
