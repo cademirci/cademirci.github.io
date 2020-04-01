@@ -95,7 +95,7 @@ window.addEventListener('DOMContentLoaded', () => {
     })
 
     var wrappers = document.querySelectorAll('.content_wrapper');
-    var colorArray = ['inherit', '#101010', '#1a1e1a', '#1a1a1e'];
+    var colorArray = ['inherit', '#1a1e1a', '#101010', '#1a1a1e'];
     for (var i = 0; i < wrappers.length; i++) {
         wrappers[i].style.backgroundColor = "" + colorArray[i];
     }
