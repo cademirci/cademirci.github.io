@@ -18,7 +18,7 @@
     }
 }
 .name_sentence {
-    color: #666;
+    color: lighten($grey-color, 25%);
     font-size: 42px;
     left: 42px;
     letter-spacing: normal;
@@ -194,7 +194,8 @@
 // ============ FOOTER
 
 .footer_container {
-    background: $soft-black;
+    background: #0a0a0a;
+    padding: 0 10px;
     border-top: 3px solid $grey-color;
     display: block;
 }
@@ -202,6 +203,8 @@
     max-width: $panel-inner-width;
     margin: auto;
     padding: $padding-gap;
+    display: flex;
+    justify-content: space-between;
     color: #667;
     .social_media_bar {
         justify-content: flex-end;

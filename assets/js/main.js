@@ -11,10 +11,11 @@ window.addEventListener('DOMContentLoaded', () => {
             jump(anchor);
         })
     }
-    var returners = document.querySelectorAll('#c1, #c2, #upArrow');
+    var returners = document.querySelectorAll('#c1, #c2, #upArrow, .signature');
     for (var i = 0; i < returners.length; i++) {
         returners[i].addEventListener('click', function(e) {
-            if (this.getAttribute('id') == 'c1' && window.location.pathname != '/') {
+            if ( (this.getAttribute('id') == 'c1' || this.getAttribute('class') == 'signature')
+                 && window.location.pathname != '/') {
                 window.location.href = "/";
             }
             else {
@@ -94,7 +95,7 @@ window.addEventListener('DOMContentLoaded', () => {
     })
 
     var wrappers = document.querySelectorAll('.content_wrapper');
-    var colorArray = ['#222', '#101010', '#1a1e1a', '#1a1a1e'];
+    var colorArray = ['inherit', '#101010', '#1a1e1a', '#1a1a1e'];
     for (var i = 0; i < wrappers.length; i++) {
         wrappers[i].style.backgroundColor = "" + colorArray[i];
     }
