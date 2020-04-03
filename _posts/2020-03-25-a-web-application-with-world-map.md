@@ -31,7 +31,7 @@ Sometimes, it is better that make things simple. Django does not provide `pointF
 
 ### Map
 
-After a back-end framework that can serve a map management system, you need a map management system which allows you to manage map and map items like pin, field, pin popups and things like that. I found and thought to use [Google Maps Platform](https://developers.google.com/maps/documentation) first. You have to get an API key and a billing account for using GMP. Then when keep searching, I found an open source javascript library called [Leafletjs](https://leafletjs.com/) and I decided to use it instead of Google's API.
+After a back-end framework that can serve a map management system, you need a map management system which allows you to manage map and map items like pin, field, pin popups and things like that. I found and thought to use [Google Maps Platform](https://developers.google.com/maps/documentation) first. You have to get an API key and a billing account for using GMP. Then while keep searching, I found an open source javascript library called [Leafletjs](https://leafletjs.com/) and I decided to use it instead of Google's API.
 
 ### Communication Between Django and Leaflet
 
@@ -53,7 +53,7 @@ At the end, in my HTML templates, I run a Django Jinja for loop and geoJson obje
 ```
 {% endraw %}
 
-I could not find a way for writing and using Django variables (I mean Jinja template variables) inside external Javascript files or a Json file. I think the reason is that I do not use any frontend framework organizes such things. I write almost everything related with Javascript down in `template` files. May be it became a little dirty code. By the way this is the same reason that it seems in the GitHub repository of my project the second most used language after python is HTML. Actually they are not HTML, almost all of them are Leaflet JS in Jinja blocks.
+I could not find a way for writing and using Django variables (I mean Jinja template variables) inside external Javascript files or a Json file. I think the reason is that I do not use any frontend framework organizes such things. I wrote almost everything related with Javascript down in `template` files. May be it became a little dirty code. By the way this is the same reason that it seems in the GitHub repository of my project the second most used language after python is HTML. Actually they are not HTML, almost all of them are javascript of Leaflet library in Jinja blocks.
 
 ### A Bug I Could Not Handle
 
@@ -69,7 +69,7 @@ image = models.ImageField( default="/place_pictures/iconbl.png",
                            null=True )
 ```
 
-That means you can leave it empty, in this case the field will be filled by `iconbl.png` which is a notebook image I drawed which represents this is not a graphical memory, it contains text only. But this feature does not work. I thought may be the reason of it that not python but HTML forces the user to fill the field. In this way I would use `default value` attribute of HTML. But this should be nonsense in the first place, because `form` fields are being initialized by python itself, because I use Django Jinja's {% raw %}`{{ form }}`{% endraw %} tool in my HTML template. Another absurd thing about this situation, is that I can leave the filed empty in my admin page (django administration), but the same framework does not allow me to leave the field empty in its own form templates.
+That means you can leave it empty, in this case the field will be filled by `iconbl.png` which is a notebook image I drawed which represents this is not a graphical memory, it contains text only. *But this feature does not work*. I thought may be the reason of it that not python but HTML forces the user to fill the field. In this way I would use `default value` attribute of HTML. But this should be nonsense in the first place, because `form` fields are being initialized by python itself, because I use Django Jinja's {% raw %}`{{ form }}`{% endraw %} tool in my HTML template. Another absurd thing about this situation, is that I can leave the filed empty in my admin page (django administration), but the same framework does not allow me to leave the field empty in its own form templates.
 
 Current program forces the user to put an image to all of the pins, unless they do not create and use an admin account. In this point, I am explaining how to use an admin account.
 
