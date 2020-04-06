@@ -5,6 +5,7 @@
 .home_header,
 .default_header {
     height: 70vh;
+    //height: calc(100vh - 50px);
     background-position: right;
     background-repeat: no-repeat;
     background-size: cover;
@@ -105,9 +106,6 @@
     text-align: right;
     position: relative;
 }
-.navlink {
-    cursor: pointer;
-}
 
 .arrow {
     right: calc(50% - 11px);
@@ -143,20 +141,32 @@
 }
 
 .navbox {
-    display: none;
-    padding: 0 12px 12px 32px;
-    position: absolute;
-    border-radius: 5px;
     background: $soft-black;
-    top: 28px;
+    position: fixed;
+    top: 45px;
     right: 0;
-    -webkit-box-shadow: 2px 2px 4px 2px rgba(12,12,12,0.75);
-    -moz-box-shadow: 2px 2px 4px 2px rgba(0,0,0,0.75);
-    box-shadow: 2px 2px 4px 2px rgba(12,12,12,0.75);
-    > a {
-        float: right;
-        margin-top: 15px;
+    left: 0;
+    opacity: .9;
+    a {
+        display: none;
     }
+}
+.navlink {
+    cursor: pointer;
+}
+.navlink_div {
+    padding: 10px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    img {
+        height: 35px;
+        width: 35px;
+        padding-left: 15px;
+    }
+}
+.navlink_div:hover {
+    background: #060606;
 }
 
 @media only screen and (max-width: 1000px) {

@@ -8,9 +8,18 @@ a:hover {
 
 a.navlink { color: $text-color; } // reverse
 a.navlink:hover { color: $brand-color; }
-
+.navbox {
+    transition: .8s;
+    max-height: 0;
+}
+.navbox:hover {
+    max-height: 500px;
+}
+.navbox a {
+    transition: .8s;
+}
 .menu_line {
-    transition: .5s;
+    transition: .8s;
 }
 .menu_box:hover {
     > div {
@@ -23,10 +32,6 @@ a.navlink:hover { color: $brand-color; }
 }
 #c2:hover + #upArrow {
     color: $text-color;
-}
-
-.navbox {
-    transition: .5s;
 }
 
 .default_button {

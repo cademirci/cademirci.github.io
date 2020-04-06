@@ -1,5 +1,25 @@
-window.addEventListener('DOMContentLoaded', () => {
+window.addEventListener('load', () => {
     document.querySelector('#upArrow').style.display = 'none';
+    
+    document.querySelector('.menu_box').addEventListener('mouseenter', function(event) {
+        var navboxlinks = document.querySelectorAll('.navbox a');
+        var navBox = document.querySelector('.navbox');
+        navBox.style.maxHeight = '500px';
+        for (let i = 0; i < navboxlinks.length; i++) {
+            navboxlinks[i].style.display = 'block';
+        }
+    })
+    document.addEventListener('mousedown', function(event) {
+        let className = event.target.getAttribute('class');
+        if (className != 'navlink_div') {
+            var navboxlinks = document.querySelectorAll('.navbox a');
+            for (let i = 0; i < navboxlinks.length; i++) {
+                navboxlinks[i].style.display = 'none';
+            }
+            var navBox = document.querySelector('.navbox');
+            navBox.style.maxHeight = '0';
+        }
+    })
 })
 
 window.addEventListener('scroll', () => {

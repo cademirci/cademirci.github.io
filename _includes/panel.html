@@ -21,26 +21,26 @@
                         </a>
                     {% endif %}
                 {% endfor %}
-                <div class="menu_box">
-                    <div class="menu_line"></div>
-                    <div class="menu_line"></div>
-                    <div class="menu_line"></div>
-                </div>
-                <div class="navbox">
-                    {% for page in site.pages %}
-                        {% if page.is_navlink %}
-                            &emsp;
-                            <a class="navlink navboxlink"
-                               data-scroll-top='#{{ page.title | downcase | replace: " ", "-" }}'>
-                               {{ page.navlink_name }}
-                            </a>
-                        {% endif %}
-                    {% endfor %}
-                </div>
             {% else %}
                 <a class="navlink" href="{{ site.url }}">&larr; Home</a>
             {% endif %}
+            <div class="menu_box">
+                <div class="menu_line"></div>
+                <div class="menu_line"></div>
+                <div class="menu_line"></div>
+            </div>
         </div>
     </div>
+</div>
+<div class="navbox">
+    {% for page in site.pages %}
+        {% if page.is_navlink %}
+            <a class="navlink" data-scroll-top='#{{ page.title | downcase | replace: " ", "-" }}'>
+               <div class="navlink_div">
+                  {{ page.navlink_name }} <img src="{{ page.image }}">
+               </div>
+            </a>
+        {% endif %}
+    {% endfor %}
 </div>
 <div class="panel_pad"></div>
