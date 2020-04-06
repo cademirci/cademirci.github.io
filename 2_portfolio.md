@@ -4,11 +4,12 @@ title: What I Have Tried Before
 permalink: /portfolio
 is_navlink: true
 navlink_name: Portfolio
+image: ../assets/images/iconcs.png
 ---
 
 # {{ page.title }}
 
-<img src="/assets/images/iconcs.png" class="title_image">
+<img src="{{ page.image }}" class="title_image">
 
 <div class="skills" id="skills_django_and_leaflet" active='false'>
     <a id='django'>DJANGO</a>

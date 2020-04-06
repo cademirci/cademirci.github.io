@@ -4,11 +4,12 @@ title: About Me
 permalink: /about
 is_navlink: true
 navlink_name: About
+image: ../assets/images/iconab.png
 ---
 
 # {{ page.title }}
 
-<img src="/assets/images/iconab.png" class="title_image">
+<img src="{{ page.image }}" class="title_image">
 
 `hello world.`
 

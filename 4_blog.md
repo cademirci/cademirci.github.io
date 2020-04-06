@@ -4,11 +4,12 @@ title: Blog
 permalink: /blog
 is_navlink: true
 navlink_name: Blog
+image: ../assets/images/iconbl.png
 ---
 
 # {{ page.title }}
 
-<img src="/assets/images/iconbl.png" class="title_image">
+<img src="{{ page.image }}" class="title_image">
 
 {% for post in site.posts %}
 <ul>

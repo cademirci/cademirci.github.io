@@ -4,11 +4,13 @@ title: Contact Me
 permalink: /contact
 is_navlink: true
 navlink_name: Contact
+image: ../assets/images/iconct.png
 ---
 
 # {{ page.title }}
 
-<img src="/assets/images/iconct.png" class="title_image">
+<img src="{{ page.image }}" class="title_image">
+
 <div class="contact_mail"></div>
 
 <p style="text-align: center">For any reason, feel free to contact me. You can be sure I will reply.</p>
