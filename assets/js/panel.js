@@ -2,9 +2,9 @@ window.addEventListener('load', () => {
     document.querySelector('#upArrow').style.display = 'none';
 
     document.querySelector('.menu_box').addEventListener('mouseenter', menuBoxDown);
-    document.querySelector('.menu_box').addEventListener('mouseenter', touchstart);
+    document.querySelector('.menu_box').addEventListener('touchstart', menuBoxDown);
     document.addEventListener('mousedown', menuBoxLeave);
-    document.addEventListener('mousedown', touchend);
+    document.addEventListener('touchsend', menuBoxLeave);
 })
 
 function menuBoxDown() {
