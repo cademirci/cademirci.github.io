@@ -3,7 +3,7 @@ github_link: <div class="github_link"><img src="/assets/images/gh4.png"><a href=
 title: <h2> cademirci.com (cademirci.github.io) </h2>
 description: >-    
     My current personal website is powered by Jekyll static site generator framework. Used no bootstrap, theme or ready-to-use template.
-    I wanted my personal website to be my design up to every single pixel. Just Jekyll
+    I wanted my personal website to be my design up to every single pixel. Only Jekyll
     structure with html, css and native Javascript. It was extremely fun.
     <br><br>
     I also coded a little code block regulator for Jekyll pages called "ghost-code.js",

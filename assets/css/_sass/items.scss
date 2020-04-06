@@ -63,6 +63,13 @@
     display: block;
     margin: 20px auto;
 }
+.contact_mail {
+    text-align: center;
+}
+.contact_mail::after {
+    content: "demircicaglayan13@gmail.com";
+    font-size: 1.2em;
+}
 .social_media_bar {
     display: flex;
     justify-content: center;
