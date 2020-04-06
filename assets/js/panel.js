@@ -1,10 +1,10 @@
-window.addEventListener('load', () => {
+window.addEventListener('DOMContentLoaded', () => {
     document.querySelector('#upArrow').style.display = 'none';
 
-    document.querySelector('.menu_box').addEventListener('mouseenter', menuBoxDown);
+    document.querySelector('.menu_box').addEventListener('click', menuBoxDown);
     document.querySelector('.menu_box').addEventListener('touchstart', menuBoxDown);
     document.addEventListener('mousedown', menuBoxLeave);
-    document.addEventListener('touchsend', menuBoxLeave);
+    document.addEventListener('touchstart', menuBoxLeave);
 })
 
 function menuBoxDown() {
