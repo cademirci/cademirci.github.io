@@ -21,14 +21,14 @@
                         </a>
                     {% endif %}
                 {% endfor %}
+                <div class="menu_box">
+                    <div class="menu_line"></div>
+                    <div class="menu_line"></div>
+                    <div class="menu_line"></div>
+                </div>
             {% else %}
                 <a class="navlink" href="{{ site.url }}">&larr; Home</a>
             {% endif %}
-            <div class="menu_box">
-                <div class="menu_line"></div>
-                <div class="menu_line"></div>
-                <div class="menu_line"></div>
-            </div>
         </div>
     </div>
     <div class="navbox">
@@ -36,7 +36,7 @@
             {% if page.is_navlink %}
                 <a class="navlink" data-scroll-top='#{{ page.title | downcase | replace: " ", "-" }}'>
                    <div class="navlink_div">
-                      {{ page.navlink_name }} <img src="{{ page.image }}">
+                      {{ page.navlink_name }} <img src="{{ page.image }}" class="nav_image">
                    </div>
                 </a>
             {% endif %}

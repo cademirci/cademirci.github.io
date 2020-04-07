@@ -8,22 +8,30 @@ window.addEventListener('DOMContentLoaded', () => {
 })
 
 function menuBoxDown() {
-    var navboxlinks = document.querySelectorAll('.navbox a');
-    var navBox = document.querySelector('.navbox');
+    const navboxlinks = document.querySelectorAll('.navbox a');
+    const navBox = document.querySelector('.navbox');
+    const menuLines = document.querySelectorAll('.menu_line');
     navBox.style.maxHeight = '500px';
     for (let i = 0; i < navboxlinks.length; i++) {
         navboxlinks[i].style.display = 'block';
     }
+    for (let i = 0; i < menuLines.length; i++) {
+        menuLines[i].style.backgroundColor = '#000';
+    }
 }
-function menuBoxLeave() {
+function menuBoxLeave(event) {
+    const navboxlinks = document.querySelectorAll('.navbox a');
+    const navBox = document.querySelector('.navbox');
+    const menuLines = document.querySelectorAll('.menu_line');
     let className = event.target.getAttribute('class');
-    if (className != 'navlink_div') {
-        var navboxlinks = document.querySelectorAll('.navbox a');
+    if (className != 'navlink_div' && className != 'nav_image') {
         for (let i = 0; i < navboxlinks.length; i++) {
             navboxlinks[i].style.display = 'none';
         }
-        var navBox = document.querySelector('.navbox');
         navBox.style.maxHeight = '0';
+        for (let i = 0; i < menuLines.length; i++) {
+            menuLines[i].style.backgroundColor = '#ccc';
+        }
     }
 }
 

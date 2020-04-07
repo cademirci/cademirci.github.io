@@ -131,9 +131,9 @@
     cursor: pointer;
     > .menu_line {
         width: 28px;
-        height: 0;
-        border: 1px solid #ccc;
-        margin-bottom: 8px;
+        height: 3px;
+        background: #ccc;
+        margin-bottom: 7px;
         float: right;
     }
     > :last-child {
@@ -148,7 +148,7 @@
     top: 45px;
     right: 0;
     left: 0;
-    opacity: .9;
+    opacity: .8;
     a {
         display: none;
     }

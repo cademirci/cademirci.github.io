@@ -21,11 +21,6 @@ a.navlink:hover { color: $brand-color; }
 .menu_line {
     transition: .8s;
 }
-.menu_box:hover {
-    > div {
-        border-color: $brand-color;
-    }
-}
 
 .arrow {
     transition: .5s;
