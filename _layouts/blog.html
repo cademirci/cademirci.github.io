@@ -24,9 +24,10 @@
                             {{ post.date | date: "%d.%m.%Y" }} &emsp;
                         </span>
                         {% if post.tags.size > 0 %}
+                            <br class="phone_breakline">
                             <span class="post_tags">
                                 {% if post.tags.size > 1 %}
-                                    {{ post.tags | sort | join: ", &emsp;" }}
+                                    {{ post.tags | sort | join: ", &ensp;" }}
                                 {% else %}
                                     {{ post.tags }}
                                 {% endif %}
