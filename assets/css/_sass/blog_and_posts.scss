@@ -87,6 +87,7 @@
         justify-content: flex-start;
         align-items: baseline;
         .read {
+            color: $text-color;
             transition: .5s;
             min-width: 10%;
         }
