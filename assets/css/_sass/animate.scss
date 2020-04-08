@@ -12,9 +12,7 @@ a.navlink:hover { color: $brand-color; }
     transition: .8s;
     max-height: 0;
 }
-.navbox:hover {
-    max-height: 500px;
-}
+
 .navbox a {
     transition: .8s;
 }
