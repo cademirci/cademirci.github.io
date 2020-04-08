@@ -2,14 +2,18 @@
 // ================================ HEADER WITHOUT PANEL
 .home_header { background-image: url('/assets/images/wsbg.png'); }
 .default_header { background-image: url('/assets/images/planets.png'); }
+.blog_header { background-image: url('/assets/images/blogmain_bg.png'); }
 .home_header,
-.default_header {
-
-    height: calc(85vh - 50px);
+.default_header,
+.blog_header {
     background-position: right;
     background-repeat: no-repeat;
     background-size: cover;
 }
+.home_header { height: calc(85vh - 50px); }
+.default_header { height: 50vh; }
+.blog_header { height: 75vh; }
+
 @media only screen and (max-width: 925px) {
     .home_header {
         height: 50vh;
@@ -47,6 +51,9 @@
 .content_wrapper {
     width: 100%;
     padding: 150px 0;
+}
+.blog_wrapper {
+    background: #1a1a1e;
 }
 .content_container {
     max-width: $content-inner-width;

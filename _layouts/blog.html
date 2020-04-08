@@ -1,0 +1,41 @@
+{% include head.html %}
+<body>
+    <div class="blog_header">
+        <p class="name_sentence">
+            Blog
+        </p>
+    </div>
+    {% include panel.html %}
+    <div class="content_wrapper blog_wrapper">
+        <div class="content_container">
+            <img src="../assets/images/iconbl.png" class="title_image">
+            {% for post in site.posts %}
+                <a href="{{ post.url }}">
+                    <div class="post_rep">
+                        <p class="post_title">{{ post.title }}</p>
+                        <div class="excerpt">
+                            <p class="read">read&emsp;<span>&rarr;</span></p>
+                            <blockquote cite="{{ post.url }}">
+                                {{ post.excerpt }}
+                            </blockquote>
+                        </div>
+                        <span class="post_date">
+                            {{ post.date | date: "%d.%m.%Y" }} &emsp;
+                        </span>
+                        {% if post.tags.size > 0 %}
+                            <span class="post_tags">
+                                {% if post.tags.size > 1 %}
+                                    {{ post.tags | sort | join: ", &emsp;" }}
+                                {% else %}
+                                    {{ post.tags }}
+                                {% endif %}
+                            </span>
+                        {% endif %}
+                    </div>
+                </a>
+            {% endfor %}
+            {{ content }}
+        </div>
+    </div>
+    {% include footer.html %}
+</body>

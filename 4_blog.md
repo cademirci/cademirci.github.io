@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Blog
-permalink: /blog
+permalink: /blog-on-home
 is_navlink: true
 navlink_name: Blog
 image: ../assets/images/iconbl.png
@@ -11,6 +11,7 @@ image: ../assets/images/iconbl.png
 
 <img src="{{ page.image }}" class="title_image">
 
+### Recent 3
 {% for post in site.posts %}
 <ul>
 <li> <a href="{{ post.url }}">{{ post.title }}</a> &ensp; {{ post.date | date: "%d.%m.%Y" }}
@@ -27,9 +28,4 @@ image: ../assets/images/iconbl.png
 </ul>
 {% endfor %}
 
-### Turkish
-
-Merhaba! Ekşi Sözlük'te içerik üretirken (birkaç yıl oluyor) metal ile ilgili birkaç yazı yazmıştım. İçlerinden Ekşi Şeyler için seçilmiş olanlarından ikisini buraya koyuyorum.
-
-- [Sıkı Bir Opeth Hayranından: Efsane Grubun Özenle Seçilmiş En İyi Albüm, Şarkı ve Riff'leri](https://seyler.eksisozluk.com/siki-bir-opeth-hayranindan-efsane-grubun-ozenle-secilmis-en-iyi-album-sarki-ve-riffleri)
-- [İnsanı Duvara Toslamış Gibi Yapan Metal Grubu Gojira'nın Albüm Albüm Kısa Tarihi ](https://seyler.eksisozluk.com/insani-duvara-toslamis-gibi-yapan-metal-grubu-gojiranin-album-album-kisa-tarihi)
+<button class="default_button" type="button" name="button" onclick="window.location.href='/blog'">More</button>

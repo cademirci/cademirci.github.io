@@ -67,7 +67,70 @@
 }
 
 #turkish {
-    margin-top: 75px;
+    margin-top: 125px;
 }
+
+// on blog main
+
+.post_rep {
+    display: block;
+    margin: $margin-gaps-double;
+    p {
+        margin-bottom: 0;
+    }
+    .post_title {
+        font-family: $code-font;
+        font-size: 1.2em;
+    }
+    .excerpt {
+        display: flex;
+        justify-content: flex-start;
+        align-items: baseline;
+        .read {
+            transition: .5s;
+            min-width: 10%;
+        }
+        span {
+            color: lighten($grey-color, 25%);
+            font-size: 1.3em;
+        }
+    }
+    blockquote {
+        background: inherit;
+        border: none;
+        color: lighten($grey-color, 25%);
+        margin: 0 2vh;
+    }
+    .post_date {
+        font-size: 0.9em;
+    }
+}
+.post_rep:hover {
+    .read {
+        color: #ff7733;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 //

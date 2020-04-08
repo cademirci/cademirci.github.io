@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Somethings About Images
+excerpt: >-
+    Some tricks about working on web images, both javascript and css sides.
 tags: [web programming, image manipulating]
 ---
 

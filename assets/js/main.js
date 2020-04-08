@@ -76,11 +76,12 @@ window.addEventListener('DOMContentLoaded', () => {
             projectBox.setAttribute('appearance', 'true');
         })
     }
-
-    var wrappers = document.querySelectorAll('.content_wrapper');
-    var colorArray = ['inherit', '#1a1e1a', '#101010', '#1a1a1e'];
-    for (var i = 0; i < wrappers.length; i++) {
-        wrappers[i].style.backgroundColor = "" + colorArray[i];
+    if (window.location.pathname == '/') {
+        var wrappers = document.querySelectorAll('.content_wrapper');
+        var colorArray = ['inherit', '#1a1e1a', '#101010', '#1a1a1e'];
+        for (var i = 0; i < wrappers.length; i++) {
+            wrappers[i].style.backgroundColor = "" + colorArray[i];
+        }
     }
 })
 
