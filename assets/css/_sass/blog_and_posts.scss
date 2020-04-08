@@ -102,6 +102,7 @@
         margin: 0 2vh;
     }
     .post_date {
+        color: lighten($grey-color, 20%);
         font-size: 0.9em;
     }
 }

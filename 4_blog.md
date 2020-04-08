@@ -13,19 +13,21 @@ image: ../assets/images/iconbl.png
 
 ### Recent 3
 {% for post in site.posts %}
+{% if forloop.index < 4 %}
 <ul>
-<li> <a href="{{ post.url }}">{{ post.title }}</a> &ensp; {{ post.date | date: "%d.%m.%Y" }}
-    {% if post.tags.size > 0 %}
-        <span class="post_tags">
-            {% if post.tags.size > 1 %}
-                [{{ post.tags | sort | join: ", " }}]
-            {% else %}
-                [{{ post.tags }}]
-            {% endif %}
-        </span>
-    {% endif %}
-</li>
+    <li> <a href="{{ post.url }}">{{ post.title }}</a> &ensp; {{ post.date | date: "%d.%m.%Y" }}
+        {% if post.tags.size > 0 %}
+            <span class="post_tags">
+                {% if post.tags.size > 1 %}
+                    [{{ post.tags | sort | join: ", " }}]
+                {% else %}
+                    [{{ post.tags }}]
+                {% endif %}
+            </span>
+        {% endif %}
+    </li>
 </ul>
+{% endif %}
 {% endfor %}
 
 <button class="default_button" type="button" name="button" onclick="window.location.href='/blog'">More</button>
