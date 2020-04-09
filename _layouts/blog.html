@@ -13,9 +13,11 @@
             {% for post in site.posts %}
                 <a href="{{ post.url }}">
                     <div class="post_rep">
-                        <p class="post_title">{{ post.title }}</p>
+                        <p class="post_title">
+                            {{ post.title }}
+                            <span class="read">&emsp;&rarr;&ensp;read</span>
+                        </p>
                         <div class="excerpt">
-                            <p class="read">read&emsp;<span>&rarr;</span></p>
                             <blockquote cite="{{ post.url }}">
                                 {{ post.excerpt }}
                             </blockquote>

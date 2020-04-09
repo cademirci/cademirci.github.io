@@ -82,19 +82,16 @@
         font-family: $code-font;
         font-size: 1.2em;
     }
+    .read {
+        visibility: hidden;
+        font-size: 0.8em;
+        color: $grey-color;
+    }
     .excerpt {
         display: flex;
         justify-content: flex-start;
         align-items: baseline;
-        .read {
-            color: $text-color;
-            transition: .5s;
-            min-width: 10%;
-        }
-        span {
-            color: lighten($grey-color, 25%);
-            font-size: 1.3em;
-        }
+
     }
     blockquote {
         background: inherit;
@@ -109,6 +106,7 @@
 }
 .post_rep:hover {
     .read {
+        visibility: visible;
         color: #ff7733;
     }
 }
