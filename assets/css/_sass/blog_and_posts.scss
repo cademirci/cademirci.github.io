@@ -84,6 +84,7 @@
     }
     .read {
         visibility: hidden;
+        transition: .3s;
         font-size: 0.8em;
         color: $grey-color;
     }
