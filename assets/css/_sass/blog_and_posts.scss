@@ -92,13 +92,17 @@
         display: flex;
         justify-content: flex-start;
         align-items: baseline;
-
+        border-left: 3px solid darken($brand-color, 35%);
+        transition: .3s;
+        margin: 5px 10px 5px 0;
     }
     blockquote {
         background: inherit;
         border: none;
         color: lighten($grey-color, 25%);
-        margin: 0 2vh;
+        margin: 5px 2vh 5px 0;
+        padding-left: 1vh;
+
     }
     .post_date {
         color: lighten($grey-color, 20%);
@@ -109,6 +113,10 @@
     .read {
         visibility: visible;
         color: #ff7733;
+    }
+    .excerpt {
+        border-left: 10px solid darken($brand-color, 35%);
+        margin-right: 0;
     }
 }
 br.phone_breakline {
