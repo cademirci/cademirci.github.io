@@ -47,7 +47,7 @@ window.addEventListener('scroll', () => {
         pageHeight = Math.max(body.scrollHeight, body.offsetHeight, html.scrollHeight, html.offsetHeight),
         square = pageHeight / 10,
         numberOfSquares = Math.floor(seen / square),
-        linuxLoadingEffect = '[';
+        linuxLoadingEffect = '';
 
     var panel = document.querySelector('.panel_container'),
         c2 = document.querySelector('#c2'),
@@ -65,7 +65,9 @@ window.addEventListener('scroll', () => {
         panel.style.right = 0;
         panel.style.left = 0;
         pad.style.height = padHeight;
-        c2.innerHTML = linuxLoadingEffect + ']',
+        c2.innerHTML = `[${linuxLoadingEffect}]`;
+        // c2.innerHTML = `[${linuxLoadingEffect}] ${seen}/${pageHeight}px`;
+
         arrow.style.display = 'block';
     }
     else {

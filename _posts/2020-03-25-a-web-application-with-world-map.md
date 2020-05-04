@@ -76,7 +76,7 @@ That means you can leave it empty, in this case the field will be filled by `ico
 
 Current program forces the user to put an image to all of the pins, unless they do not create and use an admin account. In this point, I am explaining how to use an admin account.
 
-### Use the App As an Admin
+### Use the App as an Admin
 
 Django administration is easy to use. I already wrote the admin urlpattern, a user just should do the following bellow:
 
