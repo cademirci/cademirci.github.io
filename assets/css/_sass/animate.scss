@@ -1,3 +1,16 @@
+@keyframes everythingFadeIn {
+    from {
+        opacity: 0;
+        transform: rotateX(-10deg);
+    }
+    to {
+        opacity: 1;
+        transform: rotateX(0);
+    }
+}
+
+* { animation: everythingFadeIn 0.5s; }
+
 a {
     color: $brand-color;
     transition: .5s;
