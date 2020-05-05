@@ -41,7 +41,7 @@ After a back-end framework that can serve a map management system, you need a ma
 At the end, in my HTML templates, I run a Django Jinja for loop and geoJson object within, all of them framed with Leaflet JavaScript code:
 
 {% raw %}
-```JavaScript
+```javascript
 {% for point in points %}
 // points is an array holds Django database model "Place"
   "geometry": {
