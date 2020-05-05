@@ -34,14 +34,14 @@ Sometimes, it is better that make things simple. Django does not provide `pointF
 
 ### Map
 
-After a back-end framework that can serve a map management system, you need a map management system which allows you to manage map and map items like pin, field, pin popups and things like that. I found and thought to use [Google Maps Platform](https://developers.google.com/maps/documentation) first. You have to get an API key and a billing account for using GMP. Then while keep searching, I found an open source javascript library called [Leafletjs](https://leafletjs.com/) and I decided to use it instead of Google's API.
+After a back-end framework that can serve a map management system, you need a map management system which allows you to manage map and map items like pin, field, pin popups and things like that. I found and thought to use [Google Maps Platform](https://developers.google.com/maps/documentation) first. You have to get an API key and a billing account for using GMP. Then while keep searching, I found an open source JavaScript library called [Leafletjs](https://leafletjs.com/) and I decided to use it instead of Google's API.
 
 ### Communication Between Django and Leaflet
 
-At the end, in my HTML templates, I run a Django Jinja for loop and geoJson object within, all of them framed with Leaflet javascript code:
+At the end, in my HTML templates, I run a Django Jinja for loop and geoJson object within, all of them framed with Leaflet JavaScript code:
 
 {% raw %}
-```javascript
+```JavaScript
 {% for point in points %}
 // points is an array holds Django database model "Place"
   "geometry": {
@@ -56,7 +56,7 @@ At the end, in my HTML templates, I run a Django Jinja for loop and geoJson obje
 ```
 {% endraw %}
 
-I could not find a way for writing and using Django variables (I mean Jinja template variables) inside external Javascript files or a Json file. I think the reason is that I do not use any frontend framework organizes such things. I wrote almost everything related with Javascript down in `template` files. May be it became a little dirty code. By the way this is the same reason that it seems in the GitHub repository of my project the second most used language after python is HTML. Actually they are not HTML, almost all of them are javascript of Leaflet library in Jinja blocks.
+I could not find a way for writing and using Django variables (I mean Jinja template variables) inside external JavaScript files or a Json file. I think the reason is that I do not use any frontend framework organizes such things. I wrote almost everything related with JavaScript down in `template` files. May be it became a little dirty code. By the way this is the same reason that it seems in the GitHub repository of my project the second most used language after python is HTML. Actually they are not HTML, almost all of them are JavaScript of Leaflet library in Jinja blocks.
 
 ### A Bug I Could Not Handle
 

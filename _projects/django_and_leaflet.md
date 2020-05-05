@@ -6,11 +6,11 @@ description: >-
     <br><br>
     More information can be viewed in my &rarr; <a href="/a-web-application-with-world-map">blog post</a>
     <br><br>
-    <div class="tools">Python &emsp; Django &emsp; Leaflet &emsp; Javascript &emsp; HTML &emsp; CSS &emsp; Sqlite3</div>
+    <div class="tools">Python &emsp; Django &emsp; Leaflet &emsp; JavaScript &emsp; HTML &emsp; CSS &emsp; Sqlite3</div>
 name: django&leaflet
 ---
 
-Using Liquid in Javascript, Jekyll does not allow you to use `{{ project.content }}`. At least I couldn't find the way.
+Using Liquid in JavaScript, Jekyll does not allow you to use `{{ project.content }}`. At least I couldn't find the way.
 I use a frontmatter element `description` instead. Now `{{ project.description }}` prints the block above in `main.js`.
 
 I'm sad, Markdown would be so simple instead of all stupid HTML tags.
