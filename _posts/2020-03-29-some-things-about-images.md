@@ -21,7 +21,7 @@ First of all I want to say that, if CSS provides a solution for something about 
 
 Here we come to collect the images in the page and analyze them, calculate their widths and manage them. The code given below has a surprise:
 
-```JavaScript
+```javascript
 const images = document.querySelectorAll('img');
 for (let i = 0; i < images.length; i++) {
     let image = images[i];
@@ -33,7 +33,7 @@ The surprise is some of the widths may alerted as 0. Here is the reason: when th
 
 To avoid that, better to wait all of the images be loaded. The function below works for it.
 
-```JavaScript
+```javascript
 window.addEventListener('load', () => {
     const images = document.querySelectorAll('img');
     ...
@@ -46,7 +46,7 @@ For general purpose I use and suggest `DOMContentLoaded` instead of `load`, beca
 
 We were looking for that image widths be wide. To solve this, if there is an image which has bigger width from the container's one, we can set the image's left and right margins equally and negatively, and set its maximum width to sum of the margins and container width.
 
-```JavaScript
+```javascript
 var container = document.querySelector('.container');
 var containerWidth = container.clientWidth;
 var extra = 25;
