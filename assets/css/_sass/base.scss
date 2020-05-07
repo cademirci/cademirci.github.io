@@ -55,6 +55,7 @@ h4 {
 
 blockquote {
     padding: 10px 10px 10px 25px;
+    margin: $margin-gaps;
     background: darken($background-color, 5%);
     border-left: 3px solid darken($second-color, 25%);
 }

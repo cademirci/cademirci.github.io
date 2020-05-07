@@ -5,7 +5,7 @@ description: >-
     javascript as ten years ago. However, jQuery is an outdated library and it is odd to exist on a modern website now. Since
     then I have removed all jQuery files in my working space and changed my mindset into create
     animations with CSS transitions. I went my way on with to write only native JavaScript also.
-name: jQuery
+name: jquery
 ---
 
 Using Liquid in JavaScript, Jekyll does not allow you to use `{{ project.content }}`. At least I couldn't find the way.
