@@ -43,6 +43,8 @@ Below, I have changed the changing (transforming) behavior of six things by a si
   color: red;
   border-radius: 0;
   transition: 2.5s ease;
+  margin-top: 35px;
+  margin-bottom: -35px;
 }
 .box1:hover {
   height: 200px;
@@ -62,6 +64,7 @@ Below, I have changed the changing (transforming) behavior of six things by a si
   background: black;
   color: red;
   border-radius: 0;
+
   transition: 2.5s ease;
 }
 .box1:hover {
@@ -110,7 +113,7 @@ I use `@keyframes` for first seconds after opening of a page, or infinite moveme
 .box2 {
   height: 100px;
   width: 100px;
-  background: #3bc45f;
+  background: #3bc45f; /* soft green */
   border-radius: 50%;
   position: relative;
 
@@ -152,4 +155,4 @@ For now, I changed my code into this:
 }
 ```
 
-These headers are my big illustration headers. I make them fade in, instead of all elements or the whole body.
+These headers are my big illustration headers. I make them fade in, instead of the whole body.

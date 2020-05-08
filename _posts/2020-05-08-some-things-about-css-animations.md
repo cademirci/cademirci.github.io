@@ -27,11 +27,11 @@ Shortly I can say that, internet may mislead person about animation issue. Worse
 
 So I changed my mindset into use CSS animations as soon as I able to do it. Here is some little examples:
 
-##### Transition
+### Transition
 
 Transition property is being used in this website, when hovering over links for example.
 
-Below, I have changed six things by a single transition line. I added a different line also: things like `padding` adjustment to `padding-left` can also can be written. But pay attention: Because of we did that, box transformed into an ellipse instead of a perfect circle, we stretched it extra 50px from left.
+Below, I have changed the changing (transforming) behavior of six things by a single `transition` line. I added a different line also: things like `padding` adjustment to `padding-left` can also can be written. But pay attention: Because of we did that, box transformed into an ellipse instead of a perfect circle, we stretched it extra 50px from left.
 
 <div class="box1">HOVER ME!</div>
 <style>
@@ -43,6 +43,8 @@ Below, I have changed six things by a single transition line. I added a differen
   color: red;
   border-radius: 0;
   transition: 2.5s ease;
+  margin-top: 35px;
+  margin-bottom: -35px;
 }
 .box1:hover {
   height: 200px;
@@ -62,6 +64,7 @@ Below, I have changed six things by a single transition line. I added a differen
   background: black;
   color: red;
   border-radius: 0;
+
   transition: 2.5s ease;
 }
 .box1:hover {
@@ -74,7 +77,7 @@ Below, I have changed six things by a single transition line. I added a differen
 }
 ```
 
-##### Keyframes
+### Keyframes
 
 I use `@keyframes` for first seconds after opening of a page, or infinite movements.
 
@@ -110,7 +113,7 @@ I use `@keyframes` for first seconds after opening of a page, or infinite moveme
 .box2 {
   height: 100px;
   width: 100px;
-  background: #3bc45f;
+  background: #3bc45f; /* soft green */
   border-radius: 50%;
   position: relative;
 
@@ -119,6 +122,7 @@ I use `@keyframes` for first seconds after opening of a page, or infinite moveme
   animation-iteration-count: infinite;
 }
 ```
+<br><br>
 
 ### A Bug
 
@@ -152,4 +156,4 @@ For now, I changed my code into this:
 }
 ```
 
-These headers are my big illustration headers. I make them fade in, instead of all elements or the whole body.
+These headers are my big illustration headers. I make them fade in, instead of the whole body.
