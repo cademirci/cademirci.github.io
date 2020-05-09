@@ -76,7 +76,7 @@ Below, I have changed the changing (transforming) behavior of six things by a si
   border-radius: 50%;
 }
 ```
-
+<br><br>
 ### Keyframes
 
 I use `@keyframes` for first seconds after opening of a page, or infinite movements.
