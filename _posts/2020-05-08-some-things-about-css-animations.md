@@ -19,7 +19,7 @@ A web programmer starts with implementing solid pages: Nothing moves, all change
 
 ### CSS or JavaScript?
 
-When I started web design, I tried to animate things with JavaScript. Even I never thought about CSS on that, like CSS is only used for declare certain features of a view, never for manipulating living things. Indeed, in first times, you can think like JS is in order for page elements to behave and move, CSS on the other hand is just to adjust spaces and colors. So I started to use `animate` function of jQuery. Because I thought that jQuery was very popular and as better way to use JavaScript as ten years ago. However that was a mistake. JQuery is an outdated library and it is odd to exist on a modern website now. Since I learned that, I have removed all jQuery codes in my working space and changed my mindset into create animations with CSS animations. Before that, I implemented some moving things on a page with `setInterval` of vanilla JavaScript also.
+When I started web design, I tried to animate things with JavaScript. Even I never thought about CSS on that, like CSS is only used for declare still features of a view, never for manipulating living things. Indeed, in first times, you can think like JS is in order for page elements to behave and move, CSS on the other hand is just to adjust spaces and colors. So I started to use `animate` function of jQuery. Because I thought that jQuery was very popular and as better way to use JavaScript as ten years ago. However that was a mistake. JQuery is an outdated library and it is odd to exist on a modern website now. Since I learned that, I have removed all jQuery codes in my working space and changed my mindset into create animations with CSS animations. Before that, I implemented some moving things on a page with `setInterval` of vanilla JavaScript also.
 
 Shortly I can say that, internet may mislead person about animation issue. Worse, some coders underestimate CSS sometimes. I have explained something about this in my previous blog post. I quote the paragraph from it:
 
@@ -31,7 +31,7 @@ So I changed my mindset into use CSS animations as soon as I able to do it. Here
 
 Transition property is being used in this website, when hovering over links for example.
 
-Below, I have changed the changing (transforming) behavior of six things by a single `transition` line. I added a different line also: things like `padding` adjustment to `padding-left` can also can be written. But pay attention: Because of we did that, box transformed into an ellipse instead of a perfect circle, we stretched it extra 50px from left.
+Below, I have changed the changing (transforming) behavior of six things by a single `transition` line. I added a different line also: things like `padding` adjustment to `padding-left` also can be written. But pay attention: Because of we did that, box transformed into an ellipse instead of a perfect circle, we stretched it extra 50px from left.
 
 <div class="box1">HOVER ME!</div>
 <style>
@@ -138,9 +138,9 @@ html, body {
 }
 ```
 
-I wrote this code for opening of my page. I thought it was a smooth fading in from nothing, and with a little settling in movement. But I saw a white color flashing out like an old camera does. You can find something about this issue on the web: [link1 (tried and did not work)](https://www.sitepoint.com/fix-chrome-animation-flash-bug/), [link2](https://9to5google.com/2019/01/18/google-chrome-fix-white-flash/), [reddit](https://www.reddit.com/r/chrome/comments/b1tkxv/weird_white_flashes/)
+I wrote this code for opening of my page. I thought it was a smooth fading in from nothing, and with a little settling-in movement. But I saw a white color flashing out like an old camera does. You can find something about this issue on the web: [link1 (tried and did not work)](https://www.sitepoint.com/fix-chrome-animation-flash-bug/), [link2](https://9to5google.com/2019/01/18/google-chrome-fix-white-flash/), [reddit](https://www.reddit.com/r/chrome/comments/b1tkxv/weird_white_flashes/)
 
-Opera does the same thing. Firefox does not. Firefox runs the animation exactly as I wanted. Thanks Mozilla.
+Opera does the same thing. Firefox does not. Firefox runs the animation exactly as I wanted (thanks Mozilla! <3). I did not try other browsers.
 
 For now, I changed my code into this:
 
