@@ -79,8 +79,9 @@
         margin-bottom: 0;
     }
     .post_title {
-        font-family: $code-font;
+        font-family: $main-font;
         font-size: 1.2em;
+        transition: none;
     }
     .read {
         visibility: hidden;
@@ -99,10 +100,9 @@
     blockquote {
         background: inherit;
         border: none;
-        color: lighten($grey-color, 25%);
+        color: lighten($grey-color, 35%);
         margin: 5px 2vh 5px 0;
-        padding-left: 1vh;
-
+        padding: 0 1vh;
     }
     .post_date {
         color: lighten($grey-color, 20%);
