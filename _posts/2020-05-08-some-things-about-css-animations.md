@@ -27,6 +27,8 @@ Shortly I can say that, internet may mislead person about animation issue. Worse
 
 So I changed my mindset into use CSS animations as soon as I able to do it. Here is some little examples:
 
+<br><br>
+
 ### Transition
 
 Transition property is being used in this website, when hovering over links for example.
@@ -76,7 +78,7 @@ Below, I have changed the changing (transforming) behavior of six things by a si
   border-radius: 50%;
 }
 ```
-<br><br>
+
 ### Keyframes
 
 I use `@keyframes` for first seconds after opening of a page, or infinite movements.
