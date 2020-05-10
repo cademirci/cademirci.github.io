@@ -25,7 +25,7 @@ Shortly I can say that, internet may mislead person about animation issue. Worse
 
 > First of all I want to say that, if CSS provides a solution for something about style, never write a JavaScript code. CSS is always stronger, cleaner and faster on that. It stands for “Cascade Style Sheet” in the first place and it is probably one of the most well-designed languages in the world. I love JavaScript but I can surely say that, JavaScript’s style functions should be used if and only if there is not a CSS solution, or we do not know how to do it with CSS. Actually the second is more possibly.
 
-So I changed my mindset into use CSS animations as soon as I able to do it. Here is some little examples:
+So I changed my mindset into use CSS animations as soon as I am able to do it. Here is some little examples:
 
 <br><br>
 
