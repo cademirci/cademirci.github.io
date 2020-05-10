@@ -52,7 +52,7 @@ Below, I have changed the changing (transforming) behavior of six things by a si
   height: 200px;
   width: 200px;
   padding-left: 75px;
-  background: orange;
+  background: #455369;
   color: white;
   border-radius: 50%;
 }
@@ -73,7 +73,7 @@ Below, I have changed the changing (transforming) behavior of six things by a si
   height: 200px;
   width: 200px;
   padding-left: 75px;
-  background: orange;
+  background: #455369; /* pale blue */
   color: white;
   border-radius: 50%;
 }
