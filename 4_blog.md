@@ -4,7 +4,7 @@ title: Blog
 permalink: /blog-on-home
 is_navlink: true
 navlink_name: Blog
-image: ../assets/images/iconbl.png
+image: ../assets/images/icon_blog.png
 ---
 
 # {{ page.title }}

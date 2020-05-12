@@ -4,7 +4,7 @@ title: What I Have Tried Before
 permalink: /portfolio
 is_navlink: true
 navlink_name: Portfolio
-image: ../assets/images/iconcs.png
+image: ../assets/images/ip12.png
 ---
 
 # {{ page.title }}

@@ -4,7 +4,7 @@ title: Contact Me
 permalink: /contact
 is_navlink: true
 navlink_name: Contact
-image: ../assets/images/iconct.png
+image: ../assets/images/ic12.png
 ---
 
 # {{ page.title }}
