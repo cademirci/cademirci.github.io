@@ -3,4 +3,4 @@ layout: simplespace
 permalink: simplespace/another-page
 ---
 
-lkmlkm
+Another page in simplespace section.
