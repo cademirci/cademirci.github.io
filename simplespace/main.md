@@ -1,6 +1,6 @@
 ---
 layout: simplespace
-permalink: /simplespace
+permalink: simplespace
 ---
 
 This is a free space. There isn't any strict order, or complicated (and thought a lot about) style. Just content. Fuck it.
