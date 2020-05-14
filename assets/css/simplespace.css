@@ -1,0 +1,40 @@
+@font-face {
+	font-family: source_sans_pro;
+	src: url(fonts/Source_Sans_Pro/SourceSansPro-Regular.ttf);
+}
+
+body {
+  margin: 0;
+  line-height: 1.5;
+  font-size: 1.1em;
+  background: #1a1a1a;
+  color: #efefef;
+}
+
+p, a, button,
+h1, h2, h3,
+h4, h5, h5 {
+  font-family: source_sans_pro;
+  letter-spacing: 1px;
+}
+
+.content_container {
+  margin: auto;
+  padding: 25px;
+  max-width: 800px;
+}
+
+a {
+  text-decoration: none;
+  color: #5588bb;
+}
+
+button {
+    margin: 20px;
+    background: inherit;
+    color: inherit;
+    font-size: .9em;
+    padding: 5px 20px;
+    border: 3px solid grey;
+    border-radius: 5px;
+}
