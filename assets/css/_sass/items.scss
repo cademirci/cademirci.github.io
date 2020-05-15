@@ -76,13 +76,16 @@
   height: 100px;
 }
 .contact_image {
-  height: 125px;
+  height: 200px;
 }
 .about_image {
   height: 300px;
 }
 
 @media only screen and (max-width: 925px) {
+  .contact_image {
+    height: 125px;
+  }
   .about_image {
     height: 200px;
   }
