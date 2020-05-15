@@ -4,16 +4,24 @@ title: About Me
 permalink: /about
 is_navlink: true
 navlink_name: About
-image: ../assets/images/iconab.png
+image: ../assets/images/42reok.png
 ---
 
 # {{ page.title }}
 
-<img src="{{ page.image }}" class="title_image">
+<div class="flexbox">
 
-`hello world.`
-
+<img src="{{ page.image }}" class="about_image">
+<div>
+<code>hello world.</code>
+<p>
 As a regular computer science student at university, I work on general programming, hardware and math. Meanwhile, the fields that I am the most enthusiastic about are web technologies and designing. Currently I focus on JavaScript frameworks like Node, Vue and Electron.
+</p>
 
 <!--<button class="default_button" type="button" name="button">GET MY CV</button>-->
+<p>
 In my personal life, I love to read and watch fantasy arts, listen to heavy metal and drink coffee a lot. I like trekking, love to walking in the woods. Interested in mythology and cultures, languages and etymology.
+</p>
+</div>
+
+</div>

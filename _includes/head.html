@@ -10,18 +10,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     {% feed_meta %}
     {% seo %}
-    {% if page.layout == 'simplespace' %}
-        <link rel="stylesheet" href='{{ "/assets/css/simplespace.css" | prepend: site.baseurl }}'>
-        <script type="text/javascript" src='{{ "../assets/js/ssjs.js" }}'></script>
-    {% else %}
-        <link rel="stylesheet" href='{{ "/assets/css/main.css" | prepend: site.baseurl }}'>
-        <link rel="icon" href='{{ "assets/images/icon_round.png" }}'>
-        <link rel="apple-touch-icon" href='{{ "assets/images/icon1a.png" }}' />
-        <script type="text/javascript" src='{{ "assets/js/main.js" }}'></script>
-        <script type="text/javascript" src='{{ "assets/js/panel.js" }}'></script>
-        <script type="text/javascript" src='{{ "assets/js/ImageRegulator.js" }}'></script>
-    {% endif %}
+    <link rel="stylesheet" href='{{ "/assets/css/main.css" | prepend: site.baseurl }}'>
     <link rel="stylesheet" href='{{ "/assets/css/ghost-theme.css" | prepend: site.baseurl }}'>
+    <link rel="icon" href='{{ "assets/images/icon_round.png" }}'>
+    <link rel="apple-touch-icon" href='{{ "assets/images/icon1a.png" }}' />
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Mono&display=swap">
-    <script type="text/javascript" src='{{ "../assets/js/PutCodeElements.js" }}'></script>
+    <script type="text/javascript" src='{{ "assets/js/main.js" }}'></script>
+    <script type="text/javascript" src='{{ "assets/js/panel.js" }}'></script>
+    <script type="text/javascript" src='{{ "assets/js/PutCodeElements.js" }}'></script>
+    <script type="text/javascript" src='{{ "assets/js/ImageRegulator.js" }}'></script>
 </head>
