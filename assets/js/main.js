@@ -24,6 +24,9 @@ window.addEventListener('DOMContentLoaded', () => {
         })
     }
 
+    // I was using here but not now.
+    // may be later, again.
+    /*
     var skillTags = document.querySelectorAll('.skills');
     for (var i = 0; i < skillTags.length; i++) {
         skillTags[i].addEventListener('click', function(e) {
@@ -76,13 +79,16 @@ window.addEventListener('DOMContentLoaded', () => {
             projectBox.setAttribute('appearance', 'true');
         })
     }
+    */
+
     if (window.location.pathname == '/') {
         var wrappers = document.querySelectorAll('.content_wrapper');
-        var colorArray = ['inherit', '#1a1e1a', '#101010', '#1a1a1e'];
+        var colorArray = ['inherit', '#101010', '#1a1a1e', '#1a1e1a'];
         for (var i = 0; i < wrappers.length; i++) {
             wrappers[i].style.backgroundColor = "" + colorArray[i];
         }
     }
+
 })
 
 function jump(anchor) {
