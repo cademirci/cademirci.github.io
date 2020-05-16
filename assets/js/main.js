@@ -24,8 +24,7 @@ window.addEventListener('DOMContentLoaded', () => {
         })
     }
 
-    // I was using here but not now.
-    // may be later, again.
+    // Temporarily misused.
     /*
     var skillTags = document.querySelectorAll('.skills');
     for (var i = 0; i < skillTags.length; i++) {
