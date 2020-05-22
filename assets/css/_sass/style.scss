@@ -1,9 +1,17 @@
-
 // ================================ HEADER WITHOUT PANEL
 // ================= HEADER IMAGES
-.home_header { background-image: url('/assets/images/wsbg.png'); }
-.default_header { background-image: url('/assets/images/planets.png'); }
-.blog_header { background-image: url('/assets/images/blogmain_bg.png'); }
+.home_header {
+    background-image: url('/assets/images/wsbg.png');
+}
+
+.default_header {
+    background-image: url('/assets/images/planets.png');
+}
+
+.blog_header {
+    background-image: url('/assets/images/blogmain_bg.png');
+}
+
 .home_header,
 .default_header,
 .blog_header {
@@ -11,28 +19,41 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
-.home_header { height: calc(75vh); }
-.default_header { height: 50vh; }
-.blog_header { height: 75vh; }
+
+.home_header {
+    height: calc(75vh);
+}
+
+.default_header {
+    height: 50vh;
+}
+
+.blog_header {
+    height: 75vh;
+}
 
 @media only screen and (max-width: 925px) {
-    .home_header { height: 50vh; }
-    .default_header { height: 32vh; }
-    .blog_header { height: 50vh; }
+    .home_header {
+        height: 50vh;
+    }
+    .default_header {
+        height: 32vh;
+    }
+    .blog_header {
+        height: 50vh;
+    }
 }
-// ================= END
 
+// ================= END
 .name_sentence {
     color: lighten($grey-color, 25%);
     font-size: 42px;
     left: 42px;
     letter-spacing: normal;
     position: absolute;
-
-    > span.name {
+    >span.name {
         color: $text-color;
     }
-
     @media only screen and (max-width: 1250px) {
         font-size: 24px;
         right: 15px;
@@ -40,21 +61,25 @@
         text-align: right;
     }
 }
+
 #page_def {
     color: #999;
 }
+
 #nameOnPhonePanel {
     display: none;
 }
-// ================================ END
 
+// ================================ END
 .content_wrapper {
     width: 100%;
     padding: 150px 0;
 }
+
 .blog_wrapper {
     background: #1a1a1e;
 }
+
 .content_container {
     max-width: $content-inner-width;
     margin: auto;
@@ -64,28 +89,31 @@
 // ================================ PANEL
 .panel_container {
     background: $panel-color;
-    -webkit-box-shadow: 0px 2px 2px 0px rgba(12,12,12,0.75);
-    -moz-box-shadow: 0px 2px 2px 0px rgba(0,0,0,0.75);
-    box-shadow: 0px 2px 2px 0px rgba(12,12,12,0.75);
+    -webkit-box-shadow: 0px 2px 2px 0px rgba(12, 12, 12, 0.75);
+    -moz-box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.75);
+    box-shadow: 0px 2px 2px 0px rgba(12, 12, 12, 0.75);
     position: relative;
 }
+
 .panel {
     max-width: $panel-inner-width;
     margin: auto;
     padding: $padding-gap;
-    > div {
+    >div {
         width: 33%;
-        > div {
+        >div {
             width: 50;
         }
-        > p {
+        >p {
             color: $text-color;
             margin: 0;
             padding: 0;
         }
     }
 }
-.panel, .cell {
+
+.panel,
+.cell {
     display: flex;
 }
 
@@ -93,6 +121,7 @@
     cursor: pointer;
     position: relative;
 }
+
 #c1_pad {
     color: $panel-color;
 }
@@ -127,7 +156,6 @@
 }
 
 // ============ PANEL phone screen
-
 .menu_box {
     display: none;
     height: 24px;
@@ -136,7 +164,7 @@
     top: 0;
     right: 0;
     cursor: pointer;
-    > .menu_line {
+    >.menu_line {
         width: 28px;
         height: 3px;
         background: #ccc;
@@ -160,9 +188,11 @@
         display: none;
     }
 }
+
 .navlink {
     cursor: pointer;
 }
+
 .navlink_div {
     padding: 10px;
     display: flex;
@@ -174,6 +204,7 @@
         padding-left: 15px;
     }
 }
+
 .navlink_div:hover {
     background: $soft-black;
 }
@@ -185,7 +216,6 @@
 }
 
 @media only screen and (max-width: 925px) {
-
     .menu_box {
         display: block;
     }
@@ -195,7 +225,6 @@
     .navboxlink {
         display: block;
     }
-
     #nameOnPanel {
         display: none;
     }
@@ -203,21 +232,21 @@
         display: inline-block;
     }
     #c1 {
-        > p {
+        >p {
             position: absolute;
         }
     }
 }
+
 // ============ END
-
 // ============ FOOTER
-
 .footer_container {
     background: #0a0a0a;
     padding: 0 10px;
     border-top: 3px solid $grey-color;
     display: block;
 }
+
 .footer_content {
     max-width: $panel-inner-width;
     margin: auto;
@@ -243,10 +272,12 @@
             width: 50px;
             user-select: none;
         }
-        a, a:visited {
+        a,
+        a:visited {
             color: lighten($soft-black, 66%);
         }
-        a:hover, a:visited:hover {
+        a:hover,
+        a:visited:hover {
             color: lighten($soft-black, 90%);
         }
     }
@@ -257,13 +288,5 @@
     }
 }
 
-.subspace {
-  background: #0a0a0a;
-  a {
-    color: red;
-  }
-}
-
 // ============ END
-
 // ================================ END

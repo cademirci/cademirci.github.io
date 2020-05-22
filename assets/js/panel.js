@@ -19,6 +19,7 @@ function menuBoxDown() {
         menuLines[i].style.backgroundColor = '#000';
     }
 }
+
 function menuBoxLeave(event) {
     const navboxlinks = document.querySelectorAll('.navbox a');
     const navBox = document.querySelector('.navbox');
@@ -69,8 +70,7 @@ window.addEventListener('scroll', () => {
         // c2.innerHTML = `[${linuxLoadingEffect}] ${seen}/${pageHeight}px`;
 
         arrow.style.display = 'block';
-    }
-    else {
+    } else {
         panel.style.position = 'relative';
         pad.style.height = 0;
         c2.innerHTML = '';

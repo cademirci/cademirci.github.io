@@ -11,7 +11,7 @@ $second-background: #1a1a1e;
 $panel-color: lighten($second-background, 10%);
 $text-color: #f2f2f2;
 $brand-color: #00e6e6;
-$second-color: #3bc47f;  // #3bc45f;
+$second-color: #3bc47f; // #3bc45f;
 $grey-color: #666;
 
 $panel-inner-width: 1600px;
@@ -20,22 +20,23 @@ $padding-gap: 10px;
 $margin-gaps: 35px 0;
 $margin-gaps-double: 75px 0;
 $centered: 35px auto;
-
 $main-font: source_sans_pro, Open Sans, sans-serif;
 $code-font: 'Roboto Mono', source_code_pro, Consolas, monaco, monospace;
+
 @font-face {
-	font-family: source_sans_pro;
-	src: url(fonts/Source_Sans_Pro/SourceSansPro-Regular.ttf);
+  font-family: source_sans_pro;
+  src: url(fonts/Source_Sans_Pro/SourceSansPro-Regular.ttf);
 }
+
 @font-face {
-	font-family: source_code_pro;
-	src: url(fonts/Source_Code_Pro/SourceCodePro-Regular.ttf);
+  font-family: source_code_pro;
+  src: url(fonts/Source_Code_Pro/SourceCodePro-Regular.ttf);
 }
 
 @import
-    "base",
-    "style",
-		"items",
-    "animate",
-		"blog_and_posts"
+  "base",
+  "style",
+  "items",
+  "animate",
+  "blog_and_posts"
 ;
