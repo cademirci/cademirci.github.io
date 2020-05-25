@@ -130,29 +130,45 @@
     font-family: source_code_pro, $code-font, monospace;
     font-size: .8em;
     color: $second-color;
-    cursor: n-resize;
-    display: block;
-    // flexbox text-align does not work even if
-    // justify-content is space-between without
-    // writing display block. I do not know why.
     text-align: center;
+    position: relative;
+    display: inline-block;
+}
+.tooltip_returnTop {
+    visibility: hidden;
+    width: 100px;
+    font-size: .9em;
+    background-color: $background-color;
+    color: $text-color;
+    text-align: center;
+    border: 1px solid $grey-color;
+    border-radius: 5px;
+    padding: 5px 0;
+    position: absolute;
+    z-index: 1000;
+    top: 90%;
+    left: 50%;
+    margin-left: -60px;
+}
+.tooltip_returnTop::after {
+    content: "";
+    position: absolute;
+    bottom: 100%;
+    left: 50%;
+    margin-left: -9px;
+    border-width: 9px;
+    border-style: solid;
+    border-color: transparent transparent $grey-color transparent;
+}
+
+#c2:hover + .tooltip_returnTop {
+    visibility: visible;   
 }
 
 #c3 {
     display: block;
     text-align: right;
     position: relative;
-}
-
-.arrow {
-    right: calc(50% - 11px);
-    transform: translate(-50%, -50%);
-    top: 10;
-    position: fixed;
-    z-index: 10;
-    font-size: 24px;
-    color: $second-color;
-    cursor: n-resize;
 }
 
 // ============ PANEL phone screen
@@ -206,7 +222,7 @@
 }
 
 .navlink_div:hover {
-    background: $soft-black;
+    background: darken($brand-color, 50%);
 }
 
 @media only screen and (max-width: 1000px) {

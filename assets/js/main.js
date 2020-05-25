@@ -11,7 +11,7 @@ window.addEventListener('DOMContentLoaded', () => {
             jump(anchor);
         })
     }
-    var returners = document.querySelectorAll('#c1, #c2, #upArrow, .signature');
+    var returners = document.querySelectorAll('#c1, #c2, .signature');
     for (var i = 0; i < returners.length; i++) {
         returners[i].addEventListener('click', function(e) {
             if ((this.getAttribute('id') == 'c1' || this.getAttribute('class') == 'signature') &&

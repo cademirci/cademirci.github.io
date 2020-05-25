@@ -67,7 +67,8 @@
 
 .title_image,
 .contact_image,
-.about_image {
+.about_image,
+.software_image {
     display: block;
     margin: 0 auto 75px auto;
 }
@@ -80,6 +81,9 @@
 }
 .about_image {
   height: 300px;
+}
+.software_image {
+  height: 150px;
 }
 
 @media only screen and (max-width: 925px) {

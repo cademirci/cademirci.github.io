@@ -1,6 +1,4 @@
 window.addEventListener('DOMContentLoaded', () => {
-    document.querySelector('#upArrow').style.display = 'none';
-
     document.querySelector('.menu_box').addEventListener('click', menuBoxDown);
     document.querySelector('.menu_box').addEventListener('touchstart', menuBoxDown);
     document.addEventListener('mousedown', menuBoxLeave);
@@ -19,7 +17,6 @@ function menuBoxDown() {
         menuLines[i].style.backgroundColor = '#000';
     }
 }
-
 function menuBoxLeave(event) {
     const navboxlinks = document.querySelectorAll('.navbox a');
     const navBox = document.querySelector('.navbox');
@@ -48,11 +45,10 @@ window.addEventListener('scroll', () => {
         pageHeight = Math.max(body.scrollHeight, body.offsetHeight, html.scrollHeight, html.offsetHeight),
         square = pageHeight / 10,
         numberOfSquares = Math.floor(seen / square),
-        linuxLoadingEffect = '';
-
-    var panel = document.querySelector('.panel_container'),
+        linuxLoadingEffect = '',
+        panel = document.querySelector('.panel_container'),
         c2 = document.querySelector('#c2'),
-        arrow = document.querySelector('#upArrow');
+        tooltip_text = document.querySelector('.tooltip_returnTop');
 
     if (scrollTop >= start) {
         for (var i = 0; i < numberOfSquares; i++) {
@@ -66,14 +62,14 @@ window.addEventListener('scroll', () => {
         panel.style.right = 0;
         panel.style.left = 0;
         pad.style.height = padHeight;
-        c2.innerHTML = `[${linuxLoadingEffect}]`;
-        // c2.innerHTML = `[${linuxLoadingEffect}] ${seen}/${pageHeight}px`;
-
-        arrow.style.display = 'block';
-    } else {
+        tooltip_text.style.display = 'block';
+        // c2.innerHTML = `[${linuxLoadingEffect}]`;
+        c2.innerHTML = `[${linuxLoadingEffect}] ${seen}px/${pageHeight}px`;
+    }
+    else {
         panel.style.position = 'relative';
         pad.style.height = 0;
         c2.innerHTML = '';
-        arrow.style.display = 'none';
+        tooltip_text.style.display = 'none';
     }
 })
