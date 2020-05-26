@@ -32,7 +32,7 @@ bot.on('ready', () => {
     console.log(`bot is online as ${bot.user.tag}`); 
 })
 
-bot.on('message', async message => {
+bot.on('message', message => {
     if (message.content === 'hello') {
         message.reply("Hi, how are you?");
     }
