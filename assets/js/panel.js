@@ -63,8 +63,8 @@ window.addEventListener('scroll', () => {
         panel.style.left = 0;
         pad.style.height = padHeight;
         tooltip_text.style.display = 'block';
-        // c2.innerHTML = `[${linuxLoadingEffect}]`;
-        c2.innerHTML = `[${linuxLoadingEffect}] ${seen}px/${pageHeight}px`;
+        c2.innerHTML = `[${linuxLoadingEffect}]`;
+        // c2.innerHTML = `[${linuxLoadingEffect}] ${seen}px/${pageHeight}px`;
     }
     else {
         panel.style.position = 'relative';
