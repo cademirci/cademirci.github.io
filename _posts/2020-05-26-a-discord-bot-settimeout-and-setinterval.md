@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Discord Bot, setTimeout and setInterval
+title: A Discord Bot, to Set Timeouts and Intervals
 excerpt: >-
     A countdown timer Discord bot written in Discord.js, Node.js, and some tricks about setTimeout() and setInterval() functions.
 tags: [JavaScript, Node.js, Discord.js, Electron.js]
@@ -13,15 +13,15 @@ tags: [JavaScript, Node.js, Discord.js, Electron.js]
 
 ***
 
-My friend asked me if I can write a Pomodoro bot for Discord, thus he can study nearby an online Pomodoro timer which warns him periodically according to Pomodoro algorithm. Pomodoro is a working technique which can be found [on the web](https://www.google.com/search?sxsrf=ALeKk01WQwuEZkGaewswu69rX9GgSTsx5Q%3A1590490363776&ei=-_TMXrS9Ls7ergSfjJLoCA&q=pomodoro+technique&oq=pomodoro+tech&gs_lcp=CgZwc3ktYWIQAxgAMgIIADICCAAyAggAMgIIADIFCAAQywEyAggAMgIIADIFCAAQywEyBQgAEMsBMgUIABDLAToECAAQRzoECCMQJzoECAAQQzoFCAAQgwE6BwgAEIMBEENQ2ihYuDRg9kBoAHABeACAAbsBiAHDBpIBAzAuNZgBAKABAaoBB2d3cy13aXo&sclient=psy-ab).
+My friend asked me if I can write a Pomodoro bot for Discord, thus he can study nearby an online Pomodoro timer which warns him periodically according to Pomodoro algorithm. Pomodoro is a studying technique which can be found [on the web](https://www.google.com/search?sxsrf=ALeKk01WQwuEZkGaewswu69rX9GgSTsx5Q%3A1590490363776&ei=-_TMXrS9Ls7ergSfjJLoCA&q=pomodoro+technique&oq=pomodoro+tech&gs_lcp=CgZwc3ktYWIQAxgAMgIIADICCAAyAggAMgIIADIFCAAQywEyAggAMgIIADIFCAAQywEyBQgAEMsBMgUIABDLAToECAAQRzoECCMQJzoECAAQQzoFCAAQgwE6BwgAEIMBEENQ2ihYuDRg9kBoAHABeACAAbsBiAHDBpIBAzAuNZgBAKABAaoBB2d3cy13aXo&sclient=psy-ab).
 
 ### Discord and Its Frameworks
 
-I like Discord. It should not be thought as just a gamer communication tool, but one of the best digital communication tools on our time. Additionally, my sympathy to Discord also comes from its software: it is written in `Electron.js`, and its core `Node.js`. These JavaScript frameworks are some of the most preferred application and back-end frameworks in UI technologies. I am kind of familiar with them and I like them.
+I like Discord. It should not be considered as just a gamer communication tool, but one of the best digital communication tools of our time. Additionally, my symphaty to Discord also comes from its software: it is written in `Electron.js` and its core `Node.js`. These JavaScript frameworks are some of the most preferred application and back-end frameworks in modern UI technologies. I am kind of familiar with them and I like them. 
 
-`Discord.js` is a module that Discord developers use it, like an [instance here](https://www.digitaltrends.com/gaming/how-to-make-a-discord-bot/) the whole procedure can be found on the web.
+`Discord.js` is a module that Discord developers use it, the whole procedure can be found on the web: [instance link](https://www.digitaltrends.com/gaming/how-to-make-a-discord-bot/).
 
-A lot of example can be found, but here is also a hello-world-level Discord bot which responds "Hi, how are you?" when user types "hello".
+A lot of examples can be found on first search, but also I can show a hello-world-level Discord bot here, which responds "Hi, how are you?" when user types "hello".
 
 ```javascript
 const Discord = require('discord.js');
@@ -32,7 +32,7 @@ bot.on('ready', () => {
     console.log(`bot is online as ${bot.user.tag}`);
 })
 
-bot.on('message', async message => {
+bot.on('message', message => {
     if (message.content === 'hello') {
         message.reply("Hi, how are you?");
     }
@@ -71,7 +71,7 @@ If these functions are written like above, these behave like a `thread` in gener
 3 seconds
 ```
 
-As we may understand here, our purpose was a 3 second delay and then a 1 second delay, so we wanted the output to be `...3 seconds ..1 second`. But like `thread`, program executes both of the functions same time, thus our goal is not fulfilled.
+As we may understand here, our purpose was firstly a 3 second delay and then a 1 second delay, so we wanted the output to be `...3 seconds ..1 second`. But like `thread`, program executes both of the functions at the same time, thus our goal is not fulfilled.
 
 To get such a goal, we have to use `setTimeout()` function with `recursion`, and with a variable parameter which changes periodically.
 
@@ -84,12 +84,14 @@ function setPart(interval) {
 
     let timer = setTimeout(() => {
         message.channel.send(`${interval} seconds`);
-        setPart();
+        setPart(); // JS functions can 
+                   // run with or without parameter
+                   // we have changed $interval already.
     }, interval);
 }
 ```
 
-`setInterval()` is something like `setTimeout()`, the only difference is that `setInterval()` calls time forever as a loop. That means if first example would be set with interval, the output would be like that:
+`setInterval()` is also something like `setTimeout()`, the only difference is that `setInterval()` calls time forever as a loop. That means if first example would be set with interval, the output would be like that:
 
 ```
 1 second
@@ -110,9 +112,9 @@ And if we set the second example with `setInterval()`, the output finally would 
 ...
 ```
 
-I wrote everything too shortly but I hope I can provide an idea. All of these properties can be found on documentations and StackOverFlow with more explanation.
+I wrote everything too shortly but I hope I could provide an idea. All of these properties can be found on web documentations and StackOverFlow with more explanation.
 
-So, here is a simple Pomodoro example which sends you message periodically (when working and timeout sets start/end). I do not consider the bot program as worthy for a GitHub repository, if I will later, I put the codes there and I put a link here.
+So, here is a simple Pomodoro example which sends you message periodically (when working and timeout sets start/end). I do not consider this bot program as worthy for a GitHub repository, if I will later, I put the codes there and I put a link here.
 
 ```javascript
 const Discord = require('discord.js');
@@ -205,7 +207,7 @@ bot.on('message', async message => {
 }
 ```
 
-This code initializes a dynamic message that changes according to the remaining time, and whether it is working time or a timeout interval.
+This code initializes a dynamic message that changes according to the remaining time, and whether it is a working time or a timeout interval.
 
 ```
 12 minutes remain. :: working :: (edited)
