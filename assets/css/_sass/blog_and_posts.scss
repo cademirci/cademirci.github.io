@@ -88,6 +88,9 @@
         transition: .3s;
         font-size: 0.8em;
         color: $grey-color;
+        @media only screen and (max-width: 925px) {
+          display: none;
+        }
     }
     .excerpt {
         display: flex;
