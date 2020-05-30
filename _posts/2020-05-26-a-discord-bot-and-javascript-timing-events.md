@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Discord Bot, to Set Timeouts and Intervals
+title: A Discord Bot and JavaScript Timing Events
 excerpt: >-
     A countdown timer Discord bot written in Discord.js, Node.js, and some tricks about setTimeout() and setInterval() functions.
 tags: [JavaScript, Node.js, Discord.js, Electron.js]
@@ -17,7 +17,7 @@ My friend asked me if I can write a Pomodoro bot for Discord, thus he can study 
 
 ### Discord and Its Frameworks
 
-I like Discord. It should not be considered as just a gamer communication tool, but one of the best digital communication tools of our time. Additionally, my symphaty to Discord also comes from its software: it is written in `Electron.js` and its core `Node.js`. These JavaScript frameworks are some of the most preferred application and back-end frameworks in modern UI technologies. I am kind of familiar with them and I like them. 
+I like Discord. It should not be considered as just a gamer communication tool, but one of the best digital communication tools of our time. Additionally, my symphaty to Discord also comes from its software: it is written in `Electron.js` and its core `Node.js`. These JavaScript frameworks are some of the most preferred application and back-end frameworks in modern UI technologies. I am kind of familiar with them and I like them.
 
 `Discord.js` is a module that Discord developers use it, the whole procedure can be found on the web: [instance link](https://www.digitaltrends.com/gaming/how-to-make-a-discord-bot/).
 
@@ -84,7 +84,7 @@ function setPart(interval) {
 
     let timer = setTimeout(() => {
         message.channel.send(`${interval} seconds`);
-        setPart(); // JS functions can 
+        setPart(); // JS functions can
                    // run with or without parameter
                    // we have changed $interval already.
     }, interval);
