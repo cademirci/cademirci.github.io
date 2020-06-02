@@ -7,7 +7,8 @@
     border-radius: 7px;
     padding: 7px 10px;
     color: $brand-color;
-    font-size: 1.1em;
+    font-family: source_sans_pro, Open Sans;
+    font-size: 1em;
     display: block;
     margin: $centered;
     cursor: pointer;
@@ -86,7 +87,7 @@
   height: 150px;
 }
 .blog_image {
-  height: 150px;
+  height: 115px;
   display: block;
   margin: 20px auto 75px auto;
 }
