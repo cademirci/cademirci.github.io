@@ -8,36 +8,38 @@
     {% include panel.html %}
     <div class="content_wrapper blog_wrapper">
         <div class="content_container">
-            <h1>Posts</h1>
-            <!--<img src="../assets/images/software_icon.png" class="software_image">-->
-            {% for post in site.posts %}
-                <a href="{{ post.url }}">
-                    <div class="post_rep">
-                        <p class="post_title">
-                            {{ post.title }}
-                            <span class="read">&emsp;&rarr;&ensp;read</span>
-                        </p>
-                        <div class="excerpt">
-                            <blockquote class="post_excerpt" cite="{{ post.url }}">
-                                {{ post.excerpt }}
-                            </blockquote>
-                        </div>
-                        <span class="post_date">
-                            {{ post.date | date: "%d.%m.%Y" }} &emsp;
-                        </span>
-                        {% if post.tags.size > 0 %}
-                            <br class="phone_breakline">
-                            <span class="post_tags">
-                                {% if post.tags.size > 1 %}
-                                    {{ post.tags | sort | join: ", &ensp;" }}
-                                {% else %}
-                                    {{ post.tags }}
-                                {% endif %}
+            <div class="software_posts">
+                <h1>Posts</h1>
+                <!--<img src="../assets/images/software_icon.png" class="software_image">-->
+                {% for post in site.posts %}
+                    <a href="{{ post.url }}">
+                        <div class="post_rep">
+                            <p class="post_title">
+                                {{ post.title }}
+                                <span class="read">&emsp;&rarr;&ensp;read</span>
+                            </p>
+                            <div class="excerpt">
+                                <blockquote class="post_excerpt" cite="{{ post.url }}">
+                                    {{ post.excerpt }}
+                                </blockquote>
+                            </div>
+                            <span class="post_date">
+                                {{ post.date | date: "%d.%m.%Y" }} &emsp;
                             </span>
-                        {% endif %}
-                    </div>
-                </a>
-            {% endfor %}
+                            {% if post.tags.size > 0 %}
+                                <br class="phone_breakline">
+                                <span class="post_tags">
+                                    {% if post.tags.size > 1 %}
+                                        {{ post.tags | sort | join: ", &ensp;" }}
+                                    {% else %}
+                                        {{ post.tags }}
+                                    {% endif %}
+                                </span>
+                            {% endif %}
+                        </div>
+                    </a>
+                {% endfor %}
+            </div>
             {{ content }}
         </div>
     </div>

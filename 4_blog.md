@@ -30,4 +30,4 @@ image: ../assets/images/icon_blog.png
 {% endif %}
 {% endfor %}
 
-<button class="default_button" type="button" name="button" onclick="window.location.href='/blog'">More</button>
+<button class="default_button" id="blogPageButton">Go to the Blog</button>
