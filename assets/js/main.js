@@ -1,6 +1,6 @@
 ---
 ---
-{{ site.projects | jsonify }}
+{{ site.posts | jsonify }}
 
 window.addEventListener('DOMContentLoaded', () => {
 
@@ -23,7 +23,7 @@ window.addEventListener('DOMContentLoaded', () => {
             }
         })
     }
-
+    
     // Temporarily misused.
     /*
     var skillTags = document.querySelectorAll('.skills');
@@ -87,6 +87,14 @@ window.addEventListener('DOMContentLoaded', () => {
             wrappers[i].style.backgroundColor = "" + colorArray[i];
         }
     }
+
+    // to cancel first display
+    document.querySelector('.tooltip_returnTop').style.display = 'none';
+
+    // button listeners
+    document.querySelector('#blogPageButton').addEventListener('click', () => {
+        window.location.href = '/blog';
+    })
 
 })
 
