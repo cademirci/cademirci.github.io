@@ -4,7 +4,7 @@ title: Blog
 is_navlink: false
 ---
 
-### Turkish
+### On Turkish Media
 
 Merhaba! Ekşi Sözlük'te içerik üretirken (birkaç yıl oluyor) metal ile ilgili birkaç yazı yazmıştım. İçlerinden Ekşi Şeyler için seçilmiş olanlarından ikisini buraya koyuyorum.
 
