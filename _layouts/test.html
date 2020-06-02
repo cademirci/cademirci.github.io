@@ -1,0 +1,18 @@
+{% include head.html %}
+<body>
+    {% include panel.html %}
+    <div class="content_container" id="testField">
+        {{ content }}
+        {% for post in site.posts %}
+            
+        {% endfor %}
+    </div>
+    {% include footer.html %}
+    <script>
+        var str = "";
+        {% for post in site.posts %}
+            str += '{{ post.title }} \n';
+        {% endfor %}
+        document.querySelector('.content_container').innerText = str;
+    </script>
+</body>
