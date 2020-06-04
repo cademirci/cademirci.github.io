@@ -19,9 +19,9 @@ My friend asked me if I can write a Pomodoro bot for Discord, thus he can study 
 
 I like Discord. It should not be considered as just a gamer communication tool, but one of the best digital communication tools of our time. Additionally, my symphaty to Discord also comes from its software: it is written in `Electron.js` and its core `Node.js`. These JavaScript frameworks are some of the most preferred application and back-end frameworks in modern UI technologies. I am kind of familiar with them and I like them.
 
-`Discord.js` is a module that Discord developers use it, the whole procedure can be found on the web: [instance link](https://www.digitaltrends.com/gaming/how-to-make-a-discord-bot/).
+`Discord.js` is a module that Discord developers use it, the whole procedure can be found [on the web](https://www.digitaltrends.com/gaming/how-to-make-a-discord-bot/).
 
-A lot of examples can be found on first search, but also I can show a hello-world-level Discord bot here, which responds "Hi, how are you?" when user types "hello".
+A lot of examples can be found on first search, but also I can show a hello-world-level Discord bot here, which responds "Hi, how are you?" when user types "hello bot".
 
 ```javascript
 const Discord = require('discord.js');
@@ -33,17 +33,17 @@ bot.on('ready', () => {
 })
 
 bot.on('message', message => {
-    if (message.content === 'hello') {
+    if (message.content === 'hello bot') {
         message.reply("Hi, how are you?");
     }
-}
+})
 ```
 
 ### Pomodoro Algorithm with Vanilla JavaScript
 
 #### setTimeout() and setInterval()
 
-I want to write about some tricks/warnings about using timing functions like `setTimeout()` and `setInterval()`.
+I want to write about some tricks/warnings about using timing events like `setTimeout()` and `setInterval()`.
 
 ```javascript
 function oneSet() {
@@ -116,6 +116,8 @@ I wrote everything too shortly but I hope I could provide an idea. All of these 
 
 So, here is a simple Pomodoro example which sends you message periodically (when working and timeout sets start/end). I do not consider this bot program as worthy for a GitHub repository, if I will later, I put the codes there and I put a link here.
 
+*EDIT (04.06.2020)*: I pushed the codes into GitHub, [here](https://github.com/cademirci/pomodoro-bot). The codes there and here in the blog post are a bit different, because I separated countdown clock and the main function codes for this post. The logics are same.
+
 ```javascript
 const Discord = require('discord.js');
 const bot = new Discord.Client();
@@ -160,7 +162,7 @@ bot.on('message', message => {
       }
     }
   }
-}
+})
 ```
 
 The result is below after 140 minutes.
@@ -204,7 +206,7 @@ bot.on('message', async message => {
         status = 'working';
     }
   }, 1 * minute);
-}
+})
 ```
 
 This code initializes a dynamic message that changes according to the remaining time, and whether it is a working time or a timeout interval.
