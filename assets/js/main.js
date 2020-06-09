@@ -24,8 +24,6 @@ window.addEventListener('DOMContentLoaded', () => {
         })
     }
 
-
-    
     // Temporarily misused.
     /*
     var skillTags = document.querySelectorAll('.skills');
@@ -124,8 +122,6 @@ window.addEventListener('DOMContentLoaded', () => {
             softwarePosts.style.display = 'block';
         })
     }
-
-    
 
 })
 
