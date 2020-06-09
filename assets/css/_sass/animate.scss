@@ -62,3 +62,14 @@ a.navlink:hover { color: $brand-color; }
 #sb_twitter:hover  { border-color: #00acee; }
 #sb_gmail:hover    { border-color: #d44638; }
 #sb_whatsapp:hover { border-color: #4fce5d; }
+
+@keyframes postsFadeIn {
+    from { opacity: 0; }
+    to {opacity: 1; }
+}
+
+#softwarePosts,
+#EMPosts {
+    animation-name: postsFadeIn;
+    animation-duration: .5s;
+}

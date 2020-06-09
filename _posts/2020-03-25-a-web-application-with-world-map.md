@@ -5,6 +5,7 @@ excerpt: >-
     About a web application I wrote that allows you to mark with a pin somewhere on an open world map,
     put a photo and a text related with there and the memory.
 tags: [web app, back-end, python, django, leaflet.js]
+category: Software
 ---
 
 # {{ page.title }}

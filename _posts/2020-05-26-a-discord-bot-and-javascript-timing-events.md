@@ -4,6 +4,7 @@ title: A Discord Bot and JavaScript Timing Events
 excerpt: >-
     A countdown timer Discord bot written in Discord.js, Node.js, and some tricks about setTimeout() and setInterval() functions.
 tags: [JavaScript, Node.js, Discord.js, Electron.js]
+category: Software
 ---
 
 # {{ page.title }}

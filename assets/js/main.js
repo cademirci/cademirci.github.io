@@ -23,6 +23,8 @@ window.addEventListener('DOMContentLoaded', () => {
             }
         })
     }
+
+
     
     // Temporarily misused.
     /*
@@ -92,9 +94,38 @@ window.addEventListener('DOMContentLoaded', () => {
     document.querySelector('.tooltip_returnTop').style.display = 'none';
 
     // button listeners
-    document.querySelector('#blogPageButton').addEventListener('click', () => {
-        window.location.href = '/blog';
-    })
+    var blogEMButton = document.querySelector('#blogEMButton');
+    var blogSoftwareButton = document.querySelector('#blogSoftwareButton');
+    var blogPageButton = document.querySelector('#blogPageButton');
+    var EMPosts = document.querySelector('#EMPosts');
+    var softwarePosts = document.querySelector('#softwarePosts');
+
+    if (blogPageButton) {
+        document.querySelector('#blogPageButton').addEventListener('click', () => {
+            window.location.href = '/blog';
+        })
+    }
+
+    if (blogEMButton) {
+        blogEMButton.addEventListener('click', () => {
+            blogEMButton.style.backgroundColor = '#1d6240';
+            blogSoftwareButton.style.backgroundColor = '#1a1a1a';
+            softwarePosts.style.display = 'none';
+            EMPosts.style.display = 'block';
+        })
+    }
+
+    if (blogSoftwareButton) {
+        blogSoftwareButton.style.backgroundColor = '#1d6240';
+        blogSoftwareButton.addEventListener('click', () => {
+            blogSoftwareButton.style.backgroundColor = '#1d6240';
+            blogEMButton.style.backgroundColor = '#1a1a1a';
+            EMPosts.style.display = 'none';
+            softwarePosts.style.display = 'block';
+        })
+    }
+
+    
 
 })
 

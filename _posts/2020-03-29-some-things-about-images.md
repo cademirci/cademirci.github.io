@@ -4,6 +4,7 @@ title: Some Things About Images
 excerpt: >-
     Some tricks about working on web images, both JavaScript and css sides.
 tags: [web programming, image manipulating]
+category: Software
 ---
 
 # {{ page.title }}

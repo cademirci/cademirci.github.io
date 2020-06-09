@@ -66,10 +66,6 @@
     border-radius: 50%;
 }
 
-.software_posts {
-    margin-bottom: 125px;
-}
-
 // on blog main
 
 .post_rep {
@@ -103,6 +99,7 @@
     blockquote {
         background: inherit;
         border: none;
+        font-size: .95em;
         color: lighten($grey-color, 35%);
         margin: 5px 2vh 5px 0;
         padding: 0 1vh;
@@ -112,6 +109,11 @@
         font-size: 0.9em;
     }
 }
+
+.post_rep:last-child {
+    margin-bottom: 0;
+}
+
 .post_rep:hover {
     .read {
         visibility: visible;
@@ -127,4 +129,12 @@ br.phone_breakline {
     @media only screen and (max-width: 800px) {
         display: block;
     }
+}
+
+#blogSoftwareButton {
+    background: #1d6240;
+}
+
+#EMPosts {
+    display: none;
 }

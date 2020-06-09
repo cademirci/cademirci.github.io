@@ -4,6 +4,7 @@ title: Some Things About CSS Animations
 excerpt: >-
     A little bit about web page animating, old fashions, some bugs...
 tags: [web design, web programming, front-end, CSS]
+category: Software
 ---
 
 # {{ page.title }}

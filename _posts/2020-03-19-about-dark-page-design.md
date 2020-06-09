@@ -4,6 +4,7 @@ title: About Dark Page Design
 excerpt: >-
     About web page design with dark backgrounds.
 tags: [web design, UI]
+category: Software
 ---
 
 # {{ page.title }}

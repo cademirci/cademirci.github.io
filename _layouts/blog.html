@@ -1,3 +1,11 @@
+<!-- I don't like the duplicate code in this layout but
+     with Jekyll I write a static site here, so
+     I don't have to force myself to change Liquid
+     variables with JavaScript or some solution with
+     { % assign ... % }, it would be easy if I use
+     Vue or something but I leave this code as it is now.
+-->
+
 {% include head.html %}
 <body>
     <div class="blog_header">
@@ -8,39 +16,81 @@
     {% include panel.html %}
     <div class="content_wrapper blog_wrapper">
         <div class="content_container">
-            <div class="software_posts">
-                <h1>Posts</h1>
+            <div style="display: flex; justify-content: center;">
+                <button class="default_button ontop blackborder" id="blogSoftwareButton">Software</button>
+                <button class="default_button ontop blackborder" id="blogEMButton">E&M</button>
+            </div>
+            <div id="softwarePosts">
+                <h1>Software</h1>
+                <p style="text-align: center;">And sometimes computer science and math.</p>
                 <!--<img src="../assets/images/software_icon.png" class="software_image">-->
                 {% for post in site.posts %}
-                    <a href="{{ post.url }}">
-                        <div class="post_rep">
-                            <p class="post_title">
-                                {{ post.title }}
-                                <span class="read">&emsp;&rarr;&ensp;read</span>
-                            </p>
-                            <div class="excerpt">
-                                <blockquote class="post_excerpt" cite="{{ post.url }}">
-                                    {{ post.excerpt }}
-                                </blockquote>
-                            </div>
-                            <span class="post_date">
-                                {{ post.date | date: "%d.%m.%Y" }} &emsp;
-                            </span>
-                            {% if post.tags.size > 0 %}
-                                <br class="phone_breakline">
-                                <span class="post_tags">
-                                    {% if post.tags.size > 1 %}
-                                        {{ post.tags | sort | join: ", &ensp;" }}
-                                    {% else %}
-                                        {{ post.tags }}
-                                    {% endif %}
+                    {% if post.category == "Software" %}
+                        <a href="{{ post.url }}">
+                            <div class="post_rep">
+                                <p class="post_title">
+                                    {{ post.title }}
+                                    <span class="read">&emsp;&rarr;&ensp;read</span>
+                                </p>
+                                <div class="excerpt">
+                                    <blockquote class="post_excerpt" cite="{{ post.url }}">
+                                        {{ post.excerpt }}
+                                    </blockquote>
+                                </div>
+                                <span class="post_date">
+                                    {{ post.date | date: "%d.%m.%Y" }} &emsp;
                                 </span>
-                            {% endif %}
-                        </div>
-                    </a>
+                                {% if post.tags.size > 0 %}
+                                    <br class="phone_breakline">
+                                    <span class="post_tags">
+                                        {% if post.tags.size > 1 %}
+                                            {{ post.tags | sort | join: ", &ensp;" }}
+                                        {% else %}
+                                            {{ post.tags }}
+                                        {% endif %}
+                                    </span>
+                                {% endif %}
+                            </div>
+                        </a>
+                    {% endif %}
                 {% endfor %}
             </div>
-            {{ content }}
+            <div id="EMPosts">
+                <h1>Entertainment & Media</h1>
+                <p style="text-align: center;">General content, idea, experience, art, books, music, cultural and hobby things. Sometimes Turkish.</p>
+                <!--<img src="../assets/images/software_icon.png" class="software_image">-->
+                {% for post in site.posts %}
+                    {% if post.category != "Software" %}
+                        <a href="{{ post.url }}">
+                            <div class="post_rep">
+                                <p class="post_title">
+                                    {{ post.title }}
+                                    <span class="read">&emsp;&rarr;&ensp;read</span>
+                                </p>
+                                <div class="excerpt">
+                                    <blockquote class="post_excerpt" cite="{{ post.url }}">
+                                        {{ post.excerpt }}
+                                    </blockquote>
+                                </div>
+                                <span class="post_date">
+                                    {{ post.date | date: "%d.%m.%Y" }} &emsp;
+                                </span>
+                                {% if post.tags.size > 0 %}
+                                    <br class="phone_breakline">
+                                    <span class="post_tags">
+                                        {% if post.tags.size > 1 %}
+                                            {{ post.tags | sort | join: ", &ensp;" }}
+                                        {% else %}
+                                            {{ post.tags }}
+                                        {% endif %}
+                                    </span>
+                                {% endif %}
+                            </div>
+                        </a>
+                    {% endif %}
+                {% endfor %}
+                {{ content }}
+            </div>
         </div>
     </div>
     {% include footer.html %}
