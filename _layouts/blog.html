@@ -16,81 +16,47 @@
     {% include panel.html %}
     <div class="content_wrapper blog_wrapper">
         <div class="content_container">
+            <!--
             <div style="display: flex; justify-content: center;">
                 <button class="default_button ontop blackborder" id="blogSoftwareButton">Software</button>
                 <button class="default_button ontop blackborder" id="blogEMButton">E&M</button>
             </div>
+            -->
             <div id="softwarePosts">
-                <h1>Software</h1>
-                <p style="text-align: center;">And sometimes computer science and math.</p>
+                <h1>Posts</h1>
+                <!--<p style="text-align: center;">And sometimes computer science and math.</p>-->
                 <!--<img src="../assets/images/software_icon.png" class="software_image">-->
                 {% for post in site.posts %}
-                    {% if post.category == "Software" %}
-                        <a href="{{ post.url }}">
-                            <div class="post_rep">
-                                <p class="post_title">
-                                    {{ post.title }}
-                                    <span class="read">&emsp;&rarr;&ensp;read</span>
-                                </p>
-                                <div class="excerpt">
-                                    <blockquote class="post_excerpt" cite="{{ post.url }}">
-                                        {{ post.excerpt }}
-                                    </blockquote>
-                                </div>
-                                <span class="post_date">
-                                    {{ post.date | date: "%d.%m.%Y" }} &emsp;
-                                </span>
-                                {% if post.tags.size > 0 %}
-                                    <br class="phone_breakline">
-                                    <span class="post_tags">
-                                        {% if post.tags.size > 1 %}
-                                            {{ post.tags | sort | join: ", &ensp;" }}
-                                        {% else %}
-                                            {{ post.tags }}
-                                        {% endif %}
-                                    </span>
-                                {% endif %}
+                    <a href="{{ post.url }}">
+                        <div class="post_rep">
+                            <p class="post_title">
+                                {{ post.title }}
+                                <span class="read">&emsp;&rarr;&ensp;read</span>
+                            </p>
+                            <div class="excerpt">
+                                <blockquote class="post_excerpt" cite="{{ post.url }}">
+                                    {{ post.excerpt }}
+                                </blockquote>
                             </div>
-                        </a>
-                    {% endif %}
-                {% endfor %}
-            </div>
-            <div id="EMPosts">
-                <h1>Entertainment & Media</h1>
-                <p style="text-align: center;">General content, idea, experience, art, books, music, cultural and hobby things. Sometimes Turkish.</p>
-                <!--<img src="../assets/images/software_icon.png" class="software_image">-->
-                {% for post in site.posts %}
-                    {% if post.category != "Software" %}
-                        <a href="{{ post.url }}">
-                            <div class="post_rep">
-                                <p class="post_title">
-                                    {{ post.title }}
-                                    <span class="read">&emsp;&rarr;&ensp;read</span>
-                                </p>
-                                <div class="excerpt">
-                                    <blockquote class="post_excerpt" cite="{{ post.url }}">
-                                        {{ post.excerpt }}
-                                    </blockquote>
-                                </div>
-                                <span class="post_date">
-                                    {{ post.date | date: "%d.%m.%Y" }} &emsp;
+                            <span class="post_date">
+                                {{ post.date | date: "%d.%m.%Y" }} &emsp;
+                            </span>
+                            {% if post.tags.size > 0 %}
+                                <br class="phone_breakline">
+                                <span class="post_tags">
+                                    {% if post.tags.size > 1 %}
+                                        {{ post.tags | sort | join: ", &ensp;" }}
+                                    {% else %}
+                                        {{ post.tags }}
+                                    {% endif %}
                                 </span>
-                                {% if post.tags.size > 0 %}
-                                    <br class="phone_breakline">
-                                    <span class="post_tags">
-                                        {% if post.tags.size > 1 %}
-                                            {{ post.tags | sort | join: ", &ensp;" }}
-                                        {% else %}
-                                            {{ post.tags }}
-                                        {% endif %}
-                                    </span>
-                                {% endif %}
-                            </div>
-                        </a>
-                    {% endif %}
+                            {% endif %}
+                        </div>
+                    </a>
                 {% endfor %}
                 {{ content }}
             </div>
+            <div id="EMPosts"></div>
         </div>
     </div>
     {% include footer.html %}
