@@ -4,6 +4,7 @@ source "https://rubygems.org"
 # bundle exec jekyll serve
 
 gem "jekyll", "~> 4.0.0"
+gem "kramdown", ">= 2.3.0"
 # to use GitHub Pages, remove the "gem "jekyll"" uncomment below
 # gem "github-pages", group: :jekyll_plugins
 # to upgrade, run `bundle update github-pages`.
