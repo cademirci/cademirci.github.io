@@ -7,12 +7,13 @@
 $soft-black: #1a1a1a;
 
 $background-color: lighten($soft-black, 5%);
+$grey-color: #666;
 $second-background: #1a1a1e;
-$panel-color: lighten($second-background, 10%);
+$panel-color: lighten($background-color, 10%);
 $text-color: #f2f2f2;
 $brand-color: #00e6e6;
 $second-color: #3bc47f; // #3bc45f;
-$grey-color: #666;
+$reading-background: #191c1f;
 
 $panel-inner-width: 1600px;
 $content-inner-width: 800px;
