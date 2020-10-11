@@ -138,3 +138,51 @@ br.phone_breakline {
 #EMPosts {
     display: none;
 }
+
+// search
+.search-input {
+    background: $soft-black;
+    margin: 2rem auto;
+    display: block;
+    width: 80%;
+    padding: 5px;
+    font-family: $main-font;
+    font-size: 1em;
+    color: #fff;
+    border: .2rem solid #000;
+    border-radius: 7px;
+}
+
+.found-area {
+    p { 
+        margin: 0; 
+    }
+    a {
+        text-decoration: none;
+    }
+    .excerpt {
+        color: lighten($grey-color, 40%);
+        font-size: .9em;
+    }
+    .date {
+        color: lighten($grey-color, 20%);
+        font-size: .9em;
+    }
+    .tag {
+        font-size: .9em;
+        color: $second-color;
+    }
+}
+.found-card {
+    padding: 1rem;
+    background: darken($reading-background, 1%);
+    transition: .3s ease;
+}
+.found-card:hover {
+    background: lighten($reading-background, 2%);
+}
+
+.black-line {
+    border-color: #000;
+    background-color: #000;
+}

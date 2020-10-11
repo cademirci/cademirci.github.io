@@ -1,6 +1,7 @@
 
 {% include head.html %}
 <body>
+    <script src="../assets/js/search.js"></script>
     <div class="blog_header">
         <p class="name_sentence">
             Blog
@@ -19,6 +20,10 @@
                 <h1>Posts</h1>
                 <!--<p style="text-align: center;">And sometimes computer science and math.</p>-->
                 <!--<img src="../assets/images/software_icon.png" class="software_image">-->
+
+                <input type="text" class="search-input" id="searchInPosts" placeholder="Search..."></input>
+                <div class="found-area" id="foundArea"></div>
+
                 {% for post in site.posts %}
                     <a href="{{ post.url }}">
                         <div class="post_rep">

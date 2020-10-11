@@ -1,6 +1,6 @@
----
----
-{{ site.posts | jsonify }}
+// ---
+// ---
+// {{ site.posts | jsonify }}
 
 window.addEventListener('DOMContentLoaded', () => {
 
