@@ -15,6 +15,8 @@ This changelog begins at October 11, 2020. The changes before the date are undoc
 
 These two changes made a colder and easier-to-eye appearance for the website.
 
+3. Search bar has been written and styled for the blog page. Users are able to find a post by searching any word in the title, excerpt or tags of it.
+
 <br>
 
 ### TODO
