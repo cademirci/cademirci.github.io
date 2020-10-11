@@ -15,7 +15,7 @@ window.addEventListener('DOMContentLoaded', (e) => {
 
         input.addEventListener('input', (event) => {
             var key = event.target.value.toLowerCase()
-            if (key.length > 2) {
+            if (key.length > 1) {
                 var founds = "", data = ""
                 for (let i = 0; i < titles.length; i++) {
                     data = titles[i] + excerpts[i] + tags[i]
