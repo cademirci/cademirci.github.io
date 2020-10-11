@@ -35,7 +35,7 @@ window.addEventListener('DOMContentLoaded', (e) => {
                     }
                 }
                 if (founds.length === 0)
-                    foundArea.textContent = "Sorry, nothing matched."
+                    foundArea.innerHTML = '<p class="search-not-found">Sorry, nothing matched.</p>'
                 else {
                     foundArea.innerHTML = founds 
                 }

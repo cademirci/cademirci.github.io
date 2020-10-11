@@ -181,6 +181,10 @@ br.phone_breakline {
 .found-card:hover {
     background: lighten($reading-background, 2%);
 }
+.search-not-found {
+    text-align: center;
+    display: block;
+}
 
 .black-line {
     border-color: #000;
