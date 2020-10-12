@@ -15,7 +15,7 @@ window.addEventListener('DOMContentLoaded', (e) => {
 
         input.addEventListener('input', (event) => {
             var key = event.target.value.toLowerCase()
-            if (key.length > 1) {
+            if (key.length > 1 && key !== "A " && key !== "a ") { // to avoid <a href be wrapped by a span
                 var founds = "", data = ""
                 for (let i = 0; i < titles.length; i++) {
                     data = titles[i] + excerpts[i] + tags[i]
