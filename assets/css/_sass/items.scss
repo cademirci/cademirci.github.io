@@ -144,3 +144,12 @@
     font-size: 1.1em;
     background: none;
 }
+
+.button-image {
+    max-height: 25px;
+    display: block;
+    @media only screen and (max-width: 925px) {
+        display: block;
+        margin: auto;
+    }
+}
