@@ -15,7 +15,7 @@ image: ../assets/images/icon_blog.png
 {% for post in site.posts %}
 {% if forloop.index < 4 %}
 <ul>
-    <li> <a href="{{ post.url }}">{{ post.title }}</a> &ensp; {{ post.date | date: "%d.%m.%Y" }}
+    <li> <a href="{{ post.url }}">{{ post.title }}</a> <br class="phone_breakline">{{ post.date | date: "%d.%m.%Y" }}
         {% if post.tags.size > 0 %}
             <span class="post_tags" style="color: #53ac80">
                 {% if post.tags.size > 1 %}
