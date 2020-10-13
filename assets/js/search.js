@@ -15,7 +15,12 @@ window.addEventListener('DOMContentLoaded', (e) => {
 
         input.addEventListener('input', (event) => {
             var key = event.target.value.toLowerCase()
-            if (key.length > 2 || key === "js" || key === "py") { // to avoid links or titles be wrapped by a span
+            let shortButOk = false 
+            shortButOkIndex = ["js", "py"]
+            shortButOkIndex.forEach(element => {
+                if (element === key) shortButOk = true
+            });
+            if (key.length > 2 || shortButOk) { // to avoid links or titles be wrapped by a span
                 var founds = "", data = ""
                 for (let i = 0; i < titles.length; i++) {
                     data = titles[i] + excerpts[i] + tags[i]

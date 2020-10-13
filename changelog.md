@@ -12,7 +12,7 @@ This changelog begins at October 11, 2020. The changes before the date are undoc
 
 <!--<span id="entryCount"></span> entries are displaying.-->
 
-- (BUGFIX)(7) Bugfix 4 is cancelled, search string adjusted to minimum 3 length istead. Searchs "a " and "or" comes up with a bug. Added: except "js" and "py".
+- (BUGFIX)(7) Bugfix 4 is cancelled, search string adjusted to minimum 3 length istead. Searchs "a ", "as" and "or" comes up with a bug. Added: except "js" and "py".
 - (6) Added `Inspect My GitHub Profile` button into About Me.
 - (5) In Recent 3 Posts in Home Page, mobile screen adjustment has been made. Post lines are not inline but title (br) date and tags now.
 - (BUGFIX)(4) Searchs "A " and "a " are cancelled for the search bar, Because code used to replace the link keyword `<a href>` with `<<span>a </span>href>`, thus the link used to be broken.
