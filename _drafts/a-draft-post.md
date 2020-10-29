@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Threads in Java
+title: A Draft Post
 excerpt: >-
     Some tricks about working on web images, both javascript and css sides.
-tags: [java, threads, general programming]
+tags: [life, universe, everything]
 ---
 
 # {{ page.title }}
@@ -13,3 +13,11 @@ tags: [java, threads, general programming]
 
 ***
 
+I am saying something.
+
+$$
+\sum_{i=1}^n x
+$$
+d
+
+and another.

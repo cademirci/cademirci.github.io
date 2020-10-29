@@ -3,29 +3,112 @@
     {% include panel.html %}
     <div class="content_container" id="testField">
         {{ content }}
-        {% for post in site.posts %}
-            
-        {% endfor %}
+        <canvas id="myChart" width="400" height="400"></canvas>
     </div>
     {% include footer.html %}
+    
     <script>
-        var str = "";
-        {% for post in site.posts %}
-            str += '{{ post.title }} \n';
-        {% endfor %}
+    var ctx = document.getElementById('myChart').getContext('2d');
+    var myChart = new Chart(ctx, {
+        type: 'line',
+        data: {
+            datasets: [
+            {
 
-        const data = {
-            "posts": [
-            {% for post in site.posts %}
-                {
-                    "title": "{{ post.title }}",
-                    "url": "{{ post.url }}"
-                }{% unless forloop.last %}, {% endunless %}
-            {% endfor %}
+                label: 'Scatter Dataset',
+                backgroundColor: "rgba(246,156,85,1)",
+                borderColor: "rgba(246,156,85,1)",
+                fill: false,
+                borderWidth : 15,
+                pointRadius : 0,
+                data: [
+                    {
+                        x: 0,
+                        y: 9
+                    }, {
+                        x: 3,
+                        y: 9
+                    }
+                ]
+            },
+            {
+                backgroundColor: "rgba(208,255,154,1)",
+                borderColor: "rgba(208,255,154,1)",
+                fill: false,
+                borderWidth : 15,
+                pointRadius : 0,
+                data: [
+                    {
+                        x: 3,
+                        y: 7
+                    }, {
+                        x: 5,
+                        y: 7
+                    }
+                ]
+            },
+            {
+
+                label: 'Scatter Dataset',
+                backgroundColor: "rgba(246,156,85,1)",
+                borderColor: "rgba(246,156,85,1)",
+                fill: false,
+                borderWidth : 15,
+                pointRadius : 0,
+                data: [
+                    {
+                        x: 5,
+                        y: 5
+                    }, {
+                        x: 10,
+                        y: 5
+                    }
+                ]
+            },
+            {
+                backgroundColor: "rgba(208,255,154,1)",
+                borderColor: "rgba(208,255,154,1)",
+                fill: false,
+                borderWidth : 15,
+                pointRadius : 0,
+                data: [
+                    {
+                        x: 10,
+                        y: 3
+                    }, {
+                        x: 13,
+                        y: 3
+                    }
+                ]
+            }
             ]
-        } 
-
-        document.querySelector('#testField').innerHTML = data["posts"][0]["title"];
+        },
+        options: {
+            legend : {
+                display : false
+            },
+            scales: {
+                xAxes: [{
+                    type: 'linear',
+                    position: 'bottom',
+                    ticks : {
+                        beginAtzero :true,
+                        stepSize : 1
+                    }
+                }],
+                yAxes : [{
+                    scaleLabel : {
+                        display : false
+                    },
+                    ticks : {
+                        beginAtZero :true,
+                        max : 10
+                    }
+                }]
+            }
+        }
+    });
+    
         
     </script>
 </body>

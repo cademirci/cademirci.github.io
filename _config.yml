@@ -12,6 +12,9 @@ permalink: /:title
 twitter_username: cademirci
 github_username: cademirci
 instagram_username: cademirci
+markdown: kramdown
+kramdown:
+  math_engine: mathjax
 sass:
     load_paths: assets/css/_sass
 defaults:
