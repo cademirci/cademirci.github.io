@@ -28,7 +28,9 @@
                     <a href="{{ post.url }}">
                         <div class="post_rep">
                             <p class="post_title">
-                                {{ post.title }}
+                                {{ post.title | 
+                                    replace: "(TUR)", "<span style='color:#dd3333'>(TUR)</span>" 
+                                }}
                                 <span class="read">&emsp;&rarr;&ensp;read</span>
                             </p>
                             <div class="excerpt">
