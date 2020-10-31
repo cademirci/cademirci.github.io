@@ -15,7 +15,7 @@ tags: [C, temel programlama]
 
 Eski klasörleri karıştırırken, geçen yıl biyomedikal mühendisliği okuyan bir arkadaşım için kendisinin programlamaya giriş dersi çalışma sorularını çözmüş olduğumu gördüm. Sınava hazırlanması için yorum satırı (comment line) olarak birçok Türkçe açıklama yazmışım. Belgeleri göndererek arkadaşa ders anlatmışım bir nevi. Ben de bu çözümleri dünyayla paylaşmak adına onları buraya taşımaya karar verdim.
 
-Kişisel sayfamda her şeyi İngilizce paylaştığım görülebilir, ancak arkadaşa açıklama yapmak için o tarihlerde bir ton Türkçe yorum satırı yazmış olduğumdan, bloğun bu gönderisi için bir istisna tanıdım. Zamanıma değecek olsa bunları çevirirdim. 
+Kişisel sayfamda her şeyi İngilizce paylaştığım görülebilir, ancak arkadaşa açıklama yapmak için o tarihlerde bir sürü Türkçe yorum satırı yazmış olduğumdan, bloğun bu gönderisi için bir istisna tanıdım. Zamanıma değecek olsa bunları çevirirdim. 
 
 Bu bölüme bu ders söz konusu üniversitede C dili ile veriliyor, ben de doğal olarak çözümleri C ile yazdım fakat bu soruların tümü C'ye değil de genel programlamaya giriş olarak okunabilir. Çünkü `pointer` veya `malloc` kullanmak gibi C-spesifik hamleler yapmadığım görülebilir. Dünyanın her yerinde basit programlama öğretmek için benzer sorular sorulur ve bu cevaplar biraz web okuma sonucunda syntax'ları (programlama dili söz dizim ve kuralları) değiştirilerek her dile uyarlanabilir. 
 
