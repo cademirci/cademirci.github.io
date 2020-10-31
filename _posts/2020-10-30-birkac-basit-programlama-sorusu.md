@@ -117,7 +117,7 @@ int main() {
 ```c
 #include <stdio.h>
 
-int toString(char []);
+int aToInteger(char []);
 
 int main() {
   char a[100];
@@ -129,7 +129,7 @@ int main() {
   return 0;
 }
 
-int toString(char a[]) {
+int aToInteger(char a[]) {
   int c, sign, offset, n;
 
   if (a[0] == '-') {  
