@@ -19,7 +19,7 @@ While browsing my old folders, I saw some coding examples and I decided to publi
 
 **1**
 
-A basic Java program to compute maximum, minimum ones and the average of the all numbers that the user's inputs until they enter -1.
+A basic Java program to compute maximum, minimum ones and the average of the all numbers that the user's inputs until they enter -1. Assuming the numbers will be between 0 to 1000.
 
 ```java
 import java.util.Scanner;
