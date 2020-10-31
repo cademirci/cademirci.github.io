@@ -12,6 +12,9 @@ This changelog begins at October 11, 2020. The changes before the date are undoc
 
 <!--<span id="entryCount"></span> entries are displaying.-->
 
+- (13) Post *Some Examples of Introduction to Programming* is published.
+- (12) Post *(TUR) Birkaç Basit Programlama Sorusu* is published.
+- (11) Syntax highlighting style `ghost-theme` is changed. Bold font weights are cancelled.
 - (10) Header image of the blog post pages has been drawn and replaced with the old one. But converting png-jpg has disrupt the original file. I will figure it out some time.
 - (9) Header image of the 404 not found page has been drawn and replaced with the old one.
 - (8) `MathJax` library has been added as a script into `<head>`, in order for the page to have mathematical literacy via `LaTex`. Now the page is able to display math equations like $$\sum_{i=1}^n x = \int_{x=1}^n xdx$$
