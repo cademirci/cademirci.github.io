@@ -324,8 +324,8 @@ int main() {
     */
 
   for (int i = 0; i < 4; i++) {
-    int colSum = 0; // satir toplam (column sum)
-    int rowSum = 0; // sutun toplam (row sum)
+    int colSum = 0; // sutun toplam (column sum)
+    int rowSum = 0; // satir toplam (row sum)
     for (int j = 0; j < 4; j++) {
       colSum += d[i][j];
       rowSum += d[j][i];   
