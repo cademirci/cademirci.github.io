@@ -15,6 +15,8 @@ tags: [java, python, basic programming, general programming]
 
 While browsing my old folders, I saw some coding examples and I decided to publish them. I thought perhaps these do not worth to be a blog post (there are millions and billions similar example on the web) but when I thought for a second time, I wanted to write an old program that I wrote with Python and Exiftool which I barely remember. It does not worth to be a GitHub repository, so I am putting it here now as an addition.
 
+***
+
 **1**
 
 A basic Java program to compute maximum, minimum ones and the average of the all numbers that the user's inputs until they enter -1.
