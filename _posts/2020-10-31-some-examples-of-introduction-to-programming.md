@@ -143,7 +143,7 @@ python3 sort_by_date.py <DIRECTORY_PATH>
 
 When the program is executed, every single file in the directory appears per line from newest to oldest. Then it can be given a file name as user input, which prints all details about the file.
 
-This program is written and executed on Ubuntu/Linux. Windows paths may include whitespaces, which causes that the program takes the substring after the whitespace in given line as another argument. When this happens, the program does not run properly.
+This program is written and executed on Ubuntu/Linux. Windows paths may include whitespaces, which causes that the program takes the substring after the whitespace in given line as another argument. When this happens, the program does not run properly. I suppose MacOS (Darwin) would not be problem.
 
 ```python
 import sys
