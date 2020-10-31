@@ -3,7 +3,7 @@ layout: post
 title: Some Examples of Introduction to Programming
 excerpt: >-
     Some Java and Python examples and a basic analyze tool I wrote in Python.
-tags: [java, python, basic programming, general programming]
+tags: [Java, Python, basic programming, general programming]
 ---
 
 # {{ page.title }}

@@ -3,7 +3,7 @@ layout: post
 title: (TUR) Birkaç Basit Programlama Sorusu
 excerpt: >-
     Türkçe bir post olarak, C dili için yazılmış 7 adet giriş düzeyi çalışma sorusu ve cevapları.
-tags: [c, temel programlama]
+tags: [C, temel programlama]
 ---
 
 # {{ page.title }}
