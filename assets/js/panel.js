@@ -1,8 +1,9 @@
 window.addEventListener('DOMContentLoaded', () => {
-    if (document.querySelector('.menu_box')) // I know it is dirty fix but... for now.
-        document.querySelector('.menu_box').addEventListener('click', menuBoxDown);
-    if (document.querySelector('.menu_box'))
-        document.querySelector('.menu_box').addEventListener('touchstart', menuBoxDown);
+    var menuBox = document.querySelector('.menu_box')
+    if (menuBox) {
+        menuBox.addEventListener('click', menuBoxDown)
+        menuBox.addEventListener('touchstart', menuBoxDown)
+    }
     document.addEventListener('mousedown', menuBoxLeave);
     document.addEventListener('touchstart', menuBoxLeave);
 })

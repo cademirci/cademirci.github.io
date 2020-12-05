@@ -47,16 +47,6 @@ window.addEventListener('DOMContentLoaded', (e) => {
             }
             else foundArea.textContent = ""
         })
-        
-        /*
-        var titles = document.querySelectorAll('.post_title')
-        titles.forEach((element) => {
-            console.log(element.textContent)
-        })
-        input.addEventListener('input', (event) => {
-            console.log(event.data)
-        })
-        */
     }
 })
 

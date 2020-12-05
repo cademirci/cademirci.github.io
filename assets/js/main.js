@@ -24,62 +24,6 @@ window.addEventListener('DOMContentLoaded', () => {
         })
     }
 
-    // Temporarily misused.
-    /*
-    var skillTags = document.querySelectorAll('.skills');
-    for (var i = 0; i < skillTags.length; i++) {
-        skillTags[i].addEventListener('click', function(e) {
-            var projectBox = document.querySelector('.project_box');
-            let description = "";
-
-            {% for project in site.projects %}
-                if (this.getAttribute('id') == 'skills_jekyll') {
-                    {% if project.name == "jekyll" %}
-                        description += `
-                            {{ project.title }} {{ project.github_link }} {{ project.description }}
-                        `;
-                    {% endif %}
-                }
-                if (this.getAttribute('id') == 'skills_django_and_leaflet') {
-                    {% if project.name == "django&leaflet" %}
-                        description += `
-                            {{ project.title }} {{ project.github_link }} {{ project.description }}
-                        `;
-                    {% endif %}
-                }
-                if (this.getAttribute('id') == 'skills_jquery') {
-                    {% if project.name == "jquery" %}
-                        description += '{{ project.description }}';
-                    {% endif %}
-                }
-                if (this.getAttribute('id') == 'skills_others') {
-                    {% if project.name == "others" %}
-                        description += '{{ project.description }}';
-                    {% endif %}
-                }
-            {% endfor %}
-
-            for (var i = 0; i < skillTags.length; i++) {
-                skillTags[i].setAttribute('active', 'false');
-            }
-            projectBox.innerHTML = description;
-            projectBox.style.opacity = 0;
-            var opAn = 0; // opacity animation counter
-            var fadeIO = setInterval(fadeIn, 25);
-
-            function fadeIn() {
-                opAn += 0.05;
-                projectBox.style.opacity = opAn;
-                if (projectBox.style.opacity == 1) {
-                    clearInterval(fadeIO);
-                }
-            }
-            this.setAttribute('active', 'true');
-            projectBox.setAttribute('appearance', 'true');
-        })
-    }
-    */
-
     if (window.location.pathname == '/') {
         var wrappers = document.querySelectorAll('.content_wrapper');
         var colorArray = ['inherit', '#101010', '#191c1f', '#1a1e1a'];
