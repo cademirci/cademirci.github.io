@@ -40,11 +40,10 @@ public class Q2 {
       sum += n;
       avg = double(sum / count);
     }
-    System.out.println("min: " + min);
-    System.out.println("max: " + max);
-    System.out.println("average: " + avg);
+    System.out.println(
+      "min: " + min + "\nmax: " + max + "\naverage: " + avg
+    );
   }
-
 }
 ```
 
