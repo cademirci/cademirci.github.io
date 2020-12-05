@@ -32,7 +32,7 @@ This changelog begins at October 11, 2020. The changes before the date are undoc
 
 ### TODO
 
--clear-
+- Better README.
 
 <!--
 <script>
