@@ -13,7 +13,7 @@ tags: [C, temel programlama]
 
 ***
 
-Eski klasörleri karıştırırken, geçen yıl biyomedikal mühendisliği okuyan bir arkadaşım için kendisinin programlamaya giriş dersi çalışma sorularını çözmüş olduğumu gördüm. Sınava hazırlanması için yorum satırı (comment line) olarak birçok Türkçe açıklama yazmışım. Belgeleri göndererek arkadaşa ders anlatmışım bir nevi. Ben de bu çözümleri dünyayla paylaşmak adına onları buraya taşımaya karar verdim.
+Eski klasörleri karıştırırken, geçen yıl biyomedikal mühendisliği okuyan bir arkadaşım için kendisinin programlamaya giriş dersi çalışma sorularını çözmüş olduğumu gördüm. Sınava hazırlanması için yorum satırı (comment line) olarak birçok Türkçe açıklama yazmışım. Belgeleri göndererek arkadaşa ders anlatmışım bir nevi. Ben de bu çözümleri buraya taşımaya karar verdim.
 
 Kişisel sayfamda her şeyi İngilizce paylaştığım görülebilir, ancak arkadaşa açıklama yapmak için o tarihlerde bir sürü Türkçe yorum satırı yazmış olduğumdan, bloğun bu gönderisi için bir istisna tanıdım. Zamanıma değecek olsa bunları çevirirdim. 
 
@@ -21,9 +21,16 @@ Bu bölüme bu ders söz konusu üniversitede C dili ile veriliyor, ben de doğa
 
 Soruları arkadaşlara sorulmuş şekliyle aynen koyuyorum, dolayısıyla *kolay*, *orta*, *zor* gibi derecelendirmeleri ben yazmadım.
 
-Son olarak, ödev veya proje gibi kişisel imza taşıması gereken şeyleri, programlama öğrenmek için, kendiniz uğraşarak yapmanız çok önemlidir. Bu gönderidekiler ödev değil çalışma soruları olduğundan burada böyle bir sakınca yoktur, fakat örnek teşkil etmesi açısından, webde "milletin ödevini yaptım" diyerek post paylaşmanız şık bir hareket olmayacaktır. :) (Bu ödevlerin bitiş tarihlerinden sonra kişisel alıştırma açısından kendiniz yazıp koyarsanız o başka)
-
 ***
+
+Bu arada genelde farklı mühendislik dallarındaki öğrenciler windows'ta çalışarak online derleyiciler ya da ide'ler kullanıyorlar fakat yine de bir C programının terminal ile nasıl çalıştırılacağını da buraya koyayım. Bazen ben de unutuyorum. 
+
+```terminal
+gcc program.c -o program_output
+./program_output
+```
+
+*** 
 
 **1**
 
@@ -74,15 +81,20 @@ int d[] = {9, 9, 9}; dizisi 3 basamaklı 999 sayısını gösterir, 1 fazlası i
 
 int main() {
   int d[] = {4, 3, 9, 9};
+
+  int length = sizeof(d)/sizeof(d[0]);
+  // arrayinizin length'i sinavda verilir miydi bilmiyom ama
+  // c'de array length'i bilinmedigi yerde boyle bulunur
+
   int n = 0;
-  for (int i = 0; i < 4; i++) {
+  for (int i = 0; i < length; i++) {
     n = n * 10 + d[i]; 
     // oncelikle her seferinde array'deki sayiyi 
     // 10'un bi fazla katiyla carparak arrayin 
     // temsil ettigi sayiyi buluyorum
   }  
   n = n + 1; // simdi bu 4400 oldu  
-  for (int i = 3; i >= 0; i--) {
+  for (int i = length - 1; i >= 0; i--) {
     // array'e sondan basladim. cunku d[i] 
     // dedigim seyin ilk olarak son basamak 
     // olan birler basamagi olmasi lazim. 
@@ -233,8 +245,7 @@ int main() {
   int d[] = {3, 1, 3, 12, 4, 7, 7, 12, 4};
     
   int length = sizeof(d)/sizeof(d[0]);
-  // arrayinizin length'i sinavda verilir miydi bilmiyom ama
-  // c'de array length'i bilinmedigi yerde boyle bulunur
+  // array uzunlugunu bulduk
         
   for (int i = 0; i < length; i++) {
     int count = 0;
