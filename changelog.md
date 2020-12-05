@@ -12,6 +12,8 @@ This changelog begins at October 11, 2020. The changes before the date are undoc
 
 <!--<span id="entryCount"></span> entries are displaying.-->
 
+- (ABSTRACT)(15) Clearer code. Removed unnecessary comment lines, old test files, etc.
+- (14) Inline code color changed from pale green-blue `#35b099` to pale pink `#dd828c`.
 - (13) Post *Some Examples of Introduction to Programming* is published.
 - (12) Post *(TUR) Birkaç Basit Programlama Sorusu* is published.
 - (11) Syntax highlighting style `ghost-theme` is changed. Bold font weights are cancelled.
