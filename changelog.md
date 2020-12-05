@@ -19,7 +19,7 @@ This changelog begins at October 11, 2020. The changes before the date are undoc
 - (11) Syntax highlighting style `ghost-theme` is changed. Bold font weights are cancelled.
 - (10) Header image of the blog post pages has been drawn and replaced with the old one. But converting png-jpg has disrupt the original file. I will figure it out some time.
 - (9) Header image of the 404 not found page has been drawn and replaced with the old one.
-- (8) `MathJax` library has been added as a script into `<head>`, in order for the page to have mathematical literacy via `LaTex`. Now the page is able to display math equations like $$\sum_{i=1}^n x = \int_{x=1}^n xdx$$
+- (8) `MathJax` library has been added as a script into the page, in order for it to have mathematical literacy via `LaTex`. Now the page is able to display math equations like $$\sum_{i=1}^n x = \int_{x=1}^n xdx$$
 - (BUGFIX)(7) Bugfix 4 is cancelled, search string adjusted to minimum 3 length istead. Searchs "a ", "as" and "or" comes up with a bug. Added: except "js" and "py".
 - (6) Added `Inspect My GitHub Profile` button into About Me.
 - (5) In Recent 3 Posts in Home Page, mobile screen adjustment has been made. Post lines are not inline but title (br) date and tags now.
@@ -32,8 +32,7 @@ This changelog begins at October 11, 2020. The changes before the date are undoc
 
 ### TODO
 
-1. Change default and post header image (planets). Draw something and replace them. (second thought), a painting for default page and one for the post.
-2. Change 404 Not Found page header image (inside). 
+-clear-
 
 <!--
 <script>
