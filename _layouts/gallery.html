@@ -1,0 +1,19 @@
+{% include head.html %}
+<body>
+    <div class="default_header"></div>
+    {% include panel.html %}
+    <div class="content_wrapper gallery_area">
+        {{ content }}
+        <ul>
+            {% for gallery_post in site.data.gallery_post %}
+            <li>
+                <img src="{{ gallery_post.image }}">
+                {{ gallery_post.name }} <br>
+                {{ gallery_post.excerpt }} <br>
+            </li>
+            <br><br><br><br><br>
+            {% endfor %}
+        </ul>
+    </div>
+    {% include footer.html %}
+</body>

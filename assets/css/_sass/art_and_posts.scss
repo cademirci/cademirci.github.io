@@ -1,0 +1,41 @@
+.art-circle {
+    border-radius: 50%;
+    width: min-content;
+    border: 0.3rem solid #000;
+    margin: 3rem auto;
+    padding: 9rem;
+    background-attachment: fixed;
+    background-image: url('https://1.bp.blogspot.com/-q4Fw-qiej1A/Xx8WX11_gGI/AAAAAAAAHWI/7e0zJOcyuKsM61bdtm-OJNl97UPDHW4NwCLcBGAsYHQ/w1220-h686/DESKTOP-WALLPAPER-4K-RICK-AND-MORTY.png');
+    background-position: center;
+}
+
+.inside {
+    border-radius: 50%;
+    background: #000;
+    height: 5rem;
+    width: 5rem;
+    margin: 0 auto;
+    background-attachment: local;
+    background-position: center;
+    background-size: contain;
+    background-image: url('../../assets/images/icon_spo.png');
+}
+
+.gallery_area { // construction process
+    font-size: 1em;
+    background-color: #101010;
+    width: 100%;
+    text-align: center;
+    img {
+        -webkit-box-shadow: 0px 0px 17px 10px #444; 
+        box-shadow: 0px 0px 17px 10px #444;
+        max-width: 90%;
+        display: block;
+        margin: 3rem auto;
+        transition: .5s ease;
+    }
+    img:hover {
+        -webkit-box-shadow: 0px 0px 17px 10px #454; 
+        box-shadow: 0px 0px 17px 10px #454;
+    }
+}
