@@ -26,7 +26,7 @@ window.addEventListener('DOMContentLoaded', () => {
 
     if (window.location.pathname == '/') {
         var wrappers = document.querySelectorAll('.content_wrapper');
-        var colorArray = ['inherit', '#101010', '#191c1f', '#1a1e1a'];
+        var colorArray = ['inherit', '#101010', '#191c1f', '#1a1a1a'];
         for (var i = 0; i < wrappers.length; i++) {
             wrappers[i].style.backgroundColor = "" + colorArray[i];
         }
@@ -39,12 +39,19 @@ window.addEventListener('DOMContentLoaded', () => {
     var blogEMButton = document.querySelector('#blogEMButton');
     var blogSoftwareButton = document.querySelector('#blogSoftwareButton');
     var blogPageButton = document.querySelector('#blogPageButton');
+    var artPageButton = document.querySelector('#artPageButton')
     var EMPosts = document.querySelector('#EMPosts');
     var softwarePosts = document.querySelector('#softwarePosts');
 
     if (blogPageButton) {
-        document.querySelector('#blogPageButton').addEventListener('click', () => {
+        blogPageButton.addEventListener('click', () => {
             window.location.href = '/blog';
+        })
+    }
+
+    if (artPageButton) {
+        artPageButton.addEventListener('click', () => {
+            window.location.href = '/gallery';
         })
     }
 

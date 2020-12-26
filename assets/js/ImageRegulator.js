@@ -6,7 +6,7 @@ function regulateImages() {
     var maxWidth = Math.floor(windowWidth * 0.6);
     var container = document.querySelector('.content_container');
     var containerWidth = container.clientWidth;
-    const images = document.querySelectorAll('.reading_area img');
+    const images = document.querySelectorAll('.reading_area img, .gallery_area img');
     if (containerWidth >= 800) {
         for (let i = 0; i < images.length; i++) {
             const image = images[i];
