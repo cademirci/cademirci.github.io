@@ -14,6 +14,7 @@ pre.highlight {
     background: #1a1a1a;
     margin: 75px -18px;
     padding: 25px 10px;
+    font-size: 0.9em;
     border: 1px solid #666;
     border-radius: 5px;
     tab-size: 2;
@@ -24,6 +25,7 @@ pre.highlight {
     white-space: -moz-pre-wrap;
     white-space: -o-pre-wrap;
     word-wrap: break-word;
+    letter-spacing: 0;
 } @media only screen and (max-width: 900px) {
     .language-terminal pre.highlight {
         border-radius: 0;
@@ -117,7 +119,7 @@ span.ln { /* line numbers */
 .nn    { color: #ccc;    } /* Name.Namespace */
 .nt    { color: #66d9ff; } /* Name.Tag */
 .nv    { color: #008080; } /* Name.Variable */
-.ow    {  } /* Operator.Word */
+/* .ow    {  }  Operator.Word */
 .w     { color: #bbb;    } /* Text.Whitespace */
 .mf    { color: orange;  } /* Literal.Number.Float */
 .mh    { color: orange;  } /* Literal.Number.Hex */
