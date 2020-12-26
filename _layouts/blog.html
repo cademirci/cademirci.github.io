@@ -3,60 +3,47 @@
 <body>
     <script src="../assets/js/search.js"></script>
     <div class="blog_header">
-        <p class="name_sentence">
-            Blog
-        </p>
+        <p class="name_sentence">Blog</p>
     </div>
     {% include panel.html %}
     <div class="content_wrapper blog_wrapper">
         <div class="content_container">
-            <!--
-            <div style="display: flex; justify-content: center;">
-                <button class="default_button ontop blackborder" id="blogSoftwareButton">Software</button>
-                <button class="default_button ontop blackborder" id="blogEMButton">E&M</button>
-            </div>
-            -->
-            <div id="softwarePosts">
-                <h1>Posts</h1>
-                <!--<p style="text-align: center;">And sometimes computer science and math.</p>-->
-                <!--<img src="../assets/images/software_icon.png" class="software_image">-->
+            <h1>Posts</h1>
+            <input type="text" class="search-input" id="searchInPosts" placeholder="Search..."></input>
+            <div class="found-area" id="foundArea"></div>
 
-                <input type="text" class="search-input" id="searchInPosts" placeholder="Search..."></input>
-                <div class="found-area" id="foundArea"></div>
-
-                {% for post in site.posts %}
-                    <a href="{{ post.url }}">
-                        <div class="post_rep">
-                            <p class="post_title">
-                                {{ post.title | 
-                                    replace: "(TUR)", "<span style='color:#dd3333'>(TUR)</span>" 
-                                }}
-                                <span class="read">&emsp;&rarr;&ensp;read</span>
-                            </p>
-                            <div class="excerpt">
-                                <blockquote class="post_excerpt" cite="{{ post.url }}">
-                                    {{ post.excerpt }}
-                                </blockquote>
-                            </div>
-                            <span class="post_date">
-                                {{ post.date | date: "%d.%m.%Y" }} &emsp;
-                            </span>
-                            {% if post.tags.size > 0 %}
-                                <br class="phone_breakline">
-                                <span class="post_tags">
-                                    {% if post.tags.size > 1 %}
-                                        {{ post.tags | sort | join: ", &ensp;" }}
-                                    {% else %}
-                                        {{ post.tags }}
-                                    {% endif %}
-                                </span>
-                            {% endif %}
+            {% for post in site.posts %}
+                <a href="{{ post.url }}">
+                    <div class="post_rep">
+                        <p class="post_title">
+                            {{ post.title | 
+                                replace: "(TUR)", "<span style='color:#dd3333'>(TUR)</span>" 
+                            }}
+                            <span class="read">&emsp;&rarr;&ensp;read</span>
+                        </p>
+                        <div class="excerpt">
+                            <blockquote class="post_excerpt" cite="{{ post.url }}">
+                                {{ post.excerpt }}
+                            </blockquote>
                         </div>
-                    </a>
-                {% endfor %}
-                {{ content }}
-            </div>
-            <div id="EMPosts"></div>
+                        <span class="post_date">
+                            {{ post.date | date: "%d.%m.%Y" }} &emsp;
+                        </span>
+                        {% if post.tags.size > 0 %}
+                            <br class="phone_breakline">
+                            <span class="post_tags">
+                                {% if post.tags.size > 1 %}
+                                    {{ post.tags | sort | join: ", &ensp;" }}
+                                {% else %}
+                                    {{ post.tags }}
+                                {% endif %}
+                            </span>
+                        {% endif %}
+                    </div>
+                </a>
+            {% endfor %}
+            
+            {{ content }}
         </div>
     </div>
     {% include footer.html %}
