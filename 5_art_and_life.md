@@ -4,6 +4,7 @@ is_navlink: true
 title: Gallery
 is_navlink: true
 navlink_name: Gallery
+image: ../assets/images/ankara_evening.jpeg
 ---
 
 # Art & Life
