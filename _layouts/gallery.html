@@ -8,8 +8,12 @@
             {% for gallery_post in site.data.gallery_post %}
             <li>
                 <img src="{{ gallery_post.image }}">
-                {{ gallery_post.name }} <br>
-                {{ gallery_post.excerpt }} <br>
+                <h4 class="image-name">
+                    {{ gallery_post.name }}
+                </h4>
+                <p class="image-excerpt">
+                    {{ gallery_post.excerpt }}
+                </p>
             </li>
             <br><br><br><br><br>
             {% endfor %}

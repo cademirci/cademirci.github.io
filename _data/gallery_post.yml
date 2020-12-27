@@ -1,11 +1,14 @@
 - name: "Evening"
-  excerpt: A photo from my city with orange sykyline.
+  excerpt: A photo from my city with a beautiful orange skyline.
   image: assets/images/ankara_evening.jpeg
 
 - name: "Workspace"
-  excerpt: A digital painting I made for my website.
+  excerpt: A digital painting I made for my website. May be I could the coffe cup a little bigger. Besides I have drawn the linear
+           graphic wawes with hand, manually, therefore ther aren't sharp enough. And, chemistry bottle would be prettier and
+           code lines a bit longer.
   image: assets/images/wsbg.png
 
 - name: "A Blog Page"
-  excerpt: Ditto previous.
+  excerpt: Ditto for the site. This is one of my favourites, because it is simple and cute. Especially I like my ink bottle and the feather pen. 
+           Graphics and papers additionally, are representing a blog post in a cute and freestyle way.
   image: assets/images/blogmain_bg.png

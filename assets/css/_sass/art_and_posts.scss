@@ -42,4 +42,15 @@
         -webkit-box-shadow: 0px 0px 17px 10px #454; 
         box-shadow: 0px 0px 17px 10px #454;
     }
+    p {
+        max-width: 90%;
+        margin: 0 auto;
+    }
+    .image-name {
+        font-family: $code-font;
+        ::after, ::before {
+            content: none;
+        }
+    }
 }
+
