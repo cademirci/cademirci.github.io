@@ -37,7 +37,7 @@ function menuBoxLeave(event) {
 }
 
 window.addEventListener('scroll', () => {
-    var start = document.querySelector('.home_header, .default_header, .blog_header').offsetHeight,
+    var start = document.querySelector('.home_header, .default_header, .blog_header, .gallery_header').offsetHeight,
         pad = document.querySelector('.panel_pad'),
         padHeight = document.querySelector('.panel_container').offsetHeight,
         // not current pad height, but it supposed to be

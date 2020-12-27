@@ -1,14 +1,19 @@
 - name: "Evening"
   excerpt: A photo from my city with a beautiful orange skyline.
-  image: assets/images/ankara_evening.jpeg
+  image: assets/images/ankaraEvening.jpg
+
+- name: Gallery
+  excerpt: I have painted that for this page. For "painting and photo" themselves.
+  image: assets/images/gallerywp.png
 
 - name: "Workspace"
-  excerpt: A digital painting I made for my website. May be I could the coffe cup a little bigger. Besides I have drawn the linear
-           graphic wawes with hand, manually, therefore ther aren't sharp enough. And, chemistry bottle would be prettier and
-           code lines a bit longer.
+  excerpt: A digital painting I made for my website <a href="">(home page)</a>. May be I could draw the coffe cup a little bigger. 
+           Besides I have drawn the linear graphic waves manually, therefore they aren't sharp enough. Plus, the beaker would be prettier 
+           and code lines a bit longer. Gradient from blue-gray to purple-gray stands for "serious business".
   image: assets/images/wsbg.png
 
 - name: "A Blog Page"
-  excerpt: Ditto for the site. This is one of my favourites, because it is simple and cute. Especially I like my ink bottle and the feather pen. 
-           Graphics and papers additionally, are representing a blog post in a cute and freestyle way.
+  excerpt: Ditto for the site <a href="">(blog page)</a>. This is one of my favourites, because it is simple and cute. Especially I like my 
+           ink bottle and the feather pen. Graphics and papers additionally, are representing a blog post in a cute and freestyle way. 
+           Gradient from brown to gray stands for library-style archiving.
   image: assets/images/blogmain_bg.png

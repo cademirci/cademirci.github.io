@@ -1,21 +1,25 @@
 {% include head.html %}
 <body>
-    <div class="default_header"></div>
+    <div class="gallery_header">
+        <p class="name_sentence">Gallery</p>
+    </div>
     {% include panel.html %}
     <div class="content_wrapper gallery_area">
         {{ content }}
         <ul>
             {% for gallery_post in site.data.gallery_post %}
-            <li>
-                <img src="{{ gallery_post.image }}">
-                <h4 class="image-name">
-                    {{ gallery_post.name }}
-                </h4>
-                <p class="image-excerpt">
-                    {{ gallery_post.excerpt }}
-                </p>
-            </li>
-            <br><br><br><br><br>
+                <li>
+                    <img class="gallery_post_image" src="{{ gallery_post.image }}">
+                    <h4 class="image-name">
+                        {{ gallery_post.name }}
+                    </h4>
+                    <p class="image-excerpt">
+                        {{ gallery_post.excerpt }}
+                    </p>
+                </li>
+                {% if forloop.last == false %}
+                    <img class="gallery_parser" src="{{ "/assets/images/hexagon.png" | prepend: site.baseurl }}">
+                {% endif %}
             {% endfor %}
         </ul>
     </div>

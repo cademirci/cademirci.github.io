@@ -1,46 +1,38 @@
 // ================================ HEADER WITHOUT PANEL
 // ================= HEADER IMAGES
-.home_header {
-    background-image: url('/assets/images/wsbg.jpg');
-}
-
-.default_header {
-    background-image: url('/assets/images/bpbg.jpg');
-}
-
-.blog_header {
-    background-image: url('/assets/images/blogmain_bg.jpg');
-}
+.home_header    { background-image: url('/assets/images/wsbg.jpg'); }
+.default_header { background-image: url('/assets/images/bpbg.jpg'); }
+.blog_header    { background-image: url('/assets/images/blogmain_bg.jpg'); }
+.gallery_header { background-image: url('/assets/images/gallerywp.jpg'); }
 
 .home_header,
 .default_header,
-.blog_header {
+.blog_header,
+.gallery_header {
     background-position: right;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
-.home_header {
-    height: calc(75vh);
+.home_header,
+.blog_header {
+    height: 75vh;
 }
-
+.gallery_header {
+    height: 85vh;
+}
 .default_header {
     height: 50vh;
 }
 
-.blog_header {
-    height: 75vh;
-}
-
 @media only screen and (max-width: 925px) {
-    .home_header {
+    .home_header,
+    .blog_header,
+    .gallery_header {
         height: 50vh;
     }
     .default_header {
         height: 32vh;
-    }
-    .blog_header {
-        height: 50vh;
     }
 }
 

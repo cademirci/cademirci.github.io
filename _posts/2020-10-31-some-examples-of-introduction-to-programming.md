@@ -164,7 +164,6 @@ for i in range(1, number_of_arguments):
   path = path + "\ " + sys.argv[i]
 path = path[1:]
 files = []
-# print(path)
 file_list = os.popen("cd " + path + " && ls").read()
 file_list = file_list.splitlines()
 for i in range(0, len(file_list)):
