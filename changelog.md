@@ -12,6 +12,7 @@ This changelog begins at October 11, 2020. The changes before the date are undoc
 
 <!--<span id="entryCount"></span> entries are displaying.-->
 
+- (16) Implemented and added navigation markers which are marking the current location. (Green '<' signs)
 - (15) [Gallery](/gallery) page is designed and implemented. Now there is a little Instagram in the page, mainly for digital paintings I made.
 - (ABSTRACT)(15) Clearer code. Removed unnecessary comment lines, old test files, etc.
 - (14) Inline code color changed from pale green-blue `#35b099` to pale pink `#dd828c`.
