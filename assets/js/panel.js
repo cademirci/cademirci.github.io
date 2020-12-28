@@ -67,7 +67,7 @@ window.addEventListener('scroll', () => {
         pad.style.height = padHeight;
         tooltip_text.style.display = 'block';
         c2.innerHTML = `[${linuxLoadingEffect}]`;
-        // c2.innerHTML = `[${linuxLoadingEffect}] ${seen}px/${pageHeight}px`;
+        c2.innerHTML = `[${linuxLoadingEffect}] ${seen}px/${pageHeight}px`;
     }
     else {
         panel.style.position = 'relative';
@@ -75,4 +75,21 @@ window.addEventListener('scroll', () => {
         c2.innerHTML = '';
         tooltip_text.style.display = 'none';
     }
+
+    // green markers of navigation links ( < )
+    var navlinks = document.querySelectorAll('.navbarlink')
+    navlinks.forEach((element, index) => {
+        var locationID = element.getAttribute('data-scroll-top')
+        var location = document.querySelector(locationID).offsetTop - Math.ceil(window.innerHeight) / 2
+        if (scrollTop > location) {
+            element.setAttribute('located', '<')
+            if (index != 0) {
+                navlinks[index - 1].setAttribute('located', '')
+            }
+        }
+        else {
+            element.setAttribute('located', '')
+        }
+    })
+    
 })
