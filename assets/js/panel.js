@@ -76,20 +76,19 @@ window.addEventListener('scroll', () => {
         tooltip_text.style.display = 'none';
     }
 
-    // green markers of navigation links ( < )
-    var navlinks = document.querySelectorAll('.navbarlink')
+    // green markers of navigation links ( ^ )
     navlinks.forEach((element, index) => {
         var locationID = element.getAttribute('data-scroll-top')
         var location = document.querySelector(locationID).offsetTop - Math.ceil(window.innerHeight) / 2
         if (scrollTop > location) {
-            element.setAttribute('located', '<')
+            element.classList.add('located')
             if (index != 0) {
-                navlinks[index - 1].setAttribute('located', '')
+                navlinks[index - 1].classList.remove('located')
             }
         }
         else {
-            element.setAttribute('located', '')
+            element.classList.remove('located')
         }
     })
-    
+
 })
