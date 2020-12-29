@@ -77,6 +77,7 @@ window.addEventListener('scroll', () => {
     }
 
     // green markers of navigation links ( ^ )
+    var navlinks = document.querySelectorAll('.navbarlink')
     navlinks.forEach((element, index) => {
         var locationID = element.getAttribute('data-scroll-top')
         var location = document.querySelector(locationID).offsetTop - Math.ceil(window.innerHeight) / 2
