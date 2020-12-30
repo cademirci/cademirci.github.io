@@ -1,9 +1,11 @@
 /*
-    https://github.com/cademirci/ghost-code
+    https://github.com/cademirci/jekyll-code-style
 
-    Author: Caglayan Demirci
+    Author: Caglayan Demirci (cademirci.com)
     GitHub: cademirci
 */
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
 
 .language-terminal pre.highlight {
     background: #101010;
@@ -43,7 +45,9 @@ pre.highlight::before {
     float: right;
 
     /* LANGUAGE NAME STYLE */
+    font-family: 'Roboto Mono', monospace;
     font-size: .8em;
+    letter-spacing: 1px;
     color: #3bc47f;
 }
 

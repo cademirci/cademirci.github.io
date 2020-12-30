@@ -90,6 +90,11 @@ window.addEventListener('scroll', () => {
         else {
             element.classList.remove('located')
         }
+
+        // I will make the "17" below parametric. some time.
+        // my calculations do not work until now. 
+        // tried Math.ceil((element.offsetWidth - 7) * 0.5)
+        html.style.setProperty('--marker-marginleft', 17)
     })
 
 })

@@ -207,7 +207,7 @@
     content: "";
     position: absolute;
     margin-top: 19px;
-    margin-left: 17px;
+    margin-left: var(--marker-marginleft);
     border-width: 7px;
     border-style: solid;
     border-color: transparent transparent $second-color transparent;
