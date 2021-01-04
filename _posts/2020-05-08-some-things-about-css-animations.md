@@ -7,13 +7,6 @@ tags: [web design, web programming, front-end, CSS]
 category: Software
 ---
 
-# {{ page.title }}
-
-<div class="post_date">{{ page.date | date: "%d.%m.%Y" }}</div>
-<div class="post_tags">{{ page.tags | sort | join: ", " }}</div>
-
-***
-
 A web programmer starts with implementing solid pages: Nothing moves, all changes occur directly. After a while, the time has come to develop the page like a professional, modern web designer, which requires some knowledge about page animations. Animating page elements, soft and smooth changes, etc.
 
 *Modern web designing* here does not refer to absurdly festive pages, lightnings comes out from everywhere, unnecessarily moving some little unicorn emojis at the end of some sentences. But a good page is simple with all the animations that it includes; make it simple and make the simple looks amazing.

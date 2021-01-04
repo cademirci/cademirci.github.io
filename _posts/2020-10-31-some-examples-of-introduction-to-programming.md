@@ -6,13 +6,6 @@ excerpt: >-
 tags: [Java, Python, basic programming, general programming]
 ---
 
-# {{ page.title }}
-
-<div class="post_date">{{ page.date | date: "%d.%m.%Y" }}</div>
-<div class="post_tags">{{ page.tags | sort | join: ", " }}</div>
-
-***
-
 While browsing my old folders, I saw some coding examples and I decided to publish them. I thought perhaps these do not worth to be a blog post (there are millions and billions similar example on the web) but when I thought for a second time, I wanted to write an old program that I wrote with Python and Exiftool which I barely remember. It does not worth to be a GitHub repository, so I am putting it here now as an addition.
 
 By the way, I strongly recommend firstly [codingbat.com](https://codingbat.com/) and secondly [codewars.com](https://www.codewars.com/) in order for a newbie programmer to develop.

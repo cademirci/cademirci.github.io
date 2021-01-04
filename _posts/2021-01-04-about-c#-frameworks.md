@@ -6,13 +6,6 @@ excerpt: >-
 tags: [web programming, c#, .net, .net mvc, backend, asp]
 ---
 
-# {{ page.title }}
-
-<div class="post_date">{{ page.date | date: "%d.%m.%Y" }}</div>
-<div class="post_tags">{{ page.tags | sort | join: ", " }}</div>
-
-***
-
 Actually I don't claim anything like a 20-year experienced architect, and I don't say working with those are wrong. I just feel that C# is not my cup of tea.
 
 As a second "actually", I don't like Windows in the first place and may be I have a started with a prejudice for other Microsoft products. Also may be I can say only *most of the* C# frameworks are not good.

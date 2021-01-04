@@ -8,13 +8,6 @@ tags: [web app, back-end, python, django, leaflet.js]
 category: Software
 ---
 
-# {{ page.title }}
-
-<div class="post_date">{{ page.date | date: "%d.%m.%Y" }}</div>
-<div class="post_tags">{{ page.tags | sort | join: ", " }}</div>
-
-***
-
 I wrote a web application called *been-and-mark*, I explained it on Github:
 
 > been-and-mark application allows you to mark with a pin somewhere you have been on an open world map; put a photo and a text related with there and the memory. <br><br>In this respect, it can be thought as some kind of very simple Foursquare clone. Only been-and-mark is written for personal usage, like a blog or a diary let's say. I have written a web application with an interactive map in my internship; then I wanted to rewrite and put a simpler and joyful version of it into Github, as a self development. Plus this is a totally different idea actually.

@@ -190,3 +190,9 @@ br.phone_breakline {
     border-color: #000;
     background-color: #000;
 }
+
+.excerpt-in-post {
+    font-size: 1.2em;
+    color: lighten($grey-color, 15%);
+    text-align: center;
+}
