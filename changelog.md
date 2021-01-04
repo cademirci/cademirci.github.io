@@ -8,11 +8,17 @@ is_navlink: false
 
 <br>
 
-This changelog begins at October 11, 2020. The changes before the date are undocumented (except GitHub commit messages). Entries are sorted by the newest through the oldest.
+This changelog begins at October 11, 2020. The updates before that date are undocumented (except GitHub commit messages). Entries are sorted by the newest through the oldest.
 
 <!--<span id="entryCount"></span> entries are displaying.-->
 
-- PascalCase.js file names are changed into kebab-case.js
+- (18) Excerpts are added to post pages as pale and big texts. (there was only in the home page's `Blog` division before)
+- (17) Title "Posts" in the blog main page is changed to "All Posts (POST_COUNT)".
+- Project `ghost-theme` is upgraded and its name changed to `jekyll-code-style`. So the theme file in `assets/css` is `jekyll-code-style.css` now.
+
+__ 2021 &uarr; __
+
+- PascalCa1se.js file names are changed into kebab-case.js
 - (16) Implemented and added navigation markers which are marking the current location. (Green '<' signs)
 - (15) [Gallery](/gallery) page is designed and implemented. Now there is a little Instagram in the page, mainly for digital paintings I made.
 - (ABSTRACT)(15) Clearer code. Removed unnecessary comment lines, old test files, etc.
