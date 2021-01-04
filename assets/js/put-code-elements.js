@@ -5,7 +5,6 @@
     GitHub: cademirci
 */
 
-
 window.addEventListener('DOMContentLoaded', () => {
 
   var codeBlocks = document.querySelectorAll("pre.highlight")
@@ -35,21 +34,18 @@ window.addEventListener('DOMContentLoaded', () => {
 })
 
 function putDollarSigns(lines) {
-  var lineWithSign = ""
-  var codeWithSigns = ""
+  var newLineList = []
   lines.forEach((element, index) => {
     if (index !== lines.length - 1) { // if this is not the last line (empty line)
-      lineWithSign = "<span class='ln'>~$&ensp;&ensp;</span>" + element
-      codeWithSigns += lineWithSign + "\n"
+      newLineList.push("<span class='ln'>~$&ensp;&ensp;</span>" + element) 
     }
   })
-  return codeWithSigns
+  return newLineList.join('\n')
 }
 
 function putLineNumbers(lines) {
   var numberAndSpace = ""
-  var lineWithNumber = ""
-  var codeWithLineNumbers = ""
+  var newLineList = []
   lines.forEach((element, index) => {
     if (index !== lines.length - 1) {
       var number = index + 1
@@ -69,9 +65,8 @@ function putLineNumbers(lines) {
         numberAndSpace = "<span class='ln'>" + number + "&ensp;</span>"
         // I assume users do not put over 1000-line code on their page.
       }
-      lineWithNumber = numberAndSpace + element
-      codeWithLineNumbers += lineWithNumber + '\n'
+      newLineList.push(numberAndSpace + element)
     }
   })
-  return codeWithLineNumbers
+  return newLineList.join('\n')
 }
