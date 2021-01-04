@@ -2,11 +2,11 @@
 layout: post
 title: Some Examples of Introduction to Programming
 excerpt: >-
-    Some Java and Python examples and a basic analyze tool I wrote in Python.
+    Some Java and Python examples, a basic analyze tool I wrote in Python (ENG until now), and some C examples commented in Turkish.
 tags: [Java, Python, basic programming, general programming]
 ---
 
-While browsing my old folders, I saw some coding examples and I decided to publish them. I thought perhaps these do not worth to be a blog post (there are millions and billions similar example on the web) but when I thought for a second time, I wanted to write an old program that I wrote with Python and Exiftool which I barely remember. It does not worth to be a GitHub repository, so I am putting it here now as an addition.
+While I was browsing my old folders, I saw some coding examples I wrote in my first years in computer science department, and I decided to publish them. There were many, then I picked up some. Half of the page continuous as a Turkish post which includes C codes.
 
 By the way, I strongly recommend firstly [codingbat.com](https://codingbat.com/) and secondly [codewars.com](https://www.codewars.com/) in order for a newbie programmer to develop.
 
@@ -190,7 +190,7 @@ while (True):
 
 ***
 
-From this point, there are some Turkish basic programming questions and solutions with explaining comments. If it would worth to my time, I would translate all of them, but these were some excercises I resolved for an engineering student friend. Therefore I explain everything in Turkish. Anyway, I have decided to add them here, also.
+From this point, there are some Turkish basic programming questions and solutions with explainings as comments. If it would worth to my time, I would translate all of them. These all were some excercises I resolved for a Turkish engineering student before her exam. Therefore I wrote comments in Turkish. Anyway, I have decided to add them here, also.
 
 <br>
 
