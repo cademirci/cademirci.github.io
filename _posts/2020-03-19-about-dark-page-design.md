@@ -7,10 +7,6 @@ tags: [web design, UI]
 category: Software
 ---
 
-
-
-***
-
 First of all, recently I have found a [good post](https://1stwebdesigner.com/dark-or-light/) about this on the web. This was before I made this website and I read it carefully.
 
 I like to idea of designing user interfaces and web pages. For a couple of years, my design adventure (not pro though, in the corner of my workspace) has been going on

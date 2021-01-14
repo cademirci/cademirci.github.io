@@ -3,7 +3,7 @@ layout: post
 title: Some Examples of Introduction to Programming
 excerpt: >-
     Some Java and Python examples, a basic analyze tool I wrote in Python (ENG until now), and some C examples commented in Turkish.
-tags: [Java, Python, basic programming, general programming]
+tags: [Java, Python, C, basic programming, general programming]
 ---
 
 While I was browsing my old folders, I saw some coding examples I wrote in my first years in computer science department, and I decided to publish them. There were many, then I picked up some. Half of the page continuous as a Turkish post which includes C codes.

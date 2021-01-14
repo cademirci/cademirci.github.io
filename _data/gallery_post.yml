@@ -1,3 +1,9 @@
+- name: "Valhalla Logo"
+  excerpt: I have designed this logo for my radio show, it was a rock music program. The grey man is not Gandalf (most of the people think that),
+           but exactly the inspiration of Gandalf; he is Odin. The bird is a raven, it is either Huginn or Muninn. Besides I used three 
+           snowflake/hexagons within the 'A' letters. They stand for north and winter culture, those things I love :)
+  image: assets/images/ValhallaLogo.PNG
+
 - name: "Evening"
   excerpt: A photo from my city with a beautiful orange skyline.
   image: assets/images/ankaraEvening.jpg
