@@ -16,7 +16,7 @@ window.addEventListener('DOMContentLoaded', (e) => {
         input.addEventListener('input', (event) => {
             var key = event.target.value.toLowerCase()
             let shortButOk = false 
-            shortButOkIndex = ["js", "py"]
+            shortButOkIndex = ["js", "py", "c#"]
             shortButOkIndex.forEach(element => {
                 if (element === key) shortButOk = true
             });
