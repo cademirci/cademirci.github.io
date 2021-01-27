@@ -12,6 +12,7 @@ This changelog begins at October 11, 2020. The updates before that date are undo
 
 <!--<span id="entryCount"></span> entries are displaying.-->
 
+- (19) Two images is added into the gallery.
 - (18) Excerpts are added to post pages as pale and big texts. (those were existing only in the blog page's post entries before)
 - (17) Title "Posts" in the blog main page is changed to "All Posts (POST_COUNT)".
 - Project `ghost-theme` is upgraded and its name changed to `jekyll-code-style`. So the theme file in `assets/css` is `jekyll-code-style.css` now.

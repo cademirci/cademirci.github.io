@@ -18,7 +18,9 @@ window.addEventListener('DOMContentLoaded', (e) => {
             let shortButOk = false 
             shortButOkIndex = ["js", "py", "c#"]
             shortButOkIndex.forEach(element => {
-                if (element === key) shortButOk = true
+                if (element === key) {
+                    shortButOk = true
+                }
             });
             if (key.length > 2 || shortButOk) { // to avoid links or titles be wrapped by a span
                 var founds = "", data = ""
@@ -39,13 +41,16 @@ window.addEventListener('DOMContentLoaded', (e) => {
                                      .replace('--POST.URL--', urls[i])
                     }
                 }
-                if (founds.length === 0)
+                if (founds.length === 0) {
                     foundArea.innerHTML = '<p class="search-not-found">Sorry, nothing matched.</p>'
+                }
                 else {
                     foundArea.innerHTML = founds 
                 }
             }
-            else foundArea.textContent = ""
+            else { 
+                foundArea.textContent = ""
+            }
         })
     }
 })

@@ -4,6 +4,14 @@
            snowflake/hexagons within the 'A' letters. They stand for north and winter culture, those things I love :)
   image: assets/images/ValhallaLogo.PNG
 
+- name: "Snowy Urban"
+  excerpt: I took this photo when I took a walk on a snowy day. On the background the finance center / urban area of my city in the snow fog, barely seen.
+  image: assets/images/snowy.jpeg
+
+- name: "A Coffee Time"
+  excerpt: Did I mention that I like coffee?
+  image: assets/images/cic.jpeg
+
 - name: "Evening"
   excerpt: A photo from my city with a beautiful orange skyline.
   image: assets/images/ankaraEvening.jpg
