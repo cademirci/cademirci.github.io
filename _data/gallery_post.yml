@@ -1,13 +1,33 @@
+- name: "Shaman is Coming"
+  excerpt: I am learning Adobe Illustrator. I am regretful that I have not begin it before. This is my first drawing with it, since shaman is a very
+           important fantasy image for me and also one of my niknames. 
+  image: assets/images/shaman.jpeg
+
 - name: "Valhalla Logo"
   excerpt: I have designed this logo for my radio show, it was a rock music program. The grey man is not Gandalf (most of the people think that),
            but exactly the inspiration of Gandalf; he is Odin. The bird is a raven, it is either Huginn or Muninn. Besides I used three 
            snowflake/hexagons within the 'A' letters. They stand for north and winter culture, those things I love :)
   image: assets/images/ValhallaLogo.PNG
+  
+- name: Screenshots from Valheim
+  excerpt: Since "I like to design and build things" is the header catchphrase of my page, I fell in love with one of the most beautiful games of last 
+           years; Valheim. I am putting some screenshots from that game; some houses, rooms and strongholds I've built with my character.
+  serie: True
+  main_image: assets/images/valheimSS/vss1.jpeg
+  images:
+    - assets/images/valheimSS/vss2.jpeg
+    - assets/images/valheimSS/vss3.jpeg
+    - assets/images/valheimSS/vss4.jpeg
+    - assets/images/valheimSS/vss5.jpeg
+    - assets/images/valheimSS/vss6.jpeg
+    - assets/images/valheimSS/vss7.jpeg
+    - assets/images/valheimSS/vss8.jpeg
+    - assets/images/valheimSS/vss9.jpeg
 
 - name: "Frozen Finance"
   excerpt: I took this photo when I took a walk on a snowy day. On the background the finance center / urban area of my city in the snow fog, barely seen.
            This photo was taken in the pandemic times.
-  image: assets/images/snowy.jpeg
+  image: assets/images/snowy.jpeg  
 
 - name: "A Coffee Time"
   excerpt: Did I mention that I like coffee?

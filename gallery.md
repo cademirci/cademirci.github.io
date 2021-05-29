@@ -6,6 +6,6 @@ is_navlink: false
 
 # {{ page.title }}
 
-Pictures or photos those I did not put into Instagram, for some reason, here instead.
+Some graphics.
 
 <br><br><br><br><br>
