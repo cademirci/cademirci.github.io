@@ -1,3 +1,11 @@
+- name: "Me"
+  excerpt: Hello world! I have drawn myself vie Adobe Illustrator. I am proud, people do it by some profile picture generator programs. But mine is mine art by every single pixel.
+  image: assets/images/better_pp.jpeg
+
+- name: "Working Desk"
+  excerpt: Some minimal/cartoon working tools with a German cathcphrase, means "If you do not leave your comfort zone, you achieve nothing.".
+  image: assets/images/working_desktop.jpeg
+
 - name: "Shaman is Coming"
   excerpt: I am learning Adobe Illustrator. I am regretful that I have not begin it before. This is my first drawing with it, since shaman is a very
            important fantasy image for me and also one of my niknames. 
