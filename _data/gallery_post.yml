@@ -1,6 +1,11 @@
+- name: "Futility"
+  excerpt: I like to draw wraiths, ghosts and some dark characters without face, but also like to make them cute. I think this kind of contrast is one way of
+          making good art. For instance I appreciate Hollow Knight designs in the same way. This is my fourth painting via Adobe Illustrator. 
+  image: assets/images/futility.jpg
+
 - name: "Me"
   excerpt: Hello world! I have drawn myself vie Adobe Illustrator. I am proud, people do it by some profile picture generator programs. But mine is mine art by every single pixel.
-  image: assets/images/better_pp.jpeg
+  image: assets/images/betterpp.jpeg
 
 - name: "Working Desk"
   excerpt: Some minimal/cartoon working tools with a German cathcphrase, means "If you do not leave your comfort zone, you achieve nothing.".
