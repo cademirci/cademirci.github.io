@@ -7,7 +7,7 @@ navlink_name: Gallery
 image: ../assets/images/ankara_evening.jpeg
 ---
 
-# Art & Life
+# Gallery
 
 <p style="text-align: center">Digital paintings I made, sometimes photo, sometimes me.</p>
 
