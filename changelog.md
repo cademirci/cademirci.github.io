@@ -12,7 +12,8 @@ This changelog begins at October 11, 2020. The updates before that date are undo
 
 <!--<span id="entryCount"></span> entries are displaying.-->
 
-- (19) Two images is added into the gallery.
+- (20) changelog is added into the footer. Font size in the footer fixed as 0.9em.  
+- (19) Two images are added into the gallery.
 - (18) Excerpts are added to post pages as pale and big texts. (those were existing only in the blog page's post entries before)
 - (17) Title "Posts" in the blog main page is changed to "All Posts (POST_COUNT)".
 - Project `ghost-theme` is upgraded and its name changed to `jekyll-code-style`. So the theme file in `assets/css` is `jekyll-code-style.css` now.
@@ -43,6 +44,12 @@ __ 2021 &uarr; __
 ### TODO
 
 - Better README.
+- Change the welcome header. That "paint"ed computer with that purple bg is not good. 
+- Change the little person in the "about", the sattelite in the contact. Notebook in the blog is not bad.
+- Change the gallery view. Appearance in the main page is not satisfyable, the representing painting isn't good. 
+- Draw a default post header. Change it.
+- You may add changelog as a small `log` word into the footer. This may make the page more dynamic (for you).
+- Maintain the width and height adjustments. Sometimes the heaeder picture heights seems absurd to me. Containers also, aren't perfect for 13" screens. 
 
 <!--
 <script>
