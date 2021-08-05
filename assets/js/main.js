@@ -26,7 +26,7 @@ window.addEventListener('DOMContentLoaded', () => {
 
     if (window.location.pathname == '/') {
         var wrappers = document.querySelectorAll('.content_wrapper');
-        var colorArray = ['inherit', '#101010', '#191c1f', '#161f1b'];
+        var colorArray = ['inherit', '#101010', '#1a1f26', '#161f1b'];
         for (var i = 0; i < wrappers.length; i++) {
             wrappers[i].style.backgroundColor = "" + colorArray[i];
         }

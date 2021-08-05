@@ -14,7 +14,7 @@ As a second "actually", I don't like Windows in the first place and may be I hav
 
 I learned computer programming with Java. I wrote data structures, projects on it. Therefore I am familiar with C#, but here is the problem: I don'use Java anymore when I'm free, I prefer languages like JavaScript, Python etc. Because *signal to noise ratio* of Java is low. That means when you implement some code, ratio of the output of the porgram to the number of characters you type is too low, compared to JS or Python. So is C#'s one.
 
-Also I have always think that C family languages (C, C++ and C#) has alternatives in order to do modern and joyful projects. May be unless you are not an electronics engineer ot game developer, I don't know. 
+Also I have always think that C family languages (C, C++ and C#) have alternatives in order to do modern and joyful projects. May be unless you are not an electronics engineer ot game developer, I don't know. 
 
 ![](https://jmmjsta.blob.core.windows.net/cache/900_1157_mvc.jpg)
 
@@ -32,4 +32,4 @@ Nevertheless if I am responsable for a project and free to do, I prefer NodeJS f
 
 ***
 
-Additionally, I be bored when I see Windows forced a user to do use some tool. Even if there are Linux and MacOS alternatives to implement C# projects, it is quiet clear that the best environment for it is Visual Studio IDE on Windows operating system. I have an annoying experience about it. 
+Additionally, I be bored when I see Windows forced a user to do something, for instance to use some tool. Even if there are Linux and MacOS alternatives to implement C# projects, it is quiet clear that the best environment for it is Visual Studio IDE on Windows operating system. I have an annoying experience about it. 

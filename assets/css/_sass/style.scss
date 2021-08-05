@@ -1,15 +1,17 @@
 // ================================ HEADER WITHOUT PANEL
 // ================= HEADER IMAGES
-.home_header    { background-image: url('/assets/images/homeheader.jpg'); }
-.default_header { background-image: url('/assets/images/planets.png'); }
-.blog_header    { background-image: url('/assets/images/blogmain_bg.png'); }
-.gallery_header { background-image: url('/assets/images/gallerywp.jpg'); }
+.home_header    { background-image: url('/assets/images/homeheader.jpg'); 
+                  background-position: center;}
+.default_header { background-image: url('/assets/images/obfreadingheader.jpg'); 
+                  }
+.blog_header    { background-image: url('/assets/images/blogmain_bg.png'); 
+                  background-position: right;}
+.gallery_header { background-image: url('/assets/images/gallerywp.jpg'); 
+                  background-position: right;}
 
 .home_header,
-.default_header,
 .blog_header,
 .gallery_header {
-    background-position: right;
     background-repeat: no-repeat;
     background-size: cover;
 }
