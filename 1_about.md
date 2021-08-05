@@ -18,7 +18,7 @@ image: ../assets/images/42reok.png
 As a regular computer science student at university, I work on general programming, hardware and math. Meanwhile, the fields that I am the most enthusiastic about are web technologies and designing.
 </p>
 
-<a href="https://github.com/cademirci" target="_blank"><button class="default_button" type="button" name="button"><div class="flexbox">Inspect My GitHub Profile<img src="../assets/images/gh4.png" class="button-image"></div></button></a>
+<a href="https://github.com/cademirci" target="_blank"><button class="default_button" type="button" name="button"><div class="flexbox">Visit My GitHub Profile<img src="../assets/images/gh4.png" class="button-image"></div></button></a>
 <!--<button class="default_button" type="button" name="button">GET MY CV</button>-->
 <p>
 In my personal life, I love to read and watch fantasy arts, listen to heavy metal and drink coffee a lot. Interested in mythology and cultures, languages and etymology.

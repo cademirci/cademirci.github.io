@@ -1,8 +1,7 @@
 ---
 layout: gallery
-is_navlink: true
+is_navlink: false
 title: Gallery
-is_navlink: true
 navlink_name: Gallery
 image: ../assets/images/ankara_evening.jpeg
 ---

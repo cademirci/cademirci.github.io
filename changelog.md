@@ -12,6 +12,7 @@ This changelog begins at October 11, 2020. The updates before that date are undo
 
 <!--<span id="entryCount"></span> entries are displaying.-->
 
+- (21) MAIN STYLE CHANGE Header illustrations (home, default, post) are changed, theih hights increased to 85vh from 75vh. Panel backgroung color is changed. Default button colors changed.
 - (20) changelog is added into the footer. Font size in the footer fixed as 0.9em.  
 - (19) Two images are added into the gallery.
 - (18) Excerpts are added to post pages as pale and big texts. (those were existing only in the blog page's post entries before)

@@ -30,4 +30,4 @@ image: ../assets/images/icon_blog.png
 {% endif %}
 {% endfor %}
 
-<button class="default_button" id="blogPageButton">Go to the Blog</button>
+<button class="default_button" id="blogPageButton">Visit Blog</button>

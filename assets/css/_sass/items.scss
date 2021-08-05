@@ -2,7 +2,7 @@
 // but style of the specific elements.
 
 .default_button {
-    background: $background-color;
+    background: darken($background-color, 5%);
     border: 3px solid $grey-color;
     border-radius: 7px;
     padding: 7px 10px;
