@@ -199,17 +199,20 @@ br.phone_breakline {
 
 // 6.8.21' picked up posts style
 
+.picked-up-posts-wrapper {
+    padding-bottom: 7rem;
+}
+
 .picked-up-posts {
     display: flex;
     justify-content: space-around;
-    padding: auto 3rem;
+    padding: 0;
 } @media only screen and (max-width: 925px) {
     .picked-up-posts {
         display: block;
         justify-content: inherit;
         margin: 0;
         max-width: 100%;
-        padding: 0;
     }
 }
 
@@ -222,10 +225,12 @@ div.picked-up-post-box {
     margin: 3rem;
     padding: 1rem;
     position: relative;
+    border-radius: .5rem;
 } @media only screen and (max-width: 925px) {
-    .picked-up-post-box {
-        margin: 5rem 0;
+    div.picked-up-post-box {
+        margin: 7rem 0;
         padding: 0;
+        border-radius: 0;
     }
 }
 .picked-up-post-box:hover {
@@ -253,7 +258,8 @@ a.picked-up-post-box, a.picked-up-post-box:hover {
     transition: .5s ease;
 } @media only screen and (max-width: 925px) {
     .picked-up-def {
-        opacity: .95;
+        opacity: .85;
+        border-radius: .5rem;
     }
 }
 

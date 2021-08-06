@@ -38,7 +38,7 @@ I can say that, as long as some conditions are met, dark theme can be quite used
 
 1. Never use solid black `#000000` as the whole pages background. Soft shades of black and very dark grays are always better. I use `#1a1a1a` as a base, sometimes I lighten it a bit.
 2. Soft black and boring dark gray are too close to each other. In order to avoid that, some main color contribution may be used. For instance, if you are reading this article on
-my website instead of Medium, background is `#1a1a1e` (1e means 3 times more than 1a, which are red and green). I think with a so little help of blue, concrete gray tone can be broken. (31.10.2020 edit: it is `#191c1f` now)
+my website instead of Medium, background is `#1a1a1e` (1e means 3 times more than 1a, which are red and green). I think with a so little help of blue, concrete gray tone can be broken. (31.10.2020 edit: it is `#191c1f` now) (06.08.2021 edit: It is with a little bit greenish touch now :D)
 3. Extra blocks are good. [Documentation of Jekyll](https://jekyllrb.com/docs/) is a good example. They use extra containers just wrap the texts.  
 4. To start with an image at the top of the page, brings a stylish and mysterious sound. White can handle simple (text-only) pages, but it is risky when it is black.
 
