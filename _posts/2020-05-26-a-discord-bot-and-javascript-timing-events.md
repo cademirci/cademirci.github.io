@@ -5,6 +5,8 @@ excerpt: >-
     A countdown timer Discord bot written in Discord.js, Node.js, and some tricks about setTimeout() and setInterval() functions.
 tags: [JavaScript, Node.js, Discord.js, Electron.js]
 category: Software
+is-picked-up: true
+image: https://raw.githubusercontent.com/cademirci/cademirci.github.io/master/assets/images/pomodoro_ss.png
 ---
 
 My friend asked me if I can write a Pomodoro bot for Discord, thus he can study nearby an online Pomodoro timer which warns him periodically according to Pomodoro algorithm. Pomodoro is a studying technique which can be found [on the web](https://www.google.com/search?sxsrf=ALeKk01WQwuEZkGaewswu69rX9GgSTsx5Q%3A1590490363776&ei=-_TMXrS9Ls7ergSfjJLoCA&q=pomodoro+technique&oq=pomodoro+tech&gs_lcp=CgZwc3ktYWIQAxgAMgIIADICCAAyAggAMgIIADIFCAAQywEyAggAMgIIADIFCAAQywEyBQgAEMsBMgUIABDLAToECAAQRzoECCMQJzoECAAQQzoFCAAQgwE6BwgAEIMBEENQ2ihYuDRg9kBoAHABeACAAbsBiAHDBpIBAzAuNZgBAKABAaoBB2d3cy13aXo&sclient=psy-ab).

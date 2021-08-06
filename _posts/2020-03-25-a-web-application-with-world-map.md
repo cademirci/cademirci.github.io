@@ -6,6 +6,8 @@ excerpt: >-
     put a photo and a text related with there and the memory.
 tags: [web app, back-end, python, django, leaflet.js]
 category: Software
+is-picked-up: true
+image: https://raw.githubusercontent.com/cademirci/been-and-mark/master/screenshots/map.png
 ---
 
 I wrote a web application called *been-and-mark*, I explained it on Github:

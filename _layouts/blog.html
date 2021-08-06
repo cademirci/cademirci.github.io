@@ -7,7 +7,33 @@
     </div>
     {% include panel.html %}
     <div class="content_wrapper blog_wrapper">
+        <h1>Picked Up (3)</h1>
+        <div class="picked-up-posts">
+            {% for post in site.posts %}
+                {% if post.is-picked-up %}
+                    <a class="picked-up-post-box" href="{{ post.url }}">
+                        <div class="picked-up-post-box" style="--background: url('{{ post.image }}')">
+                            <div class="picked-up-def">
+                                <p class="picked-up-post-date">{{ post.date | date: "%d.%m.%Y" }}</p>
+                                <p class="picked-up-post-title">{{ post.title }}</p>
+                                {% if post.tags.size > 0 %}
+                                    <br class="phone_breakline">
+                                    <span class="post_tags">
+                                        {% if post.tags.size > 1 %}
+                                            {{ post.tags | sort | join: ", &ensp;" }}
+                                        {% else %}
+                                            {{ post.tags }}
+                                        {% endif %}
+                                    </span>
+                                {% endif %}
+                            </div>
+                        </div>
+                    </a>
+                {% endif %}
+            {% endfor %}
+        </div>
         <div class="content_container">
+            
             <h1>All Posts ({{ site.posts | size }})</h1>
             <input type="text" class="search-input" id="searchInPosts" placeholder="Search..."></input>
             <div class="found-area" id="foundArea"></div>

@@ -196,3 +196,77 @@ br.phone_breakline {
     color: lighten($grey-color, 15%);
     text-align: center;
 }
+
+// 6.8.21' picked up posts style
+
+.picked-up-posts {
+    display: flex;
+    justify-content: space-around;
+    padding: auto 3rem;
+} @media only screen and (max-width: 925px) {
+    .picked-up-posts {
+        display: block;
+        justify-content: inherit;
+        margin: 0;
+        max-width: 100%;
+        padding: 0;
+    }
+}
+
+div.picked-up-post-box {
+    background-image: var(--background);
+    background-position: center;
+    background-size: cover;
+    
+    min-height: 15rem;
+    margin: 3rem;
+    padding: 1rem;
+    position: relative;
+} @media only screen and (max-width: 925px) {
+    .picked-up-post-box {
+        margin: 5rem 0;
+        padding: 0;
+    }
+}
+.picked-up-post-box:hover {
+    > .picked-up-def {
+        opacity: 1;
+    }
+}
+
+a.picked-up-post-box, a.picked-up-post-box:hover {
+    width: 100%;
+    transition: none;
+    text-decoration: none;
+    background: none;
+}
+
+.picked-up-def {
+    padding: .5rem;
+    background: #000;
+    opacity: .6;
+    bottom: -2rem;
+    left: 1rem;
+    right: 1rem;
+    position: absolute;
+    text-align: center;
+    transition: .5s ease;
+} @media only screen and (max-width: 925px) {
+    .picked-up-def {
+        opacity: .95;
+    }
+}
+
+.picked-up-post-title,
+.picked-up-post-date {
+    margin: 0;
+    padding: .1rem;
+    font-weight: bold;
+}
+
+.picked-up-post-title {
+    background-color: #124;
+}
+.picked-up-post-date {
+    text-align: center;
+}

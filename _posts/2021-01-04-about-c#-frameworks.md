@@ -4,6 +4,8 @@ title: About C# Frameworks
 excerpt: >-
   C# web development tools like ASP, ASP.NET, ASP.NET MVC and why I do not like them.
 tags: [web programming, c#, .net, .net mvc, backend, asp]
+is-picked-up: true
+image: https://jmmjsta.blob.core.windows.net/cache/900_1157_mvc.jpg
 ---
 
 Actually, don't worry if you are a C# lover :) I don't claim anything like a 20-year experienced architect, and I don't say working with those are wrong. I just feel that C# is not my cup of tea.
