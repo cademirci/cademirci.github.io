@@ -23,13 +23,13 @@ public class Main extends Thread {
     fileName = args[0];
     String aRow = readFile(fileName).split("\n")[0].replaceAll("\\s{2,}", " ").trim();
     // replaceAll("\\s{2,}", " ").trim() is a sweet thing. It erases extra whitespaces
-    // and converts them into single ones. It is a big simplier for the job where
-    // inappropriate data like absurd text files were given. 
+    // and converts them into single ones. It is a big simplification for the jobs
+    // where inappropriate data like absurd text files were given. 
 
     int columnCount = aRow.length() - aRow.replaceAll(" ", "").length() + 1;
     // that means if there are 3 whitespaces in a row, there are 4 elements in a row 
     // like "12 9 42"
-    
+
     for (int i = 0; i < columnCount; i++) {
       Main thread = new Main();
       thread.start();
