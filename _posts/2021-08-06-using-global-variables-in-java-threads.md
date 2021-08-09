@@ -23,7 +23,7 @@ public class Main extends Thread {
 
   public static void main(String[] args) {
     fileName = args[0];
-    String aRow = readFile(fileName).split("\n")[0].replaceAll("\\s{2,}", " ").trim(); String aRow = readFile(fileName).split("\n")[0].replaceAll("\\s{2,}", " ").trim();
+    String aRow = readFile(fileName).split("\n")[0].replaceAll("\\s{2,}", " ").trim();
     // replaceAll("\\s{2,}", " ").trim() is a sweet thing. It erases extra whitespaces
     // and converts them into single ones. It is a big simplification for the jobs
     // where inappropriate data like absurd text files were given. 
