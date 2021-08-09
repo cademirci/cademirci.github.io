@@ -13,22 +13,26 @@
 
 pre.highlight {
     /* CODE BLOCK STYLE */
-    background: #1a1a1a;
+    background: #1a1f26; 
     margin: 75px -18px;
     padding: 25px 10px;
     font-size: 0.9em;
-    border: 1px solid #666;
     border-radius: 5px;
     tab-size: 2;
     -moz-tab-size: 2;
     -o-tab-size: 2;
-    tab-size: 2;
+    tab-size: 2; 
+    /*
 	white-space: pre-wrap;
     white-space: -moz-pre-wrap;
     white-space: -o-pre-wrap;
     word-wrap: break-word;
+    */
     letter-spacing: 0;
-} @media only screen and (max-width: 900px) {
+    overflow: auto;
+}
+
+@media only screen and (max-width: 900px) {
     .language-terminal pre.highlight {
         border-radius: 0;
     }
