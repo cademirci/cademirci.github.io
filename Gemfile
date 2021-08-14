@@ -4,7 +4,7 @@ source "https://rubygems.org"
 # bundle exec jekyll serve
 
 gem "jekyll", "~> 4.0.0"
-gem "kramdown", ">= 2.3.0"
+gem "kramdown", ">= 2.3.1"
 # to use GitHub Pages, remove the "gem "jekyll"" uncomment below
 # gem "github-pages", group: :jekyll_plugins
 # to upgrade, run `bundle update github-pages`.
@@ -21,3 +21,7 @@ install_if -> { RUBY_PLATFORM =~ %r!mingw|mswin|java! } do
 end
 
 gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
+
+
+gem "addressable", ">= 2.8.0"
+gem "rexml", ">= 3.2.5"
