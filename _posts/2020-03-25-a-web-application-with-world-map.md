@@ -4,7 +4,7 @@ title: A Web Application With World Map
 excerpt: >-
     About a web application I wrote that allows you to mark with a pin somewhere on an open world map,
     put a photo and a text related with there and the memory.
-tags: [web app, back-end, python, django, leaflet.js]
+tags: [web app, back-end, Python, Django, Leaflet.js]
 category: Software
 is-picked-up: true
 image: https://raw.githubusercontent.com/cademirci/been-and-mark/master/screenshots/map.png

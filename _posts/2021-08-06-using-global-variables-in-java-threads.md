@@ -3,7 +3,7 @@ layout: post
 title: Using Global Variables in Java Threads
 excerpt: >-
     I will take a look to this post if I need to a rare time like now that I need to write Java thread code. I hope it also be helpful for you. 
-tags: [java, threads, general programming, non blocking systems]
+tags: [Java, threads, general programming, non blocking systems]
 category: Software
 ---
 

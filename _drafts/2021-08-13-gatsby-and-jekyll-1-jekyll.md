@@ -3,7 +3,7 @@ layout: post
 title: Gatsby & Jekyll part ii. Comparing
 excerpt: >-
     Static website programming with a Ruby framework Jekyll -which this webpage is written in- and a JavaScript framework Gatsby.
-tags: [web programming, web design, jekyll, ruby, gatsby, JavaScript, react, ssg]
+tags: [web programming, web design, Jekyll, Ruby, Gatsby, JavaScript, React, SSG]
 category: Software
 ---
 

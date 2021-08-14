@@ -3,7 +3,7 @@ layout: post
 title: About C# Frameworks
 excerpt: >-
   C# web development tools like ASP, ASP.NET, ASP.NET MVC and why I do not like them.
-tags: [web programming, c#, .net, .net mvc, backend, asp]
+tags: [web programming, c#, .NET, .NET MVC, backend, ASP]
 is-picked-up: true
 image: https://jmmjsta.blob.core.windows.net/cache/900_1157_mvc.jpg
 ---

@@ -12,7 +12,6 @@ window.addEventListener('DOMContentLoaded', (e) => {
         var urls = `{% for post in site.posts %}{{ post.url }}\n{% endfor %}`.split('\n')
         var dates = `{% for post in site.posts %}{{ post.date | date: "%d.%m.%Y" }}\n{% endfor %}`.split('\n')
         var foundArea = document.querySelector('#foundArea')
-
         input.addEventListener('input', (event) => {
             var key = event.target.value.toLowerCase()
             let shortButOk = false 
@@ -54,4 +53,3 @@ window.addEventListener('DOMContentLoaded', (e) => {
         })
     }
 })
-

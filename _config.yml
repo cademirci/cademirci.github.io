@@ -12,7 +12,6 @@ permalink: /:title
 twitter_username: cademirci
 github_username: cademirci
 instagram_username: cademirci
-markdown: kramdown
 kramdown:
   math_engine: mathjax
 sass:
@@ -29,7 +28,7 @@ plugins:
   - jekyll-seo-tag # Google analytics
 
 collections:
-    - projects
+  - projects
 
 # May be I will activate this later.
 # But now I did it in .git/info/exclude
