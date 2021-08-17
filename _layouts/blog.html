@@ -43,8 +43,12 @@
                 <a href="{{ post.url }}">
                     <div class="post_rep">
                         <p class="post_title">
+                            {% if post.is-serie %}
+                                {{ post.serie-title }} 
+                                <span style="color: #1fb">- {{ post.episode-number }} -</span>
+                            {% endif %}
                             {{ post.title | 
-                                replace: "(TUR)", "<span style='color:#dd3333'>(TUR)</span>" 
+                                replace: "(TUR)", "<span style='color: #dd3333'>(TUR)</span>" 
                             }}
                             <span class="read">&emsp;&rarr;&ensp;read</span>
                         </p>

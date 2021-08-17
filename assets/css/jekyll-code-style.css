@@ -60,11 +60,11 @@ code {
     font-family: 'Roboto Mono', monospace;
 
     /* INLINE CODE STYLE */
-    background: #0b0e0b;
-    color: #dd828c;
-    font-size: .9em;
+    background: #101010;
+    color: #ce6666; 
+    font-size: .8em;
     padding: 0 3px;
-    border: 1px solid #666;
+    border: 1px solid #424242; 
     border-radius: 3px;
 }
 
@@ -87,6 +87,21 @@ span.ln { /* line numbers */
     user-select: none;
     color: #666;
 }
+
+.codefile-head {
+    margin: 75px -18px -80px -18px;
+    display: block;
+    background-color: #262d38;
+    /* if you wanna some shiny staff, you can activate a good gradient like this. */
+    /* background-image: linear-gradient(10deg, #0a0a0a 15%, #1d222a); */
+    text-align: center;
+    font-size: .9em;
+    border-radius: 12px 12px 0 0;
+    padding: .75rem;
+    color: #999;
+
+}
+
 
 /* syntax highlighting */
 

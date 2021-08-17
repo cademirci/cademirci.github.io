@@ -15,16 +15,20 @@ image: ../assets/images/icon_blog.png
 {% for post in site.posts %}
 {% if forloop.index < 4 %}
 <ul>
-    <li> <a href="{{ post.url }}">{{ post.title }}</a> <br class="phone_breakline">{{ post.date | date: "%d.%m.%Y" }}
-        {% if post.tags.size > 0 %}
-            <span class="post_tags" style="color: #53ac80">
-                {% if post.tags.size > 1 %}
-                    [{{ post.tags | sort | join: ", " }}]
-                {% else %}
-                    [{{ post.tags }}]
-                {% endif %}
-            </span>
-        {% endif %}
+    <li> 
+        <a href="{{ post.url }}">
+            <span style="color: #669">{% if post.is-serie %}serie {{ post.serie-title }} - {{ post.episode-number }} -{% endif %}</span>
+            {{ post.title }} <br class="phone_breakline" /><span style="color: #efe">{{ post.date | date: "%d.%m.%Y" }}</span>
+            {% if post.tags.size > 0 %}
+                <span class="post_tags" style="color: #53ac80">
+                    {% if post.tags.size > 1 %}
+                        [{{ post.tags | sort | join: ", " }}]
+                    {% else %}
+                        [{{ post.tags }}]
+                    {% endif %}
+                </span>
+            {% endif %}
+        </a>
     </li>
 </ul>
 {% endif %}

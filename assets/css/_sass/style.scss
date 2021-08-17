@@ -1,13 +1,20 @@
-// ================================ HEADER WITHOUT PANEL
-// ================= HEADER IMAGES
-.home_header    { background-image: url('/assets/images/homeheader.jpg'); 
-                  background-position: center;}
-.default_header { background-image: url('/assets/images/637158.jpg'); 
-                  }
-.blog_header    { background-image: url('/assets/images/blogmain_bg.jpg'); 
-                  background-position: right;}
-.gallery_header { background-image: url('/assets/images/gallerywp.jpg'); 
-                  background-position: right;}
+
+.home_header    { 
+    background-image: url('/assets/images/homeheader.jpg'); 
+    background-position: center;
+}
+.default_header { 
+    background-image: url('/assets/images/637158.jpg'); 
+    background-position: center;
+}
+.blog_header    { 
+    background-image: url('/assets/images/blogmain_bg.jpg'); 
+    background-position: center;
+}
+.gallery_header { 
+    background-image: url('/assets/images/gallerywp.jpg'); 
+    background-position: right;
+}
 
 .home_header,
 .blog_header,
@@ -24,7 +31,7 @@
     height: 85vh;
 }
 .default_header {
-    height: 50vh;
+    height: 35vh;
 }
 
 @media only screen and (max-width: 925px) {
@@ -38,7 +45,6 @@
     }
 }
 
-// ================= END
 .name_sentence {
     color: lighten($grey-color, 25%);
     font-size: 42px;
@@ -65,7 +71,6 @@
     display: none;
 }
 
-// ================================ END
 .content_wrapper {
     width: 100%;
     padding: 150px 0;
@@ -81,7 +86,6 @@
     padding: calc(2 * #{$padding-gap});
 }
 
-// ================================ PANEL
 .panel_container {
     background: $panel-color;
     -webkit-box-shadow: 0px 2px 2px 1px rgba(42, 42, 42, 0.75);
@@ -168,7 +172,6 @@
     position: relative;
 }
 
-// ============ PANEL phone screen
 .menu_box {
     display: none;
     height: 24px;
@@ -261,8 +264,6 @@
     }
 }
 
-// ============ END
-// ============ FOOTER
 .footer_container {
     background: #0a0a0a;
     padding: 0 10px;
@@ -311,6 +312,3 @@
         align-items: center;
     }
 }
-
-// ============ END
-// ================================ END
