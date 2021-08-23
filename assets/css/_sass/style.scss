@@ -1,13 +1,14 @@
 
-.home_header    { 
+.home_header { 
     background-image: url('/assets/images/homeheader.jpg'); 
     background-position: center;
 }
 .default_header { 
-    background-image: url('/assets/images/637158.jpg'); 
-    background-position: center;
+    background-image: url('/assets/images/defaultpostheader3ddd-1.png'); 
+    background-position: right;
+    background-size: cover;
 }
-.blog_header    { 
+.blog_header { 
     background-image: url('/assets/images/blogmain_bg.jpg'); 
     background-position: center;
 }
@@ -31,7 +32,7 @@
     height: 85vh;
 }
 .default_header {
-    height: 35vh;
+    height: 45vh;
 }
 
 @media only screen and (max-width: 925px) {

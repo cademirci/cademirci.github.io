@@ -35,8 +35,6 @@ A.html in <b>_includes</b>
 <p id="variableText"></p>
 ```
 
-&darr;
-
 <div class="codefile-head">
 B.css
 </div>
@@ -92,6 +90,6 @@ The alternative approach of that, is writing CSS and JS for individually for eve
 </style>
 ```
 
-I can hear you saying "yeah, it is similar to Vue now. That's the correct way". No. Because the one above isn't a component.
+A reader can think "yeah, it is similar to a regular page piece of a front-end framework now. That's the correct way". No. Because the one above isn't a component.
 
 Here is Gatsby. In the paragraph above, I mean that these pieces aren't `component`s. In a component, programmer can decide the exact behavior of the piece, JS and JS variables are clear in *the* component, CSS and elements it declare are clear in the component (`module` css), , you can easily see the purpose of the piece (component)

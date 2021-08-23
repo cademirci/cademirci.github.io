@@ -1,0 +1,226 @@
+<head>
+    <title>
+        
+            Some Things About Images
+        
+    </title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Çağlayan Demirci" />
+    <!-- Begin Jekyll SEO tag v2.7.1 -->
+<title>Some Things About Images | Çağlayan Demirci</title>
+<meta name="generator" content="Jekyll v4.0.1" />
+<meta property="og:title" content="Some Things About Images" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Some tricks about working on web images, both JavaScript and css sides." />
+<meta property="og:description" content="Some tricks about working on web images, both JavaScript and css sides." />
+<link rel="canonical" href="http://localhost:4000/some-things-about-images" />
+<meta property="og:url" content="http://localhost:4000/some-things-about-images" />
+<meta property="og:site_name" content="Çağlayan Demirci" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2020-03-29T00:00:00+03:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Some Things About Images" />
+<script type="application/ld+json">
+{"description":"Some tricks about working on web images, both JavaScript and css sides.","headline":"Some Things About Images","dateModified":"2020-03-29T00:00:00+03:00","datePublished":"2020-03-29T00:00:00+03:00","@type":"BlogPosting","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/some-things-about-images"},"url":"http://localhost:4000/some-things-about-images","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href='/assets/css/main.css'>
+    <link rel="stylesheet" href='/assets/css/jekyll-code-style.css'>
+    <link rel="icon" href='assets/images/icon_round.png'>
+    <link rel="apple-touch-icon" href='assets/images/icon1a.png' />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Mono&display=swap">
+    <script type="text/javascript" src='assets/js/main.js'></script>
+    <script type="text/javascript" src='assets/js/panel.js'></script>
+    <script type="text/javascript" src='assets/js/put-code-elements.js'></script>
+    <script type="text/javascript" src='assets/js/image-regulator.js'></script>
+    <!-- MathJax library -->
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+    <!-- Chart.js library 
+    <script type="text/javascript" src='https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.3/Chart.js'></script>
+    <script type="text/javascript" src='https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.3/Chart.bundle.js'></script>
+    <link rel="stylesheet" href='https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.3/Chart.css'>
+    -->
+</head>
+
+<body>
+    <div class="default_header"></div>
+    <div class="panel_container">
+    <div class="panel">
+        <div class="cell" id="c1">
+            <p id="nameOnPanel">Çağlayan Demirci <span id="page_def">. Personal Page</span></p>
+            <p id="nameOnPhonePanel">cademirci</p>
+            <div id="c1_pad">*</div>
+        </div>
+        <div class="cell" id="c2">
+        </div>
+        <span class="tooltip_returnTop">return top</span>
+        <div class="cell" id="c3">
+            
+                <a class="navlink" href="blog">&larr; Blog</a>
+            
+        </div>
+    </div>
+    <div class="navbox">
+        
+            
+                <a class="navlink" data-scroll-top='#about-me'>
+                   <div class="navlink_div">
+                      About <img src="../assets/images/42reok.png" class="nav_image">
+                   </div>
+                </a>
+            
+        
+            
+                <a class="navlink" data-scroll-top='#contact-me'>
+                   <div class="navlink_div">
+                      Contact <img src="../assets/images/icon_contact12.png" class="nav_image">
+                   </div>
+                </a>
+            
+        
+            
+        
+            
+                <a class="navlink" data-scroll-top='#blog'>
+                   <div class="navlink_div">
+                      Blog <img src="../assets/images/icon_blog.png" class="nav_image">
+                   </div>
+                </a>
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+    </div>
+</div>
+<div class="panel_pad"></div>
+
+    <div class="reading_area">
+        <div class="content_container">
+            
+            <h1>Some Things About Images</h1>
+            <p class="excerpt-in-post">Some tricks about working on web images, both JavaScript and css sides.</p>
+            <div class="post_date">29.03.2020</div>
+            <div class="post_tags">image manipulating, web programming</div>
+            <hr>
+            <p>Sometimes a web user may wants images in a page to be wider than the container division. But the problem is, simple solutions like <code class="highlighter-rouge">img { width: }</code> with whatever number or ratio in CSS does not work, the reason is that the images and the text are in the same container. Even if you arrange some settings like <code class="highlighter-rouge">with: 120%</code> or <code class="highlighter-rouge">max-with: 120%</code>, these are not the solutions because in such a situation, image would overflow through right, because probably its margin-left is not negative. Even if it is, you cannot be sure how much the negative number should be. CSS has a <code class="highlighter-rouge">calc()</code> function but what you should calculate is unclear. For such an issue, we understand that some code has to be written.</p>
+
+<p>First of all I want to say that, if CSS provides a solution for something about style, never write a JavaScript code. CSS is always stronger, cleaner and faster on that. It stands for “<em>Cascade Style</em> Sheet” in the first place and it is probably one of the most well-designed languages in the world. I love JavaScript but I can surely say that, JavaScript’s <code class="highlighter-rouge">style</code> functions should be used if and only if there is not a CSS solution, or we do not know how to do it with CSS. Actually the second is more possibly.</p>
+
+<h3 id="a-race-condition">A Race Condition</h3>
+
+<p>Here we come to collect the images in the page and analyze them, calculate their widths and manage them. The code given below has a surprise:</p>
+
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">const</span> <span class="nx">images</span> <span class="o">=</span> <span class="nb">document</span><span class="p">.</span><span class="nx">querySelectorAll</span><span class="p">(</span><span class="dl">'</span><span class="s1">img</span><span class="dl">'</span><span class="p">);</span>
+<span class="k">for</span> <span class="p">(</span><span class="kd">let</span> <span class="nx">i</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span> <span class="nx">i</span> <span class="o">&lt;</span> <span class="nx">images</span><span class="p">.</span><span class="nx">length</span><span class="p">;</span> <span class="nx">i</span><span class="o">++</span><span class="p">)</span> <span class="p">{</span>
+    <span class="kd">let</span> <span class="nx">image</span> <span class="o">=</span> <span class="nx">images</span><span class="p">[</span><span class="nx">i</span><span class="p">];</span>
+    <span class="nx">alert</span><span class="p">(</span><span class="nx">image</span><span class="p">.</span><span class="nx">width</span><span class="p">);</span>
+<span class="p">}</span>
+</code></pre></div></div>
+
+<p>The surprise is some of the widths may alerted as 0. Here is the reason: when this code runs, js realize that there are some images on the page, HTML says so; however the browser is not ready enough to load the images and show them with their proper widths and heights. Thus JavaScript’s <code class="highlighter-rouge">document</code> object cannot measure the width at the moment, then assigns the default value which is 0 to them. Discovering this <code class="highlighter-rouge">race condition</code> was fun.</p>
+
+<p>To avoid that, better to wait all of the images be loaded. The function below works for it.</p>
+
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">window</span><span class="p">.</span><span class="nx">addEventListener</span><span class="p">(</span><span class="dl">'</span><span class="s1">load</span><span class="dl">'</span><span class="p">,</span> <span class="p">()</span> <span class="o">=&gt;</span> <span class="p">{</span>
+    <span class="kd">const</span> <span class="nx">images</span> <span class="o">=</span> <span class="nb">document</span><span class="p">.</span><span class="nx">querySelectorAll</span><span class="p">(</span><span class="dl">'</span><span class="s1">img</span><span class="dl">'</span><span class="p">);</span>
+    <span class="p">...</span>
+<span class="p">})</span>
+</code></pre></div></div>
+
+<p>For general purpose I use and suggest <code class="highlighter-rouge">DOMContentLoaded</code> instead of <code class="highlighter-rouge">load</code>, because without first, some items can flash out in first seconds of the loading of the page. First one prevents that. But if this function only be written for images, the page remains clear.</p>
+
+<h3 id="using-negative-margins">Using Negative Margins</h3>
+
+<p>We were looking for that image widths be wide. To solve this, if there is an image which has bigger width from the container’s one, we can set the image’s left and right margins equally and negatively, and set its maximum width to sum of the margins and container width.</p>
+
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">var</span> <span class="nx">container</span> <span class="o">=</span> <span class="nb">document</span><span class="p">.</span><span class="nx">querySelector</span><span class="p">(</span><span class="dl">'</span><span class="s1">.container</span><span class="dl">'</span><span class="p">);</span>
+<span class="kd">var</span> <span class="nx">containerWidth</span> <span class="o">=</span> <span class="nx">container</span><span class="p">.</span><span class="nx">clientWidth</span><span class="p">;</span>
+<span class="kd">var</span> <span class="nx">extra</span> <span class="o">=</span> <span class="mi">25</span><span class="p">;</span>
+<span class="nx">image</span><span class="p">.</span><span class="nx">maxWidth</span> <span class="o">=</span> <span class="mi">2</span> <span class="o">*</span> <span class="nx">extra</span> <span class="o">+</span> <span class="nx">containerWidth</span><span class="p">;</span>
+<span class="nx">image</span><span class="p">.</span><span class="nx">style</span><span class="p">.</span><span class="nx">marginLeft</span> <span class="o">=</span> <span class="o">-</span><span class="nx">extra</span> <span class="o">+</span> <span class="dl">'</span><span class="s1">px</span><span class="dl">'</span><span class="p">;</span>
+<span class="nx">image</span><span class="p">.</span><span class="nx">style</span><span class="p">.</span><span class="nx">marginRight</span> <span class="o">=</span> <span class="o">-</span><span class="nx">extra</span> <span class="o">+</span> <span class="dl">'</span><span class="s1">px</span><span class="dl">'</span><span class="p">;</span>
+</code></pre></div></div>
+
+<p>Thanks to this code the image will be 50px extra wider. In this point may be it is good to remember some of tricks while manipulating images. For both js and css:</p>
+
+<ul>
+  <li>To get centered images, <code class="highlighter-rouge">display: block</code> must be written for images alongside their left and right margins <code class="highlighter-rouge">auto</code>.</li>
+  <li>If divide operation being used for calculate image dimensions, always <code class="highlighter-rouge">Math.floor(value)</code> must be there. For instance where a width is 51 pixels and you want to compress it by half, you call an operation like (width / 2) however there is not such a width like 25.5 and code would not run. <code class="highlighter-rouge">Math.floor(25.5)</code> will return 25. Remember height and width values are integers, not floats.</li>
+  <li>To get an image’s real dimensions, <code class="highlighter-rouge">image.naturalWidth</code> can be used. <code class="highlighter-rouge">width</code> will return its current width inside the container.</li>
+  <li>Adding an extra event listener <code class="highlighter-rouge">resize</code> is good. Otherwise while user is resizing the window, images will stay steady until they refresh the page. This is ugly.</li>
+  <li>While doing an assignment, pay attention to this: where <code class="highlighter-rouge">image.style.width = value</code> the value must be string like <code class="highlighter-rouge">'100px'</code>. <code class="highlighter-rouge">image.width = value</code> takes an integer like <code class="highlighter-rouge">100</code>.</li>
+  <li>Difference between <code class="highlighter-rouge">clientWidth</code> and <code class="highlighter-rouge">offsetWidth</code> are important if your images have a border or something. Here they are:</li>
+</ul>
+
+<p><img src="https://tr.JavaScript.info/article/size-and-scroll/metric-all.svg" alt="" /></p>
+
+<ul>
+  <li>To protect the image shapes, if one of the dimensions’ settings is changed by the user, the other must not be set. Otherwise the image’s width/height ratio will be broken and it will seem creepy. For example while writing like <code class="highlighter-rouge">width = width + 100</code> (this is a representation of course, it would’nt run), <code class="highlighter-rouge">height</code> in the CSS must not be set. So that the CSS can automatically adjust the height.</li>
+  <li>I have written <em>width</em> for the examples all the time but they all can be replaced with <em>height</em> of course.</li>
+</ul>
+
+<p>Good codings!</p>
+
+        </div>
+    </div>
+    <div class="share_phrase">
+        <p>Share this post?</p>
+    </div>
+    <div class="a2a_kit a2a_kit_size_32" data-a2a-icon-color="#1a1a1a">
+        <!--<a class="a2a_dd" href="https://www.addtoany.com/share"></a>-->
+        <div class="share_button" id="sb_whatsapp"><a class="a2a_button_whatsapp"></a></div>
+        <div class="share_button" id="sb_gmail"><a class="a2a_button_google_gmail"></a></div>
+        <div class="share_button" id="sb_twitter"><a class="a2a_button_twitter"></a></div>
+        <div class="share_button" id="sb_facebook"><a class="a2a_button_facebook"></a></div>
+        <div class="share_button" id="sb_linkedin"><a class="a2a_button_linkedin"></a></div>
+        <div class="share_button" id="sb_reddit"><a class="a2a_button_reddit"></a></div>
+    </div>
+    <script async src="https://static.addtoany.com/menu/page.js"></script>
+    <div class="footer_container">
+    <div class="footer_content">
+        <div class="">
+        </div>
+        <div class="">
+            <div class="social_media_bar">
+                <a href="https://github.com/cademirci" target="_blank"><img src="/assets/images/icon_git.png" class="social_media_icon"></a>
+                <a href="https://www.linkedin.com/in/%C3%A7a%C4%9Flayan-demirci-741a14199/" target="_blank"><img src="/assets/images/icon_lin.png" class="social_media_icon"></a>
+                <a href="https://twitter.com/cademirci" target="_blank"><img src="/assets/images/icon_twi.png" class="social_media_icon"></a>
+                <a href="https://www.instagram.com/cademirci/" target="_blank"><img src="/assets/images/icon_ins.png" class="social_media_icon"></a>
+                <a href="https://open.spotify.com/user/%C3%A7a%C4%9Flayan?si=TpgH3E7fS3e--nEN-WExcg" target="_blank"><img src="/assets/images/icon_spo.png" class="social_media_icon"></a>
+            </div>
+            <div class="footer_text">
+                <p>
+                    Designed and coded my own <a href="https://github.com/cademirci/cademirci.github.io">open source</a> website under <br>
+                    2018 - 2021 GitHub. Feel free to inspect.
+                </p>
+                <!--<p><a href="/changelog">&rarr; log</a></p>-->
+                <div class="signature">
+                    <p><img src='assets/images/icon_.png' alt=""></p>
+                    <p class="signature">Çağlayan Demirci</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+</body>
