@@ -24,4 +24,5 @@ I don't want to migrate my webpage from Jekyll to Gatsby, I know there are ways 
 
 There are several pages as blog posts, documentations etc that you can find on the web about comparing static website generators. Especially because of Gatsby and Jekyll are the most popular ones of them, there will be many like my one. Therefore, I decided to try to write something very specific about Gatsby and Jekyll. This articles will be kind of personal views about them and I hope it will be helpful for you.
 
-~ Part 2 will be come ~
+~ Part 2 (comparison of the two SSG's) will come soon ~
+~ (edit August 29) Actually, appearently it is not soon, I have written something but it does not satisfy me for now, may be I will write later. ~
