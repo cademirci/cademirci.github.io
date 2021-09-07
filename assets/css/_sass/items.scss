@@ -87,7 +87,8 @@
   height: 175px;
 }
 .about_image {
-  height: 300px;
+  max-height: 20rem;
+  border-radius: 50%;
 }
 .software_image {
   height: 150px;
