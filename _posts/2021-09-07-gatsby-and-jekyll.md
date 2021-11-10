@@ -5,7 +5,7 @@ category: Software
 is-serie: false
 excerpt: >-
     Static website programming with a Ruby framework Jekyll -which this webpage is written in- and a JavaScript framework Gatsby.
-title: About Gatsby and Jekyll Frameworks
+title: About Frameworks Gatsby and Jekyll 
 ---
 
 
@@ -65,6 +65,8 @@ window.addEventListener('DOMContentLoaded', () => {
   document.getElementById('someText').innerText = 'someCountedVariable'
 }
 ```
+
+It looks a bit primitive.
 
 ### Component Technology
 
