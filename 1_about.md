@@ -7,6 +7,8 @@ navlink_name: About
 image: ../assets/images/42reok.png
 ---
 
+# ! My new personal page is <a href="https://caglayan.vercel.app/">->here<a/>
+
 # {{ page.title }}
 
 <div class="flexbox">
